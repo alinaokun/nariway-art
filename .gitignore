@@ -1,0 +1,10 @@
+# Obsidian — ignore per-machine workspace state, keep shared config/bases
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS cruft
+Thumbs.db
+.DS_Store
+desktop.ini

@@ -1,0 +1,27 @@
+# Nariway — Cases base (Obsidian Bases starter).
+# Renders every note with `type: case` as a table and a card board.
+# If Obsidian flags a syntax error on a new version, delete this file and
+# recreate the view via the GUI (instructions are in the chat / README) —
+# the case notes' frontmatter is what matters; this is just a view over it.
+filters:
+  and:
+    - 'type == "case"'
+views:
+  - type: table
+    name: Pipeline
+    order:
+      - file.name
+      - status
+      - priority
+      - pathway
+      - outcome
+      - founder_status
+      - verification
+      - geography
+  - type: cards
+    name: Board
+    order:
+      - status
+      - outcome
+      - pathway
+      - priority
