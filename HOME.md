@@ -1,44 +1,44 @@
-# NARIWAY — Home
+# HOME — your daily debrief with Alfred
 
-*Command center. Maintained by Claude Code; read here first. Three questions in ~15 seconds: **what changed, what needs me, what's next.***
+*[[chief-of-staff|Alfred]] (Chief of Staff) → Alina. This page is always the **current** picture; each day's version is archived in `debriefs/`. Read top-to-bottom in ~90 seconds: what needs you, what I'd focus on, where we are.*
 
-## ⚠️ Needs your attention
-
-- **McNay packet is ready for your review** → [[mcnay-packet]]. Case #1 is complete. Read it, then decide how to proceed (write the piece / retrieve primary docs / start case #2).
-- **McNay source conflicts — need a decision or a primary-source pull:** death date (12 vs 13 Apr 1950) · house completion (1927 vs 1929) · founding collection size (~200 vs 700 works) · legal ownership (City of San Antonio vs private trustee corporation). See packet → *Gaps & contradictions*.
-- **The will is unread** — the one document that resolves McNay's governance / founder-constraint / endowment questions (H8). Retrieval = Bexar County probate file (1950) + the Burkhalter biography + the McNay archives.
-
-## 📌 Decide next
-
-- **Case #2:** [[di-rosa]] (financial distress) or [[terra]] (institutional collapse).
-- **Protocol fix (currently frozen):** McNay exposed a gap — desk research reaches ~80%; the load-bearing 20% needs a *primary-document acquisition* step. Fold it in, or run more cases first? Your call.
-
-## 🔬 Research pipeline
-
-- Universe mapped: **~55 collections** ([[candidate-universe]]) · Designed sample: **10** · In research: **0** · Packets complete: **1** (McNay — in review)
-- Open the **`Cases`** base for the board/table view.
-
-## 🧪 Hypotheses in play
-
-- **H3** — standalone museums suit a minority → *initial evidence for*
-- **H4 / H5** — distinctiveness & gap-filling over market value → *insufficient evidence*
-- **H7A** — no one owns the pre-decision → *untested; McNay is a **counter-case** (she owned it herself, thoroughly)*
-- **H7B** — willingness to pay → *untested (needs market contact)*
-- **H8** — legacy vs. control → *untested; McNay sharpened it: **financial/governance** constraints carried survival, **curatorial** ones were allowed to loosen*
-- Full set + evidence discipline: [[research-program]]
-
-## 🛰 Nariway Signals
-
-- Not running yet. Next step: one **manual** weekly cycle to define the signal filter *before* any daily automation.
-
-## 🗂 Collection Intelligence
-
-- Not started yet. One-page guardrail is defined in [[research-program]]; public-source mapping can begin in parallel whenever you want.
-
-## 🕰 Changelog
-
-- **2026-08-11** — Vault + git initialized. McNay case packet completed ([[mcnay-packet]]). Candidate universe built (~55). Research program hardened (evidence-status discipline; H7A/H7B split; H8 added; branching pathway model). Transfer scope note ($992B interrogated).
+**Today: 2026-08-11** · full record → [[2026-08-11|today's debrief]] · the org → [[executive-model]]
 
 ---
 
-*Reference docs:* [[research-program]] · [[case-study-protocol]] · [[candidate-universe]] · [[landscape-sweep]] · [[transfer-scope-note]]
+## ⚠️ Needs you
+- **McNay packet is on your desk** → [[mcnay-packet]]. Read it, then decide how to proceed.
+- **McNay source conflicts** (need a decision or a primary-source pull): death date · house completion 1927/1929 · collection size ~200/700 · City-vs-trustee ownership.
+- **The will is unread** — the one document that resolves McNay's governance/H8 questions (Bexar County probate + the Burkhalter biography + McNay archives).
+
+## 📌 Decisions on the table
+- **Two no-article moves** (publication is *not* the gate): start ~2 [[problem-discovery]] conversations; begin a few Substack Notes ([[experiment-ledger]]).
+- **Case #2:** [[di-rosa]] (distress) or [[terra]] (collapse).
+- **Protocol fix (frozen):** add a *primary-document acquisition* step? Your call.
+- **Voice register** for Artobiography (warm vs. Nariway-signature) — at first full draft.
+
+## 🎯 What I'd focus on (none needs an article)
+1. **Build the research base** — more cases (di Rosa / Terra), so Artobiography relaunches with a point of view.
+2. **Problem-discovery conversations** — start ~2 now, standalone, no pitch ([[problem-discovery]]).
+3. **Substack Notes** — research breadcrumbs, in parallel.
+4. **Opportunity radar** — running; ~3/week ([[opportunity-radar]]).
+5. **Collection Intelligence** — begin public-source mapping under the guardrail.
+6. **Nariway Signals** — one manual weekly cycle to define the filter.
+
+## 🔭 Where we are
+- **Cases:** universe ~55 ([[candidate-universe]]) · designed sample 10 · in research 0 · packets complete 1 (McNay). Board → open `Cases.base`.
+- **Hypotheses:** H3 *initial evidence for* · H4/H5 *insufficient* · **H7A** *untested (demand-side test = the discovery conversations)* · **H7B** *untested, founder-level* · **H8** *untested, sharpened by McNay*.
+- **Functions:** [[nariway-cfo|CFO]] (economic) · Research (evidence discipline) · [[nariway-cmo|CMO]] (audience) · Alfred (interface). COO deferred.
+
+## 🗺 The vault (so you can find anything)
+- **company/** — [[chief-of-staff|Alfred]] + how the org works ([[executive-model]])
+- **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note)
+- **cases/** — case notes + packets (board: `Cases.base`)
+- **artobiography/** — editorial: locked [[format-v0.1|format]] + the structure study
+- **finance/** — [[nariway-cfo|CFO]], ledgers, [[problem-discovery]]
+- **marketing/** — [[nariway-cmo|CMO]], [[experiment-ledger|experiments]], [[opportunity-radar|radar]]
+- **debriefs/** — this page's dated archive
+- **archive/** — the original brainstorm
+
+## 🕰 Recent
+- **2026-08-11** — Vault reorganized; **Alfred** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)
