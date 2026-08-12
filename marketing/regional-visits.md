@@ -10,7 +10,7 @@ Weighted to what Alina actually enjoys: immersive, self-guided, compelling as ar
 4. **[Grounds For Sculpture](https://www.groundsforsculpture.org)** — Hamilton, NJ, ~1.25 hrs. Seward Johnson's artist-founded park, immersive and self-guided.
 5. **[Barnes Foundation](https://www.barnesfoundation.org)** — Philadelphia, ~2 hrs. The essential governance case (donor intent, indenture, relocation). Already visited.
 
-*Calibration (Alina's taste, refined). Two filters. (1) **Low friction**, she prefers self-guided, drop-in visits over mandatory guided tours or reservation-only houses. (2) **Experience over worthiness**, a quiet collector house or a conventional campus or municipal museum does not draw her even when the model is instructive. Demoted on this basis: Neuberger and Caramoor (dull to visit), the Glass House (tour-only, too complicated). The instructive tour-only and house-museum cases lower down still matter for the model, go for a specific reason, not the day out.*
+*Calibration (Alina's taste, refined). Two reliable filters. (1) **Low friction**, she prefers self-guided, drop-in visits over mandatory guided tours or reservation-only houses. (2) **It has to genuinely interest her**, not just exemplify the model. The Neuberger and Caramoor left her cold, but she is separately drawn to many small museums, including university ones (see her CT shortlist below), so do NOT blanket-exclude a category, surface options and let her pick, and never recommend on model-relevance alone. Friction demotions so far: the Glass House (tour-only, "too complicated").*
 
 ## Suggested routes (reordered to your taste, self-guided first)
 Best-for-you first, each one outing with little travel.
@@ -23,6 +23,13 @@ Best-for-you first, each one outing with little travel.
 7. **The tour-only cases, for the model, not the day out.** The Glass House, Kykuit, Hill-Stead, Caramoor, Boscobel, worth it only when a specific case or show pulls you, since each needs a booked guided visit.
 
 Start with 1. It is the closest thing to a perfect fit for you on this list.
+
+## Alina's Connecticut shortlist (from the CT Art Trail), clustered
+Her own picks off the trail, grouped for efficient day-trips. Almost all are small **walk-in** museums, which suits her; the two with tour friction are flagged. Drive times from Montvale are approximate, confirm before going.
+
+- **Fairfield County day (closest, ~1 to 1.5 hrs), all essentially walk-in.** Greenwich Historical Society / **Bush-Holley** (Cos Cob; grounds and galleries walk-in, the house is a tour), **The Aldrich** (Ridgefield), **MoCA CT** (Westport), **Center for Contemporary Printmaking** (Norwalk), **Fairfield University Art Museum** (Fairfield). Easily a full day, or split into two short ones.
+- **New Haven day (~1.5 to 1.75 hrs), free and walk-in.** **Yale Center for British Art** and **Yale University Art Gallery**, both world-class and a short walk apart. Add **Florence Griswold** (Old Lyme, ~40 min further east on the shoreline) if you want a third.
+- **Hartford and central day (~2 to 2.25 hrs), walk-in except Hill-Stead.** **New Britain Museum of American Art**, **Art Museum at the University of Saint Joseph** (West Hartford), **Hartford Art School Galleries** (University of Hartford, West Hartford), **Mattatuck** (Waterbury, ~30 min southwest). **Hill-Stead** (Farmington) is nearby but house-tour-only. **William Benton Museum** (UConn, Storrs) is ~40 min east of Hartford, an add-on or a separate stop.
 
 ## Connecticut (closest and richest)
 - **[The Glass House](https://theglasshouse.org)** — New Canaan, ~1 hr. Philip Johnson's house, landscape, and collection preserved intact. Reservation only, Apr to Dec.
