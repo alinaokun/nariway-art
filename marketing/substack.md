@@ -3,18 +3,19 @@
 *A CMO work-function (no persona). Artobiography is published on **Substack**. Two jobs:*
 
 ## 0. Profile (the front door)
-The bio shows next to Alina's name on every Note, so it is the single most-seen piece of copy she has. **Decision (2026-08): drop "Author of The Brief Experiment"** (a previous life); focus on the current Nariway and Artobiography. Principles from studying strong Substack bios: it is not a résumé, it must make the right reader think *this is for me*, it should lead with the subject not the credential, and it should stay under ~25 words so it is not cut off (put the best part first, since the truncated view is what most people see). Governed by [[positioning]] and [[voice]].
+The line under Alina's name shows next to every Note, so it is her most-seen copy. It is the personal profile bio (Settings, Profile), distinct from the publication's short description, but both **truncate** in feeds and cards, so the rule is the same: **keep it to about one short line (4 to 12 words, under ~90 characters), front-load the subject, and lead with the beat, not the credential.** A full-sentence bio is the actual mistake, not because it reads badly on the profile page but because truncation turns it into a broken fragment (a real cautionary case cuts off mid-word at "presen…"). That is why the earlier long drafts read wrong. **Decision (2026-08): drop "Author of The Brief Experiment."** Peers doing it well include Hall Rockefeller's Less Than Half ("A newsletter about women, art, the market, and how we can change the status quo"). Governed by [[positioning]] and [[voice]].
 
-**Five options** (subject-forward first, since that pulls the right audience on Notes):
-1. *I write Artobiography, the stories behind remarkable art collections and the people who bring them into public view. Founder of Nariway.*
-2. *I write about art collections as biographies, how a private passion becomes something the public inherits. Artobiography, from the founder of Nariway.*
-3. *Every serious art collection reaches a question its owner rarely plans for, what becomes of it. That is what I write about in Artobiography. Founder of Nariway.*
-4. *Founder of Nariway, writing about the future of significant private art collections, who keeps them, who inherits them, and who brings them into public view.*
-5. *In Artobiography I write about extraordinary private collections and what becomes of them when their collectors are gone. Founder of Nariway.*
+**Six options** (a different register each, all short enough to survive truncation):
+1. **Significant private art collections and what becomes of them.** — bare-beat, the exact subject, impossible to truncate badly.
+2. **Writing about great private art collections and their legacy.** — the most common Substack convention, verb-first and scannable.
+3. **Artobiography | the future and legacy of great private art collections** — LinkedIn-headline register with a pipe, name plus beat in one scan.
+4. **Founder of Nariway. Writing Artobiography on collections and their afterlives.** — credential plus beat, as two short clauses not a paragraph.
+5. **Great collections outlive their collectors. I write about what happens next.** — voice and hook, a little intrigue.
+6. **For collectors thinking about the future of what they have built.** — reader-facing, speaks straight to the collector, good for converting serious ones.
 
-Lead recommendation: **2** (most distinctive and most "her," the biography framing is her own), with **1** as the clean, unmistakable-what-you-get choice.
+Lead recommendation: **1** (safest short beat) or **3** (name recognition plus beat in one headline).
 
-**Also:** point the 4 profile links at the Nariway site and one strong Artobiography piece, not stale destinations; keep the headshot; writer identity leads, advisor identity supports.
+**Also:** point the profile links at the Nariway site and one strong Artobiography piece; writer identity leads, advisor identity supports.
 
 ## Audience state (baseline, Aug 2026)
 Two different numbers, and the gap between them is the opportunity.
