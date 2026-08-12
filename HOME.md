@@ -21,9 +21,9 @@
 1. **Build the research base** — more cases (di Rosa / Terra), so Artobiography relaunches with a point of view.
 2. **Problem-discovery conversations** — start ~2 now, standalone, no pitch ([[problem-discovery]]).
 3. **Substack Notes** — research breadcrumbs, in parallel.
-4. **Opportunity radar** — running; ~3/week ([[opportunity-radar]]).
-5. **Collection Intelligence** — begin public-source mapping under the guardrail.
-6. **Nariway Signals** — one manual weekly cycle to define the filter.
+4. **Nariway Signals — ACTIVATED** ([[nariway-signals]]): first cycle running across 4 beats → [[candidate-universe|cases]] · [[prospects]] · [[partners]] · [[events-radar|events & travel]]. *Decide after the first digest:* schedule it weekly-automatic, or have Toi run it each check-in?
+5. **Grow the registers** — add your own contacts to [[partners]] (fastest path to discovery conversations); [[prospects]] & [[events-radar]] seed from the scan.
+6. **Opportunity radar** — media/partnership scouting, ~3/week ([[opportunity-radar]]).
 
 ## 🔭 Where we are
 - **Cases:** universe ~55 ([[candidate-universe]]) · designed sample 10 · in research 0 · packets complete 1 (McNay). Board → open `Cases.base`.
@@ -32,14 +32,16 @@
 
 ## 🗺 The vault (so you can find anything)
 - **company/** — [[chief-of-staff|Toi]] + how the org works ([[executive-model]])
-- **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note, [[claims-register]])
+- **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note, [[claims-register]], [[nariway-signals]])
 - **cases/** — case notes + packets (board: `Cases.base`)
+- **crm/** — [[prospects]] (Collection Intelligence) + [[partners]] (referral & connection network)
 - **institution-building/** — how a collection becomes an institution: [[decision-map]] · [[knowledge-base]] · [[specialist-map]]
 - **artobiography/** — editorial: locked [[format-v0.1|format]] + the structure study
 - **finance/** — [[nariway-cfo|CFO]], ledgers, [[problem-discovery]]
-- **marketing/** — [[nariway-cmo|CMO]], [[experiment-ledger|experiments]], [[opportunity-radar|radar]]
+- **marketing/** — [[nariway-cmo|CMO]], [[experiment-ledger|experiments]], [[opportunity-radar|radar]], [[events-radar|events & travel]]
 - **debriefs/** — this page's dated archive
 - **archive/** — the original brainstorm
 
 ## 🕰 Recent
+- **2026-08-11** — **Nariway Signals ACTIVATED** — continuous-sensing across 4 beats (cases · prospects · partners · events/travel), each with its own register ([[nariway-signals]], [[prospects]], [[partners]], [[events-radar]]); first seeding cycle running.
 - **2026-08-11** — **Institution Building** refined: iterative Form⇄Viability lifecycle, two suitability gates (collection case / public case), Audience & Community as its own domain, dependency-confidence tags, no premature "crown jewel." Added a **[[claims-register]]** (canonical numbers, referenced not copied — fixes downstream drift). **Institution Building** function added (frame + decision-map + knowledge-base + specialist-map; seeded from existing knowledge, *not* a research sprint). Vault reorganized; **Toi** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)
