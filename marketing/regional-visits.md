@@ -2,27 +2,27 @@
 
 Smaller, collection-driven museums and artist/collector sites within roughly a 2 to 2.5 hour drive of Montvale, NJ. Built by the events-research function ([[events-radar]]), cross-linked to [[travel]] and [[learning]]. These are on-thesis: house museums, collector-founded institutions, private collections made public, and artist foundations, the living examples of how a private collection enters public life. Verified against each institution's own site; confirm season and hours (many are reservation-only or seasonal) before going.
 
-## Start here — top 5 for studying the collection-to-public transition
-1. **[Barnes Foundation](https://www.barnesfoundation.org)** — Philadelphia, ~2 hrs. The defining, contested case of donor intent, indenture governance, and relocation. Non-negotiable.
-2. **[Magazzino Italian Art](https://www.magazzino.art)** — Cold Spring, NY, ~1.25 hrs. A contemporary private Arte Povera collection deliberately built into a public museum. The living version of the Barnes question, and close.
-3. **[Hill-Stead Museum](https://hillstead.org)** — Farmington, CT, ~2 hrs. Alfred Pope's Impressionist collection preserved in situ in the family home, in a house designed by his daughter, architect Theodate Pope Riddle. The untouched house-museum archetype.
-4. **[Caramoor / Rosen House](https://caramoor.org)** — Katonah, NY, ~50 min. Collection-plus-foundation with the domestic setting intact, the most efficient serious stop on the map.
-5. **[The Glass House](https://theglasshouse.org)** — New Canaan, CT, ~1 hr. Philip Johnson's house, landscape, and collection preserved intact as a National Trust site, an architect-collector's total environment passing into public stewardship, and a genuinely memorable visit. Reservation only, Apr to Dec.
+## Start here — on-thesis and genuinely worth the trip
+Weighted to what Alina actually enjoys: immersive, self-guided, compelling as art.
+1. **[Magazzino Italian Art](https://www.magazzino.art)** — Cold Spring, NY, ~1.25 hrs. A private Arte Povera collection built into a public museum, self-guided in a beautiful purpose-built space. The clearest on-thesis case that is also a great visit.
+2. **[Dia Beacon](https://www.diaart.org)** — Beacon, NY, ~1.25 hrs. The Dia Art Foundation's collection in a vast former factory, self-guided and immersive. A foundation making a collection permanently public.
+3. **[Storm King Art Center](https://stormking.org)** — New Windsor, NY, ~1.25 hrs. Monumental outdoor sculpture across 500 acres, self-guided, a foundation collection set in the landscape.
+4. **[Grounds For Sculpture](https://www.groundsforsculpture.org)** — Hamilton, NJ, ~1.25 hrs. Seward Johnson's artist-founded park, immersive and self-guided.
+5. **[Barnes Foundation](https://www.barnesfoundation.org)** — Philadelphia, ~2 hrs. The essential governance case (donor intent, indenture, relocation). Already visited.
 
-*Calibration (Alina's taste): she prefers distinctive, immersive, strong-sense-of-place sites (house museums, artist environments, singular collections) over conventional university or municipal museums. Weight recommendations accordingly. Neuberger (Purchase) was demoted on this basis, see below.*
+*Calibration (Alina's taste, refined). Two filters. (1) **Low friction**, she prefers self-guided, drop-in visits over mandatory guided tours or reservation-only houses. (2) **Experience over worthiness**, a quiet collector house or a conventional campus or municipal museum does not draw her even when the model is instructive. Demoted on this basis: Neuberger and Caramoor (dull to visit), the Glass House (tour-only, too complicated). The instructive tour-only and house-museum cases lower down still matter for the model, go for a specific reason, not the day out.*
 
-## Suggested routes (Barnes done; making the rest happen)
-Grouped so each is one outing with little travel, in rough priority order.
-1. **Westchester, a half day, ~40 to 50 min out.** Caramoor (Katonah, a top five stop) paired with Kykuit or Lyndhurst (Tarrytown, ~40 min), an estate-and-collection day. (Neuberger in Purchase is right here too, but skip it unless a specific show draws you.)
-2. **Hudson Highlands, a full day, ~1.25 hrs.** Magazzino (Cold Spring, top five), Manitoga and Boscobel (Garrison), all minutes apart. Dia Beacon and Storm King are right there if you want two days.
-3. **Connecticut Gold Coast, a day, ~1 hr.** The Glass House (New Canaan, reserve ahead), Grace Farms, the Aldrich (Ridgefield), the Bruce (Greenwich). Silvermine and Bush-Holley if time allows.
-4. **Connecticut shoreline and Hartford, a day or overnight, ~2 hrs.** Hill-Stead (Farmington, top five), the Wadsworth (Hartford), New Britain. Pair with a New Haven day (Yale Center for British Art and Yale University Art Gallery).
-5. **New Jersey, easy add-ons.** Montclair (30 min, anytime) and Grounds For Sculpture (Hamilton, ~1.25 hrs); pair Grounds For Sculpture with the Michener (Doylestown, PA), which is close.
-6. **Brandywine and eastern PA, a day or overnight, ~2 to 2.5 hrs.** Brandywine, Wharton Esherick, Michener.
-7. **Long Island, a dedicated weekend.** Parrish (Water Mill), Nassau County (Roslyn), Pollock-Krasner and LongHouse (East Hampton), Heckscher (Huntington). Ties naturally to any East End trip.
-8. **The overnights, for a weekend.** Olana (Hudson) with a Berkshires leg for Chesterwood and the Clark (Williamstown); the Hyde (Glens Falls) is farther still.
+## Suggested routes (reordered to your taste, self-guided first)
+Best-for-you first, each one outing with little travel.
+1. **Hudson Highlands, the standout, a day or two, ~1.25 hrs.** Your best cluster on the whole map: **Dia Beacon**, **Storm King** (New Windsor), and **Magazzino** (Cold Spring) sit within ~30 minutes of each other, all self-guided and immersive, and Magazzino is dead on thesis. Easily two days if you want room to breathe.
+2. **New Jersey, easy and self-guided.** **Grounds For Sculpture** (Hamilton, ~1.25 hrs) and **Montclair** (~30 min), both walk-in, both close. Pair Grounds For Sculpture with the Michener (Doylestown PA) if you want more.
+3. **New Haven and Hartford, a day, ~1.75 to 2 hrs.** The walk-in museums: **Yale Center for British Art** and **Yale University Art Gallery** (both free), the **Wadsworth** (Hartford), New Britain. All self-guided.
+4. **Brandywine and eastern PA, a day or overnight, ~2 to 2.5 hrs.** The **Brandywine** museum (walk-in; the Wyeth studios are tour-only) and the Michener.
+5. **Long Island, a dedicated weekend.** Parrish (Water Mill), Nassau County (Roslyn), and the East End (Pollock-Krasner, LongHouse, some reservation-only). Ties to any East End trip.
+6. **Upper Hudson and the Berkshires, a weekend.** **Olana** (grounds self-guided, house by tour), Chesterwood, and the **Clark** (Williamstown, walk-in).
+7. **The tour-only cases, for the model, not the day out.** The Glass House, Kykuit, Hill-Stead, Caramoor, Boscobel, worth it only when a specific case or show pulls you, since each needs a booked guided visit.
 
-Start with 1 and 2, they are the closest and hold three of the four top-five stops that are not Barnes, then work outward.
+Start with 1. It is the closest thing to a perfect fit for you on this list.
 
 ## Connecticut (closest and richest)
 - **[The Glass House](https://theglasshouse.org)** — New Canaan, ~1 hr. Philip Johnson's house, landscape, and collection preserved intact. Reservation only, Apr to Dec.
@@ -37,7 +37,7 @@ Start with 1 and 2, they are the closest and hold three of the four top-five sto
 - Also on the CT Art Trail: **Silvermine Arts Center** and **Grace Farms** (New Canaan), the **[Yale Center for British Art](https://britishart.yale.edu)** (Paul Mellon's collection given to Yale, a landmark collector-to-public case) and **Yale University Art Gallery** (New Haven, ~1.75 hrs), and the **[Wadsworth Atheneum](https://www.thewadsworth.org)** (Hartford, ~2 hrs, the oldest continuously operating public art museum in the US).
 
 ## Lower Hudson Valley and Westchester (the most efficient cluster)
-- **[Caramoor / Rosen House](https://caramoor.org)** — Katonah, ~50 min. See top 5.
+- **[Caramoor / Rosen House](https://caramoor.org)** — Katonah, ~50 min. Instructive as a collection-plus-foundation with the house intact, but per Alina's read not a compelling visit. The music programming is its real draw.
 - **[Neuberger Museum](https://neuberger.org)** — Purchase, ~40 min. Instructive as a model (Roy Neuberger's gift built a university museum), but per Alina's read not a compelling visit on its own. Go only for a specific exhibition.
 - **[Magazzino Italian Art](https://www.magazzino.art)** — Cold Spring, ~1.25 hrs. See top 5.
 - **[Manitoga / Russel Wright](https://visitmanitoga.org)** — Garrison, ~1.25 hrs. The designer's modernist home, studio, and landscape.
