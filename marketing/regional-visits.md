@@ -7,11 +7,13 @@ Smaller, collection-driven museums and artist/collector sites within roughly a 2
 2. **[Magazzino Italian Art](https://www.magazzino.art)** — Cold Spring, NY, ~1.25 hrs. A contemporary private Arte Povera collection deliberately built into a public museum. The living version of the Barnes question, and close.
 3. **[Hill-Stead Museum](https://hillstead.org)** — Farmington, CT, ~2 hrs. Alfred Pope's Impressionist collection preserved in situ in the family home, in a house designed by his daughter, architect Theodate Pope Riddle. The untouched house-museum archetype.
 4. **[Caramoor / Rosen House](https://caramoor.org)** — Katonah, NY, ~50 min. Collection-plus-foundation with the domestic setting intact, the most efficient serious stop on the map.
-5. **[Neuberger Museum](https://neuberger.org)** — Purchase, NY, ~40 min. The clean "collector gives to a university, a museum is built around it" model, minutes away.
+5. **[The Glass House](https://theglasshouse.org)** — New Canaan, CT, ~1 hr. Philip Johnson's house, landscape, and collection preserved intact as a National Trust site, an architect-collector's total environment passing into public stewardship, and a genuinely memorable visit. Reservation only, Apr to Dec.
+
+*Calibration (Alina's taste): she prefers distinctive, immersive, strong-sense-of-place sites (house museums, artist environments, singular collections) over conventional university or municipal museums. Weight recommendations accordingly. Neuberger (Purchase) was demoted on this basis, see below.*
 
 ## Suggested routes (Barnes done; making the rest happen)
 Grouped so each is one outing with little travel, in rough priority order.
-1. **Westchester, a half day, ~40 to 50 min out.** Neuberger (Purchase) and Caramoor (Katonah), two of the top five, about 20 minutes apart. Add Kykuit or Lyndhurst (Tarrytown) to fill the day.
+1. **Westchester, a half day, ~40 to 50 min out.** Caramoor (Katonah, a top five stop) paired with Kykuit or Lyndhurst (Tarrytown, ~40 min), an estate-and-collection day. (Neuberger in Purchase is right here too, but skip it unless a specific show draws you.)
 2. **Hudson Highlands, a full day, ~1.25 hrs.** Magazzino (Cold Spring, top five), Manitoga and Boscobel (Garrison), all minutes apart. Dia Beacon and Storm King are right there if you want two days.
 3. **Connecticut Gold Coast, a day, ~1 hr.** The Glass House (New Canaan, reserve ahead), Grace Farms, the Aldrich (Ridgefield), the Bruce (Greenwich). Silvermine and Bush-Holley if time allows.
 4. **Connecticut shoreline and Hartford, a day or overnight, ~2 hrs.** Hill-Stead (Farmington, top five), the Wadsworth (Hartford), New Britain. Pair with a New Haven day (Yale Center for British Art and Yale University Art Gallery).
@@ -36,7 +38,7 @@ Start with 1 and 2, they are the closest and hold three of the four top-five sto
 
 ## Lower Hudson Valley and Westchester (the most efficient cluster)
 - **[Caramoor / Rosen House](https://caramoor.org)** — Katonah, ~50 min. See top 5.
-- **[Neuberger Museum](https://neuberger.org)** — Purchase, ~40 min. See top 5.
+- **[Neuberger Museum](https://neuberger.org)** — Purchase, ~40 min. Instructive as a model (Roy Neuberger's gift built a university museum), but per Alina's read not a compelling visit on its own. Go only for a specific exhibition.
 - **[Magazzino Italian Art](https://www.magazzino.art)** — Cold Spring, ~1.25 hrs. See top 5.
 - **[Manitoga / Russel Wright](https://visitmanitoga.org)** — Garrison, ~1.25 hrs. The designer's modernist home, studio, and landscape.
 - **[Boscobel](https://boscobel.org)** — Garrison, ~1.25 hrs. Federal-period house, fine NY furniture, a relocation story.
