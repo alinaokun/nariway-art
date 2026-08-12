@@ -4,24 +4,56 @@
 
 ## The map
 
+```mermaid
+flowchart TD
+    A["👤 ALINA — Founder<br/>the integrator · owns judgment & sequencing"]
+    ALF["🎩 ALFRED — Chief of Staff<br/>your single interface"]
+    CFO["💰 CFO<br/>economic reality"]
+    RES["🔬 Research<br/>intellectual reality"]
+    CMO["🎯 CMO<br/>audience reality"]
+    FUN["⚙️ Functions — no personas<br/>Artobiography · Collection Intelligence · Models Scan<br/>Case Research · Source Verification · Signals"]
+    SUB["🤖 Task subagents<br/>spawned as needed · invisible to you"]
+
+    A <--> ALF
+    ALF --> CFO
+    ALF --> RES
+    ALF --> CMO
+    CFO --> FUN
+    RES --> FUN
+    CMO --> FUN
+    FUN --> SUB
+
+    classDef founder fill:#fde68a,stroke:#b45309,color:#111827;
+    classDef cos fill:#fcd34d,stroke:#b45309,color:#111827;
+    classDef lens fill:#dbeafe,stroke:#2563eb,color:#111827;
+    classDef fun fill:#dcfce7,stroke:#16a34a,color:#111827;
+    classDef sub fill:#f1f5f9,stroke:#64748b,color:#111827;
+    class A founder;
+    class ALF cos;
+    class CFO,RES,CMO lens;
+    class FUN fun;
+    class SUB sub;
 ```
-                    ALINA  — the integrator; owns judgment & sequencing
-                      │  talks only to ↓
-                   ALFRED — Chief of Staff / single interface
-        ┌─────────────┼─────────────┐  consults the lenses ↓
-       CFO          Research         CMO
-  "economically   "is it true?"   "will the right
-   viable?"       (the evidence-    people find it?"
-                   status discipline
-                   in research/)
-                      │  all dispatch ↓
-   underlying functions (work, not personas — no charters, no names):
-   Artobiography · Collection Intelligence · Models Scan ·
-   Case Research · Source Verification · Signals
-                      │  spawn as needed ↓
-   ephemeral task-subagents (research, extraction, drafting, verification)
-   — the functions decide these themselves; Alina never manages them
-```
+
+## The roles
+
+**👤 Alina — Founder / integrator.** Owns judgment and sequencing; talks only to Alfred. Makes the calls the agents can't — what to pursue, when, and what she believes — and does the irreducibly human work: writing the Artobiography pieces, the interviews, the relationships.
+
+**🎩 Alfred — Chief of Staff.** Your single interface. Routes your intent to the right functions, spawns and supervises task-subagents, keeps HOME current, writes the daily debrief, and surfaces only what needs you. Never publishes, sends, or transacts without approval; never overrides your sequencing. *(Charter: [[chief-of-staff]].)*
+
+**💰 CFO — economic reality** *("does this make financial sense?")*. Keeps the 3-hypothesis business-model ledger, tracks cash and founder-time as capital, stewards the commercial evidence and H7B. Recommends and escalates — never transacts.
+
+**🔬 Research — intellectual reality** *("is it true?")*. The evidence-status discipline: refuses to overclaim, splits hypotheses, demands verification, keeps the prose from outrunning the research. Lives as the rules in `research/`, not a persona.
+
+**🎯 CMO — audience reality** *("will the right people find it?")*. Relevant reach, not maximum reach; one experiment per objective; owns the opportunity radar and per-article distribution maps; protects you from a content treadmill. Drafts — never posts or sends.
+
+**⚙️ Functions (no personas).** The actual work, named after the work: **Artobiography** (editorial) · **Collection Intelligence** (public-source opportunity map) · **Models Scan** (new pathways) · **Case Research** (packets) · **Source Verification** (fact-checking) · **Signals** (weekly scan).
+
+**🤖 Task subagents.** Spawned freely by Alfred and the functions for specific jobs — pull a 990, build a timeline, verify a claim, draft a packet. Ephemeral and invisible to you; they escalate only exceptions.
+
+*(**COO — deferred.** An operations role, added only when there's operational load Alfred + HOME can't hold.)*
+
+The three lenses — CFO, Research, CMO — are meant to **disagree**; that tension is the point (see the principle below).
 
 ## The naming rule
 - **Named, because they should disagree:** CFO, Research, CMO — three distinct viewpoints. Plus **Alfred**, the interface.
