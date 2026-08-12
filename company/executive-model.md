@@ -11,7 +11,7 @@ flowchart TD
     CFO["💰 CFO<br/>economic reality"]
     RES["🔬 Research<br/>intellectual reality"]
     CMO["🎯 CMO<br/>audience reality"]
-    FUN["⚙️ Functions — no personas<br/>Artobiography · Collection Intelligence · Models Scan<br/>Case Research · Source Verification · Signals"]
+    FUN["⚙️ Functions — no personas<br/>Artobiography · Collection Intelligence · Models Scan · Institution Building<br/>Case Research · Source Verification · Signals"]
     SUB["🤖 Task subagents<br/>spawned as needed · invisible to you"]
 
     A <--> ALF
@@ -47,7 +47,7 @@ flowchart TD
 
 **🎯 CMO — audience reality** *("will the right people find it?")*. Relevant reach, not maximum reach; one experiment per objective; owns the opportunity radar and per-article distribution maps; protects you from a content treadmill. Drafts — never posts or sends.
 
-**⚙️ Functions (no personas).** The actual work, named after the work: **Artobiography** (editorial) · **Collection Intelligence** (public-source opportunity map) · **Models Scan** (new pathways) · **Case Research** (packets) · **Source Verification** (fact-checking) · **Signals** (weekly scan).
+**⚙️ Functions (no personas).** The actual work, named after the work: **Artobiography** (editorial) · **Collection Intelligence** (public-source opportunity map) · **Models Scan** (new pathways) · **[[institution-building|Institution Building]]** (how a collection becomes an institution — the [[decision-map]] IP) · **Case Research** (packets) · **Source Verification** (fact-checking) · **Signals** (weekly scan).
 
 **🤖 Task subagents.** Spawned freely by Toi and the functions for specific jobs — pull a 990, build a timeline, verify a claim, draft a packet. Ephemeral and invisible to you; they escalate only exceptions.
 
@@ -57,7 +57,7 @@ The three lenses — CFO, Research, CMO — are meant to **disagree**; that tens
 
 ## The naming rule
 - **Named, because they should disagree:** CFO, Research, CMO — three distinct viewpoints. Plus **Toi**, the interface.
-- **Not named (named after the work instead):** Artobiography, Collection Intelligence, Models Scan, Case Research, Source Verification, Signals. These are *what agents do*, not who they are.
+- **Not named (named after the work instead):** Artobiography, Collection Intelligence, Models Scan, Institution Building, Case Research, Source Verification, Signals. These are *what agents do*, not who they are.
 - **Deferred:** a COO/operations role — until there's operational load Toi + HOME can't hold.
 
 ## The one principle that governs the whole thing

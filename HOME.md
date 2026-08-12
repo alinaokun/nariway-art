@@ -34,6 +34,7 @@
 - **company/** — [[chief-of-staff|Toi]] + how the org works ([[executive-model]])
 - **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note)
 - **cases/** — case notes + packets (board: `Cases.base`)
+- **institution-building/** — how a collection becomes an institution: [[decision-map]] · [[knowledge-base]] · [[specialist-map]]
 - **artobiography/** — editorial: locked [[format-v0.1|format]] + the structure study
 - **finance/** — [[nariway-cfo|CFO]], ledgers, [[problem-discovery]]
 - **marketing/** — [[nariway-cmo|CMO]], [[experiment-ledger|experiments]], [[opportunity-radar|radar]]
@@ -41,4 +42,4 @@
 - **archive/** — the original brainstorm
 
 ## 🕰 Recent
-- **2026-08-11** — Vault reorganized; **Toi** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)
+- **2026-08-11** — **Institution Building** function added (frame + decision-map + knowledge-base + specialist-map; seeded from existing knowledge, *not* a research sprint). Vault reorganized; **Toi** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)
