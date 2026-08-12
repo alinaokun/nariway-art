@@ -1,26 +1,29 @@
 # Specialist Map
 
-*The independent specialist bench — the "who can execute it" asset of [[institution-building]]. Captured every time research or a case surfaces an excellent professional. Fed automatically by the case protocol's **Advisors & specialists used** block (block I). This becomes the network the founder's-representative assembles per engagement — and, with the [[decision-map]] and the case database, the actual infrastructure of a Nariway advisory practice.*
+*The independent specialist bench of [[institution-building]] — the "who can execute it" asset. Not a directory of good names; a **queryable body of who has actually done analogous work.** The killer field is **cases worked on** — five years out, Toi should be able to answer: "We're weighing a seasonal exhibition foundation in an adaptive-reuse building for a Latin American photography collection in New Mexico — who has worked on something analogous?" from Nariway's own accumulated research. Fed by every case packet's* Advisors used *block and by specialist interviews.*
 
-*Tags: [SEED-case] = surfaced by a Nariway case · [SEED-brief] = named in the founding deep-research brief · [TBR] = category open, no vetted name yet. **Presence here is a lead, not an endorsement** — vet before recommending.*
+## Record schema (the target — most fields fill over time)
+`specialist · expertise · geography · typical client · project stage · collector-museum experience · institution experience · how discovered · cases worked on · interviewed by Nariway? · vetted? · potential referral relationship?`
 
-| Category | Seeds | Status |
-|---|---|---|
-| **Museum planners** | Lord Cultural Resources · AEA Consulting · Schwartzman& · Museum Planning LLC (Mark Walhimer) [SEED-brief] | leads |
-| **Architects** | Atlee & Robert Ayres (McNay house) · Jean-Paul Viguier + Ford, Powell & Carson (McNay Stieren Center) [SEED-case] | leads |
-| **Nonprofit / tax attorneys** | — [TBR] | open — high priority (structure gates transfer) |
-| **T&E / estate attorneys** | — [TBR] | open — also a *problem-discovery* audience |
-| **Fine-art insurers / brokers** | ARTE Generali · Chubb · AXA XL [SEED-brief] | leads |
-| **Appraisers** | AAA / ASA / ISA credential bodies [SEED-brief] | credential map, not individuals |
-| **Registrars / collection managers** | — [TBR] | open |
-| **Conservators** | — [TBR] | open |
-| **Fine-art logistics / storage** | Crozier [SEED-brief] | lead |
-| **Security consultants** | — [TBR] | open |
-| **Endowment / fundraising** | — [TBR] | open |
-| **Art lenders (ancillary)** | Sotheby's Financial Services · Athena Art Finance [SEED-brief] | leads — *conflict-flagged, keep ancillary* |
-| **Full-lifecycle art advisors** | Gurr Johns · The Fine Art Group · Winston Artory Group [SEED-brief] | *incumbents/competitors, not bench* |
+*Presence = a **lead**, not an endorsement. Vet before any name reaches a client's table. Tags: [SEED-case] · [SEED-brief] · [TBR].*
 
-## How it grows
-- Every case packet's block I drops names here automatically.
-- The problem-discovery conversations (estate attorneys, family offices, insurers) both *test the market* and *populate the bench* — the same contacts, different purpose (don't collapse the two; see [[problem-discovery]]).
-- Vet before any name moves from "lead" to a specialist Nariway would actually put at a client's table.
+## Seeds (thin — populate the schema fields as research accrues)
+| Specialist / firm | Expertise | How discovered | Cases worked on | Vetted? |
+|---|---|---|---|---|
+| Lord Cultural Resources | museum planning / feasibility | [SEED-brief] | Audain (per brief) | no |
+| AEA Consulting | feasibility, business planning | [SEED-brief] | — | no |
+| Schwartzman& | museum advisory / founder identity | [SEED-brief] | — | no |
+| Museum Planning LLC (M. Walhimer) | turnkey museum development | [SEED-brief] | — | no |
+| Atlee & Robert Ayres | architecture (historic) | [SEED-case] | **McNay** (house) | n/a (historic) |
+| Jean-Paul Viguier + Ford, Powell & Carson | architecture (museum) | [SEED-case] | **McNay** (Stieren Center) | no |
+| ARTE Generali · Chubb · AXA XL | fine-art insurance | [SEED-brief] | — | no |
+| Crozier | fine-art logistics / storage | [SEED-brief] | — | no |
+| Sotheby's Financial · Athena Art Finance | art lending *(ancillary; conflict-flagged)* | [SEED-brief] | — | no |
+| AAA / ASA / ISA | appraisal credential bodies | [SEED-brief] | *(credential map, not individuals)* | n/a |
+
+**Open, high-priority [TBR]:** nonprofit/tax attorneys · T&E attorneys · registrars · conservators · security consultants · endowment/fundraising · community/audience specialists.
+
+*Incumbent full-lifecycle advisors (Gurr Johns · The Fine Art Group · Winston Artory Group) are competitors, not bench — tracked elsewhere.*
+
+## How it grows (deposits, never a sprint)
+Every case packet's *Advisors used* block drops names here. Specialist interviews add the rich fields (esp. cases worked on). The problem-discovery conversations both test the market and populate the bench — same contacts, different purpose ([[problem-discovery]]).

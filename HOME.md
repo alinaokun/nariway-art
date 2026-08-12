@@ -32,7 +32,7 @@
 
 ## 🗺 The vault (so you can find anything)
 - **company/** — [[chief-of-staff|Toi]] + how the org works ([[executive-model]])
-- **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note)
+- **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note, [[claims-register]])
 - **cases/** — case notes + packets (board: `Cases.base`)
 - **institution-building/** — how a collection becomes an institution: [[decision-map]] · [[knowledge-base]] · [[specialist-map]]
 - **artobiography/** — editorial: locked [[format-v0.1|format]] + the structure study
@@ -42,4 +42,4 @@
 - **archive/** — the original brainstorm
 
 ## 🕰 Recent
-- **2026-08-11** — **Institution Building** function added (frame + decision-map + knowledge-base + specialist-map; seeded from existing knowledge, *not* a research sprint). Vault reorganized; **Toi** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)
+- **2026-08-11** — **Institution Building** refined: iterative Form⇄Viability lifecycle, two suitability gates (collection case / public case), Audience & Community as its own domain, dependency-confidence tags, no premature "crown jewel." Added a **[[claims-register]]** (canonical numbers, referenced not copied — fixes downstream drift). **Institution Building** function added (frame + decision-map + knowledge-base + specialist-map; seeded from existing knowledge, *not* a research sprint). Vault reorganized; **Toi** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)

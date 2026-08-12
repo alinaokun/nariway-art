@@ -1,29 +1,36 @@
 # Decision Map
 
-*The crown jewel of [[institution-building]]: the **order** decisions must be made and the **dependencies** between them. A single specialist can't provide this — each sees only their own piece. Nariway sees the whole. This is the likely core of the eventual advisory product.*
+*Part of [[institution-building]]: the **order** decisions happen and the **dependencies** between them — the knowledge a single specialist can't give, because each sees only their piece. Organized by **lifecycle** (the Knowledge Base is organized by expertise; the two connect). We do not yet know which of Nariway's assets is decisive — Decision Map, case database, or specialist bench — so **design for the connections among all three**, not for any one.*
 
-## The sequence (why order matters)
-The most valuable first sentence Nariway can say to a collector is: **"Don't start with the museum."** Before an architect, a collector must move through:
+## Nariway's actual position
+You are not helping a collector execute *their museum idea*. You are helping them **determine which public-life model makes sense before they commit to one.** That's the more valuable and more defensible role — and it's why Form and Viability are a **loop**, not a step.
 
-1. **Suitability** — is this collection *for* public life at all? (coherence, distinctiveness, public benefit) → if weak, stop or reshape here.
-2. **Form** — *which* public life? (museum / foundation / seasonal space / university / long-term loan / traveling / dispersal). Most collectors over-assume "museum."
-3. **Viability** — can the chosen form be sustained? (capital + realistic annual operating economics + governance + founder resources + succession).
-4. **Structure** — legal entity, ownership of collection vs. building, tax, board, transfer mechanics.
-5. **Physical** — building, storage, conservation, security, insurance, logistics, technology.
-6. **Organizational** — people, policies, programming, vendors, administration.
-7. **Opening** — approvals, systems, policies, people in place.
-8. **Survival** — what happens after the founder; failure modes at years 5 / 10 / 25.
+## The lifecycle (with the iteration made explicit)
+```
+Suitability ──▶ Compare possible forms ⇄ Test viability ──▶ Select a model
+   (2 gates)                (iterate)                              │
+                                                                   ▼
+                        Structure ──▶ Build ──▶ Operate ──▶ Sustain
+```
 
-## Dependency rules (the "you can't X before Y" logic)
-*Seeded; extend as cases and specialists reveal more. Tag each with its evidence source.*
+**1. Suitability — two distinct gates (both must pass; they are different questions):**
+- **Collection case:** is there something coherent, distinctive, or important enough here to warrant preservation and presentation?
+- **Public case:** *who gains access to something they otherwise could not see?* (a regional or representational gap, a local audience, a story no nearby institution tells). This is the north-star gate — and it is the same axis as *cultural opportunity* in [[research-program]] (distinct from viability). A collection can be excellent yet add little publicly; a modest one can have extraordinary public value (cf. Southern Nevada).
 
-- **Insurance can't be priced** until the collection, building, storage, and exhibition plans are known. *(Risk sits downstream of Structure + Physical.)*
-- **Storage/conservation shouldn't be designed** after the architect has finalized the building — they are inputs to it, not afterthoughts.
-- **Collection ownership shouldn't be transferred** before tax and estate counsel model the consequences (self-dealing, estate, basis). *(Structure gates the transfer.)*
-- **Required endowment can't be calculated** without a realistic annual operating budget first. *(Money depends on Operations.)* — *McNay-seeded: durability tracked to endowment coverage of opex, not headline value.*
-- **Form (step 2) shouldn't be locked** before Viability (step 3) — Onera and Souls Grown Deep show non-museum forms deliver public benefit at a fraction of the infrastructure; the museum is one option, not the default.
-- **Governance/succession design** (self-perpetuating board, founder-control limits) belongs at Structure, not Opening — *McNay-seeded: the board she named before her death is a primary reason it survived her.* (See H8.)
-- **Operating model precedes building scale** — an adaptive-reuse building with limited hours (Onera) can produce meaningful public access with far less infrastructure than a purpose-built museum.
+**2⇄3. Compare forms ⇄ Test viability (iterative):** enumerate the possible forms (museum · foundation · seasonal space · university partnership · long-term loan · traveling · dispersal); for each, test viability (capital · realistic operating economics · governance · founder resources · location · succession). A failed viability test loops back to other forms — you might test a museum, find the operating economics terrible, move to a seasonal foundation, then find a university partnership offers better stewardship. **Do not lock a form before this loop settles.**
+
+**4. Select a model → 5. Structure** (entity, ownership, tax, board, transfer) **→ 6. Build** (building, storage, conservation, security, insurance, logistics, tech) **→ 7. Operate** (people, policies, programming, vendors) **→ 8. Sustain** (opening through post-founder life; failure modes at years 5/10/25).
+
+## Dependency rules — tagged by confidence
+*Tags: **[Verified]** documented/legally established · **[Expert]** an expert told us how it actually works · **[Case]** a Nariway case suggests it · **[Nariway-hyp]** our own hypothesis, untested.*
+
+- **[Verified]** Collection ownership shouldn't be transferred before tax/estate counsel model the consequences (self-dealing, estate, basis; Chapter 42). Structure gates the transfer.
+- **[Nariway-hyp]** Insurance can't be fully priced until collection + building + storage + exhibition plans are known. *(Directionally likely — but an insurer must confirm how underwriting actually sequences.)*
+- **[Nariway-hyp]** Storage/conservation are inputs to the building, not afterthoughts. *(Confirm with a conservator/registrar.)*
+- **[Nariway-hyp]** Required endowment can't be sized before a realistic operating budget exists. *(Financial logic; "required" formulas vary.)*
+- **[Nariway-hyp]** Form shouldn't be locked before viability — this is our advisory thesis, to be tested, not assumed.
+- **[Case]** Governance/succession design belongs at Structure, not Opening — *McNay named a self-perpetuating board before her death and survived her; that's a plausible cause, not an established one (one case, correlation not causation; see H8).*
+- **[Case]** An adaptive-reuse building with limited hours may deliver public access at far less infrastructure than a purpose-built museum — *Onera suggests this; comparable economics not yet established.*
 
 ## Use
-Given any real collection, walk the sequence, surface the *unresolved* decisions, name the dependencies that block others, and identify which specialists must be at the table for each — *in what order.* That walk, not any single answer, is the value.
+Given a real collection, walk the lifecycle, surface the *unresolved* decisions, name the dependencies that block others, and identify which specialists must be at the table for each — *in what order.* That walk, connected to the case evidence and the specialist bench, is the value.
