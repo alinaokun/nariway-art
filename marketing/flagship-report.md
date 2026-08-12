@@ -55,18 +55,15 @@ A work-function specialized in authoring authoritative, data-rich research repor
 ## Roadmap
 - **Phase 0, concept and template.** Done. Niche defined, [[case-template]] locked, standards set.
 - **Phase 1, scope and source library (now).** Alina picks the title; confirm scope (at least 50 cases, US-weighted with international benchmarks, the transfer as the spine); assemble the authoritative source library (the market data above) into [[market-intelligence]]; write the list of analytical questions the report will answer (the charts).
-- **Phase 2, dataset build (starting now).** Code at least 50 cases to report grade against the template, each fully sourced. A **pilot of ~10 is running now** to validate the pipeline, then scale. Bring McNay to grade as the worked example.
+- **Phase 2, dataset build (underway).** Code at least 50 cases to report grade against the template, each fully sourced, accumulating in [[report-dataset]]. **Pilot validated: 6 cases coded** (Souls Grown Deep, Fisher/SFMOMA, Neue Galerie/Met, Phillips, Menil, Shelburne), every figure sourced or honestly `unknown`; failure batch (Terra, Corcoran, di Rosa) pending. **Process finding:** `true_endowment` (990 Schedule D) and FTE need the downloadable 990 PDF/XML, not ProPublica's web view, so a 990-XML pass is the scalable fix for the durability metric. Then bring McNay to grade and scale to 50.
 - **Phase 3, analysis.** Extract the patterns, trends, and key takeaways from the coded dataset; produce the charts; write the findings and the methodology note.
 - **Phase 4, draft and design.** Write to the McKinsey/BCG standard, executive summary, key findings, deep-dives, an outlook with predictions to score next year, and a full methodology-and-sources appendix. Design the charts properly.
 - **Phase 5, fact-check and publish.** Citation audit, design polish, and the CMO's distribution plan (how it reaches collectors, advisors, and press).
 - **Directional timeline:** pilot 10 cases in ~1 to 2 weeks; 50 coded in ~6 to 8 weeks; a lean first artifact (a few killer charts plus the transfer thesis) can publish *before* the full report to start the authority and test appetite.
 
-## Title, recommendation
-"The Great Art Transfer" is usable but weak to own (a phrase already circulating, including in the Art Bystander piece). For a name that becomes synonymous with Nariway, recommendation: **"What Becomes of Great Collections"** (distinctive, plainly your lane, memorable, ownable), with **"The Great Art Transfer"** available as the inaugural edition's theme or subtitle to ride the moment. "The State of Art and Legacy" is the alternative if you prefer a recurring-index feel. Alina decides.
-
-## What Alina decides or provides
-1. **The title** (recommendation above).
-2. **Confirm scope** (≥50 cases, US-weighted + international benchmarks, transfer as spine) — you effectively set this.
-3. **Lean-first-artifact, yes or no** — publish a short data teaser before the full annual to start the authority.
-4. **Archive access where you have it** — the few primary docs (like the McNay will) that only a relationship or a records request can unlock; optional, for depth on flagship cases.
-5. **Green light to run the coding in the background** while your attention stays on the Dawn call and the Souls Grown Deep email.
+## Decisions (locked 2026-08)
+1. **Title: "What Becomes of Great Art Collections"** (working title, Alina's choice). "The Great Art Transfer" is available as the inaugural edition's theme or subtitle to ride the moment.
+2. **Scope confirmed:** at least 50 cases, US-weighted with international benchmarks, the transfer as the spine.
+3. **Lean first artifact: yes.** Publish a short, data-driven teaser (a few killer, fully-sourced charts plus the transfer thesis) *before* the full report, to start the authority and test appetite. Treat as a near-term Phase 2/3 deliverable off the pilot cases plus the market data.
+4. **Archive access: okay.** Alina will pursue the few primary docs (like the McNay will) that only a relationship or records request can unlock, for depth on flagship cases.
+5. **Green light** to run the coding in the background while her attention stays on the Dawn call and the Souls Grown Deep email.

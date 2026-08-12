@@ -169,3 +169,4 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | **Sammlung Boros** | Christian & Karen Boros | private collection, appointment-only | Living | Berlin, DE | Contemporary in a WWII bunker; the appointment-only private-collection-public model |
 | **The Feuerle Collection** | Désiré Feuerle | private collection, appointment-only | Living | Berlin, DE | Southeast Asian and contemporary in a former bunker |
 | **Museum Berggruen** | Heinz Berggruen | collector collection → national museum | Dec. | Berlin, DE | Modern masters; collector placed the holding with the German state (Nationalgalerie) |
+| **Medaugh Hiroshige collection → Christie's** | Alan Medaugh | intentional dispersal / auction | Living | New York (sale) | 600+ Hiroshige prints, one of the finest ever assembled, half a century of collecting → sold at auction (first sale ~Sept 15, 2026). A live *sale* pathway with a public preview; see [[to-see]] |
