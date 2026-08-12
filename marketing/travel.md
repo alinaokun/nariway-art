@@ -20,6 +20,9 @@ Alina's own travel, where the Travel function looks for on-thesis museums, colle
 - **Berlin, Germany — Oct 14 to 18, 2026.** Two private collections that are exactly Nariway's model, both **by advance appointment**: **Sammlung Boros** (a private collection in a WWII bunker, guided tours only) and **The Feuerle Collection** (a private collection in a former bunker). Also **Museum Berggruen** (Heinz Berggruen's collection, confirm it is open, it has undergone renovation) and **Hamburger Bahnhof**.
 - **Milan, Italy — first week of Dec 2026.** Rich in collector foundations and house museums. **Fondazione Prada** (Miuccia Prada and Patrizio Bertelli's contemporary art foundation). **Museo Poldi Pezzoli** (a collector's house and collection turned museum, a textbook legacy case). Also **Museo Bagatti Valsecchi** and **Villa Necchi** (house museums), **Pirelli HangarBicocca**, and **Gallerie d'Italia**.
 
+## Nearby, no travel needed
+A verified register of smaller collections, house museums, and collector-founded institutions within a drive of Montvale lives in [[regional-visits]], the on-thesis places to see without a plane. Closest serious starts: Neuberger (Purchase, ~40 min), Caramoor (Katonah, ~50 min), Montclair (~30 min), Magazzino (Cold Spring, ~1.25 hrs), and the Barnes (Philadelphia, ~2 hrs).
+
 ## Research destinations worth a dedicated trip
 - **Crystal Bridges Museum of American Art** (Bentonville, AR). Inconvenient (a flight, and not near much else), but for Alina specifically it is worth it, because it *is* her subject: Alice Walton turned a private fortune and collection into a major public museum in an unexpected, underserved location, the clearest living example of the thesis. Best planned deliberately, around a specific exhibition or bundled with the region's other Walton-built assets (the Momentary, the new Alice L. Walton School of Medicine). Belongs in the case universe as a priority firsthand visit. → [[candidate-universe]]
 
