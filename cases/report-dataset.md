@@ -57,6 +57,21 @@ Sources: theartnewspaper.com 2026/01/22 di-rosa · propublica 943367956 & 942856
 
 ---
 
+## Preliminary patterns (~30 cases coded, PROVISIONAL)
+From the first 30 coded cases. **Not conclusions.** The set is hand-selected for variation, not random, so no rates are published off it; these are hypotheses sharpened enough to test across all 50. Data gaps are named, not hidden.
+
+1. **Governance, not money, decides whether a collection survives its founder.** Among the deceased-founder cases, survival is the norm, and the failures locate the cause. Terra had roughly $450M behind it and still failed, its governance was **founder-sole** (the only original directors were the founder and his son), so his death was a control vacuum that became litigation and closure. The survivors consistently had **independent boards and succession set before death**: McNay's self-perpetuating board, Grounds For Sculpture's board that predated the founder's death by 20 years, the de Menils, Phillipses, and Havemeyer Webbs all handing to professional successors. Emerging read: **governance design at founding predicts survival better than endowment size.** Test at 50.
+
+2. **Two failure modes, on two clocks.** Governance failure kills fast (Terra, on the founder's death). Funding failure kills slow (Corcoran dissolved after 126 years as its endowment eroded below ~0.5x operating coverage; di Rosa distressed and now selling its campus). Institutional mortality is two curves, not one.
+
+3. **The eponymous museum is losing share to lighter models, especially among living founders.** The set spans nine pathways, and the newer/living-founder cases cluster on the alternatives: the Broad's lending library, the Cisneros and Daskalopoulos gift-and-co-ownership dispersals, the Fisher 100-year loan, the Neue Galerie merger, the traveling Kinsey. Consistent with the wealth-transfer thesis, the generation now deciding reaches for models that avoid a standalone institution's cost and fragility. Real shift or selection artifact is a 50-case question.
+
+4. **A data-availability finding the report can own.** The durability metric everyone wants, endowment coverage, is largely **unmeasurable from public data**: the true endowment (IRS Schedule D) is `unknown` for most cases, the headline net-assets ratios are all upper bounds inflated by real property, and they are meaningless for grantmaking/lending vehicles (Broad ~109x, Longleaf ~111x are non-signals). How rarely a collection's durability can be verified from the outside is itself a finding, and a reason collectors cannot benchmark themselves.
+
+5. **The living-founder cohort is the report's forward-looking core.** A large share (Glenstone, Crystal Bridges, Magazzino, Bechtler, Audain, Thoma) code as survival **not-yet-testable**, these are exactly the significant collections about to enter the transition the report is about. Analyze survival on the deceased-founder set; frame the living-founder set as the coming decisions, tying the historical data straight to the wealth-transfer moment.
+
+---
+
 ### First real signal (pilot complete, 9 cases + McNay)
 The **survived_founder field is doing exactly the work the report needs**, it separates failure modes that a crude "closed = failed" would flatten:
 - **Terra** = did **not** survive the founder (governance vacuum on his death → litigation → closure). Friction: governance.
