@@ -2,21 +2,21 @@
 
 *A CMO work-function (no persona). Two jobs: (1) keep the profile — especially **headline & About** — optimized as Nariway's positioning firms up; (2) monitor what's actually working on LinkedIn for niche experts/advisors and recommend adjustments. Per the CMO charter, LinkedIn is **selective institutional credibility, not an audience-building machine** — and pre-launch we do NOT overclaim an advisory service that isn't validated (H7B).*
 
-## Headline — options (pick one; iterate)
-*Recommended:*
-> **Founder, Nariway — I study how significant private art collections become public institutions, and what that takes | former startup CFO · 100+ museums**
+## Headline — options (pick one; iterate) — per [[positioning]]
+*Recommended (names the territory; sits between "researcher" and "established advisor"):*
+> **Founder, Nariway | The future of significant private art collections**
 
 Alternatives:
-- *Founder of Nariway & Artobiography | Where finance meets the future of private art collections*
-- *Former CFO turned student of how private collections enter public life | Founder, Nariway*
-- *How does one person's private art collection become something the public inherits? | Founder, Nariway*
+- *Founder, Nariway | Private collections — succession, legacy, and what comes next*
+- *Founder, Nariway | Significant private art collections and what comes next*
+- *(with a credibility anchor) Founder, Nariway | The future of significant private art collections · former startup CFO*
 
-Rationale: lead with the distinctive idea; bank the finance credibility; stay curiosity-forward; don't advertise "advisory" yet.
+Rationale (updated per the HBR positioning): **drop "I study"** — it undersells (sounds like a researcher, not the founder of a strategic advisory) — and **drop "become public institutions"** (too narrow; a new institution is only one outcome). Name the *territory and ambition*; do **not** yet claim a validated advisory service (H7B).
 
 ## About (draft — first-person, warm, credible)
 > I spent twenty years in corporate finance — from audit at Arthur Andersen to CFO of a technology startup, with a doctorate in strategy along the way. I'm also, increasingly, an art person: 100-plus museums, a collector, and fifty-two published essays on artists.
 >
-> **Nariway** is where those two lives meet. I study how significant private art collections become public institutions — museums, foundations, university gifts, lending programs, and forms that don't have a name yet — and what it actually takes to make that transition well.
+> **Nariway** is where those two lives meet — a strategic advisory focused on the future of significant private art collections: what happens to them, and what should come next. A collection can enter public life in many forms — a museum, a foundation, a university gift, a lending program, or something without a name yet.
 >
 > **Artobiography** is where I tell those stories: the lives of remarkable collections and the people who bring them into public view.
 >

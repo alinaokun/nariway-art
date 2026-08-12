@@ -34,7 +34,7 @@
 - **Functions:** [[nariway-cfo|CFO]] (economic) · Research (evidence discipline) · [[nariway-cmo|CMO]] (audience) · Toi (interface). COO deferred.
 
 ## 🗺 The vault (so you can find anything)
-- **company/** — [[chief-of-staff|Toi]] · the org ([[executive-model]]) · the [[advisory-panel]] · `decisions/` (deliberation log)
+- **company/** — [[chief-of-staff|Toi]] · the org ([[executive-model]]) · [[positioning|external positioning]] · the [[advisory-panel]] · `decisions/` (deliberation log)
 - **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note, [[claims-register]], [[nariway-signals]])
 - **cases/** — case notes + packets (board: `Cases.base`)
 - **crm/** — [[prospects]] (Collection Intelligence) + [[partners]] (referral & connection network)
