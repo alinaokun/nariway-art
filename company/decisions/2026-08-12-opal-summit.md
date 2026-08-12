@@ -21,8 +21,8 @@
 
 If Dawn's read is positive and you can name the goal → **go.** It's a ~$3,195 day-trip to your #1 referral channel, on-thesis, with a warm contact inside. Only redirect to the Nov NYC week if Dawn says it's not your crowd or you can't name a goal.
 
-## Decision
-_pending Alina._
+## Decision — **DECLINE** (2026-08-12)
+Do not attend. Resolved by the inside contact the panel gated on. Alina reconnected with **Dawn Mari La Monica** (former Opal speaker, personal contact), who replied within minutes and was unambiguous: do not go at that price, the summit is "just full of service providers," and "for real art you want a different crowd." That is the exact redirect condition the recommendation named ("only redirect if Dawn says it's not your crowd"). Budget and energy redirect to the **Nov NYC referral week** (denser, three months of prep) and to **Dawn's own offer to help**, which is a warmer and free path into the same world.
 
 ## Outcome
-_to record after — attended? conversations had? names added? was it worth it?_
+Not attending. The $3,195 stays unspent. The larger win is the reopened Dawn relationship: she offered to help directly and is sending her materials. Next moves live in [[Dawn Mari La Monica]]. Standing intelligence for [[events-radar]]: a former speaker rates Opal as a service-provider room, not a collector room — weight future "legacy/family-office" events by *who is actually in the room*, not the theme.
