@@ -14,7 +14,8 @@
 ## 📌 Decisions on the table
 - **💸 Opal Legacy Summit (~$3,195, Aug 25–26)** — [[advisory-panel|Advisory Panel]], updated ([[2026-08-12-opal-summit|record]]): **lean YES** — drivable from Montvale (no lodging) + you know former speaker **Dawn Mari La Monica**. Gated on: **call Dawn this week** (is it worth it? intros?) + name one concrete goal.
 - **🛰 Signals cadence:** schedule it weekly-automatic, or Toi runs it each check-in? (Cycle 1 filter looked clean.)
-- **Two no-article moves** (publication is *not* the gate): start ~2 [[problem-discovery]] conversations; begin a few Substack Notes ([[experiment-ledger]]).
+- **📝 Substack Notes: 7 drafts ready** ([[substack-notes-queue]]) — pick/edit/schedule ~2–3/week. And start ~2 [[problem-discovery]] conversations (publication is *not* the gate).
+- **💰 CFO target set: $1M+/yr ASAP** — needs a *portfolio* (advisory + a scalable/productized stream); H7B still gates. See [[business-model-ledger]].
 - **Case #2:** [[di-rosa]] (distress) or [[terra]] (collapse).
 - **Protocol fix (frozen):** add a *primary-document acquisition* step? Your call.
 - **Voice register** for Artobiography (warm vs. Nariway-signature) — at first full draft.
@@ -41,7 +42,7 @@
 - **institution-building/** — how a collection becomes an institution: [[decision-map]] · [[knowledge-base]] · [[specialist-map]]
 - **artobiography/** — editorial: locked [[format-v0.1|format]] + the structure study
 - **finance/** — [[nariway-cfo|CFO]], ledgers, [[problem-discovery]]
-- **marketing/** — [[nariway-cmo|CMO]] · [[experiment-ledger|experiments]] · [[opportunity-radar|radar]] · [[events-radar|events]] · [[linkedin|LinkedIn]] · [[website|Website]] · [[travel|Travel]]
+- **marketing/** — [[nariway-cmo|CMO]] · [[experiment-ledger|experiments]] · [[opportunity-radar|radar]] · [[events-radar|events]] · [[linkedin|LinkedIn]] · [[website|Website]] · [[substack|Substack]] · [[travel|Travel]]
 - **debriefs/** — this page's dated archive
 - **archive/** — the original brainstorm
 

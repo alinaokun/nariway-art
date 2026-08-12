@@ -2,6 +2,15 @@
 
 *Competing monetization hypotheses, stewarded by the [[nariway-cfo]]. Kept deliberately SHORT — **three active, everything else parked** — so the CFO doesn't spend attention on revenue ideas that aren't remotely ready. Tags: [EXTERNAL BENCHMARK] documented outside number · [FOUNDER ASSUMPTION] · [CFO INFERENCE]. No row has [ACTUAL] revenue — Nariway has earned $0. Confidence stays low until a real prospect responds to a real offer — and that is the **founder's** call to reach through conversations, not a number the CFO can compute.*
 
+## 🎯 The target: $1M+/yr, as soon as possible (founder's goal, 2026-08)
+Standing CFO north star: **$1M+ annual revenue, minimum, ASAP** — and a continuous mandate to surface and pressure-test income streams toward it.
+
+**Honest math (from the founding brief):** a solo *bespoke* advisory practice plausibly reaches ~$300–700K; **$1M is hard solo and needs a *portfolio*** — high-value engagements **plus at least one scalable / productized stream** (research & benchmarking reports, an institutional data subscription, licensing the collector-founded-institution dataset), possibly with leverage (contract specialists, eventually a second person). *This is exactly why the [[institution-building]] IP and the case database matter commercially, not just intellectually — they're the scalable leg.*
+
+**Illustrative $1M portfolio (placeholders, NOT a forecast — replace with evidence):** 3–4 high-value advisory/feasibility engagements ($300–600K) + a productized research product / institutional subscription ($200–400K) + Artobiography & other recurring ($50–150K).
+
+**Discipline unchanged:** the target raises *ambition*, not the *sequence*. **H7B still gates** — validate the first paid engagement before betting on the portfolio, and don't let a big number justify premature spend or build. The CFO's job is to hold the ambition *and* the honesty at once.
+
 ## Active hypotheses (3)
 
 | Model | Evidence FOR | Evidence AGAINST / unknown | Pricing anchor | Confidence |

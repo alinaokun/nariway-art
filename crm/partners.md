@@ -24,4 +24,7 @@
 | Name / firm | Type | Expertise | Geography | Stage | Notes |
 |---|---|---|---|---|---|
 | **Dawn Mari La Monica** | connector / referral | Family-office / private-wealth (former Opal Legacy Summit speaker) | — | **warm (knows personally)** | Ask re: Opal summit value + intros; potential referral source / discovery conversation |
+| **Hall W. Rockefeller** | art-world / media (connector) | Women-artist collecting; founder of [Less Than Half](https://lessthanhalf.org) (Collectors Circle, Substack) | — | **warm (Q&A interview, Apr 2024)** | Reached out via Artobiography; collector-education + art-world network; possible collaborator/intro. [Interview](https://www.artobiography.co/p/empowering-women-to-support-female) |
+| **Adam Szymanski, PhD** | art advisor | Fine-art advisory (came via film/theory); [adamszymanski.art](https://adamszymanski.art) | Berlin, DE | **warm (written interview)** | The 2nd Artobiography interviewee. [Interview](https://www.artobiography.co/p/this-is-exactly-why-you-should-be) |
+| **George Bothamley** | writer / connector | [Art Every Day](https://arteveryday.substack.com) (Substack, art-history storytelling) | London, UK | **warm (introduced her to an artist)** | Complementary Substack audience — possible cross-promo / Notes network |
 | *(add your existing contacts here)* | | | | | |
