@@ -4,8 +4,8 @@ A work-function (no persona) that monitors the legal dimension of everything Nar
 
 **The boundary (first rule, non-negotiable).** This function is **not a lawyer and does not give legal advice.** It spots issues, explains why they matter, and tells Alina when to bring in real counsel. Nothing here is a substitute for a licensed attorney, and the function's most valuable output is often "this one needs a lawyer, here is the question to ask them." Same discipline as [[institution-building]]'s specialist line.
 
-## Entity context
-Nariway and Artobiography operate under **Pulsar Innovation LLC, a New Jersey entity formed in 2021.** That LLC is the contracting party, the IP owner, and the liability shield. (Open questions for a real attorney as the advisory grows, whether the LLC is the right vehicle for a client-facing advisory practice, and how personal liability is managed.)
+## Entity context (confirmed 2026-08)
+Nariway and Artobiography operate under **Pulsar Innovation LLC, a single-member New Jersey LLC formed in 2021**, and Alina expects **all her ventures to sit under this one entity.** The LLC is the contracting party, the IP owner, and the liability shield. Neither "Nariway" nor "Artobiography" is trademarked. There is a CPA who handles tax filing but is not involved in the business; no business attorney is currently engaged.
 
 ## Standing watch areas
 - **Entity and liability.** Is the LLC the right structure once paid advisory work begins? Engagement terms, limitation of liability, insurance (E&O). Flag to counsel before the first paid engagement.
@@ -15,5 +15,9 @@ Nariway and Artobiography operate under **Pulsar Innovation LLC, a New Jersey en
 - **Publishing risk (Artobiography and the flagship report).** Defamation, fair use of quotations and images, accurate attribution, and the "prose must not outrun verified research" rule, which is also a legal-risk reducer. The report cites others' data and reproduces figures, so attribution and fair-use are live.
 - **Data and privacy.** The CRM holds third parties' personal data. Hold the public-sources-only guardrail, mind the LinkedIn export and the email intake, and avoid compiling private personal data. A privacy posture becomes a real question if the newsletter or a client portal collects data.
 
-## Open questions worth Alina's input
-Does she have a current attorney to route these to? Is "Nariway"/"Artobiography" already trademarked? Will the advisory sit inside Pulsar Innovation LLC or a new entity? These sharpen the watch.
+## Live flags from these facts (all "discuss with an attorney", not advice)
+- **Trademark.** Neither name is registered. Worth a clearance search and considering registration for **Nariway**, **Artobiography**, and the report title, ideally before the report launches publicly under these brands. An attorney (or a considered DIY search) is the next step.
+- **Trade names.** If the LLC operates publicly as "Nariway" and "Artobiography," NJ **alternate-name (DBA)** registration for Pulsar Innovation LLC is likely appropriate. Flag for the attorney.
+- **Single-member liability.** Single-member LLC veils can be treated as weaker; **maintain formalities** (a separate business bank account, no commingling of personal and business funds, contracts signed in the LLC's name) to preserve the shield. Get **E&O insurance** before the first paid engagement.
+- **Everything in one entity.** With all ventures under one LLC, liability is shared across them. Whether the client-facing advisory (higher risk than a newsletter) should be segregated into its own entity, or simply covered by insurance and strong engagement terms, is a real question for an attorney once paid work is near.
+- **No business attorney engaged.** These items should route to one before the first client contract. Framing them now so the eventual conversation is efficient.
