@@ -10,9 +10,9 @@ Built by the [[substack]] function. The Substack and adjacent writers relevant t
 
 ## Read — authorities to know closely
 
-**[The Gray Market](https://thegraymarket.substack.com)** — Tim Schneider (former Artnet art-business editor). Free plus paid, high cadence. The most rigorous independent analyst of art-market mechanics on Substack, markets, law, finance, institutions. Essential background for any argument about how value and money move around a collection. *Also an Engage target, a restack here reaches exactly the right readership.*
+**[The Gray Market](https://thegraymarket.substack.com)** — Tim Schneider (former Artnet art-business editor). Free plus paid, high cadence. The most rigorous independent analyst of art-market mechanics on Substack, markets, law, finance, institutions. Essential background for any argument about how value and money move around a collection. *Also an Engage target, a restack here reaches exactly the right readership.* **Status: subscribed (Aug 2026).**
 
-**[The Art Bystander](https://theartbystander.substack.com)** — Roland-Philippe Kretzschmar. Free plus paid, high cadence, large cross-platform following. On the shifting power structures of the art world with a strong collector-facing lens, directly on Nariway's terrain of taste, collector behavior, and institutional power. *Read plus Engage.*
+**[The Art Bystander](https://theartbystander.substack.com)** — Roland-Philippe Kretzschmar. Free plus paid, high cadence, large cross-platform following. On the shifting power structures of the art world with a strong collector-facing lens, directly on Nariway's terrain of taste, collector behavior, and institutional power. Its Aug 2026 wealth-transfer analysis is logged in [[market-intelligence]] #1. *Read plus Engage.* **Status: trialing, 7-day (Aug 2026).**
 
 **[Provenance Watch](https://provenancewatch.substack.com)** — a provenance researcher and activist. Free plus paid, one to two posts a week. Cultural property, provenance, restitution, the title and provenance risk that shadows any major collection entering an institution. The art-law and cultural-property brief.
 
@@ -27,7 +27,7 @@ Built by the [[substack]] function. The Substack and adjacent writers relevant t
 
 ## Engage — peers where engagement builds presence
 
-**[Less Than Half](https://lessthanhalf.substack.com)** — Hall W. Rockefeller. Women artists and women as collectors, collecting as impact, the idea of "Matronage." Already in Alina's orbit and in the [[partners]] CRM, and the closest peer on the collecting-philosophy axis. The highest-value engagement relationship on this list. *Read plus Engage.*
+**[Less Than Half](https://lessthanhalf.substack.com)** — Hall W. Rockefeller. Women artists and women as collectors, collecting as impact, the idea of "Matronage." Already in Alina's orbit and in the [[partners]] CRM, and the closest peer on the collecting-philosophy axis. The highest-value engagement relationship on this list. *Read plus Engage.* **Status: paid subscriber.**
 
 **[Art Forecast](https://artforecast.substack.com)** — Tatum Dooley (writes for Artforum, AD, Vogue). Free plus paid, thousands of subscribers, pivoting in 2026 toward the people who make up the art world rather than market gossip. An established essayistic peer with a sensibility close to Artobiography. A strong cross-recommendation candidate.
 
