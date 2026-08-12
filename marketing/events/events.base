@@ -12,6 +12,9 @@ views:
       - cost
       - decision
       - deadline
+    sort:
+      - property: date
+        direction: ASC
   - type: cards
     name: Board
     order:
