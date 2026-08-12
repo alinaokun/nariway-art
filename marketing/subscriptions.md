@@ -34,9 +34,8 @@ One screen, three buckets.
 No emojis, clickable links, dates and costs concrete. Governed by the same sourcing discipline as [[nariway-signals]].
 
 ## How to hand off an issue, or any email
-Three ways, same result.
-- **Right now:** forward or paste the email into a chat, or open it in the logged-in browser and say the word. The brief comes back the same session.
-- **Async (the drop folder):** save the email into `OneDrive\Documents\0 - Nariway\Inbox for Claude`. The 7am Signals run reads it, decides what needs action, reports it in the daily email, files anything relevant, and moves the file to Processed. This is the "forward it and forget it" path for things that can wait until morning.
-- **Optional true forwarding address:** a one-time Gmail-label plus Apps Script wiring can auto-land forwarded emails in that folder, so a forward or a label is all it takes. Set up on request.
+Two ways, same result.
+- **Forward and forget (the standing setup):** forward any email to `alinaokun+claude@gmail.com`, or apply the Gmail label "Claude." A Gmail filter labels it, and each morning a local script (`C:\Users\alina\.nariway\gmail_fetch.py`, run as the first step of the daily Signals task) pulls everything labeled "Claude" via IMAP into `OneDrive\Documents\0 - Nariway\Inbox for Claude`. The run then reads each one, decides what needs action, reports it in the daily email, files anything relevant, and moves the file to Processed. This is the default path for anything that can wait until morning.
+- **Right now:** forward or paste the email into a chat, or open it in the logged-in browser and say the word. The brief comes back the same session. Use this for anything urgent.
 
-There is no live inbox connection and no Gmail connector available in this setup, so nothing reads Alina's mailbox on its own. The drop folder is how an email reaches Toi without her mailbox being exposed.
+There is no live inbox connector here, so nothing reads Alina's mailbox continuously. The IMAP pull uses an app password she stores locally at `C:\Users\alina\.nariway\gmail_imap.txt` (never in chat, never in git), the same pattern as the Resend key. Only emails she labels "Claude" are ever read.
