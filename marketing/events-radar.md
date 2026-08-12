@@ -2,6 +2,16 @@
 
 *Where it's valuable for Alina to show up — conferences, museum/collection/foundation openings, fairs, gatherings — for learning, for meeting referral sources, and because she plans travel around museums. Fed by [[nariway-signals]]. (Distinct from [[opportunity-radar]], which tracks media/partnership/interview opportunities; this one tracks **physical events & travel.**) Conferences where referral sources gather do double duty as relationship-building.*
 
+## 🔗 Official sites (so you don't Google)
+- **Opal Legacy Summit** → [opalgroup.net](https://opalgroup.net) *(you already have the summit page)* · venue [Parrish Art Museum](https://www.parrishart.org)
+- **Heckerling** → [heckerling.law.miami.edu](https://heckerling.law.miami.edu)
+- **AAA National Conference** → [appraisersassociation.org](https://www.appraisersassociation.org)
+- **Center for Art Law** → [itsartlaw.org](https://itsartlaw.org)
+- **AAM Annual Meeting** → [aam-us.org](https://www.aam-us.org)
+- **Deloitte Art & Finance** → [art & finance report page](https://www.deloitte.com/nl/en/services/deloitte-private/research/art-and-finance-report.html)
+- **TEFAF** → [tefaf.com](https://www.tefaf.com) · **Art Basel** → [artbasel.com](https://www.artbasel.com) · **Frieze** → [frieze.com](https://www.frieze.com)
+- **Lucas Museum** → [lucasmuseum.org](https://www.lucasmuseum.org) · **Fondation Beyeler** → [fondationbeyeler.ch](https://www.fondationbeyeler.ch)
+
 ## Schema
 `event · type (conference · opening · fair · exhibition · gathering) · date(s) · location · why valuable (learning / network / referral-source density / worth-seeing) · deadline (registration or submission) · decision (go / maybe / skip)`
 

@@ -1,0 +1,19 @@
+filters:
+  and:
+    - type == "prospect"
+views:
+  - type: table
+    name: Prospects
+    order:
+      - file.name
+      - fit
+      - focus
+      - geography
+      - signal
+      - source
+  - type: cards
+    name: Board
+    order:
+      - fit
+      - focus
+      - geography

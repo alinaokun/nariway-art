@@ -10,6 +10,9 @@
 | **Partners** | referral sources & specialists worth knowing (estate/T&E attorneys, family offices, insurers, museum people, planners, conservators) | [[partners]] |
 | **Events & travel** | conferences, museum/collection/foundation openings, fairs, gatherings worth attending | [[events-radar]] |
 
+## Sourcing rule (standing)
+**Every retrieved item carries a clickable source link** — a markdown `[title](url)`. Research agents are instructed to always return real URLs; registers store them (a `source:` property + a `[Source]` link in each note, or a linked cell in a table). No bare source *names* — Alina should never have to Google to reach the original.
+
 ## Cadence & escalation
 - **Silent collection** — nothing reaches you because it was found.
 - **Weekly digest ("Nariway Signals")** — ~5–10 genuinely relevant items across the four beats, each with one line on why it matters and where it was filed. *Radar is continuous; thinking is weekly.*
