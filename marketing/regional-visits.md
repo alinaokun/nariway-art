@@ -76,3 +76,12 @@ Her own picks off the trail, grouped for efficient day-trips. Almost all are sma
 ## Just beyond the radius, worth the overnight
 - **[The Hyde Collection](https://www.hydecollection.org)** — Glens Falls, NY, ~3.5 hrs. The Hydes' collection (El Greco, Rembrandt, Degas) in their intact house.
 - **[Chesterwood](https://www.chesterwood.org)** — Stockbridge, MA, ~2.75 to 3 hrs. Daniel Chester French's home and studio; pairs with the Clark (Sterling and Francine Clark's collection) in Williamstown.
+
+## Art trails and multi-museum passports (the CT Art Trail idea, elsewhere)
+Other consortia and trails Alina can use, drivable ones first. Note, the CT Art Trail's tightly branded, passport-driven, museum-consortium format is genuinely **rare**, the Maine trail is its nearest true peer. A small point for the thesis: how seldom private collections coalesce into a shared, visitable public network.
+- **[Hudson River Art Trail](https://www.hudsonriverschool.org/)** — Hudson Valley, NY. Run by the Thomas Cole National Historic Site with **Olana**; links the actual landscapes the Hudson River School painted, anchored by two major house museums. Very drivable, ties to the upper-Hudson weekend above.
+- **[Brandywine Treasure Trail Passport](https://www.visitwilmingtonde.com/passport/attractions/)** — Brandywine Valley (SE PA and Delaware), ~2 hrs. A 12-site passport including the **Brandywine Museum of Art** and the **Delaware Art Museum**. Broader than art-only.
+- **[Berkshires art trail](https://www.theartnewspaper.com/2025/01/17/berkshires-art-trail-mass-moca-clark-art-institute)** — Williamstown/North Adams, MA. In planning (a walking route to connect the **Clark**, **Williams College Museum of Art**, and **MASS MoCA**). Even without the trail, those three are a superb self-guided Berkshires cluster for a weekend.
+- **[Maine Art Museum Trail](https://www.maineartmuseums.org/)** — Maine. Nine art museums along a ~350-mile route; the closest true analog to Connecticut's. For a Maine trip.
+- **[Historic Artists' Homes and Studios](https://savingplaces.org/guides/hahs-2026-sites)** — national. A National Trust network of 50+ preserved artist home and studio museums; find the ones near any trip. Many are tour-based, so check access.
+- No New Jersey equivalent exists (library museum-pass programs only, no branded art trail).
