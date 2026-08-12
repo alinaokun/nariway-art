@@ -6,7 +6,10 @@
 Substack ships features constantly (Notes, scheduling, recommendations, subscriber tools, video, chat, etc.). This function **periodically checks Substack's product updates** and flags anything Nariway should adopt or change — so Artobiography always uses the platform well. *(A light beat; surfaces via [[nariway-signals]] when there's something worth acting on — not constant noise.)*
 - **Known now:** Notes can be **scheduled** in Substack → we can batch-draft and queue.
 
-## 2. Notes drafting (the "research breadcrumbs" experiment)
+## 2. Discovery (whom to read, engage, follow)
+Find and rank the Substack and adjacent writers relevant to Nariway, for reading, for learning, and for the engagement and mutual-recommendation relationships that grow the audience. Live register → [[substack-register]] (Read / Engage / Follow, with verification flags). Refresh periodically and as [[nariway-signals]] surfaces new voices.
+
+## 3. Notes drafting (the "research breadcrumbs" experiment)
 The active audience-discovery experiment ([[experiment-ledger]]): short observations from the research, thinking publicly. A drafting sub-agent produces **batches for review** → [[substack-notes-queue]].
 - **Rule (from the CMO):** these are *breadcrumbs, not a treadmill.* Genuine observations, ~2–3/week when there's something worth saying — do NOT force one every day. **Toi drafts; Alina reviews, edits, and schedules.** Nothing posts without her.
 - **Voice:** Artobiography's warm, first-person, curious register — an observation, not a pitch. Apply the *prose-can't-outrun-research* rule ([[format-v0.1]]) and the [[claims-register]] for any number.

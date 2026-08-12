@@ -14,6 +14,9 @@ The definitive list is being built by research now, across books, reports, publi
 ## Scope
 Collector-founded museums and private foundations, the future and legacy of private collections, art and estate and succession planning, cultural philanthropy and museum gifting, museum governance and long-term sustainability, deaccessioning, art-secured finance, and the economics of the art market as it bears on collections.
 
+## Substack and newsletters
+Whom to read, engage, and follow on Substack and adjacent platforms is kept in [[substack-register]], maintained by the Substack function.
+
 ## People to follow directly
 Clare McAndrew (the field's principal market economist, author of the Art Basel and UBS reports). Olav Velthuis (art-price sociology). Martin Gammon (deaccessioning). Andrew McClellan (the museum-idea historian). James Cuno (the encyclopedic-museum argument, former Getty head, worth reading with his critics). Gail Dexter Lord and Barry Lord (museum planning). Georgina Adam (the market's money flows). Rachel Pownall (art finance, Maastricht).
 
