@@ -34,6 +34,28 @@ The short list of things only you can do, most useful first.
 
 ---
 
+## Intel to pursue
+
+Kept here so it stays in front of you. Full context in the linked registers.
+
+**People in your own network worth a real look** — full list and why in [[warm-network]]
+- **Nina Kong-Surtees** — an art-legacy advisor already doing a version of this, your closest peer
+- **Loring Randolph** — directs the Nancy A. Nasher and David J. Haemisegger collection
+- **Judith Prowda** — art law, Stropheus and Sotheby's Institute
+- **Elizabeth Merritt** — Founding Director, AAM Center for the Future of Museums
+- **Rebecca Fine** — Metis Fine Art Finance
+- **Alanna Butera** — art advisory and appraisal
+- *Gaps to fill deliberately: trusts-and-estates attorneys and museum directors.*
+
+**Reading and newsletters worth following** — full list and tiers in [[substack-register]] and [[learning]]
+- **The Gray Market** (Tim Schneider) — the sharpest read on art-market mechanics
+- **The Art Bystander** — collector behavior and institutional power
+- **Provenance Watch** — cultural property and title risk
+- **Less Than Half** (Hall W. Rockefeller) — women and collecting, and already a warm contact
+- Track at the source: **Katya Kazakina** (Artnet), **Georgina Adam** (The Art Newspaper), the **Center for Art Law**
+
+---
+
 ## Workspaces
 
 - Cases → `cases/` (Cases.base) · Prospects → `crm/prospects` · Partners → `crm/partners` · Warm network → [[warm-network]] · Events → `marketing/events` (events.base, with cost)

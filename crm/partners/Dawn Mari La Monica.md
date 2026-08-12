@@ -5,7 +5,7 @@ expertise: "Family-office / private-wealth"
 geography: ""
 stage: active
 last_contacted: 2026-08-12
-next_followup: 2026-08-12
+next_followup: 2026-08-13
 priority: high
 email: dawn@dawnmari.co
 website: dawnmari.co/familyoffice
@@ -16,7 +16,8 @@ Personal contact; **former Opal Legacy Summit speaker**. A warm door into the fa
 ## Interactions
 - 2026-08-12 — **Sent reconnect email** (first contact in ~2 years). Reintroduced Nariway's refocus on helping collectors decide what becomes of their art as legacy; asked whether the Opal Legacy Summit ($3,195, in two weeks) is worth attending.
 - 2026-08-12 — **Dawn replied within minutes, warmly.** Clear steer: **do not attend Opal at that price** — it is "just full of service providers," and "for real art you want a different crowd." **Offered to help otherwise** ("I can help you otherwise"). Said she will **send her materials under separate cover**, as her own work "is an evolution."
-- 2026-08-12 — **Sent her platform materials (four PDFs) and asked for a 30-minute call** tomorrow/Friday or Tues/Wed next week, requesting a few time options and time zone. **ACTION: reply today with 2 to 3 ET time slots.** Materials on file in the email intake (Processed). Summary below.
+- 2026-08-12 — **Sent her platform materials (four PDFs) and asked for a 30-minute call** tomorrow/Friday or Tues/Wed next week, requesting a few time options and time zone. Materials on file in the email intake (Processed). Summary below.
+- 2026-08-12 — **Alina replied same day**, warm and enthusiastic, agreed to catch up tomorrow or Friday, and teased a story about how [[Hall W. Rockefeller]] once reached out to her. **Waiting on Dawn to name a time.**
 
 ## Notes
 Referral source and first discovery conversation, now open. Her Opal read resolved [[2026-08-12-opal-summit]] (decline). **Open follow-ups:** reply today with call times; on the call, learn her model and ask where the real collectors gather and how a cross-referral could work. Email: dawn@dawnmari.co.
