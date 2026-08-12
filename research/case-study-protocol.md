@@ -1,5 +1,7 @@
 # Nariway Institutional Case Study Protocol — v0.1
 
+> **Report-grade standard:** cases that feed the [[flagship-report]] follow [[case-template]], which adds a coded, chartable header and controlled vocabularies on top of this protocol's narrative blocks.
+
 *One methodology within the [Nariway Research Program](research-program.md) — it governs how a **single** collection/institution case is studied. Every Artobiography case study is produced through this protocol, and each one simultaneously serves three readers: the public (a story), the founder (learning), and the future advisory practice (pattern + network). Its **primary** job is the founder's learning.*
 
 ---

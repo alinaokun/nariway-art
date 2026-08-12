@@ -1,5 +1,7 @@
 # Nariway Case Packet — McNay Art Museum / Marion Koogler McNay
 
+> **Fresh-eyes review done (2026-08).** Verdict: a strong, honest prototype, but a research packet, not yet a codeable data row. Its coded header and report-grade fix-list now live in [[case-template]] (the standard every case follows). Bring this packet to report grade via that fix-list before it feeds any [[flagship-report]] chart.
+
 *Case #1. Produced via the [Institutional Case Study Protocol](../research/case-study-protocol.md) as the knowledge-engine prototype. This is a **research packet, not an article** — sourced facts, pointers to primary sources for the founder to read, flagged gaps/contradictions, and the questions only an interview/archive can answer. Confidence tags: **[Verified: primary]** (IRS filing / architectural record / first-person source) · **[Reported: secondary]** (encyclopedic/institutional/press) · **[Unclear/contested]** (sources disagree or claim is unsourced).*
 
 > **The single most important caveat:** the two bedrock primaries — **Marion McNay's will + Bexar County probate file (1950)** and the **McNay institutional archives** — could not be accessed by desk research. Almost every governance/constraint/endowment fact below is therefore *reported*, not *verified*. Resolving them requires the founder's own archive/interview work. *(This is itself a finding — see the assessment note.)*
