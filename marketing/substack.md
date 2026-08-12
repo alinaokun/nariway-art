@@ -2,6 +2,12 @@
 
 *A CMO work-function (no persona). Artobiography is published on **Substack**. Two jobs:*
 
+## 0. Profile (the front door)
+When a stranger finds Alina through a Note or a restack, the profile decides whether they subscribe. It should establish credibility fast, say what they will get, and read like her. Current bio ("Author of The Brief Experiment | Founder of Nariway", 434 subscribers) does the credibility but not the reader benefit, a visitor cannot tell what Artobiography is about.
+- **Recommended bio (lead option):** *Author of The Brief Experiment and founder of Nariway. In Artobiography I write about remarkable art collections and the people who bring them into public view.* (Carries the editorial promise from [[format-v0.1]] and tells the reader what they will get.)
+- **Alternates:** *Founder of Nariway and author of The Brief Experiment. I write about what becomes of great private art collections.* · *Author of The Brief Experiment. In Artobiography, the stories behind remarkable collections and the people who bring them into public view.*
+- **Also review:** the 4 profile links (point them at Nariway and a best-of Artobiography piece, not stale destinations); keep the strong headshot; the writer identity leads on Substack, the advisor identity supports. Governed by [[positioning]] and [[voice]].
+
 ## 1. Platform intelligence (stay optimal as Substack evolves)
 Substack ships features constantly (Notes, scheduling, recommendations, subscriber tools, video, chat, etc.). This function **periodically checks Substack's product updates** and flags anything Nariway should adopt or change — so Artobiography always uses the platform well. *(A light beat; surfaces via [[nariway-signals]] when there's something worth acting on — not constant noise.)*
 - **Known now:** Notes can be **scheduled** in Substack → we can batch-draft and queue.
