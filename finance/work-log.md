@@ -1,0 +1,16 @@
+# Work Log — daily hours and location (tax record)
+
+A clear daily record of Alina's working hours and location, for tax substantiation (owned by the [[tax|Tax]] function, alongside the receipts discipline). Location matters because work performed in different states or countries can carry tax consequences, and hours support the business-purpose case for expenses.
+
+## How this is kept (the mechanism)
+- **Location** is asserted by Toi from what is known: home base is **Montvale, NJ** by default, and the [[travel|trip calendar]] overrides it on travel days (Atlanta Sept 2–8, DC in October, Berlin Oct 14–18, Milan first week of December). Alina corrects any exception.
+- **Hours** are entered by Alina, because Toi cannot independently verify a full workday. Toi records an estimate from our session activity as a **starting figure to confirm**, and the number is not authoritative until Alina confirms it. She can also just say "worked ~X hours today" and it is logged exactly.
+- **The daily [[chief-of-staff|check-in]] email** shows the prior day's entry (asserted location, estimated hours) and asks Alina to confirm or correct, so the log stays current with one quick reply.
+- Honest limit: these are Alina's own records to stand behind; Toi maintains the structure and prompts, the CPA handles anything tax-technical.
+
+## Log
+| Date | Location | Hours | Focus | Confirmed |
+|---|---|---|---|---|
+| 2026-08-12 | Montvale, NJ | _to confirm_ | Flagship report launch, case coding, daily check-in + Legal/Tax functions, work log | pending Alina |
+
+*(Add a row per working day. Toi pre-fills location and a draft hours figure; Alina confirms.)*
