@@ -30,7 +30,7 @@
 
 | Name | Founder | Founder | Geography | Thesis | Outcome | Scale |
 |---|---|---|---|---|---|---|
-| di Rosa Center | Rene & Veronica di Rosa | Dec. | Napa, CA | Bay Area / NorCal art specifically | **Distressed** — deaccessioning; 217-acre campus listed $10.9M | 1,600 works |
+| di Rosa Center | Rene & Veronica di Rosa | Dec. | Napa, CA | Bay Area / NorCal art specifically | **Distressed** — 2019 deaccession proposed then HALTED (no works sold); 217-acre campus listed $10.9M (Jan 2026) | 1,600 works |
 | Marciano Art Foundation | Marciano bros. | Living | Los Angeles, CA | Contemporary; free; Masonic-temple conversion | **Closed abruptly 2019** amid unionization; partial by-appt revival | ~1,500 |
 | Terra Museum | Daniel Terra | Dec. | Chicago, IL | American art to 1945 | **Closed 2004** after board/widow legal war → grantmaking foundation | ~700 |
 | Fisher Landau Center | Emily Fisher Landau | Dec. (2023) | Long Island City, NY | Postwar/contemporary American | **Closed 2017**; ~1,200 works → Whitney (orderly wind-down) | ~1,200 |

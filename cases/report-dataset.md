@@ -40,5 +40,27 @@ Sources: shelburnemuseum.org/about · propublica.org/nonprofits/organizations/30
 
 ---
 
-### Early cross-case signal (pilot, not yet conclusive)
-Of the 5 deceased-founder cases here, **all 5 survived the founder** (SGD, Fisher, Phillips, Menil, Shelburne); Neue Galerie is not-yet-testable. Pathways already span standalone-museum, house-origin, loan, dispersal, and merger. This is a small, favorable-by-selection slice, the failure cases (Terra, Corcoran, di Rosa) will balance it. Do not read a survival rate off six hand-picked cases; the point of the pilot is that the template codes cleanly and every cell is sourced or honestly `unknown`.
+### 7. Terra Museum of American Art — Chicago, IL · Spot-verified
+pathway **found-standalone-museum** (→foundation + AIC long-term loan) · founder **Daniel Terra** living (d.1996) · **survived_founder NO** (operated 8 yrs after death but on continuous governance litigation, no succession, did not continue in founded form) · outcome **closed-dispersed** (2004) · durability **failed** · governance **founder-sole** (Terra + son the only original directors) · coherence tight-single-thesis (American art to 1945) · decision **foundation-executive** (widow Judith Terra the contested driver) · **friction governance-conflict** (+succession-failure, legal-challenge) · constraints partial (donor-intent litigated by IL AG).
+Numbers: museum closed **2004** after board/widow litigation; the *successor grantmaking foundation* holds **$614.5M** net assets (FY2025) — **NOT museum durability**; founder gave ~$450M lifetime [ProPublica 36-2999442, primary; IL appellate opinion, primary]. **Flag: a "50-year stay-in-Illinois" settlement term is reported by Wikipedia but ABSENT from the appellate opinion — unresolved.** Museum-era financials/attendance **unknown**.
+Sources: illinoiscourts.gov opinion 1013152 · fnewsmagazine.com/2004-nov · propublica.org/nonprofits/organizations/362999442
+
+### 8. Corcoran Gallery of Art — Washington, DC · Spot-verified
+pathway **donate-existing-museum-scattered** (+merger of school/building into GWU) · founder **W.W. Corcoran** (d.1888) · **survived_founder YES** (ran ~126 yrs, then dissolved) · outcome **dissolved** (2014 cy pres) · durability **failed** · governance **independent-board** · **purpose-built** (Flagg Bldg 1897) · coherence broad-survey · decision foundation-executive (Judge Robert Okun approved) · **friction funding-gap** (+legal-challenge "Save the Corcoran") · **constraints yes** (1869 deed of trust, broken by cy pres).
+Numbers: dissolved **Aug 2014**; **19,493 objects distributed** (8,300+ to NGA as "The Corcoran Collection at the NGA," ~10,862 to 22 DC-area institutions) [Art Newspaper]. Endowment fell **$23.2M (2009)→$14.1M (2013)** ≈ 0.45x coverage — the real signal; net assets **$76.8M** / expenses **$28.6M** FY2014 [ProPublica 53-0196641] but **rising book net assets were restricted acquisition funds during failure, NOT health** (C4). $33.8M Clark carpet sale (2013) was restricted to acquisitions.
+Sources: corcoran.gwu.edu/history · news.artnet.com judge-approves-dissolution · nga.gov/artworks/corcoran-collection · propublica 530196641
+
+### 9. di Rosa Center for Contemporary Art — Napa, CA · Spot-verified
+pathway **found-art-park** (+foundation) · founder **Rene di Rosa** living (d.2010) · **survived_founder YES** (16 yrs, still operating but distressed) · outcome **distressed** · durability **weak** · governance independent-board (founder-as-chair) · **adapted-residence** · coherence tight-single-thesis (NorCal contemporary) · decision foundation-executive · **friction funding-gap** · constraints partial (land protected in perpetuity by Land Trust of Napa County; collection was not).
+Numbers: **CORRECTION — the 2019 deaccession was announced then HALTED in 2020; $0 raised, no works ever sold** (the "Bechtle sale" premise is false; that painting is at the Whitney) [Art Newspaper]. Operating entity net assets **−$2.49M (FY2024)** [ProPublica 94-3367956]; asset-holding foundation $8.86M [94-2856000]. **217-acre campus listed $10.9M, Jan 2026** (collection excluded) [Press Democrat]. Collection size contested 1,600 vs 2,200. Founder-estimated ~$4M endowment (2011).
+Sources: theartnewspaper.com 2026/01/22 di-rosa · propublica 943367956 & 942856000 · pressdemocrat.com 2026/01/21
+
+---
+
+### First real signal (pilot complete, 9 cases + McNay)
+The **survived_founder field is doing exactly the work the report needs**, it separates failure modes that a crude "closed = failed" would flatten:
+- **Terra** = did **not** survive the founder (governance vacuum on his death → litigation → closure). Friction: governance.
+- **Corcoran** = survived 126 years, then **dissolved on money** (endowment coverage fell below ~0.5x). Friction: funding.
+- **di Rosa** = survived, still open, but **distressed and drifting** from founding intent (campus for sale). Friction: funding.
+- The 5 thriving/stable survivors (SGD, Fisher, Phillips, Menil, Shelburne) all cleared succession.
+Emerging hypothesis to test at scale: **governance design at founding (independent board + succession plan) predicts survival better than collection value or endowment size** — Terra had ~$450M behind it and still failed on governance; the durable ones had board continuity locked before the founder's death. This is H8-adjacent and must be tested across all 50, not asserted from ten. **Do not publish any rate off ten hand-picked cases;** the pilot proves the template codes cleanly, every cell is sourced or honestly `unknown`, and the agents catch false premises (di Rosa).
