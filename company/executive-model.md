@@ -61,5 +61,8 @@ flowchart TD
 ## Deliberating decisions
 When Alina faces a real choice, Toi convenes the relevant lenses as an **[[advisory-panel|Advisory Panel]]**: each argues a perspective, Toi synthesizes the tension, Alina decides. Same guardrail, lenses not voters. Decisions are logged in `company/decisions/`.
 
+## The reaction loop (standing, proactive)
+The lenses do not wait to be convened. **After every material change, Toi runs a quick reaction pass**: each relevant lens asks *given what just changed, what concrete action would move Alina toward the goal of one million a year?* The strongest, most concrete actions land on HOME under **"What your directors are flagging,"** and HOME's "Your move" is refreshed so it never goes stale. The test every item must pass: it names *why now* and *what to do or say*, never a vague "reach out to X." The CFO's standing job in this loop is to keep flagging when effort has drifted into enrichment (reading, visits, systems) and away from the two things that actually make money, real client conversations and a first paid engagement. Guardrail unchanged: lenses surface and pressure-test, Alina decides and sequences.
+
 ## Growing the org
 New named roles are added only when a genuinely distinct, disagreeing viewpoint is missing (how CFO and CMO earned their place). New subagents are created freely and invisibly by the functions themselves. The org grows from real work, never from an org chart drawn in advance.

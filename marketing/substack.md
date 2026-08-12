@@ -15,6 +15,8 @@ The line under Alina's name shows next to every Note, so it is her most-seen cop
 
 Lead recommendation: **1** (safest short beat) or **3** (name recognition plus beat in one headline).
 
+**CHOSEN (2026-08):** *Artobiography | the future and legacy of great private art collections* (option 3). To set on the Substack profile.
+
 **Also:** point the profile links at the Nariway site and one strong Artobiography piece; writer identity leads, advisor identity supports.
 
 ## Audience state (baseline, Aug 2026)
@@ -46,7 +48,7 @@ The goal is a **restack**, not a like. A restack is worth roughly 12x a like for
 - **Hook, line one.** A specific, verifiable fact, a provenance detail, a concrete scene, or a flat claim. No throat-clearing. Specificity stops the scroll, not elegance.
 - **One idea.** Cut anything serving a second purpose.
 - **Visual ladder.** Two or three beats with a blank line between them, and white space around them. A wall of text is the most common death. The ladder comes from **beat breaks, not from fragmenting sentences.**
-- **Payoff last.** The final beat is a landed statement, built to be restacked. **Not a question** (a closing question cut conversion by about a third).
+- **Payoff last, but concrete.** The final beat is a flat, specific fact or image, built to be restacked. **Not a manufactured moral** ("it was never about X, it was about Y" is the tell to avoid) and **not a question** (a closing question cut conversion by about a third). Let the last fact carry the meaning.
 - **No links in the body** (they suppress reach).
 - **Voice reconciliation ([[voice]]).** A Note is the same voice made simple and readable, not a different grammar. Write **plain, complete sentences, one idea each, the kind a person says out loud.** Avoid both edges, no fragment stacks (three clipped stubs, the machine tell, and a staccato-ban violation) and no dense clause-heavy sentences (which read stiff). Break the beats with blank lines so the white space comes from the breaks, not from chopping sentences. A voice-true Note usually runs a little above the 60-word optimum, an accepted trade. Openers are plain and direct, which is not the same as casual.
 - **Growth is behavior.** Replying to comments and restacking others with an added line of insight moves the list more than any single Note's wording.
