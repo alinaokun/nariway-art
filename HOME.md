@@ -41,9 +41,10 @@ The lenses react to every change and surface actions toward the goal. This updat
 
 ## Where things stand
 
-- Cases mapped, about 70. Designed sample, 10. Packet complete, 1 (McNay).
+- Cases mapped, about 80 now. Designed sample, 10. Packet complete, 1 (McNay, in fresh-eyes review).
 - The question that still decides everything is whether anyone will pay. Untested, and the four moves above are how we start testing it.
 - The company is well built inside. The work now is outward.
+- **New direction, the flagship report.** An annual, data-rich "State of art and legacy" report (à la the State of AI Report), built on the case database, to make Nariway the source at art and finance. This is the scalable leg toward a million. Phased so it never becomes a black hole, and it runs alongside the market conversations, not instead. → [[flagship-report]]
 
 ---
 

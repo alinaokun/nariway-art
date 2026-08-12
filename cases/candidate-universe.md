@@ -150,3 +150,22 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | **Art Bridges "50 for 50"** | Alice Walton | collection-*sharing* by loan (no building) | Living | Bentonville (national) | dispersal-by-loan as public life |
 
 *Older-but-distinctive (flagged): The Brown Collection (Glenn Brown, London, artist-as-collector museum, 2022) · Museum of the American Arts & Crafts Movement (Rudy Ciccarello, St. Petersburg FL, 2021). Low-confidence leads to verify: Lowe→AMSET (Southern folk). Universe now ~70 candidates.*
+
+## Discovery cycle 2 — from travel and regional threads (2026-08)
+*Surfaced while building the travel and [[regional-visits]] work. Provisional; several are strong report cases (collector-founded museums, private collections made public, foundations). Verify before use.*
+
+| Name | Founder | Pathway | Founder | Geography | Thesis / why it matters |
+|---|---|---|---|---|---|
+| **Crystal Bridges** | Alice Walton | standalone (new-build) | Living | Bentonville, AR | American art; a fortune and collection turned into a major public museum in an underserved region — the flagship living example |
+| **Glenstone** | Mitchell & Emily Rales | standalone private museum | Living | Potomac, MD | Contemporary; among the best-funded private museums; art-and-landscape integration; free timed entry |
+| **Magazzino Italian Art** | Nancy Olnick & Giorgio Spanu | private collection → museum | Living | Cold Spring, NY | Arte Povera; a residence collection deliberately built into a public museum (2017) |
+| **Fondazione Prada** | Miuccia Prada & Patrizio Bertelli | collector foundation | Living | Milan, IT | Contemporary; the corporate-collector foundation model at scale |
+| **Museo Poldi Pezzoli** | Gian Giacomo Poldi Pezzoli | house-collection → museum | Dec. (1879) | Milan, IT | A 19th-c collector's home and collection turned museum — the classic historical legacy case |
+| **Barnes Foundation** | Albert C. Barnes | collector foundation (contested) | Dec. | Philadelphia, PA | The canonical donor-intent, indenture, and relocation case; the anchor failure-of-intent story |
+| **Kreeger Museum** | David Lloyd Kreeger | house-collection → museum | Dec. | Washington, DC | Philip Johnson house; collection preserved as a museum |
+| **Grounds For Sculpture** | Seward Johnson | artist foundation → sculpture park | Dec. | Hamilton, NJ | Sculptor-philanthropist's park; the artist-foundation-to-public model |
+| **Dia Art Foundation (Dia Beacon)** | Friedrich / de Menil / Winkler | foundation → permanent installations | Mixed | Beacon, NY | Minimalist and land art; a foundation stewarding a collection permanently public |
+| **Storm King Art Center** | Ralph Ogden & H. Peter Stern | foundation sculpture park | Dec. | New Windsor, NY | Monumental outdoor sculpture; foundation stewardship in the landscape |
+| **Sammlung Boros** | Christian & Karen Boros | private collection, appointment-only | Living | Berlin, DE | Contemporary in a WWII bunker; the appointment-only private-collection-public model |
+| **The Feuerle Collection** | Désiré Feuerle | private collection, appointment-only | Living | Berlin, DE | Southeast Asian and contemporary in a former bunker |
+| **Museum Berggruen** | Heinz Berggruen | collector collection → national museum | Dec. | Berlin, DE | Modern masters; collector placed the holding with the German state (Nationalgalerie) |
