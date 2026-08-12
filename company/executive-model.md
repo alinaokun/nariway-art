@@ -11,7 +11,7 @@ flowchart TD
     CFO["CFO<br/>economic reality"]
     RES["Research<br/>intellectual reality"]
     CMO["CMO<br/>audience reality"]
-    FUN["Functions (no personas)<br/>Artobiography · Collection Intelligence · Models Scan · Institution Building · Case Research · Source Verification<br/>Signals · Network Research · LinkedIn · Website · Substack · Outreach · IT · Learning · Travel & Logistics"]
+    FUN["Functions (no personas)<br/>Artobiography · Collection Intelligence · Models Scan · Institution Building · Case Research · Source Verification · Report Analyst<br/>Signals · Network Research · LinkedIn · Website · Substack · Outreach · IT · Learning · Legal · Tax · Travel & Logistics"]
     SUB["Task subagents<br/>spawned as needed, invisible to you"]
 
     A <--> TOI
@@ -45,7 +45,7 @@ flowchart TD
 
 **CMO — audience reality** (*will the right people find it?*). Relevant reach, not maximum reach; one experiment per objective; owns the opportunity radar and per-article distribution maps; protects you from a content treadmill. Drafts, never posts or sends.
 
-**Functions (no personas).** The actual work, named after the work: **Artobiography** (editorial) · **Collection Intelligence** (public-source opportunity map) · **Models Scan** (new pathways) · **[[institution-building|Institution Building]]** · **Case Research** (packets) · **Source Verification** · **Signals** · **[[network-research|Network Research]]** (mining her own connections for the path) · **[[linkedin|LinkedIn]]** · **[[website|Website]]** · **[[substack|Substack]]** · **[[outreach|Outreach]]** · **[[it|IT]]** (technology and infrastructure, Nariway-specific) · **[[learning|Learning]]** (the reading that keeps her the authority) · **[[flagship-report|Report Analyst]]** (authors the flagship data report to McKinsey/BCG/WEF standard, airtight sourcing) · **[[travel|Travel & Logistics]]**.
+**Functions (no personas).** The actual work, named after the work: **Artobiography** (editorial) · **Collection Intelligence** (public-source opportunity map) · **Models Scan** (new pathways) · **[[institution-building|Institution Building]]** · **Case Research** (packets) · **Source Verification** · **Signals** · **[[network-research|Network Research]]** (mining her own connections for the path) · **[[linkedin|LinkedIn]]** · **[[website|Website]]** · **[[substack|Substack]]** · **[[outreach|Outreach]]** · **[[it|IT]]** (technology and infrastructure, Nariway-specific) · **[[learning|Learning]]** (the reading that keeps her the authority) · **[[flagship-report|Report Analyst]]** (authors the flagship data report to McKinsey/BCG/WEF standard, airtight sourcing) · **[[legal|Legal]]** and **[[tax|Tax]]** (standing watch functions that monitor and flag, and say when a licensed attorney or CPA is needed, never a substitute for one) · **[[travel|Travel & Logistics]]**.
 
 **Task subagents.** Spawned freely by Toi and the functions for specific jobs, then gone. Invisible to you; they escalate only exceptions.
 
@@ -53,7 +53,7 @@ flowchart TD
 
 ## The naming rule
 - **Named, because they should disagree:** CFO, Research, CMO. Plus **Toi**, the interface.
-- **Not named (named after the work):** Artobiography, Collection Intelligence, Models Scan, Institution Building, Case Research, Source Verification, Signals, Network Research, LinkedIn, Website, Substack, Outreach, IT, Learning, Travel & Logistics. These are what agents do, not who they are.
+- **Not named (named after the work):** Artobiography, Collection Intelligence, Models Scan, Institution Building, Case Research, Source Verification, Report Analyst, Signals, Network Research, LinkedIn, Website, Substack, Outreach, IT, Learning, Legal, Tax, Travel & Logistics. These are what agents do, not who they are.
 
 ## The one principle that governs everything
 **Disagreement is a thinking device, not a voting system.** The functions run on the same model and context, so when they converge it is not independent corroboration; it can be the same blind spot twice. Their value is surfacing considerations and tensions Alina might miss, never manufacturing confidence, never overriding her sequencing. **Alina is the integrator; the agents are lenses, not voters.** *(Case in point: CFO and CMO both pointed at publishing McNay, but Alina had deliberately chosen not to publish yet, and that judgment outranks the apparent convergence.)*
