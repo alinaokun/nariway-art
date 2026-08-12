@@ -23,6 +23,8 @@ Built by the [[substack]] function. The Substack and adjacent writers relevant t
 - **Josh Baer**, [The Baer Faxt](https://thebaerfaxt.com), insider market intelligence since 1994. Own site and podcast, not Substack.
 - **[Center for Art Law](https://itsartlaw.org)**, the reference source for deaccessioning, estate planning, and cultural-property law. Worth a standing subscription. Already on the [[learning|reading list]].
 
+**Alina's news subscriptions and the decision on Artnet (2026-08):** she reads **The Art Newspaper daily** (paid), which is her base and already carries Georgina Adam. She just subscribed to the **Center for Art Law** newsletter. **Decision: do not add Artnet.** It overlaps heavily with The Art Newspaper, and its one distinctive Nariway-relevant piece, Katya Kazakina's column, sits behind Artnet Pro; [[nariway-signals|Signals]] already surfaces her standout pieces in the daily digest. Staying lean beats newsletter overwhelm. Current set: The Art Newspaper (paid), Center for Art Law, plus the Substack Read tier (The Gray Market, The Art Bystander trial) and Less Than Half.
+
 ---
 
 ## Engage — peers where engagement builds presence

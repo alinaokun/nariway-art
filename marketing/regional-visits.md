@@ -9,6 +9,19 @@ Smaller, collection-driven museums and artist/collector sites within roughly a 2
 4. **[Caramoor / Rosen House](https://caramoor.org)** — Katonah, NY, ~50 min. Collection-plus-foundation with the domestic setting intact, the most efficient serious stop on the map.
 5. **[Neuberger Museum](https://neuberger.org)** — Purchase, NY, ~40 min. The clean "collector gives to a university, a museum is built around it" model, minutes away.
 
+## Suggested routes (Barnes done; making the rest happen)
+Grouped so each is one outing with little travel, in rough priority order.
+1. **Westchester, a half day, ~40 to 50 min out.** Neuberger (Purchase) and Caramoor (Katonah), two of the top five, about 20 minutes apart. Add Kykuit or Lyndhurst (Tarrytown) to fill the day.
+2. **Hudson Highlands, a full day, ~1.25 hrs.** Magazzino (Cold Spring, top five), Manitoga and Boscobel (Garrison), all minutes apart. Dia Beacon and Storm King are right there if you want two days.
+3. **Connecticut Gold Coast, a day, ~1 hr.** The Glass House (New Canaan, reserve ahead), Grace Farms, the Aldrich (Ridgefield), the Bruce (Greenwich). Silvermine and Bush-Holley if time allows.
+4. **Connecticut shoreline and Hartford, a day or overnight, ~2 hrs.** Hill-Stead (Farmington, top five), the Wadsworth (Hartford), New Britain. Pair with a New Haven day (Yale Center for British Art and Yale University Art Gallery).
+5. **New Jersey, easy add-ons.** Montclair (30 min, anytime) and Grounds For Sculpture (Hamilton, ~1.25 hrs); pair Grounds For Sculpture with the Michener (Doylestown, PA), which is close.
+6. **Brandywine and eastern PA, a day or overnight, ~2 to 2.5 hrs.** Brandywine, Wharton Esherick, Michener.
+7. **Long Island, a dedicated weekend.** Parrish (Water Mill), Nassau County (Roslyn), Pollock-Krasner and LongHouse (East Hampton), Heckscher (Huntington). Ties naturally to any East End trip.
+8. **The overnights, for a weekend.** Olana (Hudson) with a Berkshires leg for Chesterwood and the Clark (Williamstown); the Hyde (Glens Falls) is farther still.
+
+Start with 1 and 2, they are the closest and hold three of the four top-five stops that are not Barnes, then work outward.
+
 ## Connecticut (closest and richest)
 - **[The Glass House](https://theglasshouse.org)** — New Canaan, ~1 hr. Philip Johnson's house, landscape, and collection preserved intact. Reservation only, Apr to Dec.
 - **[Hill-Stead Museum](https://hillstead.org)** — Farmington, ~2 hrs. See top 5.

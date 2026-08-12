@@ -3,10 +3,18 @@
 *A CMO work-function (no persona). Artobiography is published on **Substack**. Two jobs:*
 
 ## 0. Profile (the front door)
-When a stranger finds Alina through a Note or a restack, the profile decides whether they subscribe. It should establish credibility fast, say what they will get, and read like her. Current bio ("Author of The Brief Experiment | Founder of Nariway", 434 subscribers) does the credibility but not the reader benefit, a visitor cannot tell what Artobiography is about.
-- **Recommended bio (lead option):** *Author of The Brief Experiment and founder of Nariway. In Artobiography I write about remarkable art collections and the people who bring them into public view.* (Carries the editorial promise from [[format-v0.1]] and tells the reader what they will get.)
-- **Alternates:** *Founder of Nariway and author of The Brief Experiment. I write about what becomes of great private art collections.* · *Author of The Brief Experiment. In Artobiography, the stories behind remarkable collections and the people who bring them into public view.*
-- **Also review:** the 4 profile links (point them at Nariway and a best-of Artobiography piece, not stale destinations); keep the strong headshot; the writer identity leads on Substack, the advisor identity supports. Governed by [[positioning]] and [[voice]].
+The bio shows next to Alina's name on every Note, so it is the single most-seen piece of copy she has. **Decision (2026-08): drop "Author of The Brief Experiment"** (a previous life); focus on the current Nariway and Artobiography. Principles from studying strong Substack bios: it is not a résumé, it must make the right reader think *this is for me*, it should lead with the subject not the credential, and it should stay under ~25 words so it is not cut off (put the best part first, since the truncated view is what most people see). Governed by [[positioning]] and [[voice]].
+
+**Five options** (subject-forward first, since that pulls the right audience on Notes):
+1. *I write Artobiography, the stories behind remarkable art collections and the people who bring them into public view. Founder of Nariway.*
+2. *I write about art collections as biographies, how a private passion becomes something the public inherits. Artobiography, from the founder of Nariway.*
+3. *Every serious art collection reaches a question its owner rarely plans for, what becomes of it. That is what I write about in Artobiography. Founder of Nariway.*
+4. *Founder of Nariway, writing about the future of significant private art collections, who keeps them, who inherits them, and who brings them into public view.*
+5. *In Artobiography I write about extraordinary private collections and what becomes of them when their collectors are gone. Founder of Nariway.*
+
+Lead recommendation: **2** (most distinctive and most "her," the biography framing is her own), with **1** as the clean, unmistakable-what-you-get choice.
+
+**Also:** point the 4 profile links at the Nariway site and one strong Artobiography piece, not stale destinations; keep the headshot; writer identity leads, advisor identity supports.
 
 ## 1. Platform intelligence (stay optimal as Substack evolves)
 Substack ships features constantly (Notes, scheduling, recommendations, subscriber tools, video, chat, etc.). This function **periodically checks Substack's product updates** and flags anything Nariway should adopt or change — so Artobiography always uses the platform well. *(A light beat; surfaces via [[nariway-signals]] when there's something worth acting on — not constant noise.)*
