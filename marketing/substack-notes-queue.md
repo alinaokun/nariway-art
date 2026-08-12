@@ -1,84 +1,68 @@
-# Substack Notes — draft queue (batch 1, rebuilt to the Notes format)
+# Substack Notes — draft queue (batch 1, in your voice)
 
-Drafted by the [[substack]] function for Alina to review, edit, and schedule. These follow what actually performs as a Note, not as an essay. Short lines with hard returns between them, a specific hook in line one, one idea, and a landed statement at the end rather than a question. Target 31 to 60 words. The curatorial judgment stays, the syntax adapts to the feed. Built to be restacked, since a restack is worth far more than a like. Format details in [[substack]]. Sources checked against the [[claims-register]].
+Drafted by the [[substack]] function for Alina to review, edit, and schedule. These keep your real rhythm, flowing sentences broken into two or three beats, no fragment stacks. The white space the feed rewards comes from the beat breaks, not from chopping sentences into stubs. A specific fact in beat one, one idea, a landed statement at the close rather than a question. They run a little above the 31 to 60 word sweet spot because that is the cost of sounding like you rather than like copy, a trade worth making now. If you ever want the pure-reach version of any of these, the other proven format is the 300 to 600 word micro-story, and I can open any Note into one. Sources checked against the [[claims-register]]. Voice governed by [[voice]].
 
 ---
 
 **1. The collection that gave itself away**
-> William Arnett spent thirty years building the largest collection of Black vernacular art in the South.
+> William Arnett spent nearly thirty years building the largest collection of Black vernacular art of the American South, work the art world had spent a century declining to see.
 >
-> Then he gave it away. One work at a time. Into more than twenty museums.
->
-> The instinct is to keep a collection whole.
->
-> He understood the opposite. The way to make these artists impossible to ignore was to place them inside the rooms that had left them out.
+> He could have put all of it in one museum under his own name. He gave it away instead, piece by piece, into more than twenty institutions, so the rooms that had left these artists out would finally have to hold them.
 
 ---
 
 **2. The art America cannot see**
-> There is a collection of American art most Americans will never see.
+> There is a large collection of American art that most Americans will never stand in front of, because it hangs inside United States embassies, behind guarded doors, chosen to represent the country abroad.
 >
-> Hundreds of works. Inside U.S. embassies. Behind guarded doors.
+> A small foundation in Connecticut has begun the slow work of letting the public in.
 >
-> A small foundation in Connecticut just started letting people in.
->
-> The radical act was never owning the art. It was opening the door.
+> The radical part was never owning the art. It was opening the door.
 
 ---
 
 **3. She planned a museum she would never see**
-> Marion McNay designed a mansion in San Antonio down to the stencils she painted by hand.
+> Marion Koogler McNay designed her San Antonio house down to the stencils she painted on the walls by hand, then left instructions in her will to have most of it remade into a museum.
 >
-> In her will, she ordered most of it torn apart to become a museum.
+> It opened in 1954 with a Picasso exhibition she did not live to see.
 >
-> It opened in 1954 with a Picasso show she never saw.
->
-> She had built a future that did not include her. That is what it costs for a collection to outlive you.
+> She had built a future that did not include her, which is the quiet price a collection pays to outlast the person who gathered it.
 
 ---
 
 **4. Then what**
-> Collectors assume a lifetime of collecting ends with a grateful museum.
+> Collectors tend to assume that a lifetime of looking ends with a grateful museum taking the whole of it.
 >
-> More and more, the museum says no.
+> More and more, the museum says no, for want of space, or conservation money, or fit with what it already holds.
 >
-> No space. No conservation budget. No fit.
->
-> So the question everyone deferred for decades arrives at once, and no one is standing beside the collector to answer it.
+> A question deferred for decades then arrives all at once, and there is rarely anyone standing beside the collector to answer it.
 
 ---
 
 **5. A postal clerk and a librarian**
-> A postal clerk and a librarian, on civil-service salaries, built one of the great collections of minimal art of the century.
+> Herbert and Dorothy Vogel built one of the great collections of minimal and conceptual art of the last century on a postal clerk's wage and a librarian's, buying only what they could carry home on the subway.
 >
-> They bought what they could carry home on the subway.
+> When it was time to let go, they placed fifty works in a museum in each of the fifty states.
 >
-> When it was time to let it go, they gave fifty works to a museum in each of the fifty states.
->
-> A great collection was never about money. It was about how closely you looked.
+> The collection was never a measure of money, only of how closely two people were willing to look.
 
 ---
 
 **6. The question the art world keeps not asking**
-> The art world keeps asking what a collection is worth.
+> The art world is fluent in what a collection is worth and strangely quiet on what becomes of it.
 >
-> The better question is what becomes of it.
+> It can go to a museum, into a foundation, to a university, back onto the market at auction, or out on the road as a travelling show, and sometimes it simply comes apart.
 >
-> A museum. A foundation. A university gift. A traveling show. A quiet dispersal. An auction. Sometimes nothing at all.
->
-> Every serious collection reaches that fork. Almost no one is standing there when it does.
+> Every serious collection reaches that fork, and almost no one is standing at it when the moment comes.
 
 ---
 
 **7. Founding a museum is the easy part**
-> Founding a museum makes the news.
+> Founding a museum makes the news. Sustaining one for fifty years does not.
 >
-> Keeping one alive for fifty years does not.
+> One collection I have been studying became a sculpture park across two hundred acres of the Napa Valley, and it now sells work from its own holdings and rents its grounds for events to keep the gates open.
 >
-> One I have been studying became a sculpture park on two hundred acres in Napa. It now sells work and rents its lawn for events to stay open.
->
-> The building was never the achievement. It was the beginning of the problem.
+> The building was never the achievement. It was the start of the problem.
 
 ---
 
-*Note on the rules. The line breaks do the work em dashes would in your long-form, so that ban costs nothing here. Colons are held the same way, as line breaks, though the colon is genuinely native to Notes if you ever want the snap. Openers are now plain and direct, a bare fact or a scene, which is not the same as casual. Do not add a closing question, and do not link out in the body, both suppress reach. Treat the exact numbers as strong signals, then let your own analytics confirm them.*
+*Note on voice. Each Note is a short passage of your own prose, not a stack of clipped lines. No three short sentences in a row, no em dashes, the beat breaks carrying the white space the feed wants. Keep the closing statement, drop any closing question, and no links in the body, both suppress reach. Treat the numbers as strong signals and let your own analytics confirm them.*

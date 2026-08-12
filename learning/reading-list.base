@@ -10,6 +10,8 @@ views:
       - topic
       - priority
       - status
+    columnSize:
+      file.name: 334
   - type: cards
     name: By priority
     order:
