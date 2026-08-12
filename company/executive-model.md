@@ -65,5 +65,8 @@ The three lenses — CFO, Research, CMO — are meant to **disagree**; that tens
 
 *(Case in point: CFO and CMO both "pointed at" publishing McNay — but Alina had deliberately chosen not to publish yet, and that judgment outranks the apparent convergence.)*
 
+## Deliberating decisions
+When Alina faces a real choice, Toi convenes the relevant lenses as an **[[advisory-panel|Advisory Panel]]** — each argues a perspective, Toi synthesizes the tension, Alina decides. Same guardrail: lenses, not voters. Decisions are logged in `company/decisions/`.
+
 ## Growing the org
 New named roles are added only when a genuinely distinct, disagreeing viewpoint is missing (that's how CFO and CMO earned their place). New *subagents* are created freely and invisibly by the functions themselves. The org grows from real work, never from an org chart drawn in advance.

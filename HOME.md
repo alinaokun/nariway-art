@@ -12,6 +12,8 @@
 - **The will is unread** — the one document that resolves McNay's governance/H8 questions (Bexar County probate + the Burkhalter biography + McNay archives).
 
 ## 📌 Decisions on the table
+- **💸 Opal Legacy Summit ($3,195, Aug 25–26)** — [[advisory-panel|Advisory Panel]] convened → [[2026-08-12-opal-summit|recommendation]]: *conditional yes*, gated on all-in cost + a concrete goal + one free discovery conversation this week. Your call.
+- **🛰 Signals cadence:** schedule it weekly-automatic, or Toi runs it each check-in? (Cycle 1 filter looked clean.)
 - **Two no-article moves** (publication is *not* the gate): start ~2 [[problem-discovery]] conversations; begin a few Substack Notes ([[experiment-ledger]]).
 - **Case #2:** [[di-rosa]] (distress) or [[terra]] (collapse).
 - **Protocol fix (frozen):** add a *primary-document acquisition* step? Your call.
@@ -32,7 +34,7 @@
 - **Functions:** [[nariway-cfo|CFO]] (economic) · Research (evidence discipline) · [[nariway-cmo|CMO]] (audience) · Toi (interface). COO deferred.
 
 ## 🗺 The vault (so you can find anything)
-- **company/** — [[chief-of-staff|Toi]] + how the org works ([[executive-model]])
+- **company/** — [[chief-of-staff|Toi]] · the org ([[executive-model]]) · the [[advisory-panel]] · `decisions/` (deliberation log)
 - **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note, [[claims-register]], [[nariway-signals]])
 - **cases/** — case notes + packets (board: `Cases.base`)
 - **crm/** — [[prospects]] (Collection Intelligence) + [[partners]] (referral & connection network)
