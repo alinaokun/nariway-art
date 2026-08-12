@@ -16,6 +16,16 @@ Lead recommendation: **2** (most distinctive and most "her," the biography frami
 
 **Also:** point the 4 profile links at the Nariway site and one strong Artobiography piece, not stale destinations; keep the headshot; writer identity leads, advisor identity supports.
 
+## Audience state (baseline, Aug 2026)
+Two different numbers, and the gap between them is the opportunity.
+- **~434 subscribers** to Artobiography (people who get it in their inbox).
+- **1,472 Substack followers** (people following Alina across Substack, who see her in their feed).
+The followers have grown steadily over the past year, roughly 1,040 to 1,472, **despite no new Artobiography since January 2025.** That is organic accrual through the Substack network, recommendations, Notes surfacing, and discovery of the past issues, with zero new output.
+
+**Read (CMO):** the audience is warm and growing on its own, which de-risks the "will anyone read it" worry and points to latent demand. The ~1,000 followers who have not subscribed are the conversion pool. The levers that turn a follower into a subscriber: (1) the updated bio, which all 1,472 feeds now show; (2) posting Notes, the built queue, the single best follower-to-subscriber tool; (3) resuming Artobiography; (4) mutual recommendations with the [[substack-register]] Engage tier.
+
+**Discipline:** this is an audience and interest signal, not revenue and not willingness to pay (H7B). Encouraging, not proof of the business.
+
 ## 1. Platform intelligence (stay optimal as Substack evolves)
 Substack ships features constantly (Notes, scheduling, recommendations, subscriber tools, video, chat, etc.). This function **periodically checks Substack's product updates** and flags anything Nariway should adopt or change — so Artobiography always uses the platform well. *(A light beat; surfaces via [[nariway-signals]] when there's something worth acting on — not constant noise.)*
 - **Known now:** Notes can be **scheduled** in Substack → we can batch-draft and queue.
