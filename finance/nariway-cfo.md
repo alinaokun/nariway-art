@@ -23,6 +23,7 @@
 ## What it owns
 - [[business-model-ledger]] — competing monetization hypotheses + evidence, updated whenever research surfaces anything commercial.
 - [[capital-ledger]] — cash capital + **founder capital** (coarse weekly hours). Attention is the scarce resource here, not cash.
+- [[comparables]] — study of adjacent businesses (how they package, price, and build recurring revenue), for transferable ideas and cautions, not imitation.
 - The periodic **CEO brief** (e.g. [[cfo-brief-2026-08]]) — what changed economically, what decision it forces.
 
 ## How it gets its evidence (low-friction)

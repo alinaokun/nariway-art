@@ -14,7 +14,7 @@ The short list of things only you can do, most useful first.
 2. **Review the seven Substack Notes** and schedule two or three. → [[substack-notes-queue]]
 3. **Choose a LinkedIn headline.** → [[linkedin]]
 4. **Reach back out to Hall or Adam,** warm contacts from the old newsletter. → [[partners]]
-5. **Open one door in your own network.** Your 3,499 connections were mined for the people on Nariway's path. Start with Nina Kong-Surtees, an art-legacy advisor already doing a version of this, and Loring Randolph, who directs the Nasher collection. → [[warm-network]]
+5. **Open one door in your own network.** Your 3,499 connections were mined for the people on Nariway's path. Start with Loring Randolph, who directs the Nasher and Haemisegger collection, or Judith Prowda, art law at Sotheby's Institute. → [[warm-network]]
 
 ---
 
@@ -39,7 +39,7 @@ The short list of things only you can do, most useful first.
 Kept here so it stays in front of you. Full context in the linked registers.
 
 **People in your own network worth a real look** — full list and why in [[warm-network]]
-- **Nina Kong-Surtees** — an art-legacy advisor already doing a version of this, your closest peer
+- **Nina Surtees** — a different advisory model (art-buying club, acquisition advising, artist services); the CFO is studying her business for ideas, see [[comparables]]
 - **Loring Randolph** — directs the Nancy A. Nasher and David J. Haemisegger collection
 - **Judith Prowda** — art law, Stropheus and Sotheby's Institute
 - **Elizabeth Merritt** — Founding Director, AAM Center for the Future of Museums
