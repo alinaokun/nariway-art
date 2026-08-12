@@ -23,4 +23,5 @@
 
 | Name / firm | Type | Expertise | Geography | Stage | Notes |
 |---|---|---|---|---|---|
+| **Dawn Mari La Monica** | connector / referral | Family-office / private-wealth (former Opal Legacy Summit speaker) | — | **warm (knows personally)** | Ask re: Opal summit value + intros; potential referral source / discovery conversation |
 | *(add your existing contacts here)* | | | | | |

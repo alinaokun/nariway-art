@@ -11,12 +11,15 @@
 - **🌱 Founder-Life:** genuine excitement ("sounds amazing") is a real positive input; you're more researcher than schmoozer, so a little prep converts anxiety to confidence.
 - **😈 Skeptic:** no offering, no published work, unknown solo attendee; the **Nov NYC week is denser and 3 months out** (prep time). A rushed first big check is the "activity feels like progress" trap. Wait.
 
-## Toi's recommendation — conditional yes, gated on three inputs (settle in 48h)
-1. **All-in cost** (where you're traveling from + Hamptons lodging). ~$3–4K → low bar; $6K+ → weigh harder.
-2. **One concrete goal** (e.g., "5 real conversations on family-office collection-succession + 5 names into [[partners]]"). Can't name it → don't go.
-3. **One free discovery conversation this week regardless** — preps you *and* tests whether this audience is right, for $0.
+## UPDATE (2026-08-12) — two facts resolved the two biggest objections
+- **All-in cost ≈ $3,195.** Alina lives in **Montvale, NJ** → drivable to Southampton, **no lodging** (a hike, but no hotel). The CFO's $5–6K worry is gone; add only gas/tolls.
+- **Warm inside contact:** **Dawn Mari La Monica**, a *former Opal speaker*, is a **personal contact** of Alina's. The Skeptic's main case (cold, unknown solo attendee) dissolves — she can ask Dawn if it's worth it AND get introductions.
 
-All three clear + you're excited → **go.** Cost balloons or no clear goal → **redirect to the Nov NYC referral week** (AAA + Art Law Day + Deloitte Art & Finance) and start the free conversations now. *Either way, the free conversations start this week.*
+## Toi's recommendation — **lean YES**, gated on two things this week
+1. **Call Dawn** — is the summit worth it for your goal? Would she introduce you to a few people? *(This IS your free discovery conversation.)*
+2. **Name one concrete goal** (e.g., "5 real conversations on family-office collection-succession + 5 names into [[partners]]").
+
+If Dawn's read is positive and you can name the goal → **go.** It's a ~$3,195 day-trip to your #1 referral channel, on-thesis, with a warm contact inside. Only redirect to the Nov NYC week if Dawn says it's not your crowd or you can't name a goal.
 
 ## Decision
 _pending Alina._
