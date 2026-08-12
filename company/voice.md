@@ -1,34 +1,58 @@
 # Nariway — voice (canonical)
 
-*How Nariway sounds in writing. Referenced by [[substack|Substack]], [[linkedin|LinkedIn]], [[website|Website]], and Artobiography. A living document; right now it is a scaffold waiting on the inputs below. Complements [[positioning]] (what Nariway is) and reconciles with the established Nariway long-form voice.*
+The reference for how Nariway sounds in writing. It governs prose everywhere, Artobiography, the Substack Notes, the website, LinkedIn, and the longer signature work. Structure is governed separately by the [[format-v0.1|Artobiography format]]. This guide is built on the founder's established Voice Guide, written for the book *The Brief Experiment*, and extends it to the new use cases without losing the core. It reconciles with the `nariway-piece` skill, which remains the authority for the signature long-form.
 
-## What we already know
+## The core, always present
 
-**From your Artobiography archive (reverse-engineered from the essays):** a warm, curious, first-person guide. You enter through your own experience, a museum you wandered into, a taste you are confessing, an artist a friend introduced you to, so each piece feels discovered rather than assigned. You favor emotional and human framings over formal art criticism, you are accessible and never academic, and you tend to close on one concrete detail that lands the significance.
+The voice is curatorial. It places its subject in a larger context, describes what it sees with precision, and trusts the reader to reach their own response. It observes rather than advocates, critiques, or instructs. The reader is never told what to conclude. The evidence, arranged with care, does that work.
 
-**Rules you have already given:**
-- No em dashes.
-- No colons inside sentences.
-- Elegant and sophisticated. No emojis anywhere.
+Underneath the curatorial surface is the recognition layer, the deepest measure of whether a passage is working. Writing lasts when it names something the reader has felt but never articulated. The reader's response is not "I didn't know that" but "you just described something I have felt my whole life." The recognition layer is built through specificity, not universality.
 
-**A note on the shift:** the new Nariway is a strategic advisory whose domain is art, not an art-writing project (see [[positioning]]). So the voice likely holds two registers that share one core, you.
-- *Artobiography* stays warm, personal, discovered.
-- *Nariway strategic copy* (site, LinkedIn) is more composed and authoritative, still human, never corporate.
-We should decide how far apart those two are allowed to sit.
+The method is genealogical rather than historical. It traces lineage, which idea descended from which, until the reader can see where something came from and why it feels permanent. Influence is described as dialogue across time, not cause and effect. The voice does not predict. It shows what happened when a comparable transition occurred and trusts the reader to draw the inference.
 
-## What I still need from you (this is the answer to your question)
+The narrator is a witness and an analyst, never a victim, never an advocate. Precise, warm, authoritative, never flashy. Charlie Munger in ideas, Susan Cain in warmth.
 
-Voice is best extracted from real writing, not described in the abstract. The most useful things you can give me, roughly in order:
+## The six qualities (every passage carries these)
+- **Specificity.** Dates, places, names, what someone actually said.
+- **Scene before explanation.** Put the reader there first, tell them why second.
+- **Warmth without sentimentality.** Care for the reader, never perform emotion.
+- **Revelation.** Show familiar things in unfamiliar light. The reader feels smarter, not instructed.
+- **Restraint.** Let the reader do the emotional work. The power is in what is not said.
+- **Propulsion.** Each sentence earns the next.
 
-1. **Your old Nariway Voice Guide.** Paste it here. I will keep what still serves you and flag what belongs to the previous objective.
-2. **Three to five pieces of your own writing that feel most like you at your best,** and one or two you would redo. The contrast defines the voice faster than anything. Favorite Artobiography essays are perfect.
-3. **The punctuation you do reach for,** since em dashes and colons are out. Semicolons? Parentheses? Short sentences in place of a dash? And any other marks to avoid, exclamation points, rhetorical questions, sentence fragments.
-4. **Formality and person.** How formal, first-person throughout, contractions or not.
-5. **Sentence rhythm.** Short and plain, or longer and flowing.
-6. **Words and phrases you love, and ones you never use.**
-7. **Emotional register.** Warm, wry, earnest, understated.
-8. **Writers or publications whose voice you would want to be adjacent to.** Two or three models.
-9. **How different Artobiography and the strategic copy should sound,** the same voice or two registers.
+## The craft standards (verify before any draft, these are the fingerprint)
+- No sentences starting with And or But. Use Yet, However, or restructure.
+- No em dashes. Use commas or restructure.
+- No colons in prose. Permitted only before dialogue.
+- No staccato sequences. Never three or more short sentences in a row.
+- No hedging. No perhaps, somewhat, it seems, I think, I believe.
+- No cheap intensifiers. No changed everything, transformed, revolutionized.
+- No forbidden phrases. No "here's the thing," "at the end of the day," "let that sink in," "in other words."
+- No word repetition in adjacent sentences or paragraphs.
+- No telling the reader how to feel. No "the contrast is striking," no adjective doing the work the evidence should do.
+- No stating beliefs directly. Let the scene carry them.
+- If hardship must be mentioned, combine it into one sentence. Never dwell.
+- Keep the older vocabulary when it surfaces (see the substrate below).
 
-## What happens once you answer
-Toi drafts a full voice guide plus a short, mechanical **rules checklist** (the do-nots and the tics), which the Substack, LinkedIn, and Website functions apply to every draft automatically, the way [[positioning]] governs identity and the claims register governs numbers. Then the Notes and copy start sounding like you by default, and you edit less.
+## The older register (the substrate)
+Underneath the two surface modes there is a deeper register, mythological in the old sense, the technique of giving invisible forces a visible form. It surfaces when a system, a collection, or a collector's intent is treated as a force with agency rather than a phenomenon that merely happens. The system designs, the system chooses. The vocabulary turns older and stranger, "shifted form" rather than "changed roles." The description reaches for what something becomes rather than what it does. It is used sparingly, invited rather than deployed, reserved for the moments where realism alone would leave the reader at the surface of the thing she most needs to see. Most paragraphs stay curatorial or intimate and let the surface do its work.
+
+## The registers, by use case (the part that is new)
+The same voice at different distances from the subject. The core and the craft standards never change. What changes is distance, warmth, and how much of the substrate is invited.
+
+**The signature work** (*The Brief Experiment*, standalone essays). The full instrument. Curatorial and intimate by turns, the substrate available underneath, the recognition layer reached deliberately, audiobook flow. Governed by the founder's Voice Guide and the `nariway-piece` skill.
+
+**Artobiography.** Curatorial first, intimate at the entry. Each piece enters through a person, often the founder's own encounter with a place, then places the collection in its genealogy, how a private passion became something the public inherits. Warmer and more accessible than the book, lighter on the substrate, held to the same craft standards, reaching for the recognition layer at least once. This is not the old conversational art-blog register. It is the founder observing with precision, not narrating enthusiasm.
+
+**Substack Notes.** A curatorial fragment. One specific thing, a fact, a scene, a single genealogical move, that lands a small recognition. Grounded, precise, quiet. Not "I keep thinking about," not a casual aside. A short passage that could sit on a page someone keeps.
+
+**Nariway strategic copy** (website, LinkedIn, About). Composed and authoritative, curatorial in posture, concise. It names the territory with precision and trusts the reader. No corporate register, no hedging, no selling. It sounds like the person who wrote the essays, speaking plainly about what Nariway does.
+
+## What is different now
+The old guide was built around one subject, the invention of modern work. Nariway's domain is art and the future of significant private collections. The curatorial method transfers without alteration. The genealogy is now the lineage of a collection into public life. The force granted agency, when the substrate surfaces, is a collection, a collector's intent, an institution outliving its founder. The recognition the reader reaches is about legacy, inheritance, and what a person leaves behind. The instrument is the same. The subject has changed.
+
+## Still open (small calibrations)
+Two things would sharpen the Artobiography register. Point me to three of your Artobiography essays you consider your best, so I can fix the exact distance between the book and the newsletter. And tell me whether the Notes may reach for the substrate at all, or whether they should stay purely on the curatorial surface.
+
+## For the copy functions
+Substack, LinkedIn, and Website drafts are checked against the craft standards above before they reach Alina. The standards are mechanical and non-negotiable. The registers are the judgment call, chosen by use case.

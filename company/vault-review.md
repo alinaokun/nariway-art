@@ -33,5 +33,14 @@ Not more machinery. The vault is unusually complete for a company with no revenu
 Everything built serves those three, and adding more internal structure now would be the actual noise. The one light document worth adding later is a simple roadmap tying the pieces to milestones (launch, first conversation, first engagement, the path to a million), but only if it drives action rather than decorates.
 When there is a client: entity, engagement letter and scope templates, and a deal pipeline. Not before.
 
+## Single sources of truth (reference, do not restate)
+To stop the same information from living in several tables worded slightly differently, each kind of canonical information has one home, and other pages link to it rather than repeat it. When a number or a claim changes, it changes once, in its home.
+- Numbers and statistics, [[claims-register]].
+- External identity and positioning, [[positioning]].
+- Written voice and craft standards, [[voice]].
+- Hypotheses and their status, [[research-program]].
+- Growing data, the folder base for each set, Cases.base, prospects, partners, events, specialists.
+Base-worthy data (grows, worth filtering) becomes a folder of notes with a base. Repeated prose or a repeated small table gets one home and a link. Genuinely small and static tables stay as tables.
+
 ## Verdict
 The company is over-built on the inside and under-tested on the outside. The next unit of effort belongs outward, not in the vault.

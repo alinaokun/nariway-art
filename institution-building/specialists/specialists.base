@@ -1,0 +1,18 @@
+filters:
+  and:
+    - type == "specialist"
+views:
+  - type: table
+    name: Bench
+    order:
+      - file.name
+      - category
+      - expertise
+      - geography
+      - cases
+      - vetted
+  - type: cards
+    name: By category
+    order:
+      - category
+      - vetted

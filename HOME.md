@@ -43,4 +43,4 @@ The short list of things only you can do, most useful first.
 
 ## Recently
 
-- 12 Aug 2026. Nariway Signals now runs daily (7am, scheduled). Vault reviewed and cleaned (see [[vault-review]]): Cases consolidated into one folder, event costs added, the premature McNay distribution map removed. Data now lives one folder per dataset. Partner contacts keep an interactions log. CFO target set at one million a year. Substack drafting and voice work begun.
+- 12 Aug 2026. Voice guide built from your old Nariway guide, with registers for each use case ([[voice]]); the Substack Notes rewritten in your real register. Specialist bench is now a base. Nariway Signals now runs daily (7am, scheduled). Vault reviewed and cleaned (see [[vault-review]]): Cases consolidated into one folder, event costs added, the premature McNay distribution map removed. Data now lives one folder per dataset. Partner contacts keep an interactions log. CFO target set at one million a year. Substack drafting and voice work begun.
