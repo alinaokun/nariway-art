@@ -33,5 +33,10 @@ One screen, three buckets.
 
 No emojis, clickable links, dates and costs concrete. Governed by the same sourcing discipline as [[nariway-signals]].
 
-## How to hand off an issue
-Forward or paste the email into a chat, or open the issue in the logged-in browser and say the word. The brief comes back the same session.
+## How to hand off an issue, or any email
+Three ways, same result.
+- **Right now:** forward or paste the email into a chat, or open it in the logged-in browser and say the word. The brief comes back the same session.
+- **Async (the drop folder):** save the email into `OneDrive\Documents\0 - Nariway\Inbox for Claude`. The 7am Signals run reads it, decides what needs action, reports it in the daily email, files anything relevant, and moves the file to Processed. This is the "forward it and forget it" path for things that can wait until morning.
+- **Optional true forwarding address:** a one-time Gmail-label plus Apps Script wiring can auto-land forwarded emails in that folder, so a forward or a label is all it takes. Set up on request.
+
+There is no live inbox connection and no Gmail connector available in this setup, so nothing reads Alina's mailbox on its own. The drop folder is how an email reaches Toi without her mailbox being exposed.
