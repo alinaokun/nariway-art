@@ -36,7 +36,7 @@ The short list of things only you can do, most useful first.
 ## Workspaces
 
 - Cases → `cases/` (Cases.base) · Prospects → `crm/prospects` · Partners → `crm/partners` · Events → `marketing/events` (events.base, with cost)
-- Research → `research/` · Institution building → `institution-building/` · Finance → `finance/` · Marketing → `marketing/`
+- Research → `research/` · Institution building → `institution-building/` · Finance → `finance/` · Marketing → `marketing/` · Learning → `learning/`
 - The company → [[executive-model]] · [[chief-of-staff|Toi]] · [[advisory-panel]] · [[positioning]] · [[voice]] · [[vault-review]]
 
 ---

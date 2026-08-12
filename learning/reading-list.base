@@ -1,0 +1,18 @@
+filters:
+  and:
+    - type == "reading"
+views:
+  - type: table
+    name: Reading list
+    order:
+      - file.name
+      - kind
+      - topic
+      - priority
+      - status
+  - type: cards
+    name: By priority
+    order:
+      - priority
+      - kind
+      - status
