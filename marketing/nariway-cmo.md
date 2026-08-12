@@ -45,7 +45,7 @@
 - [[experiment-ledger]] — one active experiment *per objective*; the rest dormant.
 - [[opportunity-radar]] — a standing pool of possibilities; surfaces ~3 worth-your-attention weekly, escalates mid-week only on time-sensitive items.
 - [[problem-discovery]] — helps frame/target the market conversations (CFO owns the evidence).
-- Per-article **distribution maps** (Group A) — prepared when a finished article exists (e.g. [[distribution-map-mcnay]]).
+- Per-article **distribution maps** (Group A) — a short list of the ~15 people a *finished* piece is genuinely relevant to, created *with the piece when it publishes*, not before. (The standalone McNay map was removed as premature; recreate per piece on publish.)
 
 ## The executive model
 *Canonical doc: [[executive-model]] (in `company/`). Summary below.*

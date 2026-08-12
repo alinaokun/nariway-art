@@ -1,6 +1,6 @@
 # Nariway Candidate Universe — v0.1 (2026-08)
 
-*Identify-level (not deep-research). Merged and deduped from two sweeps + the [landscape-sweep](landscape-sweep.md) 12. US-weighted with international benchmarks; emphasis modern/small-regional, classic anchors capped. This is the pool from which the **designed sample** (bottom) is drawn. Dimensions tracked: pathway · founder living/deceased · geography · collection thesis · outcome · scale.*
+*Identify-level (not deep-research). Merged and deduped from two sweeps + the [[landscape-sweep]] 12. US-weighted with international benchmarks; emphasis modern/small-regional, classic anchors capped. This is the pool from which the **designed sample** (bottom) is drawn. Dimensions tracked: pathway · founder living/deceased · geography · collection thesis · outcome · scale.*
 
 > **Verification status — read before this feeds any conclusion.** Every row is **Provisional** (a research *lead*) until checked against primary sources. Specific outcome labels, distress causes, sizes, and interpretive phrases (e.g. "land outran endowment") are especially to be treated as leads, not facts. **✓ = spot-verified** against a primary/authoritative source. Verified so far: Neue Galerie–Met merger (announced May 2026); Fisher→SFMOMA 100-year loan.
 

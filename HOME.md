@@ -35,12 +35,12 @@ The short list of things only you can do, most useful first.
 
 ## Workspaces
 
-- Cases → `Cases.base` · Prospects → `crm/prospects` · Partners → `crm/partners` · Events → `marketing/events`
+- Cases → `cases/` (Cases.base) · Prospects → `crm/prospects` · Partners → `crm/partners` · Events → `marketing/events` (events.base, with cost)
 - Research → `research/` · Institution building → `institution-building/` · Finance → `finance/` · Marketing → `marketing/`
-- The company → [[executive-model]] · [[chief-of-staff|Toi]] · [[advisory-panel]] · [[positioning]] · [[voice]]
+- The company → [[executive-model]] · [[chief-of-staff|Toi]] · [[advisory-panel]] · [[positioning]] · [[voice]] · [[vault-review]]
 
 ---
 
 ## Recently
 
-- 12 Aug 2026. Cleaner data structure, one folder per dataset. Partner contacts now keep an interactions log. CFO target set at one million a year. Substack drafting and voice work begun.
+- 12 Aug 2026. Nariway Signals now runs daily (7am, scheduled). Vault reviewed and cleaned (see [[vault-review]]): Cases consolidated into one folder, event costs added, the premature McNay distribution map removed. Data now lives one folder per dataset. Partner contacts keep an interactions log. CFO target set at one million a year. Substack drafting and voice work begun.

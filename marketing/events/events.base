@@ -9,6 +9,7 @@ views:
       - date
       - category
       - location
+      - cost
       - decision
       - deadline
   - type: cards
