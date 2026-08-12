@@ -38,3 +38,35 @@ Keep revenue conversations running in parallel throughout.
 Every relevant museum, foundation, or collection we discover, from Signals, travel, regional visits, anywhere, routes into [[candidate-universe]] so the dataset behind the report keeps growing. Toi checks this on each pass.
 
 **Next step:** the McNay fresh-eyes review is running now (phase 1). When it lands, it defines the template we complete the universe against.
+
+---
+
+## Standards (the credibility bar, non-negotiable)
+The report is held to the caliber of McKinsey, BCG, and WEF research. Credibility is the whole asset, without it there is nothing.
+- **Every number and claim is sourced**, with a citation and a confidence tag. Nothing uncited enters a chart or the prose. No made-up numbers, no unsubstantiated assumptions.
+- **Source hierarchy, authoritative first:** (1) primary and official, IRS Form 990s (via ProPublica/IRS), museum annual reports and audited financials, official institution sites, legal and probate records, government data (IMLS); (2) reputable institutional research, Deloitte and ArtTactic, Art Basel and UBS, TEFAF, Larry's List, Cerulli, the museum associations (AAM, AAMD); (3) reputable press, The Art Newspaper, NYT, Artnet, Bloomberg; (4) scholarly work. Museum self-history and blogs are color only, never a cited fact.
+- **Modeled figures are always labeled as models** with their source (e.g. the $992B is a Deloitte model, not a count), per the [[claims-register]].
+- **"Unknown" is a counted value.** Every chart caption states n and how many cases were unknown for that field. Honesty about gaps is a feature.
+- **A citation audit before publish:** every claim traceable to its source, no exceptions.
+
+## The report analyst (a named function)
+A work-function specialized in authoring authoritative, data-rich research reports to the standard above, structure, analysis, charting, and airtight sourcing. It drafts; Research and Alina verify; the citation audit gates publication. Added to [[executive-model]]. It does not invent, it sources or marks unknown.
+
+## Roadmap
+- **Phase 0, concept and template.** Done. Niche defined, [[case-template]] locked, standards set.
+- **Phase 1, scope and source library (now).** Alina picks the title; confirm scope (at least 50 cases, US-weighted with international benchmarks, the transfer as the spine); assemble the authoritative source library (the market data above) into [[market-intelligence]]; write the list of analytical questions the report will answer (the charts).
+- **Phase 2, dataset build (starting now).** Code at least 50 cases to report grade against the template, each fully sourced. A **pilot of ~10 is running now** to validate the pipeline, then scale. Bring McNay to grade as the worked example.
+- **Phase 3, analysis.** Extract the patterns, trends, and key takeaways from the coded dataset; produce the charts; write the findings and the methodology note.
+- **Phase 4, draft and design.** Write to the McKinsey/BCG standard, executive summary, key findings, deep-dives, an outlook with predictions to score next year, and a full methodology-and-sources appendix. Design the charts properly.
+- **Phase 5, fact-check and publish.** Citation audit, design polish, and the CMO's distribution plan (how it reaches collectors, advisors, and press).
+- **Directional timeline:** pilot 10 cases in ~1 to 2 weeks; 50 coded in ~6 to 8 weeks; a lean first artifact (a few killer charts plus the transfer thesis) can publish *before* the full report to start the authority and test appetite.
+
+## Title, recommendation
+"The Great Art Transfer" is usable but weak to own (a phrase already circulating, including in the Art Bystander piece). For a name that becomes synonymous with Nariway, recommendation: **"What Becomes of Great Collections"** (distinctive, plainly your lane, memorable, ownable), with **"The Great Art Transfer"** available as the inaugural edition's theme or subtitle to ride the moment. "The State of Art and Legacy" is the alternative if you prefer a recurring-index feel. Alina decides.
+
+## What Alina decides or provides
+1. **The title** (recommendation above).
+2. **Confirm scope** (≥50 cases, US-weighted + international benchmarks, transfer as spine) — you effectively set this.
+3. **Lean-first-artifact, yes or no** — publish a short data teaser before the full annual to start the authority.
+4. **Archive access where you have it** — the few primary docs (like the McNay will) that only a relationship or a records request can unlock; optional, for depth on flagship cases.
+5. **Green light to run the coding in the background** while your attention stays on the Dawn call and the Souls Grown Deep email.

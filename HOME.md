@@ -15,9 +15,9 @@ The few things only you can do, ordered by how directly they move toward the goa
 1. **Book the Dawn call.** Your most direct step toward revenue, a warm path into the collector and family-office world and your first real read on whether anyone will pay. She offered a time this week; if she has not named one by tomorrow, send a one-line nudge with two slots. → [[Dawn Mari La Monica]]
 2. **Send the Souls Grown Deep email.** Time-sensitive for your Sept 2 Atlanta trip. A foundation that lived your exact thesis, so this is relationship and firsthand material at once. The draft is written and ready. → [[Souls Grown Deep Foundation]]
 3. **Set your bio and post one Note.** Bio is chosen, *Artobiography | the future and legacy of great private art collections*. Then schedule one Note (the McNay one, #3, is the strongest opener). You have 1,472 warm followers and have published nothing in a year, this is the cheapest growth you have. → [[substack-notes-queue]] · [[substack]]
-4. **Reconnect with Loring Randolph.** A warm, specific opener (you loved her Talking Galleries), a senior figure who runs a major private collection. A real discovery conversation, not a cold reach-out. → [[Loring Randolph]]
+4. **Steer the flagship report.** Your primary focus now. Decide the title and confirm scope, then it runs in the background. → [[flagship-report]]
 
-*Smaller, when you get to them: choose a LinkedIn headline ([[linkedin]]); pick case #2, di Rosa or Terra.*
+*Smaller, when you get to them: choose a LinkedIn headline ([[linkedin]]).*
 
 ---
 
@@ -45,26 +45,6 @@ The lenses react to every change and surface actions toward the goal. This updat
 - The question that still decides everything is whether anyone will pay. Untested, and the four moves above are how we start testing it.
 - The company is well built inside. The work now is outward.
 - **New direction, the flagship report.** An annual, data-rich "State of art and legacy" report (à la the State of AI Report), built on the case database, to make Nariway the source at art and finance. This is the scalable leg toward a million. Phased so it never becomes a black hole, and it runs alongside the market conversations, not instead. → [[flagship-report]]
-
----
-
-## Intel to pursue
-
-Kept here so it stays in front of you. Full context in the linked registers.
-
-**People in your own network worth a real look** — full list and why in [[warm-network]]
-- **Loring Randolph** — directs the Nancy A. Nasher and David J. Haemisegger collection (warm, via Talking Galleries)
-- **Judith Prowda** — art law, Stropheus and Sotheby's Institute (warm, via a Sotheby's course)
-- **Elizabeth Merritt** — Founding Director, AAM Center for the Future of Museums
-- **Rebecca Fine** — Metis Fine Art Finance
-- **Nina Surtees** — a different advisory model, the CFO is studying her business for ideas ([[comparables]])
-- *Gaps to fill deliberately: trusts-and-estates attorneys and museum directors.*
-
-**Reading and newsletters worth following** — full list and tiers in [[substack-register]] and [[learning]]
-- **The Gray Market** (Tim Schneider) — the sharpest read on art-market mechanics
-- **The Art Bystander** — collector behavior and institutional power
-- **Less Than Half** (Hall W. Rockefeller) — women and collecting, a warm contact and a good place to engage
-- At the source: **Katya Kazakina** (Artnet), **Georgina Adam** (The Art Newspaper), the **Center for Art Law**
 
 ---
 

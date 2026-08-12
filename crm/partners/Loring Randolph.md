@@ -3,10 +3,10 @@ type: partner
 category: connector
 expertise: "Private collection leadership / art-world senior"
 geography: "New York"
-stage: warm
+stage: passive
 last_contacted: ""
-next_followup: 2026-08-19
-priority: high
+next_followup: ""
+priority: low
 website: loringrandolph.com
 ---
 ## Who / why
@@ -16,4 +16,6 @@ Director of the **Nancy A. Nasher and David J. Haemisegger Collection**, one of 
 - ~2022 or 2024 (approx) — **Alina attended Talking Galleries New York, which Loring organized, and thought it was excellent.** Spoke with Loring briefly at the event and told her how much she enjoyed it. Warm, in-person, positive first contact. This is the natural opener for a reconnection.
 
 ## Notes
-Top warm-network target ([[warm-network]]). The reconnection writes itself, open by referencing Talking Galleries and how good it was, which is true and specific, then let the conversation find Nariway rather than pitching. She runs a major private collection day to day, so she both understands collection-stewardship decisions firsthand and knows the people who wrestle with them. Talking Galleries also makes her a possible platform and speaking connection over time. Verify her current role is unchanged before an outreach leans on it. Site: loringrandolph.com.
+**Not pursuing (2026-08). Alina's read: Loring came across as cold and unapproachable, so a reconnection is not worth forcing.** Kept on file in case a warm, specific occasion arises naturally (a Talking Galleries event, a mutual introduction), but off the active list. Original rationale below, held for reference.
+
+Reconnection would have opened by referencing Talking Galleries and how good it was, which is true and specific, then let the conversation find Nariway rather than pitching. She runs a major private collection day to day, so she both understands collection-stewardship decisions firsthand and knows the people who wrestle with them. Talking Galleries also makes her a possible platform and speaking connection over time. Verify her current role is unchanged before an outreach leans on it. Site: loringrandolph.com.
