@@ -2,6 +2,9 @@
 
 *Where it's valuable for Alina to show up — for learning, meeting referral sources, and seeing important collections. Records are the event notes in this folder; **open `events.base`** for the sortable/filterable view (sort by `date`, filter by `decision` or `category`). Handled with [[travel]] (drive-vs-fly from Montvale). Fed by [[nariway-signals]]. (Distinct from [[opportunity-radar]] = media/partnership opportunities.)*
 
+## Courses and programs (a tracked category, `category: course`)
+This radar also scouts **professional courses and short programs** worth attending, judged on two axes: **information** (authority in the field) and **connections** (a high-caliber cohort of collectors, advisors, and art-world professionals). Providers to watch: **Sotheby's Institute of Art** and **Christie's Education** (short and executive courses on art business, art law, collecting, connoisseurship, art and finance), university and bar-association **art-law** programs, **museum-studies** and collection-management short programs, and any **art-and-finance / art-and-estate** executive courses. Prefer short executive formats with strong cohorts, and NY-metro or online for cost. Cross-links to [[learning]] (the information side). Proven for Alina: Sotheby's Institute short courses (see [[Sothebys Alternative Investments 2024]]). A live discovery pass runs periodically; verified finds land here as `category: course` notes.
+
 ## Official sites (so you don't Google)
 - **Opal Legacy Summit** → [opalgroup.net](https://opalgroup.net) · venue [Parrish Art Museum](https://www.parrishart.org)
 - **Heckerling** → [heckerling.law.miami.edu](https://heckerling.law.miami.edu) · **AAA** → [appraisersassociation.org](https://www.appraisersassociation.org) · **Center for Art Law** → [itsartlaw.org](https://itsartlaw.org) · **AAM** → [aam-us.org](https://www.aam-us.org)
