@@ -1,6 +1,6 @@
-# HOME — your daily debrief with Alfred
+# HOME — your daily debrief with Toi
 
-*[[chief-of-staff|Alfred]] (Chief of Staff) → Alina. This page is always the **current** picture; each day's version is archived in `debriefs/`. Read top-to-bottom in ~90 seconds: what needs you, what I'd focus on, where we are.*
+*[[chief-of-staff|Toi]] (Chief of Staff) → Alina. This page is always the **current** picture; each day's version is archived in `debriefs/`. Read top-to-bottom in ~90 seconds: what needs you, what I'd focus on, where we are.*
 
 **Today: 2026-08-11** · full record → [[2026-08-11|today's debrief]] · the org → [[executive-model]]
 
@@ -28,10 +28,10 @@
 ## 🔭 Where we are
 - **Cases:** universe ~55 ([[candidate-universe]]) · designed sample 10 · in research 0 · packets complete 1 (McNay). Board → open `Cases.base`.
 - **Hypotheses:** H3 *initial evidence for* · H4/H5 *insufficient* · **H7A** *untested (demand-side test = the discovery conversations)* · **H7B** *untested, founder-level* · **H8** *untested, sharpened by McNay*.
-- **Functions:** [[nariway-cfo|CFO]] (economic) · Research (evidence discipline) · [[nariway-cmo|CMO]] (audience) · Alfred (interface). COO deferred.
+- **Functions:** [[nariway-cfo|CFO]] (economic) · Research (evidence discipline) · [[nariway-cmo|CMO]] (audience) · Toi (interface). COO deferred.
 
 ## 🗺 The vault (so you can find anything)
-- **company/** — [[chief-of-staff|Alfred]] + how the org works ([[executive-model]])
+- **company/** — [[chief-of-staff|Toi]] + how the org works ([[executive-model]])
 - **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note)
 - **cases/** — case notes + packets (board: `Cases.base`)
 - **artobiography/** — editorial: locked [[format-v0.1|format]] + the structure study
@@ -41,4 +41,4 @@
 - **archive/** — the original brainstorm
 
 ## 🕰 Recent
-- **2026-08-11** — Vault reorganized; **Alfred** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)
+- **2026-08-11** — Vault reorganized; **Toi** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)

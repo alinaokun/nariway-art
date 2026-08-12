@@ -7,7 +7,7 @@
 ```mermaid
 flowchart TD
     A["👤 ALINA — Founder<br/>the integrator · owns judgment & sequencing"]
-    ALF["🎩 ALFRED — Chief of Staff<br/>your single interface"]
+    ALF["🎩 TOI — Chief of Staff<br/>your single interface"]
     CFO["💰 CFO<br/>economic reality"]
     RES["🔬 Research<br/>intellectual reality"]
     CMO["🎯 CMO<br/>audience reality"]
@@ -37,9 +37,9 @@ flowchart TD
 
 ## The roles
 
-**👤 Alina — Founder / integrator.** Owns judgment and sequencing; talks only to Alfred. Makes the calls the agents can't — what to pursue, when, and what she believes — and does the irreducibly human work: writing the Artobiography pieces, the interviews, the relationships.
+**👤 Alina — Founder / integrator.** Owns judgment and sequencing; talks only to Toi. Makes the calls the agents can't — what to pursue, when, and what she believes — and does the irreducibly human work: writing the Artobiography pieces, the interviews, the relationships.
 
-**🎩 Alfred — Chief of Staff.** Your single interface. Routes your intent to the right functions, spawns and supervises task-subagents, keeps HOME current, writes the daily debrief, and surfaces only what needs you. Never publishes, sends, or transacts without approval; never overrides your sequencing. *(Charter: [[chief-of-staff]].)*
+**🎩 Toi — Chief of Staff.** Your single interface. Routes your intent to the right functions, spawns and supervises task-subagents, keeps HOME current, writes the daily debrief, and surfaces only what needs you. Never publishes, sends, or transacts without approval; never overrides your sequencing. *(Charter: [[chief-of-staff]].)*
 
 **💰 CFO — economic reality** *("does this make financial sense?")*. Keeps the 3-hypothesis business-model ledger, tracks cash and founder-time as capital, stewards the commercial evidence and H7B. Recommends and escalates — never transacts.
 
@@ -49,16 +49,16 @@ flowchart TD
 
 **⚙️ Functions (no personas).** The actual work, named after the work: **Artobiography** (editorial) · **Collection Intelligence** (public-source opportunity map) · **Models Scan** (new pathways) · **Case Research** (packets) · **Source Verification** (fact-checking) · **Signals** (weekly scan).
 
-**🤖 Task subagents.** Spawned freely by Alfred and the functions for specific jobs — pull a 990, build a timeline, verify a claim, draft a packet. Ephemeral and invisible to you; they escalate only exceptions.
+**🤖 Task subagents.** Spawned freely by Toi and the functions for specific jobs — pull a 990, build a timeline, verify a claim, draft a packet. Ephemeral and invisible to you; they escalate only exceptions.
 
-*(**COO — deferred.** An operations role, added only when there's operational load Alfred + HOME can't hold.)*
+*(**COO — deferred.** An operations role, added only when there's operational load Toi + HOME can't hold.)*
 
 The three lenses — CFO, Research, CMO — are meant to **disagree**; that tension is the point (see the principle below).
 
 ## The naming rule
-- **Named, because they should disagree:** CFO, Research, CMO — three distinct viewpoints. Plus **Alfred**, the interface.
+- **Named, because they should disagree:** CFO, Research, CMO — three distinct viewpoints. Plus **Toi**, the interface.
 - **Not named (named after the work instead):** Artobiography, Collection Intelligence, Models Scan, Case Research, Source Verification, Signals. These are *what agents do*, not who they are.
-- **Deferred:** a COO/operations role — until there's operational load Alfred + HOME can't hold.
+- **Deferred:** a COO/operations role — until there's operational load Toi + HOME can't hold.
 
 ## The one principle that governs the whole thing
 **Disagreement is a thinking device, not a voting system.** The functions run on the same model and context, so when they *converge* it is **not** independent corroboration — it can be the same blind spot twice. Their value is surfacing considerations and tensions Alina might miss; never manufacturing confidence, never overriding her sequencing. **Alina is the integrator; the agents are lenses, not voters.**
