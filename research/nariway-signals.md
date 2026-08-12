@@ -21,4 +21,17 @@
 
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
-- **2026-08-11 — Cycle 1 (seeding):** running. Will populate the four registers and this log.
+
+### 2026-08-11 — Cycle 1 (seeding + filter definition)
+
+**⏰ Escalations (time-sensitive):**
+- **Opal Family Office *Legacy* Summit — Aug 25–26, 2026, held AT the Parrish Art Museum (Water Mill NY).** ~2 weeks out, family-office generational-transfer focus, at a museum — unusually on-thesis. Decide fast if attending. → [[events-radar]]
+- **Densest referral week of the year is early Nov 2026 in NYC** (AAA National Conf Nov 5–6 + likely Art Law Day + likely Deloitte Art & Finance). Plan the trip now. → [[events-radar]]
+
+**Cases (+15 → universe ~70):** filed to [[candidate-universe]]. Standouts fit the non-museum brief: **Art Bridges "50 for 50"** (Alice Walton — dispersal-by-loan to all 50 states, no building), **Powder Mountain** (Reed Hastings — resort-as-museum), **Khao Yai Art Forest** (Thailand), and **Brauer/Valparaiso** (a blocked-dispersal stewardship test). **Lucas Museum opens Sept 2026** (LA).
+
+**Prospects (12 public signals):** filed to [[prospects]]. Strongest *living + culturally distinctive*: **Walther** (African photography → Met), **Smagulov** (Almaty — also a *case*), **Joyner & Giuffrida** (African-American abstraction), **Nadar** (South Asian), **Costantini** (Latin American), **Beckwith & Fisher** (African ceremonial photography → Smithsonian). *Cross-beat note: several appear as both prospects AND cases — the same act that makes a case study also marks a live opportunity.*
+
+**Partners:** no scan — this register starts from *your own* network. The fastest first move is dropping your existing T&E-attorney / family-office contacts into [[partners]] (they double as [[problem-discovery]] targets).
+
+**Filter learned (for future cycles):** keep = living founder + distinctive/overlooked collection + a fresh public act, OR a genuinely novel *form* (non-building). Down-weight = blue-chip mega-gifts and posthumous foundation admin unless the *pathway* is novel.

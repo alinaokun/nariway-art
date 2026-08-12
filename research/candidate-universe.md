@@ -125,3 +125,28 @@ Selected to **maximize variation** across pathway × founder-status × geography
 **Other swaps still on the table:** *Vogel* (modest-means dispersal — challenges the "rich people" frame) · *Wolfsonian-FIU* or *Anderson@Stanford* for the university slot · *Rennie* for appointment-only · *Pyramid Hill* for a survived-founder art park.
 
 **Recommended case #1: McNay** — completed pathway (survived founder, 1950), exercises the most schema columns at once, a *healthy* baseline to calibrate the protocol before messier cases, and the one you already have a personal read on.
+
+---
+
+## Signals cycle 1 — new candidates (2026-08)
+*From the Nariway Signals cases beat. Recent (2023–2026), weighted to small/regional/distinctive and non-museum forms. Provisional; sources captured in the [[nariway-signals]] cycle.*
+
+| Name | Founder | Pathway | Founder | Geography | Thesis / why it matters |
+|---|---|---|---|---|---|
+| **Almaty Museum of Arts** | Nurlan Smagulov | standalone (new-build) | Living | Kazakhstan | Central Asia's *first* private M/C museum — new-region model |
+| **Tselinny Center** | Kairat Boranbayev | culture center (Soviet cinema reuse) | Living | Kazakhstan | decolonial, not object-led; patronage-as-culture |
+| **Khao Yai Art Forest** | Marisa Chearavanont | art forest / land art | Living | Thailand | ecological art-park form (Asia) |
+| **Powder Mountain** | Reed Hastings | resort → open-air museum | Living | Utah | novel resort-as-museum hybrid; Dia partnership |
+| **Goodwood Art Foundation** | Duke of Richmond | estate → public art foundation | Living | England | landed-estate stewardship going public |
+| **Jaipur Centre for Art** | Padmanabh Singh & N. Kadar | royal patronage → art space in a palace | Living | India | heritage-site, royal-patronage-to-public |
+| **Lucas Museum** | Lucas & Hobson | collector mega-museum | Living | Los Angeles | *category-defining* narrative art (flag: mega-museum) |
+| **0xCollection** | Karel Komárek | digital-art institution | Living | Switzerland | on-chain/digital as a serious collecting field |
+| **Heckler → American Folk Art Museum** | Audrey Heckler | bequest of outsider-art collection | Dec. (2024) | New York | consolidates the outsider-art canon at its flagship |
+| **Kirk Edward Long → FAMSF** | Kirk Edward Long | living mega-gift of works on paper | Living | San Francisco | recharacterizes a public print repository overnight |
+| **Hedreen → Seattle University** | Richard & Betty Hedreen | promised gift to a **university** (~$300M+) | Living | Seattle | university-as-steward at unusual scale |
+| **Pearlman *dispersal*** | Pearlman Foundation | ends a Princeton loan → splits across 3 museums | Dec. founders | NY/LA | the 2025 dispersal is a distinct pathway (Pearlman already listed) |
+| **Mint Museum bequests** | Belk-Cook; Bellios | whole-estate bequests fueling a regional museum | Dec. | Charlotte NC | quiet regional-endowment model (vs. eponymous museum) |
+| **Brauer / Valparaiso** | (university-held) | attempted dispersal → litigation → reversal | n/a | Indiana | sharp stewardship-limits / blocked-dispersal test |
+| **Art Bridges "50 for 50"** | Alice Walton | collection-*sharing* by loan (no building) | Living | Bentonville (national) | dispersal-by-loan as public life |
+
+*Older-but-distinctive (flagged): The Brown Collection (Glenn Brown, London, artist-as-collector museum, 2022) · Museum of the American Arts & Crafts Movement (Rudy Ciccarello, St. Petersburg FL, 2021). Low-confidence leads to verify: Lowe→AMSET (Southern folk). Universe now ~70 candidates.*

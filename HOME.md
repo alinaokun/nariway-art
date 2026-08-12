@@ -26,7 +26,8 @@
 6. **Opportunity radar** — media/partnership scouting, ~3/week ([[opportunity-radar]]).
 
 ## 🔭 Where we are
-- **Cases:** universe ~55 ([[candidate-universe]]) · designed sample 10 · in research 0 · packets complete 1 (McNay). Board → open `Cases.base`.
+- **Cases:** universe **~70** ([[candidate-universe]], +15 from Signals cycle 1) · designed sample 10 · in research 0 · packets complete 1 (McNay). Board → open `Cases.base`.
+- **Registers (Signals cycle 1):** [[prospects]] 12 public legacy signals · [[events-radar]] conferences/openings/fairs through 2027 · [[partners]] awaiting your contacts. Digest → [[nariway-signals]].
 - **Hypotheses:** H3 *initial evidence for* · H4/H5 *insufficient* · **H7A** *untested (demand-side test = the discovery conversations)* · **H7B** *untested, founder-level* · **H8** *untested, sharpened by McNay*.
 - **Functions:** [[nariway-cfo|CFO]] (economic) · Research (evidence discipline) · [[nariway-cmo|CMO]] (audience) · Toi (interface). COO deferred.
 
