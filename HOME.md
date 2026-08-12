@@ -38,14 +38,15 @@
 - **company/** — [[chief-of-staff|Toi]] · the org ([[executive-model]]) · [[positioning|external positioning]] · the [[advisory-panel]] · `decisions/` (deliberation log)
 - **research/** — the intellectual engine (program, protocol, universe, sweeps, $992B note, [[claims-register]], [[nariway-signals]])
 - **cases/** — case notes + packets (board: `Cases.base`)
-- **crm/** — [[prospects]] (Collection Intelligence — now a filterable **`prospects.base`**, one note per collector) + [[partners]] (referral network)
+- **crm/** — `prospects/` ([[prospects|guide]] + `prospects.base`) · `partners/` ([[partners|guide]] + `partners.base` — each contact has an **interactions log**)
 - **institution-building/** — how a collection becomes an institution: [[decision-map]] · [[knowledge-base]] · [[specialist-map]]
 - **artobiography/** — editorial: locked [[format-v0.1|format]] + the structure study
 - **finance/** — [[nariway-cfo|CFO]], ledgers, [[problem-discovery]]
-- **marketing/** — [[nariway-cmo|CMO]] · [[experiment-ledger|experiments]] · [[opportunity-radar|radar]] · [[events-radar|events]] · [[linkedin|LinkedIn]] · [[website|Website]] · [[substack|Substack]] · [[travel|Travel]]
+- **marketing/** — [[nariway-cmo|CMO]] · [[experiment-ledger|experiments]] · [[opportunity-radar|radar]] · `events/` ([[events-radar|guide]] + `events.base`) · [[linkedin|LinkedIn]] · [[website|Website]] · [[substack|Substack]] · [[travel|Travel]]
 - **debriefs/** — this page's dated archive
 - **archive/** — the original brainstorm
 
 ## 🕰 Recent
+- **2026-08-12** — Data cleaned up: **one folder per dataset** (notes + `.base` + guide inside). `partners/` and `events/` converted to filterable Bases; **partner contacts now have interaction logs** (log date/what-discussed/next-step each touch). Small/static tables (ledgers, claims register) intentionally left as tables.
 - **2026-08-11** — **Nariway Signals ACTIVATED** — continuous-sensing across 4 beats (cases · prospects · partners · events/travel), each with its own register ([[nariway-signals]], [[prospects]], [[partners]], [[events-radar]]); first seeding cycle running.
 - **2026-08-11** — **Institution Building** refined: iterative Form⇄Viability lifecycle, two suitability gates (collection case / public case), Audience & Community as its own domain, dependency-confidence tags, no premature "crown jewel." Added a **[[claims-register]]** (canonical numbers, referenced not copied — fixes downstream drift). **Institution Building** function added (frame + decision-map + knowledge-base + specialist-map; seeded from existing knowledge, *not* a research sprint). Vault reorganized; **Toi** (Chief of Staff) + daily-debrief system created. Artobiography format locked. CMO + CFO built and refined. McNay packet completed. Research program hardened. (Full: [[2026-08-11|today's debrief]].)

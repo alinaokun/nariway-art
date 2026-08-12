@@ -1,0 +1,19 @@
+filters:
+  and:
+    - type == "partner"
+views:
+  - type: table
+    name: Partners
+    order:
+      - file.name
+      - category
+      - stage
+      - priority
+      - last_contacted
+      - next_followup
+  - type: cards
+    name: Board
+    order:
+      - category
+      - stage
+      - priority

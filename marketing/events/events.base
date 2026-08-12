@@ -1,0 +1,19 @@
+filters:
+  and:
+    - type == "event"
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - date
+      - category
+      - location
+      - decision
+      - deadline
+  - type: cards
+    name: Board
+    order:
+      - date
+      - category
+      - decision
