@@ -13,9 +13,8 @@ Your brief with Toi. Always the current picture, refreshed as we make changes. E
 The few things only you can do, ordered by how directly they move toward the goal. Each says why now and what to say, so nothing here is vague.
 
 1. **Book the Dawn call.** Your most direct step toward revenue, a warm path into the collector and family-office world and your first real read on whether anyone will pay. She offered a time this week; if she has not named one by tomorrow, send a one-line nudge with two slots. → [[Dawn Mari La Monica]]
-2. **Send the Souls Grown Deep email.** Time-sensitive for your Sept 2 Atlanta trip. A foundation that lived your exact thesis, so this is relationship and firsthand material at once. The draft is written and ready. → [[Souls Grown Deep Foundation]]
-3. **Set your bio and post one Note.** Bio is chosen, *Artobiography | the future and legacy of great private art collections*. Then schedule one Note (the McNay one, #3, is the strongest opener). You have 1,472 warm followers and have published nothing in a year, this is the cheapest growth you have. → [[substack-notes-queue]] · [[substack]]
-4. **Steer the flagship report.** Your primary focus now. Decide the title and confirm scope, then it runs in the background. → [[flagship-report]]
+2. **Set your bio and post one Note.** Bio is chosen, *Artobiography | the future and legacy of great private art collections*. Then schedule one Note (the McNay one, #3, is the strongest opener). You have 1,472 warm followers and have published nothing in a year, this is the cheapest growth you have. → [[substack-notes-queue]] · [[substack]]
+3. **The flagship report runs in the background.** Your primary focus, decisions made, coding underway. Nothing needed from you day to day. → [[flagship-report]]
 
 *Smaller, when you get to them: choose a LinkedIn headline ([[linkedin]]).*
 

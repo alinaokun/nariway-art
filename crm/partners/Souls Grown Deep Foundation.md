@@ -3,17 +3,17 @@ type: partner
 category: institution
 expertise: "Collector-founded foundation / distributed-gift model"
 geography: "Atlanta, GA"
-stage: outreach-planned
+stage: passive
 last_contacted: ""
-next_followup: 2026-08-14
-priority: high
+next_followup: ""
+priority: low
 website: soulsgrowndeep.org
 ---
 ## Who / why
 The foundation built from William Arnett's collection of Black vernacular art of the American South, and the subject of Alina's own case, [[souls-grown-deep]], the collection that gave itself away into more than twenty museums rather than staying whole. Its distributed-gift model is one of the most instructive examples anywhere of a private collection entering public life. **Not a public museum, a foundation office** at 1040 W Marietta St NW, Atlanta; visits are arranged, not ticketed. Phone (770) 825-3132.
 
-## The opportunity (time-sensitive)
-Alina is in **Atlanta Sept 2 to 8, 2026**. A visit and conversation would be primary research, a possible discovery relationship, and potential Artobiography material, all at once. Because a visit must be arranged, the outreach should go out by mid-August. Find the right recipient (the President / a program or communications lead) via the site rather than a generic inbox if possible.
+## Status: not pursuing a visit (2026-08)
+Alina decided against visiting or reaching out during the Atlanta trip. Souls Grown Deep remains a **report case** ([[souls-grown-deep]]), the distributed-gift model is still central to the dataset, this just closes the visit/outreach idea. The draft below is kept only in case a natural occasion arises later.
 
 ## Interactions
 - (planned) — outreach to request a visit and conversation during the Atlanta trip. Draft below.
