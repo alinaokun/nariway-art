@@ -5,6 +5,7 @@ Not a standing function (see [[executive-model]]) — a recurring **subagent** T
 ## What it watches for
 - **Stale information** — dates, statuses, or facts that no longer match reality (e.g. a HOME date left behind, a "pending" that is now decided, a "waiting on X" that already happened).
 - **Redundancy** — the same fact stated in two places (violates the single-source-of-truth convention), duplicate notes, superseded drafts.
+- **Canonical-copy drift (a known recurring offender)** — a working page (e.g. [[linkedin]], [[substack]], [[website]]) holding its own copy of something that is canonical elsewhere, most often the public profile copy in [[positioning]] or a number in [[claims-register]]. When Alina updates the live copy, the canonical page changes but a working page can keep a stale version, so two pages disagree. Fix: the working page points to the canonical home, it never keeps its own copy. Flag any working page that still carries live copy instead of a pointer.
 - **Noise and clutter** — retired practices still lying around (like the old `debriefs/` folder), empty or orphaned files, dead ends.
 - **Broken structure** — broken `[[wikilinks]]`, notes missing frontmatter the bases need, files in the wrong folder, decisions left open in `company/decisions/` that are actually settled.
 - **A stale map** — a new note that is not yet listed in [[index|INDEX]], or an INDEX line pointing at a moved or renamed file. Keeping the INDEX current is part of the sweep, since it and HOME are the two files Alina navigates from.
