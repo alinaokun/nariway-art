@@ -28,5 +28,18 @@ A running log maintained by the **Research** lens and fed by [[nariway-signals|S
 
 ---
 
+## 2. The estate rush — supply, not demand, is carrying the market
+*ARTnews (Daniel Cassady), "The Great Estate Rush That Is Reshaping the Art Market," early Aug 2026. Logged 2026-08-13 by [[nariway-signals|Signals]].* [Article](https://www.artnews.com/art-news/market/great-estate-rush-that-is-reshaping-art-market-1234794331/)
+
+**The thesis, in short.** The 2026 recovery in auction totals is being driven by *estates* rather than by a return of speculative appetite. Aging collectors and their estates are releasing rare, long-held material, and the headline numbers reflect the quality of what is being consigned more than the health of ordinary demand.
+
+**Why it matters to Nariway.** It is the visible tail of the same process [[market-intelligence]] #1 describes privately. Two things follow:
+1. **The auction total is a lagging indicator of a decision made years earlier.** Every single-owner sale is the endpoint of a governance process that ran, unadvised or badly advised, long before the consignment. That is the window Nariway works in, and this piece is evidence the window is now busy.
+2. **Sell is winning by default, not by design.** When the sorting process has no independent coordinator, the auction house is the only party with a standing offer and a process. This sharpens the "who owns the decision" question (H7A) into a competitive one.
+
+**Discipline note.** Trade reporting on market conditions, not a study. Directionally useful; the causal claim (estates *cause* the rebound) is the reporter's read. No numbers routed to the [[claims-register]] from this piece — the widely quoted "about a third of H1 2026 totals came from single-owner collections" appears only in secondary aggregators and is **not** verified, so do not use it.
+
+---
+
 ## How this log grows
 Research and Signals add significant macro and market-economics sources here, each with a short synthesis and the same routing discipline (numbers to the claims register, no restatement, corroboration not proof). Candidates: new Deloitte and Art Basel/UBS reports, TEFAF, major analyst pieces, and the READ tier of [[substack-register]].
