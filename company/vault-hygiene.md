@@ -2,6 +2,8 @@
 
 Not a standing function (see [[executive-model]]) — a recurring **subagent** Toi runs to keep the vault clean, current, and legible, so noise and stale information never accumulate to slow Alina down. It complements the one-time [[vault-review]] audit by making hygiene a standing loop rather than an occasional cleanup.
 
+**Standing principle (Alina's stated preference): fewer files.** Bias toward consolidation. Before anyone creates a new note, extend an existing home instead; only create a new page when a topic genuinely has no home. Fewer, canonical pages beat many overlapping ones, because every extra file is a place for stale or contradictory content to hide.
+
 ## What it watches for
 - **Stale information** — dates, statuses, or facts that no longer match reality (e.g. a HOME date left behind, a "pending" that is now decided, a "waiting on X" that already happened).
 - **Redundancy** — the same fact stated in two places (violates the single-source-of-truth convention), duplicate notes, superseded drafts.
