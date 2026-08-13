@@ -1,22 +1,50 @@
-# Website — nariway.com
+# Website — nariway.com and alinaokun.com
 
-*A CMO work-function (no persona): the public-facing outlet. **Recommendation: a lean, credible v1 now — not a full redesign yet.** A complete rebuild before Artobiography relaunches and the public positioning firms up is the premature-brand-build the CFO watches for. Give the site a credible presence now; do the ambitious version once there's published work to point to. **Positioning per [[positioning]]: Nariway reads as a strategic advisory in the art domain — NOT an arts / media / art-writer site.***
+*A CMO work-function (no persona): the public-facing outlets. **The Qwoted query does NOT wait on either site.** Priority now is a cheap interim fix so nothing public actively contradicts the new positioning, not a redesign. Full rebuild is deferred until Artobiography has published work to point to (rebuilding now is the premature-brand-build the CFO watches for). Positioning per [[positioning]]: Nariway is described as **researching** right now, not as a priced advisory, because what the advisory promises is exactly what the evidence phase is still resolving.*
 
-## Three decisions only Alina can make (needed before even v1)
-1. **The public one-liner** (the promise). For **Artobiography**: *"The stories behind remarkable collections — and the people who bring them into public view."* For **Nariway itself** (strategic advisory, per [[positioning]]): *"Significant private art collections, and what comes next."* Pick/refine.
-2. **Advisory visibility** — discreet-but-visible: a short "Advisory" line/section, or a full page? (Per CMO: visible enough that a referrer knows what you do; not a sales pitch.)
-3. **The old content** — the previous iteration's essays (*A Conditioned Life*, *The Brief Experiment*, recognition-layer register). Keep as an archive, fold selectively into the new direction, or retire? *This is a real continuity call — the old brand was a different thing.*
+## Does posting the Qwoted query wait on the websites? No.
+The query points people to **Artobiography** (Substack), which is clean and on-message, and interviewees respond inside Qwoted. Neither website sits on that path. Holding the query for a site rebuild would be the exact over-building trap the whole strategy is guarding against. **Post the query now.** The site work runs in parallel, on its own clock.
 
-## Proposed v1 sitemap (lean)
-- **Home** — the one-liner + a sentence on what Nariway studies/does + entry points.
-- **Artobiography** — the publication (link/embed).
-- **Advisory** — discreet: what Nariway does for collectors/families + contact. *(Copy waits on the positioning decision.)*
-- **About** — Alina (the finance-meets-art story).
-- **Contact.**
+## The one real risk, ranked
+- **nariway.com — the priority fix.** It is not merely stale; it presents a *polished, different organization* ("an independent research institution dedicated to the origins of working life"). Nariway is now named across Qwoted, Substack, and LinkedIn, so a curious PR person or interviewee can land there and be confused. A contradicting site is worse than no site. This is a copy swap, not a rebuild, so it is cheap to close within a few days of posting the query.
+- **alinaokun.com — lower priority.** Merely stale, not contradictory. You *are* a researcher, so "Researcher / Former CFO" does not fight the new identity the way nariway.com does. Update it when convenient, not before the query.
 
-## Draft homepage hero (options — react/refine)
-- *"Nariway. Significant private art collections — and what comes next."*
-- *"There is billions of dollars of important art in private hands. Nariway is about its future — succession, legacy, and public life."*
+## Interim nariway.com — a one-page holding version (ready to publish)
+Voice-clean, describes researching, no advisory promise. Drop-in copy:
+
+**Hero**
+> **Nariway**
+> Significant private art collections, and what comes next.
+
+**Intro**
+> Nariway studies what happens to significant private art collections over time, and the different ways they move into public life.
+
+**What we're studying**
+> Private collections, collector-founded museums and foundations, university partnerships, long-term loans, traveling collections, succession, institutional durability, and alternative models for bringing privately held art into public life.
+
+**Artobiography**
+> The stories behind remarkable art collections, and what becomes of them.
+> *[Read Artobiography]* → (link to the Substack)
+
+**About Alina**
+> Alina Okun founded Nariway. She spent more than 20 years in finance and business, from Arthur Andersen and UBS to serving as CFO of a technology company, and holds a doctorate in Strategy and Innovation. She has visited more than 100 museums, collected art, and written about artists and art. Nariway is where those two worlds meet, art on one side, and finance, organizations, strategy, and long-term durability on the other.
+
+**Contact**
+> (email / contact form)
+
+## Interim alinaokun.com tweaks (small, when convenient)
+- **Top line:** from *Researcher · Author · Former CFO* to **Researcher · Publisher · Former CFO** (Publisher ties to Artobiography; keep Author if you would rather point to the two books).
+- **Opening sentence:** from *"I research the origins of modern working life, and I built Nariway to do it."* to **"I focus on what happens to significant private art collections over time, and the different ways they move into public life. I am the founder of Nariway and publisher of Artobiography."** (uses the resolved "focus on" framing, [[positioning]]).
+- **Add a short transition paragraph** placing the finance-to-art move as history, not current identity. The old work-research stays as legitimate past work, it just stops being the headline.
+- **Project cards:** from *CIA Insights / Nariway / The Brief Experiment* to **Nariway · Artobiography · The Brief Experiment**, so the current story leads and the earlier work is preserved.
+
+## Full v1 (deferred until Artobiography relaunches)
+Not now. When there is published work to point to, the ambitious build happens, and only then does the "Advisory" question below get answered.
+
+### Three decisions only Alina makes (for the eventual v1, not the interim)
+1. **Advisory visibility** — discreet line, a section, or a full page? Visible enough that a referrer knows what you do, never a sales pitch. Resolves as the evidence phase tells us what the advisory actually promises.
+2. **The old content** — the previous essays (*A Conditioned Life*, *The Brief Experiment*). Keep as archive, fold selectively, or retire. A real continuity call, the old brand was a different thing.
+3. **The eventual one-liner and sitemap** — home, Artobiography, About, Contact, and the advisory section once decided.
 
 ## Next step
-Once Alina picks the one-liner + the advisory-visibility level + the old-content call, **Toi can prototype a v1 landing page** (self-contained HTML) to look at before anything is built or published. Full design/build is deferred until Artobiography relaunches.
+Post the Qwoted query. Swap nariway.com to the interim page above within a few days. Leave alinaokun.com and the full v1 for later. Toi can prototype the interim page as self-contained HTML to look at before it goes live, if useful.
