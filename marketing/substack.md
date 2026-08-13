@@ -32,11 +32,15 @@ The followers have grown steadily over the past year, roughly 1,040 to 1,472, **
 ## 1. Platform intelligence (stay optimal as Substack evolves)
 Substack ships features constantly (Notes, scheduling, recommendations, subscriber tools, video, chat, etc.). This function **periodically checks Substack's product updates** and flags anything Nariway should adopt or change — so Artobiography always uses the platform well. *(A light beat; surfaces via [[nariway-signals]] when there's something worth acting on — not constant noise.)*
 - **Known now:** Notes can be **scheduled** in Substack → we can batch-draft and queue.
+- **Practitioner playbook (standing).** Track what *proven* Substack growth practitioners currently recommend, the people who have actually built large publications and teach it (including the ones whose courses Alina has taken). Keep a living [[substack-playbook]] and apply it. This is expertise from people who test constantly, not our guesses. Refresh via [[nariway-signals|Signals]] and the cloud research agent.
 
 ## 2. Discovery (whom to read, engage, follow)
 Find and rank the Substack and adjacent writers relevant to Nariway, for reading, for learning, and for the engagement and mutual-recommendation relationships that grow the audience. Live register → [[substack-register]] (Read / Engage / Follow, with verification flags). Refresh periodically and as [[nariway-signals]] surfaces new voices.
 
-## 3. Notes drafting (the "research breadcrumbs" experiment)
+## 3. Notes drafting (rebuilt from real content)
+**Correction (2026-08-13).** The manufactured Notes read stiff and random through several rewrites. Root cause: they were invented topics polished to my taste, not drawn from Alina's real writing. **New rule: Notes are sourced from her actual [[format-v0.1|Artobiography]] essays**, her real lines and topics, and follow the [[substack-playbook]] from proven practitioners. The current [[substack-notes-queue]] is **on hold** pending that rebuild. Where useful, use her real published quotes and Substack's own quote/restack features (see the playbook).
+
+### The old approach (kept for reference)
 The active audience-discovery experiment ([[experiment-ledger]]): short observations from the research, thinking publicly. A drafting sub-agent produces **batches for review** → [[substack-notes-queue]].
 - **Rule (from the CMO):** these are *breadcrumbs, not a treadmill.* Genuine observations, ~2–3/week when there's something worth saying — do NOT force one every day. **Toi drafts; Alina reviews, edits, and schedules.** Nothing posts without her.
 - **Voice:** Artobiography's warm, first-person, curious register — an observation, not a pitch. Apply the *prose-can't-outrun-research* rule ([[format-v0.1]]) and the [[claims-register]] for any number.

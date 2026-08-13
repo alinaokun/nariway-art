@@ -1,4 +1,6 @@
-# Substack Notes — draft queue (batch 1, in your voice)
+# Substack Notes — draft queue (batch 1)
+
+> **ON HOLD (2026-08-13).** These read stiff and the topics were manufactured. Being rebuilt from Alina's real Artobiography essays and the [[substack-playbook]]. Do not schedule these.
 
 Drafted by the [[substack]] function for Alina to review, edit, and schedule. Plain, readable sentences, no fragments. **They end on a concrete fact or image, not a manufactured conclusion.** The old third-paragraph "landings" (the "it was never about X, it was about Y" kind) read as forced wisdom and violate the voice guide's restraint, so they are gone. The last line is a flat, specific statement and the reader draws the meaning. Sources checked against the [[claims-register]]. Voice governed by [[voice]].
 
