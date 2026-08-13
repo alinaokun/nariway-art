@@ -1,58 +1,45 @@
-# Substack Notes — draft queue (batch 1)
+# Substack Notes — draft queue (rebuilt from your real essays)
 
-> **ON HOLD (2026-08-13).** These read stiff and the topics were manufactured. Being rebuilt from Alina's real Artobiography essays and the [[substack-playbook]]. Do not schedule these.
+Built from Alina's **actual Artobiography posts**, her own words, following the [[substack-playbook]]. These lead with the human hook, keep her clean sentences intact (ready for quote cards), and read the way she actually writes. Post one a day, not in a batch; add one image each; reply to every comment. Restacks are the goal, so a strong first line matters most.
 
-Drafted by the [[substack]] function for Alina to review, edit, and schedule. Plain, readable sentences, no fragments. **They end on a concrete fact or image, not a manufactured conclusion.** The old third-paragraph "landings" (the "it was never about X, it was about Y" kind) read as forced wisdom and violate the voice guide's restraint, so they are gone. The last line is a flat, specific statement and the reader draws the meaning. Sources checked against the [[claims-register]]. Voice governed by [[voice]].
+*(These draw from her published artist-life essays. As Artobiography moves toward the collection-legacy angle, new Notes will draw from that, but her real, quotable content today is the artist stories, and they sound like her.)*
 
 ---
 
-**1. The collection that gave itself away**
-> William Arnett spent almost thirty years building the largest collection of Black vernacular art in the American South. For a century, the art world had refused to take this work seriously.
+**1. Norman Rockwell** — from "Painting Happiness Through Depression with Norman Rockwell"
+> When Norman Rockwell checked himself into a psychiatric facility in the 1950s, millions of Americans had his cheerful paintings hanging on their walls.
 >
-> He could have put it all in one museum with his name on the door. Instead he gave it away, one work at a time, to more than twenty of them.
-
----
-
-**2. The art America cannot see**
-> There is a large collection of American art that most Americans will never see. It hangs inside United States embassies, behind guarded doors, chosen to represent the country abroad.
+> He spent his life battling a darkness he was painting his way out of. The covers everyone remembers as pure comfort were made by a man in real pain.
 >
-> A small foundation in Connecticut has quietly started letting the public in.
+> I wrote about how that changed the way I see them.
 
 ---
 
-**3. She planned a museum she would never see**
-> Marion Koogler McNay designed her San Antonio house down to the stencils she painted on the walls by hand, then left instructions in her will to turn most of it into a museum.
+**2. Auguste Rodin** — from "How Auguste Rodin Brought Stone to Life"
+> Although I usually prefer paintings to statues, Rodin is different.
 >
-> It opened in 1954 with a Picasso exhibition she did not live to see.
-
----
-
-**4. Then what**
-> Most collectors assume a lifetime of collecting ends with a grateful museum taking everything.
+> Every other sculptor of his time was chasing smooth and perfect. He left the marks in. You can still see where his fingers pressed the clay.
 >
-> More and more, the museum says no, for want of space, or the budget to care for the work, or a reason it fits what is already there.
+> Think of it like the difference between a posed photograph and a candid shot.
 
 ---
 
-**5. A postal clerk and a librarian**
-> Herbert and Dorothy Vogel built one of the great collections of minimalist and conceptual art on a postal clerk's salary and a librarian's, buying only what they could carry home on the subway.
+**3. Matthew Wong** — from "Matthew Wong, The Modern Vincent van Gogh"
+> Matthew Wong did not pick up a paintbrush until he was 29.
 >
-> When it was time to let the collection go, they gave fifty works to a museum in each of the fifty states.
-
----
-
-**6. The question the art world keeps not asking**
-> The art world talks constantly about what a collection is worth. It rarely asks what becomes of it.
+> Then he painted twelve hours a day, alone, teaching himself in public through the images he posted. A few years later his work hangs at MoMA and the Guggenheim.
 >
-> A great collection can go to a museum, a foundation, or a university. It can travel as an exhibition, sell at auction, or come quietly apart.
+> His story stays with me.
 
 ---
 
-**7. Founding a museum is the easy part**
-> Founding a museum is easy to celebrate. Keeping one alive for fifty years is not.
+**4. René Magritte** — from "Questioning Reality with the Art of René Magritte"
+> Magritte was fourteen when his mother drowned herself in the Sambre River.
 >
-> One collection I have been studying became a sculpture park across two hundred acres of the Napa Valley. To stay open, it now sells work from its own holdings and rents the grounds for events.
+> For the rest of his life he painted faces you cannot quite see and objects that refuse to explain themselves. He wanted you to stand in front of a picture and ask one question. What does that mean?
+>
+> More on him here.
 
 ---
 
-*Note on endings. A Note lands on a concrete fact, a date, a place, a specific act, not on a summarizing moral. If a closing line explains what the story means, cut it. The specificity carries the meaning, and the reader is trusted to feel it. No "it was never about X, it was about Y." No closing question. No links in the body.*
+*How to run them (from the [[substack-playbook]]): lead the restack with the hook line; for a quote card, highlight one of her clean sentences in the post itself and Restack quote it; add one image; one Note a day; reply to everyone; re-share a strong Note ~24 hours later. Restacking others with a real added line grows the list faster than any single Note.*
