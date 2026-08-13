@@ -12,7 +12,7 @@ Your brief with Toi. Always the current picture. Your daily check-in email is th
 
 The few things only you can do, ordered by how directly they move toward the goal. Each says why now and what to say, so nothing here is vague.
 
-1. **Book the Dawn call.** Your most direct step toward revenue, a warm path into the collector and family-office world and your first real read on whether anyone will pay. She offered a time this week; if she has not named one by tomorrow, send a one-line nudge with two slots. → [[Dawn Mari La Monica]]
+1. **Your Dawn call is TODAY, 3:00pm EDT** (Google Meet). Your first real market conversation and most direct step toward revenue. Go in to listen, not pitch; understand how the collection-legacy question shows up in her family-office world, and where the real collectors gather. Prep is in her note. → [[Dawn Mari La Monica]]
 2. **Set your bio and post one Note.** Bio is chosen, *Artobiography | the future and legacy of great private art collections*. Then schedule one Note (the McNay one, #3, is the strongest opener). You have 1,472 warm followers and have published nothing in a year, this is the cheapest growth you have. → [[substack-notes-queue]] · [[substack]]
 3. **The flagship report runs in the background.** Your primary focus, decisions made, coding underway. Nothing needed from you day to day. → [[flagship-report]]
 
@@ -33,7 +33,6 @@ The lenses react to every change and surface actions toward the goal. This updat
 
 ## Waiting on a decision
 
-- **Dawn call** — waiting on her to name a time. Nudge tomorrow if quiet. → [[Dawn Mari La Monica]]
 - **Second case study,** di Rosa or Terra. → [[di-rosa]] · [[terra]]
 
 ---

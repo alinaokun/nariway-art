@@ -8,3 +8,7 @@
 Thumbs.db
 .DS_Store
 desktop.ini
+
+# Obsidian plugin files (not needed by the cloud agent)
+.obsidian/plugins/
+.obsidian/community-plugins.json
