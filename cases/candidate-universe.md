@@ -171,6 +171,25 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | **Museum Berggruen** | Heinz Berggruen | collector collection → national museum | Dec. | Berlin, DE | Modern masters; collector placed the holding with the German state (Nationalgalerie) |
 | **Medaugh Hiroshige collection → Christie's** | Alan Medaugh | intentional dispersal / auction | Living | New York (sale) | 600+ Hiroshige prints, one of the finest ever assembled, half a century of collecting → sold at auction (first sale ~Sept 15, 2026). A live *sale* pathway with a public preview; see [[to-see]] |
 
+## 8 · Corporate & institutional collections (a distinct category — `origin: corporate`)
+*Added 2026-08-13 at Alina's request. Corporations are stewards too, and they face the same "what becomes of it" question through different triggers, M&A, bankruptcy, leadership change, cost/ESG/return-to-office, brand strategy. A contrast class (committee/board decision-owner, maximal governance) and unusually citable. All rows PROVISIONAL, verify before use; figures approximate.*
+
+| Name | Owner | Pathway / status | Geography | Thesis / why it matters |
+|---|---|---|---|---|
+| **UBS Art Collection** | UBS | active steward; major museum lender | Zürich / global | ~30,000 works, one of the largest corporate collections, grown from the PaineWebber and Swiss Bank legacy holdings; anchors UBS's Art Basel lead partnership. The "corporate collection as ongoing public-facing steward" model. Alina's own former employer. |
+| **Credit Suisse Collection → UBS (2023 merger)** | Credit Suisse → UBS | absorbed in emergency merger | Zürich | The live M&A question in its purest form: what becomes of a significant bank collection when the bank itself is absorbed. A rare, datable corporate-transition case. |
+| **Deutsche Bank Collection** | Deutsche Bank | active; built a public space | Frankfurt / Berlin | Among the largest corporate collections (~55,000 works on paper/photography); created **PalaisPopulaire** (Berlin, 2018), a corporate collection turned into a public exhibition house. Directly on the "into public life" thesis. |
+| **JPMorgan Chase Art Collection** | JPMorgan Chase | active + **deaccessioning** | New York / global | Founded 1959 under David Rockefeller (Chase Manhattan); ~30,000 works across hundreds of sites; began selling parts in the 2020s. A 65-year corporate collection actively deciding its own future. |
+| **Bank of America "Art in our Communities"** | Bank of America | free museum lending program | Charlotte / global | Lends complete, curated exhibitions to museums worldwide at no cost (150+ shows); also absorbed Merrill Lynch's collection. Public life **without** divesting, a lending-program model. |
+| **Progressive Art Collection** | Progressive Corp. | active, workplace-integrated | Mayfield, OH | ~9,000+ contemporary works; a benchmark US corporate contemporary collection. |
+| **Lehman Brothers Collection** | Lehman (defunct) | **bankruptcy dispersal** | New York | The canonical corporate dispersal: works auctioned at Sotheby's and Christie's after the 2008 collapse. The corporate analogue of a forced estate sale. |
+| **First Republic Bank Collection** | First Republic (failed 2023) | **failure → donated to museums** | San Francisco | After the 2023 failure and JPMorgan takeover, the ~$27M collection was gifted to Bay Area museums (2024) rather than sold. A recent, clean contrast to Lehman: distress resolved by donation. |
+| **Reader's Digest (Wallace) Collection** | Reader's Digest Assoc. | **balance-sheet sale** | Chappaqua, NY | DeWitt and Lila Wallace's Impressionist/Post-Impressionist masterpieces, sold at Sotheby's in 1998 to fund the company. Corporate-fortune art dispersed for corporate need. |
+| **Enron Art Collection** | Enron (defunct) | **bankruptcy dispersal** | Houston | Sold off after the 2001–02 collapse; an early marker of the corporate-failure pathway. |
+| **Fondation Cartier / Fondation Louis Vuitton / Fondazione Prada** | Cartier · LVMH · Prada | corporate foundation → public museum | Paris · Paris · Milan | The corporate-foundation-to-public-museum model at scale (Fondazione Prada already in the private universe above). The bridge between the corporate category and collector foundations. |
+
+*Verify-first leads (lower confidence): Microsoft, Fidelity (Devonshire), Capital Group, Bloomberg, Société Générale and BNP Paribas (large European bank collections, some partly sold in restructurings), WestLB / ABN AMRO / RBS / Commerzbank dispersals. The European bank-collection dispersals are a rich, underexamined vein of M&A-and-restructuring transitions.*
+
 ## Signals daily — 2026-08-13
 *From the daily [[nariway-signals|Signals]] scan and the forwarded-email intake. Provisional; each carries its source.*
 

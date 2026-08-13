@@ -10,6 +10,9 @@
 
 Museums are one answer. Foundations, university partnerships, house museums, art parks, lending programs, seasonal exhibition spaces, appointment-only-to-public transitions, gifts (intact or scattered), sales, dispersal, retention — and models that don't have a name yet — are all inside the territory. The unit of analysis stays the **collection and its pathway**; the set of pathways is wide.
 
+### Scope note — corporate and institutional collections (in scope, as a distinct category)
+The public wedge stays **private-individual** collections, but the research explicitly includes **corporate collections** (UBS, Deutsche Bank, JPMorgan Chase, and the rest) as a separate, tagged sub-population, coded with the same schema under `origin: corporate`. They belong for three reasons. **They face the same "what becomes of it" moment**, only the triggers differ — a merger, a bankruptcy, a new CEO, a cost or return-to-office or ESG decision, a brand-strategy shift, rather than a death. **They are a contrast class:** the decision-owner is a committee or board rather than a person or family, and governance is maximal by design, so they test whether *governance-beats-endowment* still holds at the ceiling of formal governance. And **the record is unusually clean** — corporate dispersals (Lehman, Enron, Reader's Digest) and public-life models (Deutsche Bank's PalaisPopulaire, Bank of America's free lending program, corporate foundations like Cartier and Louis Vuitton) are well documented and citable. There is also a possible **adjacent B2B market** here: a company deciding what becomes of its collection needs the same independent strategic read Nariway imagines for a collector — noted, not pursued yet. Seed list in [[candidate-universe]].
+
 ---
 
 ## North star (a governing value, not a slogan)
