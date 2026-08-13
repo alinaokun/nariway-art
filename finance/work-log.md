@@ -11,6 +11,6 @@ A clear daily record of Alina's working hours and location, for tax substantiati
 ## Log
 | Date | Location | Hours | Focus | Confirmed |
 |---|---|---|---|---|
-| 2026-08-12 | Montvale, NJ | _to confirm_ | Flagship report launch, case coding, daily check-in + Legal/Tax functions, work log | pending Alina |
+| 2026-08-12 | Montvale, NJ | ~8 _(draft estimate, to confirm)_ | Flagship report: template locked, pilot + 20-case wave coded to 30 of 50, preliminary patterns written. Dawn La Monica reconnect and materials review, Opal declined. Legal and Tax watch functions added, entity facts recorded. Substack bio locked, Notes queue revoiced. Learning, Network Research, regional-visits and courses registers built. | pending Alina |
 
 *(Add a row per working day. Toi pre-fills location and a draft hours figure; Alina confirms.)*
