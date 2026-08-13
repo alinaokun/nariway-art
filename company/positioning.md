@@ -10,6 +10,37 @@
 > **Alina Okun, Founder**
 > *Significant private art collections, and what comes next.*
 
+## Public copy — live profiles (canonical, as of 2026-08-13)
+*The actual language on Alina's live profiles, cleaned to the [[voice]] craft standards (no em dashes, no colons in prose, no And/But sentence starts). Website and LinkedIn copy inherit from here. When a profile changes, update this so the vault and the live text never drift.*
+
+**Headline (standardize everywhere):** Founder, Nariway | Publisher, Artobiography
+
+**Qwoted / short bio:**
+> Artobiography is an independent publication about remarkable art collections and the people behind them. I tell the stories of how collections were built, what became of them, and how collectors, founders, institutions, and specialists think about their future. I am particularly interested in private collections, collector-founded museums and foundations, unusual models for bringing art into public life, collection stewardship, and the people working behind the scenes to preserve and share important art.
+
+**Substack description (one line):** The stories behind remarkable art collections, and what becomes of them.
+
+**Substack About page:**
+> Every remarkable art collection has a story.
+>
+> Someone bought the first work. Then another. Over years, sometimes decades, individual choices became a collection.
+>
+> Yet every collection eventually faces another question. What happens to it?
+>
+> Some become museums. Some are given to universities or existing institutions. Some travel the world. Some remain in families for generations. Others are divided, sold, or disappear from public view.
+>
+> Artobiography tells these stories.
+>
+> I write deeply researched features about remarkable private collections, the people who built them, and the decisions that determined what happened next. I am especially interested in collections that found unusual ways into public life, from small foundations and regional museums to long-term loans, traveling exhibitions, university partnerships, and models that don't fit neatly into any category.
+>
+> Artobiography also publishes conversations with the people who shape the lives of collections today, the collectors, founders, museum leaders, curators, advisors, conservators, attorneys, and others who understand what it takes to care for important art and determine its future.
+>
+> **About me.** I'm Alina Okun, founder of Nariway. My route into the art world was not through art history. I spent more than 20 years in finance and business before turning much of my attention to art. I've visited more than 100 museums, collected art, attended major art fairs and exhibitions, and written dozens of stories about artists and art. That combination made me curious about something I rarely saw discussed, what happens behind the collection itself.
+>
+> Who decides what its future should be? Why do some private collections become lasting public institutions while others don't? What does a collector have to give up to make something survive beyond them? What actually has to happen, financially, legally, operationally, and physically, to bring private art into public life?
+>
+> Those are the questions behind Artobiography. Artobiography is published by Nariway, where I research how significant private collections move into public life and what makes those models endure.
+
 ## HBR classification (best-fit boxes)
 - **Industry:** Consulting
 - **Functional area:** Strategic Planning
