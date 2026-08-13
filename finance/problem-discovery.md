@@ -42,6 +42,10 @@ Sources for names: Dawn (introductions), HBR Advisory contacts, the [[warm-netwo
 ## Log
 | Date | Who | Lived a transition? | What happened (chronology) | Where it broke / who owned it | Signal level | Belief impact |
 |---|---|---|---|---|---|---|
-| 2026-08-13 | Dawn Mari La Monica (family-office connectivity) | call at 3pm EDT | _to log after_ | | | → [[what-we-now-believe]] |
+| 2026-08-13 | Dawn Mari La Monica (family-office connectivity) | did not surface one; call turned transactional | No collection-transition chronology; conversation became her discovery/coaching pitch. Her read: family offices are a "very tough crowd," two years in. Central push: get clear on offer / client / why-you. | H7A not advanced (no incumbent-ownership evidence either way) | "interesting idea" / seller-mode, not a discovery signal | family-office lane is hard; lead with the art world → [[what-we-now-believe]] |
 
 *(One row per substantive conversation. The point is the pattern across rows, and the belief shifts it produces.)*
+
+## Lessons on running these (updated as we learn)
+- **Pick discovery subjects who are not in seller mode.** A hyper-transactional contact will convert your reconnect into their pitch, and you learn about their business, not the market. The best subjects are people who *lived a transition* and are proud to describe it (foundation founders, collection managers, a museum director), not people whose whole practice is business development (Dawn, 2026-08-13). Warmth and non-transaction are why the [[conversations-series|written interview]] frame works better than "customer discovery."
+- **The forcing question is fair, the false binary is not.** "Are you doing this for fun or to make money?" is worth answering plainly (money, [[nariway-cfo|one million a year]]). But "thought leadership OR money" is a false choice, Nariway's model is money *through* credibility and relationships, with the editorial front door as the acquisition engine, not a hobby. Name that as a deliberate go-to-market, not indecision.

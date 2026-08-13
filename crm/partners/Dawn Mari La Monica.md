@@ -11,7 +11,7 @@ email: dawn@dawnmari.co
 website: dawnmari.co/familyoffice
 ---
 ## Who / why
-Personal contact; **former Opal Legacy Summit speaker**. A warm door into the family-office / legacy world. Now in live conversation and has offered to help.
+Personal contact; **former Opal Legacy Summit speaker**. Originally read as a warm door into the family-office / legacy world; after the 2026-08-13 call, better understood as a **transactional comparable** (like [[Nina Kong-Surtees|Nina]], a relationship-capital business with careful "what I am NOT" positioning) and a cordial contact who sells coaching, **not** a natural referral engine. Keep the relationship human and low-agenda; do not build strategy around her.
 
 ## Interactions
 - 2026-08-12 — **Sent reconnect email** (first contact in ~2 years). Reintroduced Nariway's refocus on helping collectors decide what becomes of their art as legacy; asked whether the Opal Legacy Summit ($3,195, in two weeks) is worth attending.
@@ -19,6 +19,7 @@ Personal contact; **former Opal Legacy Summit speaker**. A warm door into the fa
 - 2026-08-12 — **Sent her platform materials (four PDFs) and asked for a 30-minute call** tomorrow/Friday or Tues/Wed next week, requesting a few time options and time zone. Materials on file in the email intake (Processed). Summary below.
 - 2026-08-12 — **Alina replied same day**, warm and enthusiastic, agreed to catch up tomorrow or Friday, and teased a story about how [[Hall W. Rockefeller]] once reached out to her.
 - 2026-08-13 — **Call scheduled: today, 3:00–3:45pm EDT, Google Meet** (meet.google.com/ubh-mgfi-euc). Dawn sent the invite ("Alina Okun x Dawn 2 yrs later"). This is Alina's first real discovery conversation. Prep below.
+- 2026-08-13 — **Call held (reconnect after ~2 years).** Dawn's central message: get very clear on **what exactly you are offering, who the client is, and why you are the best person for the job.** Her honest market read: she works **family offices full-time**, calls it a **"very tough crowd"** she chose deliberately and has ground away at for two years. She pressed Alina to decide whether this is **for fun / thought leadership or to make money.** She also gauged Alina's interest in **her executive coaching** (which she sells), so the conversation ran more as her own discovery/coaching call than a mutual reconnect. She opened on a negative note (complaining about a recent call), which set a heavy tone. **What we did NOT get:** a "last transition" story, an offer of introductions, or a clean read on Opal attendee quality. **Reclassify:** Dawn is a **transactional comparable and a cordial contact**, not the warm referral engine the earlier framing assumed. Alina handled it by staying herself, which was right. Full reaction and belief shifts in [[what-we-now-believe]] and [[problem-discovery]].
 
 ## Call prep (Thu Aug 13, 3:00pm EDT)
 **Goal: a discovery conversation, not a pitch.** Listen more than talk. Dawn is a warm, ideal first contact, her clients (single family offices, UHNW families in transition) are exactly Nariway's world, and she already offered to help.
