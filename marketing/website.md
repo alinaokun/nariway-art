@@ -32,11 +32,29 @@ Voice-clean, describes researching, no advisory promise. Drop-in copy:
 **Contact**
 > (email / contact form)
 
-## Interim alinaokun.com tweaks (small, when convenient)
-- **Top line:** from *Researcher · Author · Former CFO* to **Researcher · Publisher · Former CFO** (Publisher ties to Artobiography; keep Author if you would rather point to the two books).
-- **Opening sentence:** from *"I research the origins of modern working life, and I built Nariway to do it."* to **"I focus on what happens to significant private art collections over time, and the different ways they move into public life. I am the founder of Nariway and publisher of Artobiography."** (uses the resolved "focus on" framing, [[positioning]]).
-- **Add a short transition paragraph** placing the finance-to-art move as history, not current identity. The old work-research stays as legitimate past work, it just stops being the headline.
-- **Project cards:** from *CIA Insights / Nariway / The Brief Experiment* to **Nariway · Artobiography · The Brief Experiment**, so the current story leads and the earlier work is preserved.
+## alinaokun.com — the personal site (finalized copy, 2026-08-13)
+*The personal site is the fuller identity, including the earlier work as history. It leads with the current art focus and keeps the work-research and the books as prior chapters. Distinct from nariway.com (the company). Voice-clean.*
+
+**Hero**
+> **Alina Okun**
+> Founder, Nariway · Publisher, Artobiography · Former CFO
+> *(personal-site variant: Writer · Founder of Nariway · Former CFO)*
+>
+> I write about art, and about what happens to the great private collections most people never get to see. So much extraordinary art sits behind closed doors, and I am drawn to how it reaches public life, and to the people who make that happen.
+>
+> I came to this from an unusual direction. Before art, I spent more than twenty years in finance and business, from Arthur Andersen and UBS to serving as a technology company's CFO, and I hold a doctorate in strategy. I bring that lens to a field that rarely has one.
+
+**Projects** (lead with current work)
+> Nariway — Independent work on the future of significant private art collections, and the different ways they move into public life.
+> Artobiography — An independent publication telling the stories behind remarkable art collections, and what becomes of them.
+
+**Earlier work** (optional quiet label, so the timeline reads right)
+> CIA Insights — Interviews and research on careers, work, and education.
+
+**Writing**
+> The Brief Experiment — A history of how recently modern working life was assembled.
+> Luminary Leadership — Co-authored.
+> Meet You in Calabar — Co-authored.
 
 ## Full v1 (deferred until Artobiography relaunches)
 Not now. When there is published work to point to, the ambitious build happens, and only then does the "Advisory" question below get answered.
