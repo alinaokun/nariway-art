@@ -24,6 +24,7 @@
 - [[business-model-ledger]] — competing monetization hypotheses + evidence, updated whenever research surfaces anything commercial.
 - [[capital-ledger]] — cash capital + **founder capital** (coarse weekly hours). Attention is the scarce resource here, not cash.
 - [[comparables]] — study of adjacent businesses (how they package, price, and build recurring revenue), for transferable ideas and cautions, not imitation.
+- [[pitch-deck]] — a living strategic deck (market, competitors, products, opportunity), kept current at all times. Not for fundraising, a mirror that keeps the strategy straight; a Finance sub-function maintains it and the reaction loop flags stale slides.
 - The periodic **CEO brief** (e.g. [[cfo-brief-2026-08]]) — what changed economically, what decision it forces.
 
 ## How it gets its evidence (low-friction)
