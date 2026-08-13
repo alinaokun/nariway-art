@@ -16,8 +16,25 @@ Reach the point where Alina can draw the **current decision process from memory*
 - **The best move, "tell me about the last one":** not "how do collectors usually handle succession?" but "think of the last collector you worked with facing this, what happened?" Then follow the chronology (trigger, first call, what they thought they wanted, who got involved, who coordinated, where the family disagreed, what was harder than expected, whether the solution differed from what they first imagined, whether anything important had no owner, when another person at the table would have helped).
 - **Hunt for disconfirmation.** Try to *destroy* "nobody owns this." Ask art advisors "when clients weigh sale vs donation vs family transfer vs foundation vs loan vs an institution, who helps them think it through?" Ask family offices "would you bring in an independent person, or is that redundant?" Ask attorneys "is there a missing role, or is this handled fine?" Want uncomfortable answers.
 
-## Who to talk to (deliberately mixed)
-Trusts-and-estates / private-client attorneys · family-office executives · art advisors · fine-art insurers and brokers · museum leaders · nonprofit/foundation specialists · collection managers and registrars · eventually collectors or heirs. Prefer people who have **lived through a transition**, not theorists. Sources: Dawn, HBR Advisory contacts, the [[warm-network]], introductions.
+## The Conversation Universe (teachers, not leads, keep it ~40, not a giant CRM)
+A lean target list across eight groups. These are people to **learn from**, not sell to. Prefer anyone who has **lived through a transition**, not theorists.
+
+| Group | Roughly | Notes |
+|---|---|---|
+| Estate / private-client | 5 senior T&E attorneys | STEP New York is the community for these ([[events-radar]]) |
+| Family offices | 5 SFO/MFO executives | Dawn's world; ask her for names |
+| Art advisory | 5 advisors who've handled estate/legacy work | test the "art advisor already owns this" objection |
+| Insurance | 3 senior fine-art specialists | one insurer may have seen 50 transitions |
+| Appraisal | 3 senior appraisers | |
+| Museums | 5 directors / curators / development leaders | the *other* half, what museums actually want |
+| Collector foundations | ~7 founders/directors (Onera, others in [[candidate-universe]]) | they lived it |
+| Museum planning firms | ~4 (Lord, AEA, and peers) | see many decisions |
+
+Sources for names: Dawn (introductions), HBR Advisory contacts, the [[warm-network]], and, above all, referrals from each conversation.
+
+## Two techniques that compound
+- **"Who else should I talk to?" — relentlessly, and branch across professions.** Not "another estate attorney," but "you've seen this from the legal side; who sees a completely different part of it I should understand?" Attorney → collection manager → art advisor → family-office CEO → museum director → foundation → insurer. After ~20 conversations the **same names start recurring**, and that convergence identifies who actually sits at the center of the ecosystem.
+- **Artobiography as the relationship engine.** Interviewing someone who lived a transition you are writing about is warmer and more natural than "customer discovery," and it is exactly what a serious writer does. "I'm researching a piece on how the Fisher Collection reached SFMOMA, I'd love to understand what happened between the Presidio idea and the 100-year arrangement." People enjoy talking about work they are proud of. Mid-conversation: "do situations like this come up often?" Now it is Nariway market research without pretending to be. The editorial engine *is* the relationship engine.
 
 ## The signal ladder (Toi and the CFO watch for the progression)
 "Interesting idea" (weak) → "I've seen this problem" → "this happens all the time" → "here's where it goes wrong" → **"nobody really owns that"** → "I know someone dealing with this now" → "you should speak with them" → "what would you do for them?" → "what would that cost?" → **someone asks Nariway to help with a real situation** (the evidence we want). No feasibility study is pitched anywhere in that sequence; the market reveals what the first product should be.
