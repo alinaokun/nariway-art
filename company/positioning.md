@@ -2,6 +2,13 @@
 
 *The external-identity baseline, crystallized by the HBR Advisory Council profile exercise. **Website, LinkedIn, and any public copy reference THIS.** The internal machinery (CFO / CMO / Research / the functions) stays hidden behind a simple exterior. Complements the internal [[executive-model]] and [[research-program]]; for canonical numbers see [[claims-register]].*
 
+## Why Nariway exists (the vision)
+**More of the world's great private art, in public view.**
+
+So much extraordinary art sits behind closed doors, seen by almost no one. It could give a great many people real beauty and joy if only they could reach it. Nariway exists to help more of that privately held art find its way into public life. When a significant collection reaches the question of what becomes of it, that decision either opens the art to the public or keeps it hidden, and Nariway helps the collector make the choice well. Alina's touchstone is the Southern Nevada Art Museum, where art that had been inaccessible was opened to people who had never had the chance to see it.
+
+*The vision is the why, and it sits above the positioning rather than replacing it. It does not change what Nariway is, a strategic advisory rather than an arts charity, or how it earns, by advising collectors on the future of their collections. The public benefit is how a good outcome is judged, not the product. This purpose can animate the public copy, expressed with restraint, Nariway observes and advises, it does not preach.* Research expression and the public-benefit test live in [[research-program]] (North star).
+
 ## The one thing to get right
 **Nariway operates in the art world, but it is not fundamentally an "Arts" business.** Art is the **domain**; **strategic decision-making around the future of significant private collections** is the professional **territory**. Nariway is *strategic advisory / consulting* — not an arts org, media company, research institute, museum consultancy, or art advisor/dealer.
 

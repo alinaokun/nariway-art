@@ -19,7 +19,7 @@ The public wedge stays **private-individual** collections, but the research expl
 
 > **Bring important art out of private storage and into meaningful public life.**
 
-The collector receives a legacy. But the **public benefit has to be real** — this is the line that keeps Nariway from being "help wealthy people build monuments to themselves."
+This is the research expression of Nariway's vision, canonical in [[positioning]] ("Why Nariway exists"). The collector receives a legacy. But the **public benefit has to be real** — this is the line that keeps Nariway from being "help wealthy people build monuments to themselves."
 
 **The public-benefit test** (formerly conceived as a separate "Cultural Gaps" desk — folded in here on purpose): a collection's case for public life is strongest when it *fills a gap a region or field actually has* — a community, tradition, medium, or point of view that major institutions systematically leave out — not merely when it is expensive. Distinctiveness and public need, not market value, are the primary lens.
 
