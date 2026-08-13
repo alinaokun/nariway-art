@@ -13,7 +13,7 @@
 ## Public copy — live profiles (canonical, as of 2026-08-13)
 *The actual language on Alina's live profiles, cleaned to the [[voice]] craft standards (no em dashes, no colons in prose, no And/But sentence starts). Website and LinkedIn copy inherit from here. When a profile changes, update this so the vault and the live text never drift.*
 
-**Headline (standardize everywhere):** Founder, Nariway | Publisher, Artobiography
+**Headline (standardize everywhere):** Founder, Nariway | Publisher, Artobiography *(LinkedIn may extend it with | Former CFO, a credential that earns its place with referral partners)*
 
 **Qwoted / short bio:**
 > Artobiography is an independent publication about remarkable art collections and the people behind them. I tell the stories of how collections were built, what became of them, and how collectors, founders, institutions, and specialists think about their future. I am particularly interested in private collections, collector-founded museums and foundations, unusual models for bringing art into public life, collection stewardship, and the people working behind the scenes to preserve and share important art.
@@ -40,6 +40,23 @@
 > Who decides what its future should be? Why do some private collections become lasting public institutions while others don't? What does a collector have to give up to make something survive beyond them? What actually has to happen, financially, legally, operationally, and physically, to bring private art into public life?
 >
 > Those are the questions behind Artobiography. Artobiography is published by Nariway, where I research how significant private collections move into public life and what makes those models endure.
+
+**LinkedIn bio** *(more credential-forward than Substack, correct for the channel where referral partners look):*
+> I'm interested in what happens to important art collections over time.
+>
+> A collector can spend decades building something remarkable. Eventually, a different set of decisions begins. Does the collection remain with the family? Is it donated, sold, lent, divided, or used to create something new? Could it become a museum, foundation, university collection, traveling exhibition, or another form of public access?
+>
+> I founded Nariway to study those decisions and the different ways private collections move into public life.
+>
+> I also publish Artobiography, an independent publication telling the stories behind the world's remarkable art collections. I write deeply researched collection stories and conversations with collectors, museum leaders, founders, advisors, and specialists working across the art world.
+>
+> I came to this work through an unusual route. I spent more than 20 years in finance and business, from Arthur Andersen and UBS to serving as CFO of a technology company. I hold a doctorate in Strategy and Innovation and have co-authored two books.
+>
+> Outside of work, I've spent years visiting museums, collecting art, attending art fairs and exhibitions, and writing about artists and art. Those two worlds now come together in my research, art on one side, and finance, organizations, strategy, and long-term sustainability on the other.
+>
+> Current research interests include private collections, collector-founded museums and foundations, collection stewardship, public access, institutional durability, and alternative models for bringing privately held art into public life.
+
+*Open calibration on the LinkedIn bio: it sits fully on the "researcher" side of the language line above. Territory-forward alternative for the founding sentence, if wanted, "I founded Nariway to focus on those decisions, the future of significant private collections and the different ways they move into public life."*
 
 ## HBR classification (best-fit boxes)
 - **Industry:** Consulting
