@@ -49,7 +49,9 @@ flowchart TD
 The old model named twenty "functions" (Signals, Institution Building, Report Analyst, LinkedIn, Legal, Tax, IT, Vault Hygiene, and so on). They are gone as standing roles. Each was really one of two things, and that is how they are treated now:
 
 - **A domain of work** — a folder of notes, *owned by one lens.* "Signals" is not a function, it is a daily job the Research/CMO work produces; "Institution Building" is not a function, it is advisory knowledge Research keeps. Ownership is the table above and the [[index|INDEX]].
-- **A subagent, spun up for one job, then gone** — a vault-hygiene sweep, a legal-exposure check, an IT decision, a batch of case coding, a network-research pass. Toi or a lens creates it, it does the job, it dissolves. It is never on the org chart because it does not persist.
+- **A subagent, spun up for one job, then gone** — a legal-exposure check, an IT decision, a batch of case coding, a network-research pass. Toi or a lens creates it, it does the job, it dissolves. It is never on the org chart because it does not persist.
+
+A few subagents run on a **recurring schedule** rather than once, but they are still instruments of a lens, not new boxes: **[[vault-hygiene]]** (tidiness, run by Toi) and **[[quality-assurance]]** (an independent standards audit, reporting to Research). They persist as *cron jobs*, not as personas, and the test still holds, if you count more than five standing roles, something crept back.
 
 So when you think "who does the Substack work?" the answer is **CMO** (spinning up a drafting subagent as needed), not a standing "Substack function." "Who watches legal?" **CFO**, spinning up a check when something real triggers it. The work still happens; it just is not a permanent box.
 

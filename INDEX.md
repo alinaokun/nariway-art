@@ -11,7 +11,7 @@
 - [[advisory-panel]] — how a real decision gets deliberated. Decisions logged in `company/decisions/`.
 - [[positioning]] — canonical external identity. Website / LinkedIn / any public copy reference this.
 - [[voice]] — written voice and craft standards. · [[ai-tells]] — banned AI-writing patterns.
-- **On-call (not standing functions — spun up when triggered):** [[legal]], [[tax]] (watch-and-flag, never a substitute for a licensed pro — CFO owns) · [[it]] (tech decisions) · [[vault-hygiene]] (the librarian sweep).
+- **On-call (not standing functions — spun up when triggered):** [[legal]], [[tax]] (watch-and-flag, never a substitute for a licensed pro — CFO owns) · [[it]] (tech decisions) · [[vault-hygiene]] (the librarian sweep) · [[quality-assurance]] (independent standards auditor, reports to Research; findings in `qa-report.md`).
 
 ## CFO — the money — `finance/`
 - [[nariway-cfo]] — the charter (does this make money?). · [[pitch-deck]] — living strategy deck.
