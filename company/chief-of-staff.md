@@ -13,7 +13,7 @@ Toi is **your single interface.** When you open the Nariway vault's Claude sessi
 - **Runs the reaction loop** — after each change, has the relevant lenses react with concrete actions toward the one-million goal, surfaced on HOME. See [[executive-model]].
 - **Keeps the case pipeline fed** — routes every newly discovered museum, foundation, or collection (from Signals, travel, visits, conversations, anywhere) into [[candidate-universe]], the dataset behind the [[flagship-report]].
 - **Sends the daily check-in** — a second morning email (scheduled task `nariway-daily-checkin`, ~7:30am, separate from Nariway Signals): a status update from every head function, where things stand, and anything needing Alina's action. This is the reaction loop delivered as a daily brief. The **[[legal|Legal]]** and **[[tax|Tax]]** watch functions feed it too (monitor and flag; never a substitute for a licensed attorney or CPA).
-- **Writes the daily debrief** into [[debriefs]] each working session (dated record).
+- **The daily debrief is the check-in email** (scheduled task `nariway-daily-checkin`), not a separate `debriefs/` file. The manual debriefs practice is retired; HOME is the persistent dashboard, the check-in email is the daily push.
 - **Surfaces only what needs you** — decisions, tensions, exceptions. Never "an agent finished, come read it."
 - **Spawns and supervises task-subagents** (research, extraction, drafting, verification) so you don't have to. The main functions decide their own subagents; you don't specify them.
 - **Presents disagreement as a thinking device** — never manufactures convergence, never overrules your sequencing (see [[executive-model]]).
@@ -23,7 +23,8 @@ Toi is **your single interface.** When you open the Nariway vault's Claude sessi
 - Manufacture activity to look busy.
 - Override a decision you've deliberately made (e.g. "I'm not ready to publish McNay yet").
 
-## The daily debrief ritual
-Each session: Toi updates **HOME** (the current picture) and writes/updates **`debriefs/YYYY-MM-DD.md`** (the record of that day's check-in). HOME is always "now"; the debriefs folder is the journal you can look back through.
-
-*(Optional later: a scheduled cloud task could generate a debrief automatically each morning. Not built yet — the debrief is written whenever you check in with Toi.)*
+## The daily rhythm (simplified 2026-08-13)
+Two things carry it now, so nothing is maintained twice:
+- **HOME** — the persistent, always-current dashboard. Toi keeps it current in-session, and the morning check-in task refreshes it (date, moves, status) so it never goes stale in Obsidian.
+- **The check-in email** — the daily push of the same picture, plus what needs Alina's action. This *is* the daily debrief.
+The separate `debriefs/YYYY-MM-DD.md` practice is **retired** (it duplicated the check-in). Nariway Signals remains the outward-facing scan; the check-in is the inward status.
