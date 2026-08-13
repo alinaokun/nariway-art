@@ -21,6 +21,7 @@ The narrator is a witness and an analyst, never a victim, never an advocate. Pre
 - **Propulsion.** Each sentence earns the next.
 
 ## The craft standards (verify before any draft, these are the fingerprint)
+*See also the living [[ai-tells]] checklist, the running list of AI-writing giveaways every draft is checked against; it grows as new tells surface.*
 - No sentences starting with And or But. Use Yet, However, or restructure.
 - No em dashes. Use commas or restructure.
 - No colons in prose. Permitted only before dialogue.
