@@ -46,7 +46,7 @@
 >
 > A collector can spend decades building something remarkable. Eventually, a different set of decisions begins. Does the collection remain with the family? Is it donated, sold, lent, divided, or used to create something new? Could it become a museum, foundation, university collection, traveling exhibition, or another form of public access?
 >
-> I founded Nariway to study those decisions and the different ways private collections move into public life.
+> I founded Nariway to focus on those decisions, the future of significant private collections and the different ways they move into public life.
 >
 > I also publish Artobiography, an independent publication telling the stories behind the world's remarkable art collections. I write deeply researched collection stories and conversations with collectors, museum leaders, founders, advisors, and specialists working across the art world.
 >
@@ -56,7 +56,7 @@
 >
 > Current research interests include private collections, collector-founded museums and foundations, collection stewardship, public access, institutional durability, and alternative models for bringing privately held art into public life.
 
-*Open calibration on the LinkedIn bio: it sits fully on the "researcher" side of the language line above. Territory-forward alternative for the founding sentence, if wanted, "I founded Nariway to focus on those decisions, the future of significant private collections and the different ways they move into public life."*
+*Language-line note (resolved 2026-08-13): the founding sentence now reads "focus on those decisions, the future of significant private collections," which sits in the honest middle between "study" (undersells) and "advise" (premature). The rest of the bio keeps the researcher register, appropriate for the evidence phase.*
 
 ## HBR classification (best-fit boxes)
 - **Industry:** Consulting
