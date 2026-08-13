@@ -20,5 +20,13 @@ Format per entry: **We used to believe X. [What changed.] We now believe Y.**
 
 **On ourselves (the honest one).** We now believe the biggest risk is no longer too little structure but **too much**: it has become more satisfying to build Nariway than to operate it. The internal sophistication is far ahead of the external footprint, one live discovery call, no paid client, willingness-to-pay untested. The next phase is evidence, not architecture.
 
+## Beliefs under test (each with what would disprove it)
+Every external conversation and case is tested against these. A belief with no disconfirmation target is a bias, not a finding.
+
+- **Belief:** the important gap exists *before* a collector chooses a pathway (an unowned decision about what should happen). · **Evidence so far:** McNay shows unusually strong founder-led preplanning (the prepared exception); the case set shows most collections lack that. · **Status:** untested against the live market. · **What would disprove it:** art advisors or family offices routinely owning this decision satisfactorily.
+- **Belief:** governance design at founding predicts survival better than endowment size. · **Evidence:** ~34 coded cases point this way (Terra failed with ~$450M under sole control; survivors had independent boards/succession). · **Status:** strengthening, provisional. · **What would disprove it:** well-governed institutions failing at the same rate, or richly-endowed sole-control ones surviving, across the full 50.
+- **Belief:** no single professional owns the whole decision. · **Evidence:** none yet from the market. · **Status:** the core untested thesis. · **What would disprove it:** family offices, art advisors, or a specialist already coordinating it end-to-end (a discovered incumbent). *Actively try to disprove this in every conversation.*
+- **Belief:** the collector is the buyer. · **Evidence:** none. · **Status:** assumption. · **What would disprove it:** private-client attorneys or family offices being the real initiator and referral gateway.
+
 ## The open question we must become obsessive about
 Does the market recognize this problem strongly enough to **hire someone specifically to own it**, and if so, **who initiates and who pays** (the collector, or the private-client attorney / family office as the referral gateway)? This is H7A, and it is not yet mature. The next belief-shift should come from **external conversations**, starting with Dawn.
