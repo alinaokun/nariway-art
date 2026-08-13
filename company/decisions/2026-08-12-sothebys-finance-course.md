@@ -17,8 +17,8 @@ The lenses converge (with the usual caveat that agreement among same-substrate l
 - **Otherwise,** put the $2,500 and the five days toward the **market conversations that actually test whether anyone pays** (Dawn, the warm network). Revisit the Sotheby's course only if a specific art-finance gap surfaces in real client work.
 - **Regardless of the course,** keep **Andrea Danese** as a warm art-finance contact (former CEO, Athena Art Finance; connects to [[Rebecca L. Fine|Rebecca Fine]]'s world). The relationship is worth more than the second course.
 
-## Decision
-_pending Alina._
+## Decision — **DECLINE** (2026-08-13, Alina)
+Alina will not attend the Sotheby's Art, Finance, and Investment course. Consistent with the panel's read: likely content overlap with the Alternative Investments course she already took, it deepens the art-as-investment frame she deliberately left, and the money and five days have higher-return uses right now. The UC Berkeley course was also declined earlier (~$5K plus travel). Courses are on hold; firsthand research (the near-free [[regional-visits]]) and the market conversations carry the authority-building instead.
 
 ## Outcome
-_to record after._
+Not attending. Time and budget stay with the Dawn conversation and the flagship report. Keep **Andrea Danese** as a warm art-finance contact regardless.
