@@ -8,6 +8,8 @@ The art market is already covered, Art Basel and UBS, Deloitte, TEFAF report on 
 ## The proprietary asset (this is the moat)
 The report's edge is data no one else has: **Nariway's structured database of how significant collections entered public life and how they fared** ([[candidate-universe]], ~70+ cases coded by pathway, founder status, geography, thesis, outcome, scale, durability). Aggregated, it answers questions the field only tells anecdotally: how often collector-founded museums survive their founder, what predicts durability, how fast the alternative models (dispersal, long-term loan, foundation) are rising, where the failures cluster. **The report is the public surface of that database.** That is why completing and verifying the case studies matters now, it is not open-ended research, it is building the dataset behind the report.
 
+**North star (Alina, 2026-08-14): research nobody else has, at a McKinsey / BCG / WEF standard.** The moat is not row count, it is (1) **primary sources the field is too lazy to pull** (true endowment from IRS 990 Schedule D via the 990 PDF/XML, FTE, deeds, wills, probate) and (2) **original cross-case analysis** (governance-beats-endowment, the failure modes, the data-availability finding). The dataset-research agent now runs **twice daily** (5am and 5pm ET), with the second pass weighted to that proprietary depth once breadth nears 50. Quality is the only limit, never fabricate; verify or mark unknown.
+
 ## Working titles (pick a lane)
 - **The State of Art and Legacy** (closest to the model)
 - **The Great Art Transfer** (rides the timely, ownable theme)
