@@ -8,7 +8,7 @@
 | **Opal Family Office Legacy Summit** | Aug 25–26, 2026 | **Drive** (~2.5–3.5h each way to Southampton; a hike, doable) | **None** | ~$3,195 + gas/tolls | pending — see [[2026-08-12-opal-summit]] |
 | **NYC referral week** (AAA + likely Art Law Day + Deloitte Art&Finance) | early Nov 2026 | **Train / drive** (short) | 0–1 nights | Low | **high priority** |
 | TEFAF New York | May 15–19, 2026 | Train / drive (day trip) | None | Low | maybe |
-| Heckerling | Jan 11–15, 2027 | **Fly** + hotel (Orlando) | Multi-night | Higher | maybe — biggest commitment; book early |
+| ~~Heckerling~~ | Jan 11–15, 2027 | Fly + hotel (Orlando) | Multi-night | Higher | **dropped** (2026-08-14) — a lawyers' CLE conference, not Alina's room; reach estate attorneys via interviews and warm intros instead |
 | AAM Annual Meeting | May 5–8, 2027 (Houston) | Fly + hotel | Multi-night | Higher | maybe |
 | Art Basel + Fondation Beyeler | June 2027 (Basel) | **International** | Multi-night | High | the one big intl trip to weigh |
 
@@ -17,7 +17,7 @@ Alina's own travel, where the Travel function looks for on-thesis museums, colle
 
 - **Atlanta, GA — Sept 2 to 8, 2026.** (Souls Grown Deep visit dropped, Alina's call.) If you want art while there: the **High Museum of Art** (strong American, folk, and self-taught holdings; walk-in, just buy tickets), and optionally the **Michael C. Carlos Museum** (Emory) or the **Hammonds House Museum**. Confirm current shows before relying on specifics. No advance planning needed.
 - **Washington, DC — a couple of days in Oct 2026 (dates TBD).** A collector-founded-museum capital. **Glenstone** (Potomac MD; Mitchell and Emily Rales; free timed passes that book up weeks ahead, reserve early). **The Phillips Collection** (Duncan Phillips, a collector's house that became America's first museum of modern art). **The Kreeger Museum** (David Kreeger's home and collection, by reservation). **Hillwood** (Marjorie Merriweather Post's estate and collection). The **National Gallery** exists on Andrew Mellon's founding gift. All directly on thesis.
-- **Berlin, Germany — Oct 14 to 18, 2026.** Two private collections that are exactly Nariway's model, both **by advance appointment**: **Sammlung Boros** (a private collection in a WWII bunker, guided tours only) and **The Feuerle Collection** (a private collection in a former bunker). Also **Museum Berggruen** (Heinz Berggruen's collection, confirm it is open, it has undergone renovation) and **Hamburger Bahnhof**.
+- **Berlin, Germany — Oct 14 to 18, 2026.** **First stop: PalaisPopulaire**, Deutsche Bank's dedicated exhibition house for its ~55,000-work corporate collection, which is **closing at the end of 2026** (a closing festival runs Nov 19–22), so October is a rare last chance before the bank reverts to a rotating-loan model. On thesis and a live report case ([[candidate-universe]]). Then the two private collections that are exactly Nariway's model, both **by advance appointment**: **Sammlung Boros** (a private collection in a WWII bunker, guided tours only) and **The Feuerle Collection** (a private collection in a former bunker). Also **Museum Berggruen** (Heinz Berggruen's collection, confirm it is open after renovation) and **Hamburger Bahnhof**.
 - **Milan, Italy — first week of Dec 2026.** Rich in collector foundations and house museums. **Fondazione Prada** (Miuccia Prada and Patrizio Bertelli's contemporary art foundation). **Museo Poldi Pezzoli** (a collector's house and collection turned museum, a textbook legacy case). Also **Museo Bagatti Valsecchi** and **Villa Necchi** (house museums), **Pirelli HangarBicocca**, and **Gallerie d'Italia**.
 
 ## Nearby, no travel needed
@@ -27,7 +27,7 @@ A verified register of smaller collections, house museums, and collector-founded
 - **Crystal Bridges Museum of American Art** (Bentonville, AR). Inconvenient (a flight, and not near much else), but for Alina specifically it is worth it, because it *is* her subject: Alice Walton turned a private fortune and collection into a major public museum in an unexpected, underserved location, the clearest living example of the thesis. Best planned deliberately, around a specific exhibition or bundled with the region's other Walton-built assets (the Momentary, the new Alice L. Walton School of Medicine). Belongs in the case universe as a priority firsthand visit. → [[candidate-universe]]
 
 ## Home-base advantage (Montvale, NJ)
-Anything in NYC / Long Island / the Hamptons / Philadelphia is a **drive or train — no lodging**, which makes the whole NY-metro event calendar cheap to attend. Prioritize those; reserve fly-and-stay budget for the few high-value out-of-region ones (Heckerling, AAM, Basel).
+Anything in NYC / Long Island / the Hamptons / Philadelphia is a **drive or train — no lodging**, which makes the whole NY-metro event calendar cheap to attend. Prioritize those; reserve fly-and-stay budget for the few high-value out-of-region ones (AAM, Basel).
 
 ## Deadlines to watch
 - Opal: ~2 weeks out — decide this week.

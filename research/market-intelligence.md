@@ -41,5 +41,14 @@ A running log maintained by the **Research** lens and fed by [[nariway-signals|S
 
 ---
 
+## 3. Where private banks already serve collectors (H7A incumbent watch)
+*Citi Private Bank, Art Advisory & Finance. Logged 2026-08-14 at Alina's request.* [Citi art page](https://www.privatebank.citibank.com/we-offer/art)
+
+Citi Private Bank runs a long-established **Art Advisory & Finance** practice for its wealth clients: collection strategy, valuation guidance, philanthropy and estate-planning input, and **art-secured lending**.
+
+**Why it matters (H7A).** This is direct evidence that pieces of the "what becomes of the collection" conversation are **already owned by an incumbent** for banked UHNW families, which is exactly the disconfirmation the evidence phase hunts. The nuance that preserves the gap: a bank's art advice sits **inside a banking and lending relationship**, so its structural incentive is to keep assets on the balance sheet and lend against them, not to own the **independent, pre-decision** legacy question Nariway hypothesizes. So Citi is best read as a **partial incumbent and a possible referral channel**, not proof the independent role is filled. Test the boundary directly in conversations (does the bank ever step back and help a family decide *against* holding or borrowing?). Related: [[comparables]] (art finance), [[Rebecca L. Fine]].
+
+---
+
 ## How this log grows
 Research and Signals add significant macro and market-economics sources here, each with a short synthesis and the same routing discipline (numbers to the claims register, no restatement, corroboration not proof). Candidates: new Deloitte and Art Basel/UBS reports, TEFAF, major analyst pieces, and the READ tier of [[substack-register]].

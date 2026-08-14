@@ -93,6 +93,7 @@
 | Anderson Collection @ Stanford | Andersons | Dec. | Stanford, CA | Postwar American; gift to university *with its own building* | Stable (survived founder) | 121 works |
 | Ogden Museum of Southern Art | Roger Ogden | Living | New Orleans, LA | Art of the American South; university-affiliated regional canon | Stable | 4,000+ |
 | Audain Art Museum | Michael Audain | Living | Whistler, BC 🇨🇦 | British Columbia art only — Emily Carr + Indigenous NW Coast | Founder-open | 56,000 sq ft |
+| **Fondation Beyeler** | Ernst & Hildy Beyeler | Dec. | Riehen / Basel 🇨🇭 | Dealer-collector's collection → museum (1997, Renzo Piano); **survived both founders and is expanding** (new Peter Zumthor building + park) — a benchmark of a collector-founded museum that keeps growing. Added 2026-08-14 at Alina's request; verify before coding. [expansion](https://www.fondationbeyeler.ch/en/museum/fondation-beyelers-expanded-ensemble) | Thriving | ~400 works |
 | Museo Jumex | Eugenio López | Living | Mexico City 🇲🇽 | Latin American + intl contemporary; anchors a national scene | Founder-open | ~2,700 |
 | MONA | David Walsh | Living | Hobart 🇦🇺 | Provocative sex-and-death curation; remade a city's economy | Thriving | ~2,000 |
 | Inhotim | Bernardo Paz | Living | Brumadinho 🇧🇷 | Site-specific contemporary in botanical landscape | **Distressed** (founder legal/financial) | 5,000 acres |

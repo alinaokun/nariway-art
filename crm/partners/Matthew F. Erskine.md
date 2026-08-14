@@ -1,18 +1,25 @@
 ---
 type: partner
-category: attorney
-expertise: "Trusts & estates — unique/illiquid assets, art and collectibles"
-geography: "Worcester, MA"
-stage: not-contacted
-last_contacted: ""
+category: connector
+expertise: "Trusts & estates / wealth transfer (attorney)"
+geography: "Worcester, MA (national practice)"
+stage: invited
+last_contacted: 2026-08-14
 next_followup: ""
-priority: medium
+email: ""
+website: "https://www.erskineco.com"
 ---
 ## Who / why
-Managing partner at **Erskine & Erskine** (fourth-generation family firm), a T&E attorney who specializes in unique and illiquid assets — fine art and Americana collections, numismatics, family businesses, real estate. Writes a long-running Forbes column (since 2019) squarely on Nariway's terrain: art estate planning, collector legacy, and Private Operating Foundations as a private-museum vehicle. His **Aug 4, 2026** piece, "Keeping Control Of Your Collection? Consider A Private Museum," lays out the POF structure (holds and preserves a collection, keeps it intact, opens it to the public, favorable tax treatment) almost exactly as Nariway frames the non-museum pathway. [Forbes profile](https://www.forbes.com/sites/matthewerskine/) · [the Aug 2026 piece](https://www.forbes.com/sites/matthewerskine/2026/08/04/keeping-control-of-your-collection-consider-a-private-museum/)
+**Matthew F. Erskine, JD** — a trusts-and-estates and wealth-transfer attorney who writes for Forbes on **unique and difficult assets** (art, collections, real estate, closely held businesses) and how families keep and transfer them. He wrote the piece that put **Private Operating Foundations** on Nariway's radar ([[Private Museums and POFs - Erskine (Forbes)]]). He is exactly the kind of practitioner the evidence phase wants: an estate attorney who has **lived** the "what becomes of the collection" decision from the legal side.
+
+## Fit for Nariway
+- **Conversations interviewee (strong).** The [[conversations-series]] "specialists" query is built for people like him. A written Q&A on how collectors actually decide the future of a significant collection, what he sees go wrong, and who owns the decision, would be genuine research (H7A) and warm relationship-building at once.
+- **Referral source / teacher, not a lead.** An independent estate attorney is a natural referrer into real situations, and a check on the "nobody owns this decision" thesis (ask him plainly whether attorneys already own it).
+- Public-professional info only; no private data.
 
 ## Interactions
-*(none yet — surfaced 2026-08-14 by [[nariway-signals|Signals]])*
+- 2026-08-14 — **Alina sent a LinkedIn connection invite** (pending). Prompted by his Forbes article on private museums and POFs, which she found genuinely useful.
 
-## Notes
-A rare specialist who is both the exact referral-channel type (T&E attorney, top of the [[partners]] priority list) and a public thought-leader already writing Nariway's argument. Worth reading his back catalog before any outreach — he has pieces going back to 2020 on art collecting, DAO/digital-collectibles estate planning, and artist creative-legacy protection.
+## Next moves (if he accepts)
+- A warm thank-you referencing the specific article, not a pitch.
+- Later, offer the Artobiography/Conversations interview (the natural, non-transactional way in). Keep it about learning from him.
