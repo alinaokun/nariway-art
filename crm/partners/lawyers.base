@@ -1,0 +1,25 @@
+filters:
+  and:
+    - type == "partner"
+    - category == "attorney"
+views:
+  - type: table
+    name: By discipline
+    order:
+      - file.name
+      - discipline
+      - expertise
+      - geography
+      - stage
+    sort:
+      - property: discipline
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Board
+    order:
+      - discipline
+      - expertise
+      - geography
+      - stage

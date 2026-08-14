@@ -1,6 +1,7 @@
 ---
 type: partner
-category: specialist
+category: attorney
+discipline: "Art Law"
 expertise: "Art law (authentication, estates, cultural property)"
 geography: "New York"
 stage: warm

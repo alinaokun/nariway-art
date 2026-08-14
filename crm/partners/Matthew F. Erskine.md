@@ -1,6 +1,7 @@
 ---
 type: partner
-category: connector
+category: attorney
+discipline: "Estate & Tax"
 expertise: "Trusts & estates / wealth transfer (attorney)"
 geography: "Worcester, MA (national practice)"
 stage: invited

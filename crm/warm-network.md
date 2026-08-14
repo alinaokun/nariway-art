@@ -46,4 +46,7 @@ The collectors sit behind these people. Not a pitch, a "here is what I am buildi
 1. **Trusts and estates attorneys**, especially those with UHNW and art-holding clients. The most valuable referral relationship Nariway can build and the one the network lacks.
 2. **Museum directors, chief curators, and development directors.** They decide what a museum will accept, which is half of every legacy decision, and they are almost absent here.
 
+## The lawyer directory (forming)
+A filterable directory of lawyers is now building, exactly the "lawyers broken up by category" Alina wanted. Any partner note tagged `category: attorney` with a `discipline` (e.g. **Art Law**, **Estate & Tax**) shows up grouped in **`lawyers.base`** (open it in this folder). First entries: [[Diana Wierbicki]] (art law + estate/tax, Chair of Art & Cultural Property at Loeb & Loeb), [[Judith Prowda]] (art law), and [[Matthew F. Erskine]] (estate & tax). Add the discipline tag to any new attorney and the directory updates itself.
+
 *Full categorized match set for this export is held by [[network-research]]; this note is the curated action layer.*
