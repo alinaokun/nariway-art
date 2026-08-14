@@ -25,6 +25,33 @@
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-14 — Cloud run
+
+**See this soon (time-sensitive)**
+
+- **Christie's Medaugh Hiroshige preview dates are now published**: public preview **Sept 11–14**, sale **Sept 15, 2026**, at Christie's, 20 Rockefeller Plaza. Four weeks out — put it on the calendar now. → [[to-see]] updated. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+- **Heckerling Institute (Jan 11–15, 2027) early registration closes Sept 30, 2026** ($1,200 vs. $1,250 regular) — a small saving, but the deadline is the trigger to actually decide on the year's biggest travel commitment rather than let it drift. → [[Heckerling Institute]] updated, decision still "maybe."
+
+**Cases (+2 → filed to [[candidate-universe]])**
+
+- **Deutsche Bank is closing PalaisPopulaire**, its dedicated Berlin exhibition house for the Deutsche Bank Collection (~55,000 works), at the end of 2026 — a corporate collection stepping back from a standalone public building to a rotating-loan model with partner institutions, while keeping its "Artist of the Year" prize alive in a new roving format from 2027. A closing festival runs Nov 19–22. The clean corporate mirror of CAM Raleigh (logged 2026-08-13): the building, not the collection or the commitment, was what stopped paying for itself. [Kunstforum](https://www.kunstforum.de/en/news/deutsche-banks-palaispopulaire-exhibition-centre-is-closing/) · [Monopol, in German](https://www.monopol-magazin.de/deutsche-bank-schliesst-palaispopulaire)
+- **Muzej Lah opens at Lake Bled, Slovenia, this summer** — Igor and Mojca Lah's 800+-work, three-decade collection (Kiefer, Beuys, the Kabakovs, Kentridge, Mušič, NSK) goes public for the first time in a purpose-built David Chipperfield museum. Exactly the small/regional/distinctive, living-founder, new-region pattern the filter favors (the Central European answer to Almaty and Khao Yai). [ARTnews](https://www.artnews.com/art-news/news/collectors-igor-and-mojca-lah-open-contemporary-art-museum-slovenian-mountains-1234744346/) · [blooloop](https://blooloop.com/museum/news/muzej-lah-art-museum-bled-slovenia/)
+
+**Partners (+2 → filed to [[partners]])**
+
+- **Matthew F. Erskine**, T&E attorney (Erskine & Erskine, Worcester MA) specializing in art and other illiquid assets, and a long-running Forbes columnist on exactly Nariway's terrain. His Aug 4, 2026 piece lays out Private Operating Foundations as a private-museum vehicle almost verbatim to Nariway's own framing — a referral-channel attorney who is also already a public voice on the thesis. [Forbes](https://www.forbes.com/sites/matthewerskine/2026/08/04/keeping-control-of-your-collection-consider-a-private-museum/)
+- **Betsy Bickar**, Head of Art Advisory at Citi Wealth (reports to the bank's head of family-office advisory). Not a referral lead — a landscape marker for the bank-advisory alternative to Nariway's independent model, worth knowing who holds the seat. [Citi bio](https://www.privatebank.citibank.com/home/art-beyond-borders/art-experts/betsy-bickar.html)
+
+**Events register housekeeping**
+
+- **Fondation Beyeler's Zumthor expansion opens in phases**, not all at once: portions of the new campus (Wyss Museum, Ammann Pavilion, the newly public historic park) open from autumn 2026, with the full ensemble complete January 2027. A Ruth Asawa retrospective opens October, then Kahlo, Bourgeois, and Peyton. → [[Fondation Beyeler expansion]] updated with the phased dates and the fall/winter program.
+
+**Tracked sources checked:** Katya Kazakina (no new Art Detective column found this week; a NYC pied-à-terre tax database piece and Louvre-heist coverage are her recent work, neither on-thesis), Georgina Adam (Art Market Eye runs first Thursday monthly, next due Sept 3, nothing new), Center for Art Law (no new posts beyond the already-logged Dorville and art-backed-loan pieces; its 2026 Art Law Conference already happened May 27, 2027 edition TBD), The Gray Market (Tim Schneider is on medical leave, reposting a Sept 2025 archival piece on Smithsonian deaccessioning pressure — not new, correctly excluded), Provenance Watch (most recent posts are from January 2026 and earlier, nothing new this week).
+
+**Market intelligence:** nothing genuinely new surfaced this cycle — no new Deloitte/Art Basel-UBS/TEFAF release since the two already logged in [[market-intelligence]].
+
+**Prospects:** nothing genuinely new and public surfaced this cycle beyond names already in [[prospects]].
+
 ### 2026-08-13 — Daily run
 
 **From your forwarded emails (2 processed, both filed)**
