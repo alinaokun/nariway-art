@@ -11,7 +11,7 @@
 - [[advisory-panel]] — how a real decision gets deliberated. Decisions logged in `company/decisions/`.
 - [[positioning]] — canonical external identity. Website / LinkedIn / any public copy reference this.
 - [[voice]] — written voice and craft standards. · [[ai-tells]] — banned AI-writing patterns.
-- **On-call (not standing functions — spun up when triggered):** [[legal]], [[tax]] (watch-and-flag, never a substitute for a licensed pro — CFO owns) · [[it]] (tech decisions) · [[vault-hygiene]] (the librarian sweep) · [[quality-assurance]] (independent standards auditor, reports to Research; findings in `qa-report.md`).
+- **On-call (not standing functions — spun up when triggered):** [[legal]], [[tax]] (watch-and-flag, never a substitute for a licensed pro — CFO owns) · [[it]] (tech decisions) · [[vault-hygiene]] (the librarian sweep; findings in `hygiene-report.md`) · [[quality-assurance]] (independent standards auditor, reports to Research; findings in `qa-report.md`).
 
 ## CFO — the money — `finance/`
 - [[nariway-cfo]] — the charter (does this make money?). · [[pitch-deck]] — living strategy deck.
@@ -28,7 +28,7 @@
 - [[nariway-cmo]] — the charter (relevant reach, not maximum). · [[opportunity-radar]] — media/partnership openings.
 - **The publication:** [[substack]] (the plan) · [[substack-playbook]] (what proven practitioners recommend) · [[substack-notes-queue]] (drafted Notes) · [[substack-register]] (who to follow) · [[conversations-series]] (the written-interview series) · [[subscriptions]] (newsletters worth mining) · `artobiography/` ([[format-v0.1]], [[editorial-structure-study]]).
 - **Showing up:** [[events-radar]] (which rooms, and why) + `marketing/events/` notes (open `events.base`) · [[courses-register]] · [[travel]] · [[to-see]] (time-limited exhibits + auction previews) · [[regional-visits]].
-- **Reach:** [[linkedin]] · [[outreach]] · [[website]] · [[experiment-ledger]].
+- **Reach:** [[linkedin]] · [[outreach]] · [[website]] · [[experiment-ledger]] · [[NARIWAY-WEBSITE-HANDOFF-2026-08|website handoff brief]] (dated snapshot for the separate website-design project).
 
 ## People — `crm/`
 - [[prospects]] (collectors — open `prospects.base`) · [[partners]] (channels: attorneys, family offices, insurers — open `partners.base`).

@@ -1,0 +1,33 @@
+# Vault Hygiene Report
+
+*Last swept: 2026-08-14, by the [[vault-hygiene|librarian]] cloud routine. Overwritten each run — see git history for prior sweeps.*
+
+## Fixed this run (13 commits' worth of safe changes)
+
+- **HOME.md** — "Your Dawn call is TODAY, 3:00pm EDT" was stale; the call happened 2026-08-13 and is logged with outcomes. Updated to past tense, pointed at the note. Did not touch the rest of "Your move" (re-ranking priorities is a judgment call, not hygiene).
+- **Two decisions marked "awaiting Alina" that were actually settled** — `2026-08-12-opal-summit.md` and `2026-08-12-sothebys-finance-course.md` both carry a resolved `## Decision — DECLINE` section, but their header status line still said "awaiting Alina." Corrected both headers to reflect the actual decision and date.
+- **`company/it.md` said "Git, local only, no remote yet" / "no offsite backup"** — false; the vault has been pushing to a private GitHub remote since at least 2026-08-12 (confirmed live). Corrected the stack line and removed the now-resolved "Open infrastructure item" section.
+- **`marketing/substack.md` said the Notes queue was "on hold pending rebuild"** — the rebuild already happened (`substack-notes-queue.md` is titled "rebuilt from your real essays" and has real content). Updated the status; this also removes a contradiction with HOME.md, which already correctly tells Alina to post from the queue.
+- **Broken wikilink** — `research/nariway-signals.md` linked `[[nariway-piece]]` as if it were a vault note. Everywhere else in the vault (`voice.md`, `format-v0.1.md`) this is written as `` `nariway-piece` `` (a Claude Code skill, not a note). Fixed to match.
+- **Four case files had a UTF-8/cp1252 double-encoding bug and a leading BOM**: `cases/di-rosa.md`, `cases/neue-galerie.md`, `cases/souls-grown-deep.md`, `cases/terra.md`. Titles and em-dashes were rendering as mojibake (e.g. "Neue Galerie â†' The Met" instead of "Neue Galerie → The Met"). Stripped the BOM and repaired the encoding; the arrow, em-dashes, and checkmark now render correctly. The BOM in particular can make Obsidian/YAML parsers silently miss frontmatter, so this was a real risk to `Cases.base`, not just cosmetic.
+- **`cases/fisher-sfmoma.md` used a one-off frontmatter schema** — `collection_name`/`founder`/`outcome_category`/`durability_signal`/`verification_status` instead of the `title`/`status`/`priority`/`outcome`/`founder_status`/`verification` fields all 33 other case files use. It was missing `status` and `priority` entirely, which `Cases.base`'s Pipeline and Board views sort and group on, so this case wasn't showing up correctly. Remapped to the standard schema (values taken straight from the file's own existing content). **One inferred value, flagged for a sanity check:** I set `priority: high` by comparison with similarly prominent, thriving, report-grade cases (Broad, Barnes) — nothing in the file stated a priority explicitly, so worth a quick confirm.
+- **Two decision records in `company/decisions/` were true orphans** (no wikilink anywhere pointed to them): `2026-08-12-email-delivery.md` and `2026-08-12-sothebys-finance-course.md`. Added a pointer from `company/it.md` and `marketing/events/courses-register.md` respectively, where the topic is already discussed.
+- **`NARIWAY-WEBSITE-HANDOFF-2026-08.md`** sits in the vault root and wasn't listed in INDEX.md (a "stale map" gap — nothing linked to it). Added one line under INDEX's Reach section rather than moving it, since it's a deliberate dated snapshot document, not a note that clearly belongs in a folder.
+
+## Not touched — housekeeping note
+
+Before any of the above, this session found `HEAD` detached and 30 commits ahead of `origin/main` in the working checkout (a stale local branch pointer, not a real divergence — `origin/main` already had the work). Fast-forwarded local `main` onto it and confirmed the remote matches; no data was at risk and nothing else needed doing. Mentioning it only so it doesn't look like a surprise in the git log.
+
+## Flagged for Alina or Toi (judgment calls, not touched)
+
+1. **Two more broken wikilinks, left alone on purpose:**
+   - `crm/partners/Dawn Mari La Monica.md` links `[[Nina Kong-Surtees]]`, a comparable mentioned in passing — there's no CRM note for her. Worth deciding whether she gets one (and in which folder) or the link should just come out.
+   - `marketing/experiment-ledger.md` links `[[distribution-map-mcnay]]`, but the surrounding text says this is intentionally deferred "until an article exists." Not actually broken by mistake — leaving as-is, flagging only so it's not mistaken for one next sweep.
+2. **`marketing/website.md` still holds its own copy of Alina's bio**, unlike `linkedin.md` and `substack.md`, which were already fixed to point at `positioning.md` as the single source. It's not a stale duplicate exactly — the nariway.com and alinaokun.com copy is genuinely site-specific prose (different length, different framing) and currently agrees with `positioning.md` on every fact — but if the canonical bio changes, this page has no mechanism to notice. Recommend deciding whether to convert it to a pointer-plus-site-specific-instructions (the established pattern) or accept it as a deliberate exception.
+3. **`cases/fisher-sfmoma.md` priority** — see above; I inferred `high`, please confirm or correct.
+4. **Terminology blur**: `marketing/flagship-report.md` describes `candidate-universe.md` (an "Identify-level... not deep-research" pool) as "coded," which is also the word used for the actually report-grade, sourced dataset in `report-dataset.md`. Low urgency, but worth a wording pass so "coded" means one thing.
+5. **`company/decisions/2026-08-12-email-delivery.md` genuinely is still open** (unlike the two I corrected above) — no `## Decision` section exists, and nothing elsewhere in the vault confirms Resend was actually wired up, only that the daily emails are running. If that decision has in fact been made, worth closing the loop in the file itself.
+
+## Otherwise clean
+
+CRM frontmatter (`crm/partners/`, `crm/prospects/`) is consistent and complete against both `.base` schemas — no missing fields found. No overdue follow-up dates. No empty or stub files beyond the intentional index-card pattern already used throughout `learning/`, `institution-building/specialists/`, and `marketing/events/`. The old `debriefs/` folder is already gone. The `report-dataset.md` pointer-stub pattern for `corcoran-gallery.md` / `phillips-collection.md` / `shelburne-museum.md` / `menil-collection.md` looked inconsistent at first glance but is a documented, intentional part of the case-coding process, not a hygiene issue.

@@ -12,16 +12,13 @@ A work-function (no persona). It understands Nariway's actual technology stack, 
 
 ## Nariway's stack, kept current
 - Knowledge base and command center. Obsidian over a git repo, this vault.
-- Version control. Git, local only, no remote yet.
+- Version control. Git, backed up to a private GitHub remote (offsite).
 - Automation. A Claude Code scheduled task, daily Signals, runs locally.
 - Mailboxes. Google Workspace, alina@nariway.com.
 - DNS. Cloudflare.
-- Transactional email. A Resend account, already exists.
+- Transactional email. A Resend account, already exists. Sending the daily Signals digest through it is recommended and awaiting Alina's go-ahead → [[2026-08-12-email-delivery|decision record]].
 - Publishing. Substack, for Artobiography.
 - Website. nariway.com, redesign pending.
-
-## Open infrastructure item
-The vault has no offsite backup. Git is local only, so a disk failure loses everything. A private git remote, GitHub or a Cloudflare-hosted repo, would fix this cheaply. Worth doing soon, since the vault is now the company.
 
 ## Standing mandate
 Watch for changes in these tools that matter to Nariway, pricing, features, deprecations, and surface only what warrants action. Not noise.

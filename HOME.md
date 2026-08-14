@@ -12,7 +12,7 @@ Your brief with Toi. Always the current picture. Your daily check-in email is th
 
 The few things only you can do, ordered by how directly they move toward the goal. Each says why now and what to say, so nothing here is vague.
 
-1. **Your Dawn call is TODAY, 3:00pm EDT** (Google Meet). Your first real market conversation and most direct step toward revenue. Go in to listen, not pitch; understand how the collection-legacy question shows up in her family-office world, and where the real collectors gather. Prep is in her note. → [[Dawn Mari La Monica]]
+1. **Your Dawn call happened** (Aug 13, 3:00pm EDT). First real market conversation, logged with outcomes and belief shifts. Stance now: do not initiate again, re-engage only if she reaches out. → [[Dawn Mari La Monica]]
 2. **Set your bio and post one Note.** Bio is chosen, *Artobiography | the future and legacy of great private art collections*. Then schedule one Note (the McNay one, #3, is the strongest opener). You have 1,472 warm followers and have published nothing in a year, this is the cheapest growth you have. → [[substack-notes-queue]] · [[substack]]
 3. **The flagship report runs in the background.** Your primary focus, decisions made, coding underway. Nothing needed from you day to day. → [[flagship-report]]
 

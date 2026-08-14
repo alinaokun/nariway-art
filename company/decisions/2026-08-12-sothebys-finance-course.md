@@ -1,6 +1,6 @@
 # Decision — Sotheby's Institute "Art, Finance, and Investment" (5-day)
 
-*[[advisory-panel|Advisory Panel]] convened 2026-08-12. Status: **awaiting Alina.***
+*[[advisory-panel|Advisory Panel]] convened 2026-08-12. Status: **decided — DECLINE (2026-08-13).***
 
 **Question:** enroll in Sotheby's Institute's **Art, Finance, and Investment** five-day NY intensive, **~$2,500** (Fall Oct 26–30, 2026 or Spring Jan 25–29, 2027), taught by **Andrea Danese** (who also taught the Alternative Investments course Alina took in 2024 and rated among her best). → [[courses-register]]
 

@@ -1,6 +1,6 @@
 # Decision — Opal Family Office *Legacy* Summit
 
-*[[advisory-panel|Advisory Panel]] convened 2026-08-12. Status: **awaiting Alina.***
+*[[advisory-panel|Advisory Panel]] convened 2026-08-12. Status: **decided — DECLINE (final, 2026-08-13).***
 
 **Question:** attend the Opal Family Office & Private Wealth *Legacy* Summit, **Aug 25–26, 2026**, at the Parrish Art Museum (Water Mill, NY)? Fee **$3,195** (travel + lodging extra). Two weeks out. → [[events-radar]]
 

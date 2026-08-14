@@ -34,7 +34,7 @@
    - **[Friends Who Came to See Me: Drawings from John Ashbery's Collection](https://www.themorgan.org/exhibitions/ashbery-collection)**, Morgan Library, closes **Oct 25**. 28 works on paper given in 2019 by his husband David K. Kermani. A surviving-spouse decision about a poet's collection.
    - *What to do:* nothing to book, both are cheap and open for weeks. Put them on one Friday PWYW evening.
    - Everything else (restaurants, comedy, movies, music, yoga, theater) scanned and set aside.
-2. **Alek Asaduryan newsletter, "Anthropic will now tag every word Claude writes"** (AI text watermarking under the EU AI Act). Not an art signal. **No action needed, filed** — with one judgment call worth making once and writing down: what Nariway's disclosure posture is for AI-assisted published writing ([[format-v0.1|Artobiography]], the knowledge base, Substack). "AI-assisted, human-edited" is the honest and defensible line, and the [[nariway-piece]] discipline already means nothing goes out as raw model output.
+2. **Alek Asaduryan newsletter, "Anthropic will now tag every word Claude writes"** (AI text watermarking under the EU AI Act). Not an art signal. **No action needed, filed** — with one judgment call worth making once and writing down: what Nariway's disclosure posture is for AI-assisted published writing ([[format-v0.1|Artobiography]], the knowledge base, Substack). "AI-assisted, human-edited" is the honest and defensible line, and the `nariway-piece` discipline already means nothing goes out as raw model output.
 
 **See this soon (time-sensitive)**
 

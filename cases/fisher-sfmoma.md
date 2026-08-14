@@ -1,15 +1,14 @@
 ---
 type: case
 sample: report
-collection_name: Doris and Donald Fisher Collection
-founder: Donald & Doris Fisher
-geography: San Francisco, CA
+title: Fisher Collection at SFMOMA
 pathway: long-term-loan
-founder_status_at_transition: living
-survived_founder: yes
-outcome_category: thriving
-durability_signal: strong
-verification_status: Spot-verified
+status: coded
+priority: high
+founder_status: living
+geography: San Francisco, CA
+outcome: thriving
+verification: spot-verified
 ---
 # Fisher Collection at SFMOMA — the 100-year loan
 
