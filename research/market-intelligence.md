@@ -50,5 +50,18 @@ Citi Private Bank runs a long-established **Art Advisory & Finance** practice fo
 
 ---
 
+## 4. The Great Boomer Art Dump reaches mainstream financial press
+*Felix Salmon, Bloomberg (feature), Jul 31, 2026, plus companion newsletter recap "No One Is Ready for the Great Boomer Art Dump" (Aug 1, 2026, same story). Logged 2026-08-14 by the network-research scan.* [Feature](https://www.bloomberg.com/news/features/2026-07-31/the-great-wealth-transfer-includes-1-trillion-in-art) · [Newsletter](https://www.bloomberg.com/news/newsletters/2026-08-01/no-one-is-ready-for-the-great-boomer-art-dump)
+
+**The thesis, in short.** Roughly $1 trillion of art will change hands over the next decade as boomer collectors die or step back, and there is not enough buyer, museum, or institutional capacity to absorb it — illustrated through collector David A. Vaughan's own collection and decision-making.
+
+**Why it matters to Nariway.** The first time this exact premise (large-scale ownership transfer, insufficient absorption capacity, keep/divide/lend/donate/sell as the real decision) has run as a mainstream Bloomberg feature rather than trade press or a niche Substack — a signal the market framing is going mainstream, which sharpens timing but is not new evidence for the thesis itself. The underlying figure is the same Deloitte/ArtTactic estimate already canonical as **C1** in the [[claims-register]] (~$992B, ownership rotation not sale) — do not treat "~$1 trillion" as a second, corroborating number; it is the same claim, rounded, in a new outlet.
+
+**Corroborating color (not separate entries).** Two adjacent pieces support the same "estates are carrying the market" read already logged as #2 above: **Fortune** ("What Christie's $1.45 billion blockbuster art auction tells us about the 'Great Wealth Transfer,'" Jun 4, 2026) ties Christie's Spring result directly to estate material (a Pollock and Brancusi from the S.I. Newhouse estate, a Rothko from the late Agnes Gund) with Christie's CEO Bonnie Brennan attributing the recovery to collections "coming to market" as major collectors die off — a live data point for the "sell" branch. **Moneywise** ("Boomers have spent trillions on art — and it may be nothing but a hassle for the kids who inherit it," Aug 10, 2026) is consumer-finance synthesis (largely restating Deloitte and Art Basel/UBS figures already tracked) but useful as evidence the "heirs don't want it" framing has reached mainstream personal-finance coverage, not just trade press.
+
+**Discipline note.** Mainstream press synthesis of the same modeled Deloitte estimate, not a new primary source. Treat as evidence of *narrative* reach (useful for positioning and timing conversations), not as independent corroboration of the underlying number.
+
+---
+
 ## How this log grows
 Research and Signals add significant macro and market-economics sources here, each with a short synthesis and the same routing discipline (numbers to the claims register, no restatement, corroboration not proof). Candidates: new Deloitte and Art Basel/UBS reports, TEFAF, major analyst pieces, and the READ tier of [[substack-register]].
