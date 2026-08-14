@@ -64,5 +64,13 @@ Every interview ends with the network-branching move from [[problem-discovery]]:
 
 ## First moves
 1. Post **Query A** on Qwoted. Test the inbound mechanism, do not overbuild.
-2. Ask **Dawn** today (added to her [[Dawn Mari La Monica|call prep]]) for the first three people to interview.
+2. Ask **Dawn** for the first three people to interview.
 3. Log each Conversation with a practitioner as a row in [[problem-discovery]] and let recurring answers route to [[what-we-now-believe]].
+
+## Launch checklist (target: post Query A Monday morning, 2026-08-17)
+Post Monday, not Friday evening, PR and source activity is Mon-Thu; a weekend post sits dead. This is a better trigger-pull, not a delay. Weekend prep:
+1. **nariway.com live** with the Fisher fix (more than 720 works / 100 artists, see [[website]]) and the advisory wording decided. The live site still shows the old work-research institution, this is the real blocker.
+2. **Lock Query A** as the first query; set a ~1-week response window.
+3. **Post the first Substack Note** (the queue is ready) so a respondent who checks Artobiography sees an active publication, not one dormant since Jan 2025.
+4. **Ready the interview kit** (the 3-fixed + 2-specific question sets above; a one-line reply for a pitch; the credibility test).
+5. **Line up 2-3 warm/direct targets** ([[Diana Wierbicki]], [[Matthew F. Erskine]], a foundation founder) for parallel outreach next week, so Qwoted is not the only channel.
