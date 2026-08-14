@@ -2,7 +2,7 @@
 
 > **Where the live copy lives:** your current headline and bio are canonical in **[[positioning]]** (the "Public copy — live profiles" section), alongside Qwoted and Substack, so all three stay consistent. **This page does NOT keep its own copy of the bio** — that is what caused two versions to drift out of sync. To see or change the live LinkedIn text, go to [[positioning]]. This page holds only LinkedIn strategy and tactics.
 
-*A CMO work-function (no persona). Two jobs: (1) keep the profile, especially headline and About, aligned with [[positioning]] as it firms up; (2) monitor what actually works on LinkedIn for niche experts and advisors and recommend adjustments. Per the CMO charter, LinkedIn is selective institutional credibility, not an audience-building machine, and pre-launch we do not overclaim an advisory service that isn't validated (H7B).*
+*A CMO work-function (no persona). Three jobs: (1) keep the profile, especially headline and About, aligned with [[positioning]]; (2) monitor what actually works on LinkedIn for niche experts; (3) run the standing **network-research** scan below. Per the CMO charter, LinkedIn is selective institutional credibility, not an audience-building machine, and pre-launch we do not overclaim an advisory service that isn't validated (H7B).*
 
 ## Current state (as of 2026-08-13)
 Headline and bio are set and live, recorded in [[positioning]]. Headline standardized to **Founder, Nariway | Publisher, Artobiography | Former CFO**. The bio uses the "focus on" framing that sits between researcher and advisor. Nothing to change right now.
@@ -11,3 +11,23 @@ Headline and bio are set and live, recorded in [[positioning]]. Headline standar
 - Watch which formats and hooks work for niche-expert profiles; recommend headline/About tweaks as positioning evolves, and make the change **in [[positioning]]**, not here.
 - After Artobiography relaunches: recommend the occasional credibility post (a major research finding, a published piece, a panel), never a posting treadmill.
 - Flag when the profile still says anything from a previous Nariway iteration that is no longer true.
+
+## Active research — the network radar (added 2026-08-14)
+Prompted by Dawn La Monica, who found ~45 family-office conferences in her first year through **constant LinkedIn research**. The lesson is not "attend 45 conferences"; it is that constant research surfaces the rooms and people Alina would otherwise never find. So there is now a recurring **cloud scan** (`Nariway network research`, runs Mon/Thu, a recurring subagent per [[executive-model]], not a new function) that sweeps the public web and publicly-indexed LinkedIn for three things and files them into the registers:
+- **Events / rooms** → [[events-radar]] and `marketing/events/` (with the room discipline: practitioners in real interaction, not any art/wealth event).
+- **People to know / follow** → [[warm-network]] / prospects / partners, and the target list below.
+- **Articles / posts / newsletters** → [[learning]], [[market-intelligence]], [[substack-register]].
+It sends **no email**; its finds surface through the daily delta-driven check-in as they land. Feeds and is fed by [[network-research]] (which mines Alina's existing connections).
+
+### The honest division of labor (important)
+- **The agent does the public sweep.** LinkedIn blocks automated logged-in access, and trying it risks the account, so the scan uses only public / search-indexed content. It cannot see Alina's feed or her network's activity.
+- **Alina does the logged-in depth.** Her feed, her connections' activity, engaging, and the events her peers are actually attending live behind the login and are hers to work. The agent makes that time efficient by keeping the **target list** below current, so a logged-in session is high-yield rather than a scroll.
+- **On-demand deep dives:** for a specific logged-in LinkedIn task, Alina can ask Toi in-session to drive her own Chrome (the Claude-in-Chrome tool) and browse as her, paced manually and only on request, never as an unattended bot.
+
+## Research target list (for Alina's own LinkedIn sessions)
+*Kept curated and current by the network-research scan. The efficient version of "constant research": follow these, run these searches, watch these sources.*
+
+**People / orgs to follow** (seed, will grow): Katya Kazakina, Georgina Adam, Clare McAndrew, Deloitte Art & Finance, Center for Art Law, [[Diana Wierbicki]] (Loeb art & cultural property), [[Matthew F. Erskine]] (estate & tax), plus the [[warm-network]] names.
+**Ecosystem orgs / event sources**: STEP (Society of Trust and Estate Practitioners), Purposeful Planning Institute, Family Wealth Alliance, Opal Group, Campden Wealth, iGlobal Forum, Family Office Association, AAM / AAMC (museums), Appraisers Association of America.
+**Searches to run (logged in)**: "family office conference 2027", "private wealth / wealth-transfer summit", "art and estate planning", "collection legacy / succession", "trusts and estates art", "Great Wealth Transfer art".
+**Hashtags / groups to watch**: #familyoffice, #wealthtransfer, #artlaw, #estateplanning, #privatewealth, #artcollecting; plus family-office, T&E, and art-law LinkedIn groups.
