@@ -1,72 +1,57 @@
 # Nariway — how the organization works
 
-*Deliberately small. The advantage of being AI-first is **less** permanent structure than a normal company, not more. So there are only a few standing roles. Everything else is either a **domain of work** (a folder someone owns) or a **subagent spun up for one job and then gone**. Nothing else is a "function."*
+*Deliberately small. Being AI-first means **less** permanent structure than a normal company, not more. **Visual org chart: [The Digital Workforce](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216)** (1 human, 5 permanent roles, 6 live agents, the on-demand subagents under each lens).*
 
-## The whole org (this is all of it)
-
+## The whole org — five boxes
 ```mermaid
 flowchart TD
-    A["ALINA — Founder<br/>owns judgment and sequencing; does the human work"]
-    TOI["TOI — Chief of Staff<br/>your single interface"]
-    CFO["CFO — does this make money?"]
-    RES["Research — is it true?"]
-    CMO["CMO — will the right people find it?"]
-    SUB["Subagents<br/>spun up for one job, then gone (invisible to you)"]
-
+    A["ALINA — Founder (human)<br/>owns judgment and sequencing"]
+    TOI["TOI — Chief of Staff<br/>your single interface · router"]
+    CFO["CFO<br/>does this make money?"]
+    RES["Research<br/>is it true?"]
+    CMO["CMO<br/>will the right people find it?"]
     A <--> TOI
     TOI --> CFO
     TOI --> RES
     TOI --> CMO
-    CFO -.-> SUB
-    RES -.-> SUB
-    CMO -.-> SUB
-    TOI -.-> SUB
-
     classDef founder fill:#f4ece0,stroke:#8a6d3b,color:#1a1a1a;
     classDef lens fill:#eef1f4,stroke:#5b6b7a,color:#1a1a1a;
-    classDef sub fill:#f2f2f2,stroke:#888,color:#1a1a1a;
     class A,TOI founder;
     class CFO,RES,CMO lens;
-    class SUB sub;
 ```
+**That is the entire permanent org.** If you ever count more than five standing roles, something crept back in.
 
-**That is the entire permanent org. Five boxes.** If you ever count more than five standing roles, something has crept back in.
-
-## The five roles
-
-**Alina — Founder and integrator.** Owns judgment and sequencing; talks only to Toi. Does the irreducibly human work: the Artobiography writing, the interviews, the relationships, the decisions the agents cannot make.
-
-**Toi — Chief of Staff.** Your single interface. Routes your intent to the right lens, spins up subagents for specific jobs, keeps HOME current, sends the daily emails, and surfaces only what needs you. Never publishes, sends, or transacts without approval. Charter: [[chief-of-staff]].
-
-**The three lenses** — permanent because they should genuinely *disagree*, which is their whole value:
-| Lens | The question it asks | What it owns |
+| Role | Asks | Owns |
 |---|---|---|
-| **CFO** | Does this make money? | The money [[nariway-cfo|(charter)]] — model, ledgers, pitch deck, willingness-to-pay evidence, the target of one million a year. Watches legal and tax, and says when a licensed pro is needed. |
-| **Research** | Is it true? | The intellectual engine [[research-program|(charter)]] — the case library and report, claims discipline, what-we-believe, the advisory knowledge (decision map, specialists). Refuses to overclaim. |
-| **CMO** | Will the right people find it? | The audience [[nariway-cmo|(charter)]] — Artobiography, Substack, Conversations, events and travel, outreach, the website. Relevant reach, not maximum reach. Drafts, never posts without approval. |
+| **Alina** — founder, integrator (human) | — | Judgment, sequencing, and the human work: the writing, the interviews, the relationships. Talks only to Toi. |
+| **Toi** — Chief of Staff | — | The interface. Routes intent, spins up subagents, runs Operations, surfaces only what needs Alina. Never sends or transacts without approval. [[chief-of-staff|Charter]]. |
+| **CFO** | does this make money? | The money [[nariway-cfo|(charter)]] — model, ledgers, pitch deck, willingness-to-pay, the million-a-year target. Watches legal and tax. |
+| **Research** | is it true? | The intellectual engine [[research-program|(charter)]] — the case library and report, claims discipline, beliefs, advisory knowledge. Refuses to overclaim. |
+| **CMO** | will the right people find it? | The audience [[nariway-cmo|(charter)]] — Artobiography, Substack, Conversations, events, outreach, the website. Drafts, never posts without approval. |
 
-## Everything else is NOT a function
-The old model named twenty "functions" (Signals, Institution Building, Report Analyst, LinkedIn, Legal, Tax, IT, Vault Hygiene, and so on). They are gone as standing roles. Each was really one of two things, and that is how they are treated now:
+## The digital workforce — the agents actually running
+Everything below is an **agent**, not a role. **Live agents** run on a schedule in the cloud, 24/7, whether the laptop is on or off. **On-demand subagents** are spun up for one job and dissolve. Each belongs to one of the five boxes. (Live schedules also in [[it]]; full picture in the [visual](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216).)
 
-- **A domain of work** — a folder of notes, *owned by one lens.* "Signals" is not a function, it is a daily job the Research/CMO work produces; "Institution Building" is not a function, it is advisory knowledge Research keeps. Ownership is the table above and the [[index|INDEX]].
-- **A subagent, spun up for one job, then gone** — a legal-exposure check, an IT decision, a batch of case coding, a network-research pass. Toi or a lens creates it, it does the job, it dissolves. It is never on the org chart because it does not persist.
+| Live agent | Owner | Cadence | Job |
+|---|---|---|---|
+| **dataset-research** | Research | 2×/day (5am, 5pm ET) | codes the case database to primary-source depth (the proprietary moat) |
+| **signals** | Research | daily (7am ET) | scans the art world → cases, prospects, market intelligence; emails the digest |
+| **quality-assurance** | Research | daily (4pm ET) | independent standards audit; flags, never fixes |
+| **network-research** | CMO | Mon/Thu (9am ET) | public-web + LinkedIn sweep → events, people, articles |
+| **check-in** | Toi (Ops) | daily (7:30am ET) | morning brief + "today I learned"; refreshes HOME |
+| **vault-hygiene** | Toi (Ops) | M/W/F | tidiness: stale info, duplicates, drift, broken links |
+| **email-sender** | Toi (Ops, infra) | on push | GitHub Action; sends the queued emails via Resend |
 
-A few subagents run on a **recurring schedule** rather than once, but they are still instruments of a lens, not new boxes: **[[vault-hygiene]]** (tidiness, run by Toi), **[[quality-assurance]]** (an independent standards audit, reporting to Research), and the **[[linkedin|network-research]] scan** (professional-network people/events/articles, CMO + Research). They persist as *cron jobs*, not as personas, and the test still holds, if you count more than five standing roles, something crept back.
+**On-demand subagents** (representative, spun up as work needs them): *Research* — case-coder, source-verifier, claims-keeper, beliefs-updater, institution-builder · *CMO* — substack-drafter, artobiography-editor, conversations-interviewer, events-scout, outreach-drafter, website-builder · *CFO* — ledger-keeper, pitch-deck-builder, comparables-analyst, legal-watch, tax-watch · *Toi* — intent-router, home-keeper, panel-convener.
 
-So when you think "who does the Substack work?" the answer is **CMO** (spinning up a drafting subagent as needed), not a standing "Substack function." "Who watches legal?" **CFO**, spinning up a check when something real triggers it. The work still happens; it just is not a permanent box.
+**Why the roster is optimal (the audit, 2026-08-14):** every live agent maps to exactly one lens, so there is no ownerless work and no duplicated owner. The two outward scans stay complementary, not redundant — **signals** covers art-world *developments*, **network-research** covers the *professional ecosystem* (people, rooms, thought-leadership). **quality-assurance** is deliberately independent (it audits the others; it does not report to the work it checks). **CFO has no cron** on purpose — money work is judgment-heavy and runs on demand. New standing agents are added only when a real, repeating job has no home (see the freeze).
 
-## The naming rule
-- **Named, because they must disagree:** CFO, Research, CMO. Plus **Toi**, the interface.
-- **Never named:** the domains and the subagents. They are what gets done, not who does it. Giving them personas is the cosplay we are avoiding.
+## The rules that keep it small
+- **Everything that is not one of the five boxes is a domain or an agent, never a new "function."** A domain is a folder one lens owns (Signals, Institution Building, Substack). An agent is the live or on-demand worker above.
+- **Named only if it must disagree:** CFO, Research, CMO, plus Toi the interface. The agents are named after the *work* (kebab-case), never given personas — that is the cosplay we avoid.
+- **The freeze (standing rule, 2026-08-13):** the permanent org is frozen at five. A new permanent role is added only when outside work reveals something important that repeatedly has no owner, never because a category could exist. New work goes to subagents. This exists because it is more satisfying to build Nariway than to operate it, and the machinery must not outgrow the activity.
 
-## The one principle that governs everything
-**Disagreement is a thinking device, not a voting system.** The lenses run on the same model and context, so when they converge it is not independent corroboration; it can be the same blind spot twice. They surface tensions Alina might miss, never manufacture confidence, never override her sequencing. **Alina is the integrator; the lenses are lenses, not voters.** *(Case in point: CFO and CMO both pointed at publishing McNay, but Alina had chosen not to publish yet, and that judgment outranks the apparent convergence.)*
-
-## Deliberating decisions
-For a real choice (a spend, a trip, a public commitment), Toi convenes the relevant lenses as an [[advisory-panel|Advisory Panel]]: each argues a side, Toi synthesizes the tension, Alina decides. Logged in `company/decisions/`.
-
-## The reaction loop (standing, proactive)
-After every material change, Toi runs a quick pass: each relevant lens asks *given what just changed, what concrete action moves Alina toward one million a year?* The strongest land on HOME under "What your directors are flagging." Each must name *why now* and *what to do*. The CFO's standing job here is to flag when effort has drifted into enrichment (reading, visits, systems) and away from the two things that make money: real client conversations and a first paid engagement.
-
-## The freeze (2026-08-13, standing rule)
-The permanent org is **frozen at the five boxes above.** A new permanent role is added **only when real outside work reveals that something important repeatedly has no owner** — never because a category could exist. Subagents are created freely and invisibly; that is where new work goes. This rule exists to counter the risk outside review named plainly: it is more satisfying to build Nariway than to operate it, and the machinery must not outgrow the activity again.
+## How judgment and decisions work
+- **Disagreement is a thinking device, not a vote.** The lenses share a model and context, so convergence can be the same blind spot twice. They surface tensions; **Alina integrates and decides.** They never override her sequencing. *(McNay: CFO and CMO both said publish, Alina chose not to yet, and that judgment won.)*
+- **Advisory Panel** — for a real choice (a spend, a trip, a public commitment), Toi convenes the relevant lenses, each argues a side, Toi synthesizes the tension, Alina decides. Logged in `company/decisions/`. See [[advisory-panel]].
+- **The reaction loop** — after every material change, each relevant lens asks *what concrete action moves Alina toward a million a year?* The strongest land on [[HOME]]. The CFO's standing job here is to flag when effort drifts into enrichment (reading, visits, systems) and away from the two things that make money: real client conversations and a first paid engagement.
