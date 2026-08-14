@@ -1,0 +1,58 @@
+---
+type: case
+sample: report
+title: Deutsche Bank Collection / PalaisPopulaire
+origin: corporate
+pathway: hybrid
+status: coded
+priority: medium
+founder_status: n/a
+geography: Frankfurt / Berlin, Germany
+outcome: pivoted
+verification: spot-verified
+---
+
+# Deutsche Bank Collection / PalaisPopulaire — the building closes, the collection doesn't, a live test of which was the real commitment
+
+*Coded to [[case-template]], adapted for `origin: corporate`. WebFetch was blocked on every domain attempted this session; all figures below are WebSearch-snippet synthesis of trade-press coverage (Kunstforum International, ArtfixDaily, The Art Newspaper, artnet, paintandpainting.com), tagged `secondary`, and the case is added to the report's Primary-verification backlog. Distinctive for the report: this is a **live, in-progress transition** (the closure completes end of 2026), and it is the cleanest test yet of the "was it the building or the collection that stopped paying for itself" question the sample also sees in the non-corporate CAM Raleigh and Rauschenberg Foundation Signals rows — except here the steward is one of the world's largest banks with ~55,000 works, not a small or midsize nonprofit.*
+
+## Coded header
+- `pathway`: **hybrid** (found-standalone-museum-like dedicated venue, 2018–2026, → traveling-program/rotating-loan model from 2027) [source: kunstforum.de/en/news/deutsche-banks-palaispopulaire-exhibition-centre-is-closing ; confidence: secondary] · `secondary_pathways`: [traveling-program, long-term-loan] · `pathway_is_branched`: **yes**
+- `founder_status_at_transition`: **n/a** (corporate collection; no individual founder — the Deutsche Bank Collection dates to the late 1970s as an internal corporate-art program) [confidence: secondary] · `founder_still_living_now`: **n/a** · `survived_founder`: **n/a** — recoded as **parent-entity-continuity**: unlike Lehman and Enron, the parent institution (Deutsche Bank) is *not* failing; this is a voluntary strategic retreat from a dedicated public venue, not a forced liquidation, and the collection itself is explicitly **not** being dispersed
+- `outcome_category`: **pivoted** (venue closes; collection continues via rotating loans to partner institutions, "Artist of the Year" award continues in a new roving format from 2027) · `durability_signal`: **moderate** (the collection's *institutional visibility* is contracting even as the underlying asset persists — a distinction the coded fields can't fully capture; flagged in Narrative)
+- `governance_control_at_founding`: **parent-institution** (corporate asset governed through Deutsche Bank's internal art program, "Art, Culture & Sports" / Deutsche Bank AG) [confidence: secondary]
+- `building_type`: **existing-institution** (PalaisPopulaire occupies the 18th-century Prinzessinnenpalais/Kronprinzessinnenpalais in central Berlin, opened 2018, not purpose-built by the bank) → shifting toward **no-building** as the dedicated venue element of the model · `collection_coherence`: **broad-survey** (~55,000 works, with a particular strength in post-1945 drawings and photography, spread across roughly 900 bank branches in ~40 countries — one of the largest and most geographically dispersed corporate collections in existence) [source: art.db.com/deutsche-bank-collection ; confidence: secondary] · `coherence_drifted`: **n/a**
+- `decision_owner`: same schema-coverage gap flagged for Lehman/Enron — no coded value exists for a corporate board/executive decision inside an ongoing (non-bankrupt) company; closest partial fit is **no-identifiable-person** at the individual level, though the actual decision was made by Deutsche Bank's art-program leadership and corporate management, reported via head of Arts Deutsche Bank Friedhelm Hütte in earlier (2020) collection-refocusing coverage [source: theartnewspaper.com/2020/02/04/goodbye-gerhard-deutsche-bank-shrinks-art-collection ; confidence: secondary] · `primary_friction`: **funding-gap**, but distinctively **not** a company-failure funding gap — reported reason is strategic refocusing toward young-artist support and partner-institution collaboration rather than maintaining a standalone venue's fixed costs [source: kunstforum.de, monopol-magazin.de ; confidence: secondary]
+- `constraints_documented`: **no** (no donor-intent or keep-together instrument; a corporate collection subject to ordinary corporate discretion)
+
+**Governance sub-fields (recoded for the corporate case, `n/a` where a founder-centric field does not apply):**
+- `board_type`: **n/a** — governed through Deutsche Bank's corporate structure, not a museum/foundation board
+- `succession_locked_before_founder_death`: **n/a**
+- `founder_control_mechanism`: **n/a**
+- `donor_intent_instrument`: **n/a**
+- `endowment_governance`: **n/a** — no endowment; funded from bank operating budget as a marketing/culture line item, as is typical of corporate collections (compare UBS, JPMorgan Chase in [[candidate-universe]] §8)
+
+**Quantitative fields:**
+- `collecting_start_year`: **~1979** (Deutsche Bank Collection described as founded "at the end of the 1970s") [source: art.db.com ; confidence: secondary] · `transition_year`: **2026** (closure announced mid-2026, effective end of 2026) [confidence: secondary] · `institution_open_year`: **2018** (PalaisPopulaire opened; predecessor programming at the site traced informally to 1997 per candidate-universe note) · `legal_recognition_year`: **n/a**
+- `collection_size_at_founding`: **unknown** · `collection_size_current`: **~55,000 works** [source: art.db.com/deutsche-bank-collection ; iaccca.com collection profile ; confidence: secondary] — note an earlier (2018-era) source cited "~50,000," suggesting continued acquisition through the PalaisPopulaire years, not a static count
+- `founding_endowment_usd`: **n/a**
+- `net_assets_latest` / `total_expenses_latest` / `net_assets_to_opex_ratio` / `true_endowment_usd`: **unknown** — Deutsche Bank AG's consolidated financials are public but the art program's own budget is not separately disclosed in any source found this session; a corporate collection has no museum-style balance sheet to code
+- **2020 refocusing precedent**: the bank announced it would sell roughly 200 modern works to fund new acquisitions, described in press coverage as a strategic refocusing rather than a reduction in overall commitment — i.e., this 2026 closure is the second documented instance of the bank recalibrating the collection's public-facing footprint, not a first/isolated event [source: theartnewspaper.com/2020/02/04/goodbye-gerhard-deutsche-bank-shrinks-art-collection ; confidence: secondary]
+- `earned_revenue_latest` / `annual_attendance` / `fte_headcount`: **unknown**
+
+## Narrative
+Deutsche Bank's PalaisPopulaire closure, announced in mid-2026 and effective at year-end, is the report's clearest live test of a question several other cases raise indirectly: when an institution built around a collection retreats, is it the *collection* that stopped being worth the commitment, or just the *building*? The evidence here points firmly to the building. The bank explicitly frames the closure as a refocusing of *how* it shows the collection, not a divestment of it: the roughly 55,000-work Deutsche Bank Collection — one of the largest corporate art holdings in the world, distributed across some 900 branches in about 40 countries, with a particular depth in post-1945 works on paper and photography — is not being sold or dispersed. Instead, works will be shown at rotating partner venues, the "Artist of the Year" award (a signature program associated with the collection) continues in a new roving format starting 2027, and existing loan relationships (including with Berlin's Hamburger Bahnhof) are explicitly maintained. A closing festival is planned for November 19–22, 2026 to mark the transition.
+
+This is a strategic pivot by a financially healthy parent company, which sets it apart from every other corporate case in the sample so far: Lehman and Enron lost their collections to their own bankruptcies; Deutsche Bank is voluntarily narrowing its public exhibition footprint while keeping the underlying asset fully intact, and has done something similar before — a 2020 announcement that it would sell roughly 200 modern works specifically to fund new acquisitions, described at the time as refocusing rather than retreat. Read together, the two episodes suggest a bank willing to actively manage a large corporate collection's composition and public presentation over time, in a way that looks more like ordinary institutional stewardship than crisis.
+
+For the report, this case pairs directly with the non-corporate CAM Raleigh and Robert Rauschenberg Foundation Signals rows already logged in [[candidate-universe]] (both institutions divesting real estate while explicitly protecting the mission/collection) — it is the same "building vs. collection" question, at a much larger scale and inside a for-profit corporate steward rather than a nonprofit. It also complicates a simple "corporate collections are financially precarious" read the Lehman/Enron cases might otherwise invite: Deutsche Bank's case shows a corporate collection can shrink its *visible institutional footprint* for strategic reasons that have nothing to do with financial distress, a mechanism the current `outcome_category` vocabulary captures reasonably well via `pivoted` but which the durability metrics (built around endowment/net-assets ratios) cannot measure at all, since there is no comparable balance sheet to code.
+
+## Primary sources to obtain
+Deutsche Bank AG's own press materials and annual/CSR reports (art.db.com, palaispopulaire.db.com) for the official closure rationale, budget figures if disclosed, and confirmation of which partner venues will host rotating exhibitions from 2027; direct confirmation of the ~55,000-work count and its US-dollar or euro insured/book valuation, if ever disclosed; the original 2020 "Goodbye Gerhard" Art Newspaper reporting (theartnewspaper.com/2020/02/04) for full context on the ~200-work sale and Friedhelm Hütte's stated rationale, to assess whether 2020 and 2026 are part of one continuing strategy or two separate decisions.
+
+## Gaps / contradictions
+- **No financial figures for the art program itself**: Deutsche Bank AG is a public company with audited financials, but no source found this session isolates the art collection/PalaisPopulaire's own budget, so `net_assets`, `total_expenses`, and any coverage ratio are coded `unknown` rather than estimated from the bank's consolidated results, which would not be a meaningful proxy.
+- **Collection-size figures inconsistent across sources by roughly 5,000 works** (~50,000 in some older coverage vs. ~55,000 in current db.com material) — likely reflects genuine growth over time rather than a real contradiction, but not confirmed.
+- **Same schema-coverage gap as Lehman/Enron**: no `decision_owner` or governance-sub-field values exist for an ongoing (non-bankrupt) corporate decision-maker; coded `n/a` by the same convention, though this case additionally shows the gap applies beyond bankruptcy — voluntary corporate strategic decisions need the same schema extension.
+- **Live/in-progress case**: the closure is not yet complete as of this coding (2026-08); `outcome_category: pivoted` and all forward-looking claims (2027 roving format, partner-venue list) should be re-verified after the November 2026 closing festival and into 2027.
+- **Network-access limitation**: WebFetch returned `EGRESS_BLOCKED` this session on every domain tested; all figures above are WebSearch-snippet synthesis, tagged `secondary` throughout.
