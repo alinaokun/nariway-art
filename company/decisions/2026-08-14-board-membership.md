@@ -20,8 +20,8 @@
 ## Recommendation
 Run the cheap evidence-phase moves first. Take a **low-cost, high-relevance** board now if one appears in the database; defer any big-give board until there is revenue. Any material financial commitment goes to the [[advisory-panel]] and the [[cfo-brief|CFO]] before Alina commits.
 
-## Next
-Alina shares 3 to 5 candidate boards from the BoardAssist database → vet each on the criteria above → panel on any that clears the bar and carries a real cost.
+## Next (updated 2026-08-14)
+Rather than rely on the BoardAssist database (a narrow, paid channel), **agent research searches the whole field** against the criteria above and maintains a target list in [[board-opportunities]]. A thorough first pass is running; [[network-research]] keeps it fresh ongoing. BoardAssist stays a possible *route* to some of these, not the source. Alina reviews the shortlist → panel + [[cfo-brief|CFO]] on any that clears the bar and carries a real cost.
 
 ## Outcome
-_open — awaiting candidate boards to evaluate._
+_open — shortlist being researched into [[board-opportunities]]._
