@@ -37,6 +37,7 @@ The collectors sit behind these people. Not a pitch, a "here is what I am buildi
 
 - **Family offices** — Karl Douglas (Managing Partner, Insight Family Office), Dennis Lin (CIO, Family Office), Justin Shamash (Finance Director, Single Family Office), Anthony Onwukwe (Private Client Advisor, Private Investment Office).
 - **Private banks and senior advisors** — Linda Kelley and Barbara Rabinowitz (Directors, UBS Wealth Management), Robert Johnston and Lynne Marino (Merrill), Sarah Beane Ricca and James F. Harmon (Morgan Stanley), Daniel Agranovich (J.P. Morgan Private Bank).
+- **Warm (a real relationship, not a cold export name):** **Hugh Meyer** — Director of Private Wealth at **Highline Wealth Partners** (LA family-owned RIA + family office, UHNW clients). Known through a joint mastermind ~2 years ago. **No ask now**; keep him and especially the firm in mind for future overlap (their UHNW clients are the households that face the collection-legacy decision). Full note: [[Hugh Meyer]].
 - The wider advisor list runs to about forty. These are the ones with the seniority or the family-office seat to matter first.
 
 ---
