@@ -78,6 +78,12 @@ def main():
                 headers={
                     "Authorization": f"Bearer {key}",
                     "Content-Type": "application/json",
+                    "Accept": "application/json",
+                    # A real user-agent; the default Python one trips Cloudflare (error 1010).
+                    "User-Agent": (
+                        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+                    ),
                 },
             )
             resp = urllib.request.urlopen(req, timeout=30)
