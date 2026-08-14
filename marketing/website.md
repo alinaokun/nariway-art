@@ -56,6 +56,13 @@ Voice-clean, describes researching, no advisory promise. Drop-in copy:
 > Luminary Leadership — Co-authored.
 > Meet You in Calabar — Co-authored.
 
+## Before posting on Qwoted — final checks (both live sites)
+alinaokun.com is in good shape as of 2026-08-14 (live structure: current work leads, then **Earlier Work** = CIA Insights, then **Books** = Luminary Leadership + Meet You in Calabar with covers). The published author + doctorate reads as credibility, kept below the current art work. Two things to close first:
+1. **A clear contact path on alinaokun.com** — an email or contact link, plus a LinkedIn link. A Qwoted PR person or interviewee who is intrigued needs an obvious next step, or the interest leaks. This is the one real gap.
+2. **Links out** — confirm the Nariway item points to nariway.com and Artobiography's "Visit" goes to the Substack.
+
+**Higher-risk page is nariway.com, not alinaokun.com.** It still presents the old "research institution about working life," and anyone who Googles "Nariway" lands there. Swap in the interim one-pager copy above before or right after posting on Qwoted. That is the page that can actually cost a conversation.
+
 ## Full v1 (deferred until Artobiography relaunches)
 Not now. When there is published work to point to, the ambitious build happens, and only then does the "Advisory" question below get answered.
 
