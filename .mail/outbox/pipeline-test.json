@@ -1,6 +1,0 @@
-{
-  "from": "Nariway Check-in <signals@nariway.com>",
-  "to": ["alina@nariway.com"],
-  "subject": "Nariway email pipeline test",
-  "html": "<h2>Pipeline test</h2><p>If you are reading this, the 24/7 email path works end to end. This message was queued into the repo and sent by GitHub via Resend, with no laptop or app open. You can ignore it. The real check-in and Signals emails will arrive the same way each morning.</p>"
-}
