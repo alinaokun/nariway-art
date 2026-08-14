@@ -12,13 +12,23 @@ A work-function (no persona). It understands Nariway's actual technology stack, 
 
 ## Nariway's stack, kept current
 - Knowledge base and command center. Obsidian over a git repo, this vault.
-- Version control. Git, backed up to a private GitHub remote (offsite).
-- Automation. A Claude Code scheduled task, daily Signals, runs locally.
+- Version control. Git, backed up to a private GitHub remote (offsite): github.com/alinaokun/nariway-art. Obsidian Git plugin auto-commits and pushes locally in near real time.
+- Automation. Five CLOUD routines run on Anthropic's servers 24/7 (laptop-independent): dataset research (daily), vault hygiene (M/W/F), quality assurance (daily), Signals (daily 7am ET), and the daily check-in (7:30am ET). The two email routines GENERATE content only; they do not send.
+- Email delivery (24/7). See the pipeline below.
 - Mailboxes. Google Workspace, alina@nariway.com.
 - DNS. Cloudflare.
-- Transactional email. A Resend account, already exists. Sending the daily Signals digest through it is recommended and awaiting Alina's go-ahead → [[2026-08-12-email-delivery|decision record]].
+- Transactional email. Resend (domain nariway.com verified; from signals@nariway.com). LIVE for the daily Signals and check-in emails via the pipeline below.
 - Publishing. Substack, for Artobiography.
 - Website. nariway.com, redesign pending.
+
+## The 24/7 email pipeline (how the daily emails actually send)
+The problem: cloud routines cannot hold the Resend key (no local file access, and the key must never live in the repo or a prompt). The solution, proven working 2026-08-14:
+1. The cloud Signals and check-in routines compose the email and WRITE it as a JSON job to `.mail/outbox/signals.json` or `checkin.json` ({from, to, subject, html}), then commit and push. No key on the Claude side.
+2. A GitHub Action (`.github/workflows/nariway-daily-email.yml`, script `.github/scripts/send_mail.py`) fires on any push to `.mail/outbox/**`, reads the key from the **`RESEND_API_KEY` GitHub Actions secret** (set by Alina in the repo settings; never seen by Claude), and sends via Resend. It sends only the outbox files changed in that push, so the two emails never cross-send.
+- **Gotcha recorded:** Resend sits behind Cloudflare, which blocks the default Python user-agent with "error code 1010". `send_mail.py` sets a real browser User-Agent to get through, and strips whitespace from the key.
+- **DST caveat:** the cloud cron is UTC (Signals 11:00, check-in 11:30), which is 7:00/7:30am ET in summer and 6:00/6:30am ET in winter. Nudge by an hour in November to hold 7am.
+- The two old LOCAL scheduled tasks (nariway-signals-daily, nariway-daily-checkin) are DISABLED (paused, recoverable) so nothing double-sends.
+- **Not migrated:** the forwarded-email intake (forward to alinaokun+claude@gmail.com) ran via a local script and is not in the cloud path. Restoring it needs either a small local task or a Gmail connector. Open item.
 
 ## Standing mandate
 Watch for changes in these tools that matter to Nariway, pricing, features, deprecations, and surface only what warrants action. Not noise.
