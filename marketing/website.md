@@ -56,6 +56,9 @@ Voice-clean, describes researching, no advisory promise. Drop-in copy:
 > Luminary Leadership — Co-authored.
 > Meet You in Calabar — Co-authored.
 
+## alinaokun.com — LIVE revised, confirmed 2026-08-14
+Verified against the live page. Structure and copy are as designed: hero + descriptor ("Founder of Nariway · Publisher of Artobiography · Former CFO"), art-forward About with the finance bridge, Work (Nariway → nariway.com, Artobiography → artobiography.co), Earlier Work (CIA Insights), Books (Luminary Leadership, Meet You in Calabar). LinkedIn is linked in the footer, closing the contact-path gap. **Verdict: leave it alone.** Only optional nicety left: a direct email or contact link for lower friction than LinkedIn (not a blocker). Could not verify exact About-text punctuation from a paraphrase, worth a quick self-check against the no-em-dash / no-colon rule.
+
 ## Before posting on Qwoted — final checks (both live sites)
 alinaokun.com is in good shape as of 2026-08-14 (live structure: current work leads, then **Earlier Work** = CIA Insights, then **Books** = Luminary Leadership + Meet You in Calabar with covers). The published author + doctorate reads as credibility, kept below the current art work. Two things to close first:
 1. **A clear contact path on alinaokun.com** — an email or contact link, plus a LinkedIn link. A Qwoted PR person or interviewee who is intrigued needs an obvious next step, or the interest leaks. This is the one real gap.
