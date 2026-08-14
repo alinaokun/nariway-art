@@ -66,6 +66,11 @@ alinaokun.com is in good shape as of 2026-08-14 (live structure: current work le
 
 **Higher-risk page is nariway.com, not alinaokun.com.** It still presents the old "research institution about working life," and anyone who Googles "Nariway" lands there. Swap in the interim one-pager copy above before or right after posting on Qwoted. That is the page that can actually cost a conversation.
 
+## nariway.com — concept review (2026-08-14)
+Reviewed the homepage concept PDF (a design concept, not yet live; the live site is still the old work-research institution). **Verdict: strongly the right direction.** On-thesis, sophisticated, and finally the current identity. Keep: the private-life/public-life photo diptych; the hero "Building a collection is one thing. Deciding its future is another."; the three-part shape (Research · Artobiography · Advisory); the five varied, accurate case studies (McNay, Lauder→Met, Fisher→SFMOMA, Anderson→Stanford, Souls Grown Deep); and especially the FOUNDER line ("a question of capital, structure, and control, as much as taste"), the differentiator, keep verbatim. Copy passes the voice rules (no em dashes, no colons in prose).
+
+**The one calibration that matters: advisory language runs slightly ahead of the practice.** "ADVISORY — Working directly with a collector or a family on the decision itself" reads as an established service with a client roster, but willingness-to-pay (H7B) is untested and advisory is meant to be *emerging/discreet* (see the handoff brief and positioning). The page's center of gravity is correctly on research and the thesis, so advisory should read as the natural culmination, not a sales pitch. Soften the advisory *description* to the role and its independence without implying current clients; keep CONTACT as a genuine open door. Suggested reword: "ADVISORY — Independent counsel on the decision itself, owing nothing to a sale or an institution." Lower-stakes fixes: tighten the breathless nine-"or" pathways sentence; "It is why" → "That is why"; make GET IN TOUCH resolve to a real contact method.
+
 ## Full v1 (deferred until Artobiography relaunches)
 Not now. When there is published work to point to, the ambitious build happens, and only then does the "Advisory" question below get answered.
 
