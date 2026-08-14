@@ -1,0 +1,27 @@
+name: Nariway daily email
+
+# Sends the check-in and Signals emails that the Claude cloud agents queue into
+# .mail/outbox/. The agents commit an email job (JSON) there; this workflow fires
+# on that push and sends it via Resend, using the RESEND_API_KEY repository secret.
+# Fully 24/7 and independent of Alina's laptop. workflow_dispatch is for manual tests.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.mail/outbox/**'
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Send queued emails
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: python3 .github/scripts/send_mail.py
