@@ -13,6 +13,7 @@ import os
 import subprocess
 import sys
 import urllib.request
+from urllib.error import HTTPError
 
 OUTBOX = ".mail/outbox"
 
@@ -36,9 +37,12 @@ def all_outbox_files():
 
 def main():
     key = os.environ.get("RESEND_API_KEY")
+    if key:
+        key = key.strip()  # a trailing newline in the secret corrupts the auth header
     if not key:
         print("No RESEND_API_KEY secret is set; nothing sent.")
         return 0
+    print(f"Key present: length {len(key)}, prefix {key[:3]}...")
 
     event = os.environ.get("GITHUB_EVENT_NAME", "")
     if event == "workflow_dispatch":
@@ -79,6 +83,9 @@ def main():
             resp = urllib.request.urlopen(req, timeout=30)
             print(f"Sent {f}: HTTP {resp.status}")
             sent += 1
+        except HTTPError as e:
+            body = e.read().decode(errors="replace")
+            print(f"FAILED to send {f}: HTTP {e.code} - {body}")
         except Exception as e:
             # Never fail the whole job on one bad send; report and continue.
             print(f"FAILED to send {f}: {e}")
