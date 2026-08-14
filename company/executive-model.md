@@ -1,6 +1,6 @@
 # Nariway — how the organization works
 
-*Deliberately small. Being AI-first means **less** permanent structure than a normal company, not more. **Visual org chart: [The Digital Workforce](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216)** (1 human, 5 permanent roles, 7 live agents, the on-demand subagents under each lens).*
+*Deliberately small. Being AI-first means **less** permanent structure than a normal company, not more. **Visual org chart: [The Digital Workforce](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216)** (1 human, 5 permanent roles, 8 live agents, the on-demand subagents under each lens).*
 
 ## The whole org — five boxes
 ```mermaid
@@ -37,6 +37,7 @@ Everything below is an **agent**, not a role. **Live agents** run on a schedule 
 | **dataset-research** | Research | 2×/day (5am, 5pm ET) | codes the case database to primary-source depth (the proprietary moat) |
 | **signals** | Research | daily (7am ET) | scans the art world → cases, prospects, market intelligence; emails the digest |
 | **quality-assurance** | Research | daily (4pm ET) | independent standards audit; flags, never fixes |
+| **cmo-steward** | CMO | daily (11am ET) | audience and editorial partner: reach, the Notes/Conversations pipeline, next reach move → [[cmo-brief]] |
 | **network-research** | CMO | Mon/Thu (9am ET) | public-web + LinkedIn sweep → events, people, articles |
 | **cfo-steward** | CFO | daily (noon ET) | business partner and financial steward: keeps the ledgers current, flags drift from revenue, coaches the next money move → [[cfo-brief]] |
 | **check-in** | Toi (Ops) | daily (7:30am ET) | morning brief + "today I learned"; refreshes HOME |
@@ -45,7 +46,7 @@ Everything below is an **agent**, not a role. **Live agents** run on a schedule 
 
 **On-demand subagents** (representative, spun up as work needs them): *Research* — case-coder, source-verifier, claims-keeper, beliefs-updater, institution-builder · *CMO* — substack-drafter, artobiography-editor, conversations-interviewer, events-scout, outreach-drafter, website-builder · *CFO* — ledger-keeper, pitch-deck-builder, comparables-analyst, legal-watch, tax-watch · *Toi* — intent-router, home-keeper, panel-convener.
 
-**Why the roster is optimal (the audit, 2026-08-14):** every live agent maps to exactly one lens, so there is no ownerless work and no duplicated owner. The two outward scans stay complementary, not redundant — **signals** covers art-world *developments*, **network-research** covers the *professional ecosystem* (people, rooms, thought-leadership). **quality-assurance** is deliberately independent (it audits the others; it does not report to the work it checks). **CFO now runs a daily steward** (cfo-steward, added 2026-08-14 at Alina's call) — a standing business-partner and financial-steward agent that keeps the money honest and flags drift toward enrichment. New standing agents are added only when a real, repeating job has no home (see the freeze).
+**Why the roster is optimal (the audit, 2026-08-14):** every live agent maps to exactly one lens, so there is no ownerless work and no duplicated owner. The two outward scans stay complementary, not redundant — **signals** covers art-world *developments*, **network-research** covers the *professional ecosystem* (people, rooms, thought-leadership). **quality-assurance** is deliberately independent (it audits the others; it does not report to the work it checks). **CFO and CMO each now run a daily steward** (cfo-steward and cmo-steward, added 2026-08-14 at Alina's call) — standing business-partner agents that keep the money and the audience honest day to day, alongside the deeper scheduled scans. New standing agents are added only when a real, repeating job has no home (see the freeze).
 
 ## The rules that keep it small
 - **Everything that is not one of the five boxes is a domain or an agent, never a new "function."** A domain is a folder one lens owns (Signals, Institution Building, Substack). An agent is the live or on-demand worker above.
