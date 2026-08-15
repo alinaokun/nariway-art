@@ -4,6 +4,13 @@
 
 ---
 
+### 2026-08-15
+- **Audience state:** unchanged from yesterday, ~434 subscribers, ~1,472 followers, same conversion gap. No live Substack numbers to pull today, this is the standing baseline until a fresh check.
+- **Pipeline health:** the Notes queue still holds four ready drafts (Rockwell, Rodin, Wong, Magritte), sourced from her real artist-life essays and playbook-compliant. That is enough inventory for the week ahead. I did not draft more, the priority right now is Monday's launch, not building a bigger queue.
+- **The dated event this weekend:** Query A posts Monday morning, Aug 17. The weekend checklist from [[conversations-series]] is the real work now, nariway.com copy refinement (the Fisher figure is already resolved to 720+ works/100 artists), the first Note posted before Monday so a respondent who checks Artobiography finds a live publication, the interview kit ready, two or three warm targets lined up.
+- **Website watch, with a caveat.** WebFetch is blocked in this session again, the same block already noted in HOME.md. Fell back to a web search as a rough check. Search results for nariway.com still surface the old "Hidden History of Work" pages (etymologies, case studies, the old About) rather than the new identity. That is most likely stale search-index cache, the redeploy is barely a day old and engines take longer than that to recrawl, not evidence the live site reverted. Worth Alina's own eyes on it directly since I cannot verify it here, and Monday's first site-health run lands the same day as the Qwoted launch, good timing to catch anything real.
+- **The one thing to hear today:** the queue and the checklist are both ready, the only thing standing between now and Monday's launch is posting that first Note this weekend. Everything downstream, the interview kit, the warm targets, the respondent's first impression, depends on Artobiography looking alive before Query A goes out.
+
 ### 2026-08-14 (seed)
 - **Audience state:** ~434 email subscribers, ~1,472 Substack followers, and the followers grew organically over the past year despite **no new Artobiography since January 2025.** The ~1,000 followers who have not subscribed are the warm conversion pool.
 - **The read:** the audience is warm and waiting. The bottleneck is not reach, it is **publishing and posting.** The Notes queue is rebuilt from Alina's real essays and ready to go; posting Notes is the single best follower-to-subscriber lever, and it has not started.
