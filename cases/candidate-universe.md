@@ -34,7 +34,7 @@
 | Marciano Art Foundation | Marciano bros. | Living | Los Angeles, CA | Contemporary; free; Masonic-temple conversion | **Closed abruptly 2019** amid unionization; partial by-appt revival | ~1,500 |
 | Terra Museum | Daniel Terra | Dec. | Chicago, IL | American art to 1945 | **Closed 2004** after board/widow legal war → grantmaking foundation | ~700 |
 | Fisher Landau Center | Emily Fisher Landau | Dec. (2023) | Long Island City, NY | Postwar/contemporary American | **Closed 2017**; ~1,200 works → Whitney (orderly wind-down) | ~1,200 |
-| de la Cruz Collection | de la Cruzes | Dec. (2024) | Miami, FL | Free contemporary + artist mentorship | **Dispersed** — auctioned ~$34M after founder death | ~$34M |
+| ✓ de la Cruz Collection — CODED [[de-la-cruz-collection]] | de la Cruzes | Dec. (2024) | Miami, FL | Free contemporary + artist mentorship | **Dispersed** — auctioned ~$34M after founder death | ~$34M |
 | Corcoran Gallery | W.W. Corcoran | Dec. | Washington, DC | Oldest US private-collection museum; American art | **Dissolved 2014** → split to NGA + Smithsonian | ~17,000 |
 | Pier 24 Photography | Pilara family | Living | San Francisco, CA | Largest US space for photography only | **Closing** (real estate, not taste) → grants | 28,000 sq ft |
 
@@ -43,7 +43,7 @@
 | Name | Founder | Founder | Geography | Thesis | Outcome | Scale |
 |---|---|---|---|---|---|---|
 | Souls Grown Deep | William Arnett | Dec. (2020) | Atlanta, GA → nat'l | Black Southern vernacular (Gee's Bend, Dial) dispersed *into* the canon | Thriving | ~1,000 works |
-| Vogel "Fifty Works for Fifty States" | Dorothy & Herbert Vogel | Dec. | NYC → all 50 states | Postal clerk + librarian; minimal/conceptual on modest salaries | Dispersed as designed | ~2,500 works |
+| ✓ Vogel "Fifty Works for Fifty States" — CODED [[vogel-collection]] | Dorothy & Herbert Vogel | Dec. | NYC → all 50 states | Postal clerk + librarian; minimal/conceptual on modest salaries | Dispersed as designed | ~2,500 works |
 | Cisneros Collection | Patricia Phelps de Cisneros | Living | Caracas / NY | Latin American modern; rewrites canon inside 6 Northern museums | Thriving | ~202 works |
 | Daskalopoulos Collection | Dimitris Daskalopoulos | Living | Athens / intl | Body/visceral postwar; pioneered **co-ownership** gifts | Thriving | ~350 works |
 | Pearlman Foundation | Pearlmans | Dec. | NY / LA | Impressionist; mandate forces 3 museums to *circulate* works | New (2025) | 63 works |
@@ -93,7 +93,7 @@
 | Anderson Collection @ Stanford | Andersons | Dec. | Stanford, CA | Postwar American; gift to university *with its own building* | Stable (survived founder) | 121 works |
 | Ogden Museum of Southern Art | Roger Ogden | Living | New Orleans, LA | Art of the American South; university-affiliated regional canon | Stable | 4,000+ |
 | Audain Art Museum | Michael Audain | Living | Whistler, BC 🇨🇦 | British Columbia art only — Emily Carr + Indigenous NW Coast | Founder-open | 56,000 sq ft |
-| **Fondation Beyeler** | Ernst & Hildy Beyeler | Dec. | Riehen / Basel 🇨🇭 | Dealer-collector's collection → museum (1997, Renzo Piano); **survived both founders and is expanding** (new Peter Zumthor building + park) — a benchmark of a collector-founded museum that keeps growing. Added 2026-08-14 at Alina's request; verify before coding. [expansion](https://www.fondationbeyeler.ch/en/museum/fondation-beyelers-expanded-ensemble) | Thriving | ~400 works |
+| ✓ **Fondation Beyeler** — CODED [[fondation-beyeler]] | Ernst & Hildy Beyeler | Dec. | Riehen / Basel 🇨🇭 | Dealer-collector's collection → museum (1997, Renzo Piano); **survived both founders and is expanding** (new Peter Zumthor building + park) — a benchmark of a collector-founded museum that keeps growing. [expansion](https://www.fondationbeyeler.ch/en/museum/fondation-beyelers-expanded-ensemble) | Thriving | ~400 works |
 | Museo Jumex | Eugenio López | Living | Mexico City 🇲🇽 | Latin American + intl contemporary; anchors a national scene | Founder-open | ~2,700 |
 | MONA | David Walsh | Living | Hobart 🇦🇺 | Provocative sex-and-death curation; remade a city's economy | Thriving | ~2,000 |
 | Inhotim | Bernardo Paz | Living | Brumadinho 🇧🇷 | Site-specific contemporary in botanical landscape | **Distressed** (founder legal/financial) | 5,000 acres |
@@ -180,7 +180,7 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | **UBS Art Collection** | UBS | active steward; major museum lender | Zürich / global | ~30,000 works, one of the largest corporate collections, grown from the PaineWebber and Swiss Bank legacy holdings; anchors UBS's Art Basel lead partnership. The "corporate collection as ongoing public-facing steward" model. Alina's own former employer. |
 | **Credit Suisse Collection → UBS (2023 merger)** | Credit Suisse → UBS | absorbed in emergency merger | Zürich | The live M&A question in its purest form: what becomes of a significant bank collection when the bank itself is absorbed. A rare, datable corporate-transition case. |
 | **Deutsche Bank Collection** | Deutsche Bank | **closing its public space** (announced mid-2026) | Frankfurt / Berlin | Among the largest corporate collections (~55,000 works on paper/photography); created **PalaisPopulaire** (Berlin, 2018) as a dedicated public exhibition house — now closing at end of 2026. See 2026-08-14 Signals row below: the bank is reverting from a *building* model to a *rotating loan* model, keeping the "Artist of the Year" award but staging it at partner venues from 2027. A live test of whether the space or the collection was the real commitment. |
-| **JPMorgan Chase Art Collection** | JPMorgan Chase | active + **deaccessioning** | New York / global | Founded 1959 under David Rockefeller (Chase Manhattan); ~30,000 works across hundreds of sites; began selling parts in the 2020s. A 65-year corporate collection actively deciding its own future. |
+| ✓ **JPMorgan Chase Art Collection** — CODED [[jpmorgan-chase-collection]] | JPMorgan Chase | active steward | New York / global | Founded 1959 under David Rockefeller (Chase Manhattan); ~30,000 works across ~450 offices; survived 4 parent-company mergers (1996/2000/2004/2008) with no interruption found. **"Began selling parts in the 2020s" could NOT be corroborated by a full research pass (2026-08-15) — do not treat as fact**, same caveat as the First Republic row below. |
 | **Bank of America "Art in our Communities"** | Bank of America | free museum lending program | Charlotte / global | Lends complete, curated exhibitions to museums worldwide at no cost (150+ shows); also absorbed Merrill Lynch's collection. Public life **without** divesting, a lending-program model. |
 | **Progressive Art Collection** | Progressive Corp. | active, workplace-integrated | Mayfield, OH | ~9,000+ contemporary works; a benchmark US corporate contemporary collection. |
 | ✓ **Lehman Brothers Collection** — CODED [[lehman-brothers-collection]] | Lehman (defunct) | **bankruptcy dispersal** | New York | The canonical corporate dispersal: works auctioned at Sotheby's and Christie's after the 2008 collapse. The corporate analogue of a forced estate sale. |
