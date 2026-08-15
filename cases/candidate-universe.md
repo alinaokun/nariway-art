@@ -11,10 +11,10 @@
 | McNay Art Museum | Marion Koogler McNay | Dec. (1950) | San Antonio, TX | Modern + Southwest/regional, in her Spanish-Colonial home | Thriving (survived founder) | ~700→22k works |
 | The Menil Collection | de Menils | Dec. | Houston, TX | Surrealism/Byzantine/tribal; free, no labels; campus of chapels | Thriving (survived founder) | ~17,000 works |
 | The Phillips Collection | Duncan Phillips | Dec. | Washington, DC | "First US museum of modern art"; intimate domestic scale | Thriving | ~6,000 |
-| Bechtler Museum | Andreas Bechtler | Living | Charlotte, NC | Mid-century European modernism a family knew personally | Stable | ~1,400 |
+| ✓ Bechtler Museum — CODED [[bechtler]] | Andreas Bechtler | Living | Charlotte, NC | Mid-century European modernism a family knew personally | Stable | ~1,400 |
 | Neue Galerie | Lauder & Sabarsky | Living | New York, NY | German & Austrian modernism *only* (tight single thesis) | Thriving → Met merger 2028 | Klimt "Adele" |
-| Hillwood | Marjorie Merriweather Post | Dec. | Washington, DC | Russian imperial + French decorative arts | Thriving (survived founder) | ~18,000 objects |
-| The Dalí Museum | Reynolds & Eleanor Morse | Dec. | St. Petersburg, FL | Complete-arc single-artist (Dalí), kept together by deed | Thriving | 2,400+ Dalí |
+| ✓ Hillwood — CODED [[hillwood]] | Marjorie Merriweather Post | Dec. | Washington, DC | Russian imperial + French decorative arts | Thriving (survived founder) | ~18,000 objects |
+| ✓ The Dalí Museum — CODED [[dali-museum]] | Reynolds & Eleanor Morse | Dec. | St. Petersburg, FL | Complete-arc single-artist (Dalí), kept together by deed | Thriving | 2,400+ Dalí |
 | Museum of Russian Icons | Gordon Lankton | Dec. (2021) | Clinton, MA | Largest N. American Russian icon holding — one exec's obsession | Stable (survived founder) | 1,000+ |
 | John Michael Kohler Art Preserve | Kohler / R. Kohler II | Dec. | Sheboygan, WI | Artist-built *environments* preserved whole | Thriving | ~30,000 |
 | Sid Richardson Museum | Sid Richardson | Dec. | Fort Worth, TX | Remington & Russell — Western/frontier only; free | Stable (survived founder) | ~60 core |
@@ -44,11 +44,11 @@
 |---|---|---|---|---|---|---|
 | Souls Grown Deep | William Arnett | Dec. (2020) | Atlanta, GA → nat'l | Black Southern vernacular (Gee's Bend, Dial) dispersed *into* the canon | Thriving | ~1,000 works |
 | ✓ Vogel "Fifty Works for Fifty States" — CODED [[vogel-collection]] | Dorothy & Herbert Vogel | Dec. | NYC → all 50 states | Postal clerk + librarian; minimal/conceptual on modest salaries | Dispersed as designed | ~2,500 works |
-| Cisneros Collection | Patricia Phelps de Cisneros | Living | Caracas / NY | Latin American modern; rewrites canon inside 6 Northern museums | Thriving | ~202 works |
-| Daskalopoulos Collection | Dimitris Daskalopoulos | Living | Athens / intl | Body/visceral postwar; pioneered **co-ownership** gifts | Thriving | ~350 works |
+| ✓ Cisneros Collection — CODED [[cisneros]] | Patricia Phelps de Cisneros | Living | Caracas / NY | Latin American modern; rewrites canon inside 6 Northern museums | Thriving | ~202 works |
+| ✓ Daskalopoulos Collection — CODED [[daskalopoulos]] | Dimitris Daskalopoulos | Living | Athens / intl | Body/visceral postwar; pioneered **co-ownership** gifts | Thriving | ~350 works |
 | Pearlman Foundation | Pearlmans | Dec. | NY / LA | Impressionist; mandate forces 3 museums to *circulate* works | New (2025) | 63 works |
-| Thoma Foundation | Carl & Marilynn Thoma | Living | Chicago / Santa Fe | Overlooked mediums: digital/electronic, Spanish-colonial, Indigenous; loans only | Thriving | 1,400+ loaned |
-| Broad "lending library" | Eli & Edythe Broad | Mixed | Los Angeles, CA | Anti-warehouse: art must be on museum walls (30 yrs before The Broad) | Stable | ~8,000 loans |
+| ✓ Thoma Foundation — CODED [[thoma]] | Carl & Marilynn Thoma | Living | Chicago / Santa Fe | Overlooked mediums: digital/electronic, Spanish-colonial, Indigenous; loans only | Thriving | 1,400+ loaned |
+| ✓ Broad "lending library" — CODED [[broad]] | Eli & Edythe Broad | Mixed | Los Angeles, CA | Anti-warehouse: art must be on museum walls (30 yrs before The Broad) | Stable | ~8,000 loans |
 | Bonovitz Collection | Bonovitzes | Living | Philadelphia, PA | Self-taught/outsider American, promised-gift + standing display at PMA | Stable | 600+ |
 | Petrucci Family Foundation | Petrucci family | Living | Bordentown, NJ | African American art; pure loans-only, no gallery | Active | 500+ |
 | Joy of Giving Something | Howard Stein | Dec. | New York, NY | Historical/documentary photography seeded into regional museums | Ongoing | thousands |
@@ -57,8 +57,8 @@
 
 | Name | Founder | Founder | Geography | Thesis | Outcome | Scale |
 |---|---|---|---|---|---|---|
-| Kinsey Collection | Bernard & Shirley Kinsey | Living | LA → national tour | Black American art + history 1595–present; unexpected venues (SoFi) | Thriving; 15M+ visitors | ~700 obj |
-| Onera Foundation | David B. Peterson | Living | New Canaan, CT | Art + architecture + diplomacy; access to embassy (FAPE) works | Emerging (2025) | seasonal |
+| ✓ Kinsey Collection — CODED [[kinsey]] | Bernard & Shirley Kinsey | Living | LA → national tour | Black American art + history 1595–present; unexpected venues (SoFi) | Thriving; 15M+ visitors | ~700 obj |
+| ✓ Onera Foundation — CODED [[onera]] | David B. Peterson | Living | New Canaan, CT | Art + architecture + diplomacy; access to embassy (FAPE) works | Emerging (2025) | seasonal |
 | Rennie Museum | Bob Rennie | Living | Vancouver, BC | Single-artist depth; identity/social-justice; docent-only | Founder-open; gifted bldg to Chinese Canadian Museum | ~2,000+ |
 | The Bunker Artspace | Beth Rudin DeWoody | Living | West Palm Beach, FL | Anti-blue-chip; champions emerging/overlooked voices | Thriving | ~10,000 |
 | The Warehouse (Wieland) | John & Sue Wieland | Living | Atlanta, GA | Broad contemporary; Westside Atlanta civic access | Stable | 400+ |
@@ -69,9 +69,9 @@
 
 | Name | Founder | Founder | Geography | Thesis | Outcome | Scale |
 |---|---|---|---|---|---|---|
-| Chinati Foundation | Donald Judd | Dec. | Marfa, TX | Permanent large-scale installation, artist-authored, anti-rotation | Durable (survived founder) | 340 acres |
-| Longleaf Art Park / Berkowitz | Bruce Berkowitz | Living | Watersound, FL | **Abandoned museum** → art park anchored by a monumental Serra; ops delegated to a regional nonprofit | Founder-open (2026) | 15.5 acres |
-| Pyramid Hill | Harry Wilks | Dec. | Hamilton, OH | Nature + monumental sculpture + ancient art; founder → nonprofit | Thriving (succession held) | 300+ acres |
+| ✓ Chinati Foundation — CODED [[chinati]] | Donald Judd | Dec. | Marfa, TX | Permanent large-scale installation, artist-authored, anti-rotation | Durable (survived founder) | 340 acres |
+| ✓ Longleaf Art Park / Berkowitz — CODED [[longleaf]] | Bruce Berkowitz | Living | Watersound, FL | **Abandoned museum** → art park anchored by a monumental Serra; ops delegated to a regional nonprofit | Founder-open (2026) | 15.5 acres |
+| ✓ Pyramid Hill — CODED [[pyramid-hill]] | Harry Wilks | Dec. | Hamilton, OH | Nature + monumental sculpture + ancient art; founder → nonprofit | Thriving (succession held) | 300+ acres |
 | Oliver Ranch | Steven & Nancy Oliver | Living | Geyserville, CA | Every work *commissioned* for the land (Ann Hamilton tower) | Founder-open | 100 acres |
 | Price Sculpture Forest | Scott Price | Living | Whidbey Is., WA | Bought land to save old forest; free; conservation-driven | Thriving (2020) | ~16 acres |
 | Benini Sculpture Ranch | Beninis | Living | Johnson City, TX | Émigré artist-collector's intl works on a former LBJ ranch | **Closed/relocated** (didn't outlast founders) | 140 acres |
@@ -91,8 +91,8 @@
 | Name | Founder | Founder | Geography | Thesis | Outcome | Scale |
 |---|---|---|---|---|---|---|
 | Anderson Collection @ Stanford | Andersons | Dec. | Stanford, CA | Postwar American; gift to university *with its own building* | Stable (survived founder) | 121 works |
-| Ogden Museum of Southern Art | Roger Ogden | Living | New Orleans, LA | Art of the American South; university-affiliated regional canon | Stable | 4,000+ |
-| Audain Art Museum | Michael Audain | Living | Whistler, BC 🇨🇦 | British Columbia art only — Emily Carr + Indigenous NW Coast | Founder-open | 56,000 sq ft |
+| ✓ Ogden Museum of Southern Art — CODED [[ogden]] | Roger Ogden | Living | New Orleans, LA | Art of the American South; university-affiliated regional canon | Stable | 4,000+ |
+| ✓ Audain Art Museum — CODED [[audain]] | Michael Audain | Living | Whistler, BC 🇨🇦 | British Columbia art only — Emily Carr + Indigenous NW Coast | Founder-open | 56,000 sq ft |
 | ✓ **Fondation Beyeler** — CODED [[fondation-beyeler]] | Ernst & Hildy Beyeler | Dec. | Riehen / Basel 🇨🇭 | Dealer-collector's collection → museum (1997, Renzo Piano); **survived both founders and is expanding** (new Peter Zumthor building + park) — a benchmark of a collector-founded museum that keeps growing. [expansion](https://www.fondationbeyeler.ch/en/museum/fondation-beyelers-expanded-ensemble) | Thriving | ~400 works |
 | Museo Jumex | Eugenio López | Living | Mexico City 🇲🇽 | Latin American + intl contemporary; anchors a national scene | Founder-open | ~2,700 |
 | MONA | David Walsh | Living | Hobart 🇦🇺 | Provocative sex-and-death curation; remade a city's economy | Thriving | ~2,000 |
@@ -157,16 +157,16 @@ Selected to **maximize variation** across pathway × founder-status × geography
 
 | Name | Founder | Pathway | Founder | Geography | Thesis / why it matters |
 |---|---|---|---|---|---|
-| **Crystal Bridges** | Alice Walton | standalone (new-build) | Living | Bentonville, AR | American art; a fortune and collection turned into a major public museum in an underserved region — the flagship living example |
-| **Glenstone** | Mitchell & Emily Rales | standalone private museum | Living | Potomac, MD | Contemporary; among the best-funded private museums; art-and-landscape integration; free timed entry |
-| **Magazzino Italian Art** | Nancy Olnick & Giorgio Spanu | private collection → museum | Living | Cold Spring, NY | Arte Povera; a residence collection deliberately built into a public museum (2017) |
+| ✓ **Crystal Bridges** — CODED [[crystal-bridges]] | Alice Walton | standalone (new-build) | Living | Bentonville, AR | American art; a fortune and collection turned into a major public museum in an underserved region — the flagship living example |
+| ✓ **Glenstone** — CODED [[glenstone]] | Mitchell & Emily Rales | standalone private museum | Living | Potomac, MD | Contemporary; among the best-funded private museums; art-and-landscape integration; free timed entry |
+| ✓ **Magazzino Italian Art** — CODED [[magazzino]] | Nancy Olnick & Giorgio Spanu | private collection → museum | Living | Cold Spring, NY | Arte Povera; a residence collection deliberately built into a public museum (2017) |
 | **Fondazione Prada** | Miuccia Prada & Patrizio Bertelli | collector foundation | Living | Milan, IT | Contemporary; the corporate-collector foundation model at scale |
 | **Museo Poldi Pezzoli** | Gian Giacomo Poldi Pezzoli | house-collection → museum | Dec. (1879) | Milan, IT | A 19th-c collector's home and collection turned museum — the classic historical legacy case |
-| **Barnes Foundation** | Albert C. Barnes | collector foundation (contested) | Dec. | Philadelphia, PA | The canonical donor-intent, indenture, and relocation case; the anchor failure-of-intent story |
+| ✓ **Barnes Foundation** — CODED [[barnes]] | Albert C. Barnes | collector foundation (contested) | Dec. | Philadelphia, PA | The canonical donor-intent, indenture, and relocation case; the anchor failure-of-intent story |
 | ✓ **Kreeger Museum** — CODED [[kreeger-museum]] | David Lloyd Kreeger | house-collection → museum | Dec. | Washington, DC | Philip Johnson house; collection preserved as a museum |
-| **Grounds For Sculpture** | Seward Johnson | artist foundation → sculpture park | Dec. | Hamilton, NJ | Sculptor-philanthropist's park; the artist-foundation-to-public model |
+| ✓ **Grounds For Sculpture** — CODED [[grounds-for-sculpture]] | Seward Johnson | artist foundation → sculpture park | Dec. | Hamilton, NJ | Sculptor-philanthropist's park; the artist-foundation-to-public model |
 | **Dia Art Foundation (Dia Beacon)** | Friedrich / de Menil / Winkler | foundation → permanent installations | Mixed | Beacon, NY | Minimalist and land art; a foundation stewarding a collection permanently public |
-| **Storm King Art Center** | Ralph Ogden & H. Peter Stern | foundation sculpture park | Dec. | New Windsor, NY | Monumental outdoor sculpture; foundation stewardship in the landscape |
+| ✓ **Storm King Art Center** — CODED [[storm-king]] | Ralph Ogden & H. Peter Stern | foundation sculpture park | Dec. | New Windsor, NY | Monumental outdoor sculpture; foundation stewardship in the landscape |
 | **Sammlung Boros** | Christian & Karen Boros | private collection, appointment-only | Living | Berlin, DE | Contemporary in a WWII bunker; the appointment-only private-collection-public model |
 | **The Feuerle Collection** | Désiré Feuerle | private collection, appointment-only | Living | Berlin, DE | Southeast Asian and contemporary in a former bunker |
 | **Museum Berggruen** | Heinz Berggruen | collector collection → national museum | Dec. | Berlin, DE | Modern masters; collector placed the holding with the German state (Nationalgalerie) |
