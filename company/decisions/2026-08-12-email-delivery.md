@@ -1,6 +1,6 @@
 # Decision — how to send the daily Signals digest
 
-[[it|IT]] recommendation, 2026-08-12. Status, awaiting Alina.
+[[it|IT]] recommendation, 2026-08-12. Status, decided. Resend has been live for the daily digest since 2026-08-14.
 
 ## The job
 Send one email a day, the Signals digest, to alina@nariway.com. About thirty emails a month, to your own inbox. That is the whole requirement.

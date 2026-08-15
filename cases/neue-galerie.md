@@ -8,7 +8,7 @@ priority: medium
 founder_status: living
 geography: New York, NY
 outcome: pivot
-verification: verified
+verification: spot-verified
 decision_owner: founder-self
 interview_status: not-contacted
 hypotheses: [H8]
