@@ -1,6 +1,6 @@
 # Nariway — how the organization works
 
-*Deliberately small. Being AI-first means **less** permanent structure than a normal company, not more. **Visual org chart: [The Digital Workforce](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216)** (1 human, 5 permanent roles, 8 live agents, the on-demand subagents under each lens).*
+*Deliberately small. Being AI-first means **less** permanent structure than a normal company, not more. **Visual org chart: [The Digital Workforce](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216)** (1 human, 5 permanent roles, 9 live agents, the on-demand subagents under each lens).*
 
 ## The whole org — five boxes
 ```mermaid
@@ -43,6 +43,7 @@ Everything below is an **agent**, not a role. **Live agents** run on a schedule 
 | **check-in** | Toi (Ops) | daily (7:30am ET) | morning brief + "today I learned"; refreshes HOME |
 | **vault-hygiene** | Toi (Ops) | M/W/F | tidiness: stale info, duplicates, drift, broken links |
 | **email-sender** | Toi (Ops, infra) | on push | GitHub Action; sends the queued emails via Resend |
+| **site-health** | IT (Toi) | Mon/Thu | audits both live sites for SEO + technical issues and opportunities → [[site-health]] |
 
 **On-demand subagents** (representative, spun up as work needs them): *Research* — case-coder, source-verifier, claims-keeper, beliefs-updater, institution-builder · *CMO* — substack-drafter, artobiography-editor, conversations-interviewer, events-scout, outreach-drafter, website-builder · *CFO* — ledger-keeper, pitch-deck-builder, comparables-analyst, legal-watch, tax-watch · *Toi* — intent-router, home-keeper, panel-convener.
 
