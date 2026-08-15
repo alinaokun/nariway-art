@@ -25,6 +25,23 @@
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-15 — Cloud run
+
+**See this soon (time-sensitive)**
+
+- **Opal Family Office & Private Wealth Legacy Summit is 10 days out (Aug 25–26, Parrish Art Museum, Water Mill NY).** [[events-radar]] still has this as "go for family-office discovery if Dawn confirms the room" — an open decision, not a closed one. This is the last practical window to decide and register before it's moot. [Opal Group](https://opalgroup.net/finance/family-office-private-wealth-legacy-summit-2026/)
+
+**Cases (+2 → filed to [[candidate-universe]])**
+
+- **AMOCA (Artistic Museum of Contemporary Art), Cardiff** — Wales' first dedicated contemporary art museum, founded by Cardiff-based, Swedish-born entrepreneur-philanthropist Anders Hedlund (founder of IG Design Group). After pop-up exhibitions in 2025, its permanent home opens in central Cardiff in 2026 (exact date not yet published). A clean fit for the small/regional/distinctive brief — a living founder building a new civic institution in a city with no prior contemporary-art museum, not a mega-donor topping up an existing one. Newly surfaced for this vault; not previously logged. [About AMOCA](https://www.amoca.wales/about) · [Time Out coverage](https://www.timeout.com/uk/news/cardiff-is-finally-getting-a-modern-art-museum-060625)
+- **Catching up the auction scene: the Joe Lewis Collection sale at Sotheby's London (June 2026).** British billionaire Joe Lewis's single-owner sale made £296.3M ($392.6M) — the most valuable private collection ever auctioned in Europe, surpassing the 2009 Yves Saint Laurent/Pierre Bergé record. Top lot a $63.9M Modigliani nude; only one of 25 lots (a Degas) failed to sell, with no guarantees on any lot. This should have been logged when it happened and wasn't caught by earlier cycles — filed now to close the gap in the auction-scene tracking the beat is meant to cover. [Artnet](https://news.artnet.com/market/392-6-m-lewis-collection-sale-smashes-records-led-by-63-9-m-modigliani-2783495) · [Artforum](https://www.artforum.com/news/sothebys-london-masterpiece-sale-earns-392-million-1234753425/)
+
+**Partners, prospects, market intelligence, events register:** nothing genuinely new and public surfaced this cycle beyond what is already in [[partners]], [[prospects]], [[market-intelligence]], and the events register. The Art Basel/UBS Global Art Market Report 2026 and Deloitte figures already in [[claims-register]] remain current; no new edition since logged.
+
+**To-see nudge:** no exhibition close or auction preview enters the ~3-week window this cycle. Christie's Medaugh Hiroshige preview (Sept 11) is now ~4 weeks out — close but not yet inside the nudge threshold; the Sept 12 preview is already on Alina's calendar. Whitney *Lichtenstein: Like New* still has no published close date (rechecked whitney.org and press materials today — only "Opens Oct 11," member previews Oct 8–10).
+
+**Tracked sources checked:** Katya Kazakina (no new *Art Detective* column found since late July), Georgina Adam (*Art Market Eye* runs first Thursday monthly, next due Sept 3, nothing new), Center for Art Law (most recent visible newsletter content is still the August *Term of Art* archive; no confirmed new August 2026 post located), The Gray Market (Tim Schneider remains on post-op medical leave, no August edition — confirmed same status as last cycle), The Art Bystander (early-August post is a personal Marseille/Art-o-rama travel piece, not on-thesis), Provenance Watch (no post newer than what was already checked last cycle).
+
 ### 2026-08-14 — Cloud run
 
 **See this soon (time-sensitive)**
