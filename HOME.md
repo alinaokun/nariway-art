@@ -12,7 +12,7 @@ Your brief with Toi. Always the current picture. Your daily check-in email is th
 
 The few things only you can do, ordered by how directly they move toward the goal. Each says why now and what to say, so nothing here is vague.
 
-1. **Weekend prep for Monday's Qwoted launch (Query A posts Aug 17 morning).** nariway.com needs to go live with the Fisher fix and locked advisory wording (the live site still shows old copy — the real blocker); lock Query A; post the first Substack Note so a respondent sees an active publication; ready the interview kit; line up 2–3 warm/direct targets for parallel outreach. → [[conversations-series]]
+1. **Weekend prep for Monday's Qwoted launch (Query A posts Aug 17 morning).** nariway.com is now LIVE with the new art-collections identity (old work-research site gone, the blocker is cleared); keep refining its copy (Fisher number → 720+ works/100 artists; advisory wording honest to stage). Then: lock Query A; post the first Substack Note so a respondent sees an active publication; ready the interview kit; line up 2–3 warm/direct targets. → [[conversations-series]]
 2. **Confirm your work-log hours** for tax (Aug 14, ~7h logged as a draft estimate). One quick reply keeps the record current. → [[work-log]]
 3. **The flagship report runs in the background.** 44 of 50 cases coded. Nothing needed from you day to day. → [[flagship-report]]
 

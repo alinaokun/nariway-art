@@ -69,7 +69,7 @@ Every interview ends with the network-branching move from [[problem-discovery]]:
 
 ## Launch checklist (target: post Query A Monday morning, 2026-08-17)
 Post Monday, not Friday evening, PR and source activity is Mon-Thu; a weekend post sits dead. This is a better trigger-pull, not a delay. Weekend prep:
-1. **nariway.com live** with the Fisher fix (more than 720 works / 100 artists, see [[website]]) and the advisory wording decided. The live site still shows the old work-research institution, this is the real blocker.
+1. **nariway.com — LIVE (done, 2026-08-14).** The new art-collections identity is deployed; the old work-research site is gone. Remaining is copy refinement, not a blocker: Fisher number → more than 720 works / 100 artists ([[website]]), and the advisory wording honest to stage.
 2. **Lock Query A** as the first query; set a ~1-week response window.
 3. **Post the first Substack Note** (the queue is ready) so a respondent who checks Artobiography sees an active publication, not one dormant since Jan 2025.
 4. **Ready the interview kit** (the 3-fixed + 2-specific question sets above; a one-line reply for a pitch; the credibility test).
