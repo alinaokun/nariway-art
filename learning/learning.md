@@ -2,6 +2,29 @@
 
 A work-function (no persona) for a founder who intends to be the leading authority in this field, not merely an expert. It curates what is worth reading and following to stay at the front of everything relevant to Nariway, tracks what has been read, and surfaces what is new and genuinely worth the time. Records are the notes in this folder. Open `reading-list.base` for the sortable, filterable view.
 
+## The founder's study path — active learning (the process)
+*Added 2026-08-15, when Alina shifted from "agents build the research" to "I become the authority." Knowledge in the vault is not expertise; expertise is knowledge in her head that comes out in her voice. This is how it moves from the vault into her.*
+
+**The core principle: learn by producing, not just consuming.** Reading everything is the trap (and the CFO's enrichment black hole). The fastest way to master a field is to write about it and talk to the people in it. The three learning engines are all outputs, and each doubles as the business:
+1. **Write Artobiography.** One deeply researched essay = one collection mastered completely, and it is the front door and the credibility engine. The research agents prepare the packet; Alina writes. Roughly two a month is ~20+ collections mastered in a year, plus fluency across the whole field.
+2. **Do the Conversations interviews.** Learn the field from practitioners who lived it (the evidence phase, starting Monday with Qwoted). Each interview teaches from the inside and builds the network.
+3. **Form your own views.** Read the findings and cases and decide what YOU believe, so you speak with conviction, not agent-summary. Co-own [[what-we-now-believe]].
+
+**The weekly rhythm (sustainable, output-tied):**
+- **One deep study-and-produce block a week (a few hours).** Pick one collection or theme, read the coded case plus a primary source, form your take, and produce something (an Artobiography draft, a Note, or a view). One a week is ~50 collections engaged deeply in a year.
+- **Daily (5-10 min):** the check-in's "Today I learned" + a glance at [[learnings-log]].
+- **The reading canon at a sustainable pace** (~1 book a month), the "Start here" list below.
+
+**The sequenced curriculum (what to study, in order, so it is not a firehose):**
+1. **Your own findings first** (own your POV): governance-beats-endowment, the four failure modes, the data-availability finding, the pathways taxonomy, the wealth-transfer macro. Sources: [[report-dataset]] patterns, [[what-we-now-believe]], [[claims-register]], [[market-intelligence]].
+2. **The anchor cases** (the handful that carry the whole argument, know them cold): [[mcnay]], [[fisher-sfmoma]], [[souls-grown-deep]], and the failures [[terra]], [[corcoran-gallery]], [[fisher-landau]], plus [[fondation-beyeler]] and the [[barnes]] donor-intent cautionary. Read each coded case.
+3. **The market canon:** the wealth transfer, art finance, market size ([[market-intelligence]] + the Deloitte and Art Basel/UBS reports).
+4. **The mechanics:** [[decision-map]], the pathways, structures (POF, foundations, loans), the [[specialist-map]].
+5. **The ecosystem and players:** [[warm-network]], the [[linkedin|target list]], and the thinkers below.
+6. **The reading canon (books):** work the "Start here" list.
+
+**The test of whether you have learned it:** you produced something (an essay, a Conversation, a formed view) and you can explain it to a collector without notes. The coded case files are already your briefings, structured and sourced, so you are never starting from a blank page.
+
 ## The standard
 The bar is authority, not coverage. The goal is the canonical and the current, the things a genuine expert in how private collections enter public life would have read, followed, and formed a view on. Depth over popularity. A short list mastered beats a long list skimmed.
 
