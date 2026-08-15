@@ -13,12 +13,8 @@ Your brief with Toi. Always the current picture. Your daily check-in email is th
 The few things only you can do, ordered by how directly they move toward the goal. Each says why now and what to say, so nothing here is vague.
 
 1. **Weekend prep for Monday's Qwoted launch (Query A posts Aug 17 morning).** nariway.com needs to go live with the Fisher fix and locked advisory wording (the live site still shows old copy — the real blocker); lock Query A; post the first Substack Note so a respondent sees an active publication; ready the interview kit; line up 2–3 warm/direct targets for parallel outreach. → [[conversations-series]]
-2. **Two quick confirms.** `priority: high` on [[fisher-sfmoma]] is still unconfirmed from Thursday's hygiene sweep. And confirm or correct yesterday's draft work-log hours (Aug 14, ~7h estimated). → [[work-log]]
+2. **Confirm your work-log hours** for tax (Aug 14, ~7h logged as a draft estimate). One quick reply keeps the record current. → [[work-log]]
 3. **The flagship report runs in the background.** 44 of 50 cases coded. Nothing needed from you day to day. → [[flagship-report]]
-
-*Dawn call is closed out (Aug 13): do not initiate again, re-engage only if she reaches out. → [[Dawn Mari La Monica]]*
-
-*Smaller, when you get to them: choose a LinkedIn headline ([[linkedin]]); a QA critical on [[neue-galerie]]'s frontmatter needs a one-line fix.*
 
 ---
 
@@ -26,7 +22,7 @@ The few things only you can do, ordered by how directly they move toward the goa
 
 The lenses react to every change and surface actions toward the goal. This updates as things move.
 
-- **CFO (the money).** Two more days of pure enrichment — case coding (36→44 of 50), a board-search shortlist, a QA audit — with no client-facing activity since the Dawn call. Monday's Qwoted post is the first scheduled market-facing test since then; getting the weekend prep done is what turns enrichment back into outreach. Target stands: three to five discovery conversations in the next three weeks.
+- **CFO (the money).** Two more days of pure enrichment — case coding (36→44 of 50), a board-search shortlist, a QA audit — with no client-facing activity in days. Monday's Qwoted post is the first scheduled market-facing test; getting the weekend prep done is what turns enrichment back into outreach. Target stands: three to five discovery conversations in the next three weeks.
 - **CMO (audience).** 1,472 warm followers, still nothing published. The Qwoted checklist now forces the first Note out this weekend as a prerequisite, not an optional move.
 - **Research (the case).** Corporate-collection cases now split into three distinct fates: forced liquidation (Lehman, Enron), voluntary retreat (Deutsche Bank), and unaffected continuity through four mergers over 65 years (JPMorgan Chase) — a sharper framework for the report than "corporate collections are fragile."
 - **The one-million gap.** Unchanged since Aug 14: a solo advisory caps around 300–700k, so the target still needs a scalable, productized leg. Still waiting on two or three discovery conversations before sketching a priced offer.
