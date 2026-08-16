@@ -134,7 +134,7 @@ For each below, the *only* documented public exhibition is the launch show; noth
 
 **The closest thing to a systematic assessment is the second documentary, *Herb & Dorothy 50x50* (Megumi Sasaki, 2013).** It is *about* the distribution: it travels to **eleven recipient museums, "from Honolulu to Fargo,"** meeting curators and local visitors, and is explicitly "a portrait of museum culture, and how institutions across the country value their slice of the Vogel collection in different ways." Reviewers (Variety, Ebert, WaPo) treat it as the record of how the gift landed. **Crucial caveat for reporting:** the film captures **2009–2013 — the honeymoon/inaugural window** — when every museum was unwrapping its gift. It is evidence that the works *arrived and were celebrated*; it is **not** evidence about the 2026 dormancy question, which postdates it by a decade-plus. [CONFIRMED the film exists and surveys 11 recipients; it does not address long-term afterlife] ([Variety](https://variety.com/2013/film/reviews/film-review-herb-dorothy-50x50-1200590016/); [RogerEbert.com](https://www.rogerebert.com/reviews/herb-and-dorothy-50x50-2013); [WaPo review](https://www.washingtonpost.com/goingoutguide/movies/herb-and-dorothy-50x50-movie-review/2013/10/02/99accbd2-26ec-11e3-ad0d-b7c8d2a594b9_story.html))
 
-**No independent journalistic or scholarly "15-years-later" reassessment was found this session.** The 2025 NGA obituary-context piece and Dorothy's Nov-2025 obituaries retell the fairy tale; they do **not** audit the recipients. Essays like Jennifer Rabin's use the Vogels as a *how-to-collect* model and explicitly do not track the donated works' institutional fate. **This gap is itself the opportunity:** the "did the 50-states bet actually keep the art in public view?" story does not appear to have been reported. [CONFIRMED gap this session] ([NGA reflection](https://www.nga.gov/stories/articles/remembering-vogels-modern-art-collectors) — 403 to fetcher, seen via search; [Rabin essay](https://jenniferrabin.substack.com/p/collecting-like-the-vogels))
+**No comprehensive "15-years-later" follow-up audit of the recipients has been identified in this research to date.** The 2025 NGA obituary-context piece and Dorothy's Nov-2025 obituaries retell the fairy tale; they do **not** audit the recipients. Essays like Jennifer Rabin's use the Vogels as a *how-to-collect* model and explicitly do not track the donated works' institutional fate. **This gap is the opportunity, stated with discipline:** the claim is *"no such audit has been identified in our research,"* not *"nobody has ever checked"* and not *"scoop."* The question ("did the 50-states distribution keep the art in public view?") is interesting enough on its own without overclaiming novelty. [CONFIRMED: no audit identified this research] ([NGA reflection](https://www.nga.gov/stories/articles/remembering-vogels-modern-art-collectors) — 403 to fetcher, seen via search; [Rabin essay](https://jenniferrabin.substack.com/p/collecting-like-the-vogels))
 
 ---
 
@@ -163,13 +163,17 @@ For each below, the *only* documented public exhibition is the launch show; noth
 
 - **Where NO / at risk (real negatives):** at least one recipient (**SIU Carbondale**) demonstrably **lost the institutional capacity** to steward the gift; the **name-change/rebuild cluster** introduces at least five custody-transition question marks. No deaccession was found — a genuine positive — but that is absence of evidence.
 
-**The one-sentence finding:** *On the available public evidence, the Vogels' distribution reliably produced a nationwide wave of inaugural exhibitions and a permanent, if uneven, catalogue of custody — but it did not visibly produce sustained public display; for the majority of the 50 institutions, whether the works are alive in public view today is unproven from outside, and the honest headline is "widely distributed, unevenly kept, and largely unaudited," not "seen coast to coast."*
+**The one-sentence finding:** *On the available public evidence, the Vogels' distribution reliably produced a nationwide wave of inaugural exhibitions and a permanent, if uneven, catalogue of custody, but it did not visibly produce sustained public display; for the majority of the 50 institutions, whether the works are alive in public view today is unproven from outside, and the honest headline is "widely distributed, unevenly kept, and largely unaudited," not "seen coast to coast."*
 
-The governing rule vindicated: **distribution is confirmed; access is not.** The most defensible claim is the narrow one — the works are *in public custody* in 50 states (that much is real and durable) — which is a weaker and more interesting claim than "in public view."
+The governing rule vindicated: **distribution is confirmed; access is not.** The most defensible claim is the narrow one, the works are *in public custody* in 50 states (that much is real and durable), which is a weaker and more interesting claim than "in public view."
+
+**Before grading the program, establish what it was for (read this before judging).** This file measures the recipients against *sustained public display*. But the Vogels and Ruth Fine may never have set that as the goal. The stated model was the **Kress Collection**, which was about *geographic distribution and institutional ownership*, not perpetual visibility. So the verdict above judges the program against a yardstick it may not have chosen. The intended outcome, geographic reach, teaching access, institutional ownership, decentralization, sustained display, or something else, must be established (via **Ruth Fine** and the NGA program files) **before** any judgment of success or failure. Do not judge the program against a goal its creators never set. This connects to the field-level distinction in [[field-definition]]: "public life" has many dimensions, and Vogel may have optimized for ones other than display.
 
 ---
 
 ## 7. Primary sources / next inquiries (what only a direct inquiry can confirm)
+
+**Discipline, do NOT turn this into a 50-museum audit.** The goal is *contrast*, not census. Contact the **eight institutions in §5** with the same four questions, and start with **four**, not all eight at once. If six or seven answer, wonderful; if four answer, that is very likely enough to write from. And contact **Ruth Fine first**, she supplies the intended-outcome bridge (§6) without which the museum answers can't be fairly interpreted. Perfect data on every work in every institution is not the objective and is not worth the time.
 
 **The registrar calls that would actually settle it** (each museum's registrar/collections manager; ask the same four questions — on-view days since debut, loans out, online-catalogue status, any deaccession):
 
@@ -188,6 +192,44 @@ The governing rule vindicated: **distribution is confirmed; access is not.** The
 - **IMLS/NEA grant-report files** — recipients receiving federal support may have filed usage reports that document early display/education activity.
 
 **Bottom line for the desk:** the recipient list and the launch history are nailed; the fifteen-years-later display reality is a **reporting project, not a search project** — it lives in registrars' object-movement records, and the story ("did the most famous democratizing gift in American art actually stay visible?") appears genuinely unreported.
+
+---
+
+## 8. Outreach drafts (ready to send Monday — Alina sends, not Claude)
+Two drafts, following the [[voice]] rules. Send **Ruth Fine first** (intended purpose), then **four** museum inquiries. Adjust the salutation and specifics before sending.
+
+**A. To Ruth Fine** (retired NGA curator, architect of Fifty Works for Fifty States). Reach via her published NGA affiliation / current academic or curatorial contacts.
+> Subject: A question about Fifty Works for Fifty States
+>
+> Dear Ms. Fine,
+>
+> I am writing an Artobiography feature on Dorothy and Herbert Vogel, with particular interest in Fifty Works for Fifty States. You designed the program, so you can answer the question that matters most before anyone weighs its outcome. What was the distribution actually meant to accomplish? Was the aim geographic reach, institutional ownership, teaching access, decentralization, sustained public display, or something else entirely?
+>
+> Artobiography is an independent publication about remarkable collections and the people behind them. I would be grateful for a short written exchange, a handful of questions you could answer whenever convenient, with no call required. If you would rather speak, I am glad to work around your schedule.
+>
+> Thank you for considering it, and for the program itself, which is the reason the story is worth telling carefully.
+>
+> Warmly,
+> Alina Okun · Founder, Nariway · Publisher, Artobiography
+
+**B. Generic museum registrar / curator note** (adapt `[Institution]` and `[N]` per §5; send to four first).
+> Subject: The Vogel gift at [Institution], fifteen years on
+>
+> Dear [Name],
+>
+> I am reporting an Artobiography feature on Dorothy and Herbert Vogel and the Fifty Works for Fifty States distribution, and I am trying to understand the life of the gift at each recipient institution since it arrived. I would be grateful for brief answers to four factual questions about [Institution]'s [N] Vogel works.
+>
+> 1. Roughly how often have the works been on public view since the inaugural exhibition, and are any on view now?
+> 2. Have any been lent to other institutions?
+> 3. Are the works catalogued in your online collection database, with images?
+> 4. Have any been deaccessioned?
+>
+> Anything you can share, even partial, is helpful, and I am happy to attribute or to keep it on background as you prefer. Artobiography is an independent publication about remarkable collections and the people behind them.
+>
+> Thank you for your time.
+>
+> Warmly,
+> Alina Okun · Founder, Nariway · Publisher, Artobiography
 
 ---
 

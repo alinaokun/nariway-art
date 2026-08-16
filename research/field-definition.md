@@ -24,6 +24,12 @@ Drucker's image: earlier writers described the elbow without the arm or the skel
 
 Nariway should aim to give the world's best answer to that. It is answerable from the case evidence, and it is the natural spine of the [[flagship-report]] and of Artobiography.
 
+### "Public life" is not binary (a distinction discovered from a case, 2026-08-16)
+The Vogel afterlife investigation ([[vogel-fifty-states-afterlife]]) forced a sharper version of this. We had been using "public life" and "public access" loosely, as if giving art to the public settled it. Vogel breaks that. The Vogels moved 2,500 works into public *ownership* across 50 states, yet whether those works are *seen* is unproven, so **public ownership did not deliver public access.** The mirror case is Fisher ([[fisher-sfmoma]]): a long-term loan kept the art in *private* ownership yet plausibly produced far more public *view*. So the two cases cross, and the lesson is that "public life" is not one thing but a set of separable dimensions:
+> **ownership · custody · visibility (frequency of display) · physical access · scholarship · education and teaching · geographic reach · number of people reached.**
+
+A collection can score high on some and near-zero on others (Vogel, high on ownership/custody/geographic reach, unknown-to-low on visibility). This is exactly the kind of distinction the field should **discover from cases rather than invent in the abstract**, and it is testable across the whole [[report-dataset|database]], score each case on the dimensions and see whether "giving art a larger public life" resolves into a small number of real patterns. If it does, the field may have found one of its first genuine measurement frameworks. Do not over-formalize it yet; let more cases populate it first.
+
 ## The managerial problem (why the finance/strategy lens matters)
 Once a collector asks "what could my collection become?", the answer stops being about art and becomes capital, governance, family, tax, ownership, risk, operations, people, property, institutions, time, and purpose. That is management, the coordination of resources toward a desired result. Nariway approaches collections not as an art historian asking what they *mean*, nor as a market professional asking what they are *worth*, but as a management thinker asking: **what is this collection capable of accomplishing, and what would it require?** That question is not native to the art world, and it is Alina's genuine differentiator.
 
