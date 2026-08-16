@@ -36,6 +36,16 @@ Sources for names: Dawn (introductions), HBR Advisory contacts, the [[warm-netwo
 - **"Who else should I talk to?" — relentlessly, and branch across professions.** Not "another estate attorney," but "you've seen this from the legal side; who sees a completely different part of it I should understand?" Attorney → collection manager → art advisor → family-office CEO → museum director → foundation → insurer. After ~20 conversations the **same names start recurring**, and that convergence identifies who actually sits at the center of the ecosystem.
 - **Artobiography as the relationship engine.** Interviewing someone who lived a transition you are writing about is warmer and more natural than "customer discovery," and it is exactly what a serious writer does. "I'm researching a piece on how the Fisher Collection reached SFMOMA, I'd love to understand what happened between the Presidio idea and the 100-year arrangement." People enjoy talking about work they are proud of. Mid-conversation: "do situations like this come up often?" Now it is Nariway market research without pretending to be. The editorial engine *is* the relationship engine. This technique now has a concrete form, the [[conversations-series]] (Artobiography's revived written-interview series), where practitioner interviews double as logged rows here. Credibility test to keep it honest: only publish an interview you would still run if Nariway had no advisory business.
 
+## Field-test questions (double-duty, added 2026-08)
+The upcoming conversations should test **both** the business (would anyone hire this) **and** the intellectual thesis (is there an undefined field, see [[field-definition]]). Weave these in, they are more valuable than "would you pay $30k":
+- "When you think about a private collection over its *entire life*, is there anyone whose job is to think about the collection as a whole?"
+- "Who helps a collector explore what the collection *could become*, before they've decided on a museum, foundation, donation, loan, or sale?"
+- "Where does responsibility become fragmented? What decisions fall *between* professions?"
+- "What possibilities do collectors commonly not know they have?"
+- "At what point do collectors start thinking about sharing their collection?"
+- "What would you call this problem?"
+The answers reveal whether there is a business *and* whether there is a field. A recurring "no one does that" is the strongest signal for both.
+
 ## The signal ladder (Toi and the CFO watch for the progression)
 "Interesting idea" (weak) → "I've seen this problem" → "this happens all the time" → "here's where it goes wrong" → **"nobody really owns that"** → "I know someone dealing with this now" → "you should speak with them" → "what would you do for them?" → "what would that cost?" → **someone asks Nariway to help with a real situation** (the evidence we want). No feasibility study is pitched anywhere in that sequence; the market reveals what the first product should be.
 

@@ -19,7 +19,7 @@
 - [[problem-discovery]] — the evidence-phase playbook (the four questions, the Conversation Universe, the signal ladder).
 
 ## Research — is it true? — `research/`, `cases/`, `institution-building/`
-- [[research-program]] — the charter and the hypotheses. · [[case-study-protocol]] · [[claims-register]] (every recurring number's one home) · [[what-we-now-believe]] · [[market-intelligence]] · [[transfer-scope-note]] · [[learnings-log]] (one new thing learned a day, featured in the check-in).
+- [[field-definition]] — **the intellectual project** ("how can a private art collection have a larger life?"); the possible undefined field. · [[research-program]] — the charter and the hypotheses. · [[case-study-protocol]] · [[claims-register]] (every recurring number's one home) · [[what-we-now-believe]] · [[market-intelligence]] · [[transfer-scope-note]] · [[learnings-log]] (one new thing learned a day, featured in the check-in).
 - **The case library — `cases/`:** [[candidate-universe]] (the ~80-case pool) · [[report-dataset]] (the coded master) · [[case-template]] (the coding standard) · open `Cases.base` for the sortable pipeline. ~40 coded case notes live here.
 - [[flagship-report]] — the flagship data report ("What Becomes of Great Art Collections").
 - **Advisory knowledge — `institution-building/`:** [[decision-map]] (the pathways a collection can take) · [[knowledge-base]] · [[specialist-map]] and the `specialists/` notes (open `specialists.base`).

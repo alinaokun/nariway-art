@@ -4,6 +4,11 @@
 
 ---
 
+## The overarching question (2026-08)
+> **How can a private art collection have a larger life?**
+
+Above everything sits this one question (see [[field-definition]], the intellectual project). "Larger" is not "public", it can mean scholarship, recognition, travel, institutional life, family engagement, or influential dispersal. The master question below is one route into it. Every part of Nariway attacks the overarching question from a different angle: Artobiography (how have others done it?), Research (what patterns?), interviews (what do practitioners know that isn't written down?), Institution Building (what does each possibility require?), the Decision Map (how should the choice be made?), advisory (what should *this* collection do?).
+
 ## Master question
 
 > **What happens to significant private art collections over time, what makes some of them suitable for public life, and what new institutional models can bring more privately held art into meaningful public view?**
