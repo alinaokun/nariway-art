@@ -52,8 +52,10 @@ The point of Qwoted is not to fill an interview slate. It is to **discover peopl
 
 **Discipline:** post ONE, watch what comes back, and let the nature of the responses be the intelligence. Twenty pitches with three fascinating ones is a success. Specificity still matters (a PR person must know which client qualifies), but specificity about the *territory*, not a pre-decided outcome.
 
-### Query A — LOCKED, first post (Monday 2026-08-17)
-Framed around the real subject: **people who found a larger public life for a private collection** — deliberately *not* framed around "founders of museums." Museum or foundation creation must not read as the preferred outcome; the query is equally interested in unconventional models, and most interested in the ones that don't fit a category.
+### Query A — POSTED LIVE (2026-08-16, Alina posted it Sunday evening, ahead of the Monday plan)
+**Status: live on Qwoted.** As posted, subject line: *"Seeking people who have found new ways to share private art collections with the public."* The as-posted body tracked the locked draft below and kept every load-bearing element, beyond-the-standalone-museum, the unconventional-models list, "models that don't fit neatly into any category," **"approaches I wouldn't know to look for,"** written / ~five questions / no Zoom, and "Selected interviews will be published" (which carries editorial discretion). Response window ~1 week; responses realistically start Monday when PR desks open. **Now: reply with the templates below, log every substantive response in the Intelligence Log, and do NOT post Query B until A's responses are read (then follow the signal).**
+
+The locked design intent (the standard the as-posted version met): framed around the real subject, **people who found a larger public life for a private collection**, deliberately *not* framed around "founders of museums." Museum or foundation creation must not read as the preferred outcome; the query is equally interested in unconventional models, and most interested in the ones that don't fit a category.
 
 > **Seeking people who found a larger public life for a private art collection**
 >
@@ -105,14 +107,15 @@ The success test for Query A is **not** an article. It is whether, six months ou
 Every interview ends with the network-branching move from [[problem-discovery]]: "who sees a completely different part of this that I should understand, and would you introduce me?" After enough Conversations the same names recur, which identifies who sits at the center of the ecosystem. And being interviewed by Artobiography eventually becomes desirable, not for reach but because Alina becomes known for interviewing unusually interesting people involved with collections. That is how you eventually reach people you cannot find through a search.
 
 ## First moves
-1. Post the **locked Query A** (above) Monday morning, Aug 17. Test the inbound mechanism, do not overbuild.
-2. Reply with the templates as responses land; log every substantive one in the **Qwoted Intelligence Log** (above).
-3. Once A's responses are in and read, post **Query B**. Then stop and **follow the signal** — the third query is chosen by what A and B surfaced, not pre-planned.
+1. ~~Post the locked Query A.~~ **DONE, posted live 2026-08-16.** Now watch what comes back, the *nature* of the responses is the intelligence.
+2. Reply with the templates as responses land; log every substantive one in the **Qwoted Intelligence Log** (above). Apply the credibility test before featuring anyone (publish only what you'd run if Nariway had no advisory business).
+3. Once A's responses are in and read, post **Query B**. Then stop and **follow the signal**, the third query is chosen by what A and B surfaced, not pre-planned.
+4. In parallel (Monday), send the two Vogel outreach drafts, **Ruth Fine first**, then four museum inquiries → [[vogel-fifty-states-afterlife]] §8. Direct outreach for people you already know you need; Qwoted for the people you don't.
 
 ## Launch checklist (target: post Query A Monday morning, 2026-08-17)
 Post Monday, not Friday evening, PR and source activity is Mon-Thu; a weekend post sits dead. This is a better trigger-pull, not a delay. Weekend prep:
 1. **nariway.com — LIVE (done, 2026-08-14).** The new art-collections identity is deployed; the old work-research site is gone. Remaining is copy refinement, not a blocker: Fisher number → more than 720 works / 100 artists ([[website]]), and the advisory wording honest to stage.
-2. **Query A is locked** (the "larger public life" query above); set a ~1-week response window.
+2. ~~**Query A is locked**~~ **POSTED LIVE 2026-08-16** (the "larger public life" query above); ~1-week response window running.
 3. **Post the first Substack Note** (the queue is ready) so a respondent who checks Artobiography sees an active publication, not one dormant since Jan 2025.
 4. **Ready the interview kit** (the 3-fixed + 2-specific question sets above; the reply templates above; the credibility test).
 5. **Line up 2-3 warm/direct targets** ([[Diana Wierbicki]], [[Matthew F. Erskine]], a foundation founder) for parallel outreach next week, so Qwoted is not the only channel.
