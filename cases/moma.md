@@ -15,7 +15,7 @@ decision_owner: collective-founders-trustees
 ---
 # The Museum of Modern Art — New York, NY
 
-*Added 2026-08-16 after Alina's MoMA visit. The archetype at the extreme end of the "collectors to public institution" spectrum, and the opposite pole from the [[barnes]]. Quantitative durability fields (true endowment, opex ratio, FTE) are `unknown` pending a 990 pass, flagged for the dataset agent.*
+*Added 2026-08-16 as a coded case. The archetype at the extreme end of the "collectors to public institution" spectrum, and the opposite pole from the [[barnes]]. Quantitative durability fields (true endowment, opex ratio, FTE) are `unknown` pending a 990 pass, flagged for the dataset agent.*
 
 ## Coded header
 pathway **found-standalone-museum** (three collectors founded a new public institution) · founders **Lillie P. Bliss, Mary Quinn Sullivan, Abby Aldrich Rockefeller** (plus original trustees A. Conger Goodyear, Paul Sachs, Frank Crowninshield, Josephine Boardman Crane) · all **deceased** · **survived_founder YES** (founded 1929, all founders gone by mid-century, thriving ~96 years) · outcome **thriving** · durability **strong** · governance **independent board from founding** (multiple founders + a real trustee board, never founder-sole) · **purpose-built** (53rd St; repeatedly expanded, most recently 2019, Diller Scofidio + Renfro) · coherence **absorbed** (the founding gifts dissolved into a ~200,000-work whole; no founding collection kept intact as a named unit) · decision **collective founders/trustees** · constraints **partial/unusual** (the Bliss bequest, see below).
