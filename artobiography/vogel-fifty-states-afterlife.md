@@ -8,13 +8,30 @@ related: "[[dossier-vogel]] · [[editorial-direction]]"
 
 # The Afterlife of *Fifty Works for Fifty States*
 
-*A reporter's investigation file, not an article. Tests one question: fifteen-plus years after 2,500 Vogel works were split 50-ways across the country, are they alive in public view — or did distribution quietly become dispersal-into-storage? Every claim tagged and sourced.*
+*A reporter's investigation file, not an article. Tests one question: fifteen-plus years after 2,500 Vogel works were split 50-ways across the country, are they alive in public view, or did distribution quietly become dispersal-into-storage?*
 
-Tags: **[CONFIRMED]** = multiple/authoritative · **[SINGLE-SOURCE]** = one reputable source · **[INFERENCE]** = reasoned from evidence, not stated · **[UNKNOWN]** = not found this session, needs a direct inquiry.
+---
+
+## ▶ START HERE — the plain version, and what to do next
+*Everything below this box is detailed, sourced backup for when you actually write. You do not need to read it to act. This box is the whole thing in plain language.*
+
+**What we found, in three sentences.** The Vogels gave about 2,500 works to one museum in each of the 50 states. Almost every museum showed them once, right after they arrived (around 2009 to 2013), and then the public record mostly goes quiet, so we can show the art is *owned* by museums across the country but not that it is actually *on view* today. One small recipient in Illinois even lost the staff and accreditation to care for its share.
+
+**Why it matters for the piece.** The easy Vogel story ("they democratized their collection") turns out to be unproven. The truer and better story is a question: they spread the art across America, but did Americans actually get to see it? No comprehensive follow-up has been found.
+
+**One caution before judging.** Maybe permanent display was never the goal. That is the first thing to find out, from the person who designed the program.
+
+**What to do next (this is the unblock, in order):**
+1. **Email Ruth Fine first.** She designed the distribution and can tell you what it was meant to achieve. The draft is written and ready in **§8** below, copy it, adjust, send.
+2. **Email four museums** (not eight, not fifty), using the ready draft in **§8**. Suggested first four, chosen for contrast: **SIU / Sharp Museum (the one that struggled), Seattle (the success), the High in Atlanta (big but went quiet), and the Academy Art Museum in Easton (small but kept showing it).**
+3. **Then wait.** Four replies is enough to write from. You do not need all fifty.
+
+*That's the entire next step. If it still feels heavy, tell me and I'll turn just this box into a clean one-page visual you can read at a glance.*
 
 ---
 
 ## 0. Opening note — how answerable this actually is, and the one big limit
+*(Detailed reference begins here. Tags used below: **[CONFIRMED]** = multiple/authoritative · **[SINGLE-SOURCE]** = one reputable source · **[INFERENCE]** = reasoned from evidence, not stated · **[UNKNOWN]** = not found this session, needs a direct inquiry.)*
 
 **How answerable from public sources:** *Partially.* Three things are firmly knowable from the open web: (1) **who received the gift** — the authoritative 50-institution list with exact per-museum work counts survives in an NGA Archives index (see §2); (2) **that nearly every recipient mounted an inaugural exhibition** in the 2009–2015 rollout window, because those shows left web pages, press releases, and the *Herb & Dorothy 50x50* film behind; and (3) **a handful of institutional fates** — name changes, one accreditation loss, one temporary closure. What is **much harder** to see from outside is the thing the governing rule most wants: whether the works are *on view or in use now*, in 2026, versus sitting in storage since their debut. Museums publish what they show; they do not publish what they have shelved. So the public record is naturally biased toward the launch moment and toward the well-resourced museums with online collection databases.
 
