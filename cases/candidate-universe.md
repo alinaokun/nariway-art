@@ -11,6 +11,7 @@
 | McNay Art Museum | Marion Koogler McNay | Dec. (1950) | San Antonio, TX | Modern + Southwest/regional, in her Spanish-Colonial home | Thriving (survived founder) | ~700→22k works |
 | The Menil Collection | de Menils | Dec. | Houston, TX | Surrealism/Byzantine/tribal; free, no labels; campus of chapels | Thriving (survived founder) | ~17,000 works |
 | The Phillips Collection | Duncan Phillips | Dec. | Washington, DC | "First US museum of modern art"; intimate domestic scale | Thriving | ~6,000 |
+| ✓ MoMA — CODED [[moma]] | Bliss, Sullivan, A.A. Rockefeller (+trustees) | Dec. (1929) | New York, NY | Collectors → mega-museum; founding gifts **absorbed** into the whole (the anti-Barnes); Bliss's will let works be **sold** to upgrade the collection | Thriving (survived founders) | ~200,000 works |
 | ✓ Bechtler Museum — CODED [[bechtler]] | Andreas Bechtler | Living | Charlotte, NC | Mid-century European modernism a family knew personally | Stable | ~1,400 |
 | Neue Galerie | Lauder & Sabarsky | Living | New York, NY | German & Austrian modernism *only* (tight single thesis) | Thriving → Met merger 2028 | Klimt "Adele" |
 | ✓ Hillwood — CODED [[hillwood]] | Marjorie Merriweather Post | Dec. | Washington, DC | Russian imperial + French decorative arts | Thriving (survived founder) | ~18,000 objects |
