@@ -59,6 +59,14 @@ Post ONE first and see whether the inbound mechanism still works. Success is not
 
 Query B is the one that most directly feeds the evidence phase.
 
+### Discovery reframe (2026-08, recommended for the Monday launch)
+Per [[operating-rhythm]], Qwoted is a **discovery engine**, so frame queries as **open questions we don't yet know the answer to** (to surface people, problems, and language), not as recruitment for a piece already planned. Lead Monday with one of these:
+- **"Who is responsible for the future of a private art collection?"** I'm speaking with professionals who work with collectors about what happens when succession, governance, family, philanthropy, and public access begin to overlap.
+- **"What happens when a private art collection outgrows the collector?"** Seeking attorneys, family-office professionals, art advisors, collection managers, and other specialists who have worked with major private collections, on the decisions collectors face as a collection grows, changes hands, or begins considering a larger public role.
+- **"Beyond building a private museum."** Looking for examples of unusual ways collectors have made privately owned art accessible to larger audiences without creating a traditional museum.
+
+These double as the field-test ([[field-definition]]): the answers reveal whether there is a business *and* whether there is an undefined field.
+
 ## The compounding effect
 Every interview ends with the network-branching move from [[problem-discovery]]: "who sees a completely different part of this that I should understand, and would you introduce me?" After enough Conversations the same names recur, which identifies who sits at the center of the ecosystem. And being interviewed by Artobiography eventually becomes desirable, not for reach but because Alina becomes known for interviewing unusually interesting people involved with collections. That is how you eventually reach people you cannot find through a search.
 

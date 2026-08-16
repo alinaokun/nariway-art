@@ -8,6 +8,7 @@
 ## How the company runs — `company/`
 - [[executive-model]] — the five-box org (Alina, Toi, CFO, Research, CMO) and the rule that everything else is a domain or a subagent. **Read this if the org ever feels big again.**
 - [[chief-of-staff]] — Toi's charter (routing, the daily emails, keeping HOME current).
+- [[operating-rhythm]] — **how Nariway runs day to day** (the learning engine): Research · Talk · Write · Capture, the three-part engine, the weekly scorecard.
 - [[advisory-panel]] — how a real decision gets deliberated. Decisions logged in `company/decisions/`.
 - [[positioning]] — canonical external identity. Website / LinkedIn / any public copy reference this.
 - [[voice]] — written voice and craft standards. · [[ai-tells]] — banned AI-writing patterns.
