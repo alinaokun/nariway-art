@@ -59,6 +59,29 @@ So much extraordinary art sits behind closed doors, seen by almost no one. It co
 >
 > Artobiography is published by Nariway, an independent research and advisory company focused on the future of private art collections.
 
+**Substack Welcome page** *(LIVE as published 2026-08-16, the auto-email new subscribers receive, mirror of the live page):*
+> Thank you for subscribing.
+>
+> Every remarkable art collection has a story.
+>
+> Someone built it, often over decades. Eventually, decisions have to be made about what happens next.
+>
+> Does it stay in the family? Become a museum or foundation? Go to an existing institution? Travel? Get divided or sold?
+>
+> Artobiography follows these stories.
+>
+> You'll receive deeply researched features about remarkable collections, the people behind them, the decisions that shaped their futures, and what happened next. I'll also publish conversations with collectors, museum leaders, curators, advisors, conservators, attorneys, and others who understand the lives of collections from the inside.
+>
+> I came to this subject after more than 20 years in finance and business and many years spent collecting art, visiting museums, attending exhibitions, and writing about artists. Over time, I found myself increasingly interested not only in the art, but in what happens to a collection after it has been built.
+>
+> That's what I'm exploring here.
+>
+> I'm glad you're joining me.
+>
+> Alina
+>
+> P.S. If you'd like, reply and tell me about a remarkable private collection you think I should know about. I'm always looking for stories I wouldn't know to find on my own.
+
 **LinkedIn bio** *(more credential-forward than Substack, correct for the channel where referral partners look):*
 > I'm interested in what happens to important art collections over time.
 >
