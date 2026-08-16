@@ -116,6 +116,8 @@ Where the record is **thin or contested**: (1) the **lifetime total** genuinely 
 
 **Where the collection physically lives now:** Distributed across **51 institutions** — the National Gallery of Art (core) plus one museum in each of the 50 states. There is no Vogel building; there never was. Any works retained privately in the apartment at Dorothy's Nov-2025 death are **[UNKNOWN]** in disposition. [CONFIRMED the 51-institution structure]
 
+> **Does distribution actually equal access?** The whole "larger life without a museum" thesis rests on the 2,500 distributed works being *shown, taught, and used* rather than sitting in fifty basements. That claim is not assumed here, it is being **tested** — the afterlife investigation across the recipient institutions lives in [[vogel-fifty-states-afterlife]].
+
 **The number that won't reconcile:** ~1,100 (NGA) + 2,500 (states) = **~3,600**, against a lifetime total variously given as **"over 4,782"** or **"more than 5,000."** A gap of roughly **1,000–1,400 works** is unaccounted for in the sources here — possibly additional NGA promised gifts, works still in the apartment, or loose counting of "works" vs. "objects." **Flag, do not paper over.** [see §7]
 
 ---
