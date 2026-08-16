@@ -97,6 +97,7 @@
 | Museo Jumex | Eugenio López | Living | Mexico City 🇲🇽 | Latin American + intl contemporary; anchors a national scene | Founder-open | ~2,700 |
 | MONA | David Walsh | Living | Hobart 🇦🇺 | Provocative sex-and-death curation; remade a city's economy | Thriving | ~2,000 |
 | Inhotim | Bernardo Paz | Living | Brumadinho 🇧🇷 | Site-specific contemporary in botanical landscape | **Distressed** (founder legal/financial) | 5,000 acres |
+| **NEW (2026-08-16) — Paz's second museum**, untitled | Bernardo Paz | Living | Brumadinho 🇧🇷 (311-acre site next to Inhotim, no longer his) | Revives the Inhotim model — art pavilions in a botanical landscape — for his ~3,000-work personal collection plus international and South American contemporary art; curatorial team incl. Allan Schwartzman (also Inhotim's original advisor) | **Founder rebuild after loss of control** — first pavilions open Sept 2027 | 311 acres, 20+ galleries/pavilions planned |
 | Julia Stoschek Foundation | Julia Stoschek | Living | Düsseldorf 🇩🇪 | Time-based media (video/VR/performance) | **Changed plan** — closed Berlin, going nomadic | 1,000+ |
 | Yuz Museum / Budi Tek | Budi Tek | Dec. (2022) | Shanghai 🇨🇳 | Contemporary; founder died mid-LACMA partnership | **Succession unresolved** | large |
 

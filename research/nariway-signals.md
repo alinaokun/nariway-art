@@ -25,6 +25,24 @@
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-16 — Cloud run
+
+**Cases (+1 → filed to [[candidate-universe]])**
+
+- **Bernardo Paz (Inhotim's founder) is building a second museum from scratch, right next door.** Paz no longer controls Inhotim — the institution he founded in 2006 is logged here as "Distressed (founder legal/financial)" — but has now announced a 311-acre site adjacent to it, reviving the same model (art pavilions inside a botanical landscape) for his own ~3,000-work personal collection plus international and South American contemporary art. Allan Schwartzman, Inhotim's original curatorial advisor, is on the new team, alongside Paulo Miyada and Fernanda Arruda. First pavilions open September 2027. This is the sharpest live case in the universe for what happens *after* a founder loses control of the institution he built: he doesn't retire from the thesis, he rebuilds it next door. Updates the existing Inhotim row rather than standing alone. [The Art Newspaper](https://www.theartnewspaper.com/2026/07/31/bernardo-paz-inhotim-founder-new-museum-next-door) · [ARTnews](https://www.artnews.com/art-news/news/inhotim-founder-bernardo-paz-namesake-museum-1234794596/) · [Artforum](https://www.artforum.com/news/collector-bernardo-paz-developing-new-museum-in-brazil-1234756249/)
+
+**Housekeeping (closes a loop from earlier cycles, not a new signal)**
+
+- The 2026-08-15 digest still described the Opal Family Office & Private Wealth Legacy Summit (Aug 25–26) as an open decision. It isn't — [[Opal Legacy Summit]] shows Alina **declined on 2026-08-12** on Dawn Mari La Monica's advice ("full of service providers," not the room for real art). No action needed; flagging so the digest log stops repeating a stale open question.
+
+**Auction scene:** no new single-owner sale or November marquee-week lineup has been announced yet by Christie's, Sotheby's, or Phillips (typical for auction houses to publish these in Sept–Oct) — nothing to log this cycle beyond what's already tracked.
+
+**Prospects, partners, market intelligence, events register:** nothing genuinely new and public surfaced this cycle beyond what is already filed in [[prospects]], [[partners]], [[market-intelligence]], and the events register.
+
+**To-see nudge:** no exhibition close or auction preview enters the ~3-week window this cycle. Christie's Medaugh Hiroshige preview (Sept 11) is now 26 days out — still outside the threshold by a few days. Whitney *Lichtenstein: Like New* still has no published close date (rechecked today — only "Opens Oct 11," member previews Oct 8–10).
+
+**Tracked sources checked:** Katya Kazakina (no new *Art Detective* column found since late July — unchanged), Georgina Adam (*Art Market Eye* runs first Thursday monthly, next due Sept 3, nothing new), Center for Art Law (no confirmed new August 2026 post located, same as last cycle), The Gray Market (Tim Schneider appears to have posted again in early August, "Art sellers + the SEC don't care what info you want" — a status change from the "on medical leave" note in prior cycles, worth re-verifying next run; content is about SEC market-transparency rules, not on-thesis), The Art Bystander (still on the early-August Marseille/Art-o-rama travel piece, not on-thesis), Provenance Watch (no post newer than what was already checked last cycle).
+
 ### 2026-08-15 — Cloud run
 
 **See this soon (time-sensitive)**
