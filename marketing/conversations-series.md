@@ -67,6 +67,14 @@ Per [[operating-rhythm]], Qwoted is a **discovery engine**, so frame queries as 
 
 These double as the field-test ([[field-definition]]): the answers reveal whether there is a business *and* whether there is an undefined field.
 
+### Story-driven queries (2026-08-16, the sharper version)
+Even better than a generic open question: let **the story you are reporting** generate the query. It gives respondents something concrete to discuss, finds the exact interviewees the piece needs (the "who can tell us this story?" layer in [[editorial-direction]]), and quietly builds the network. Per story:
+- **de la Cruz (report this first):** seeking people knowledgeable about what happens to a private collection after the death of one spouse, advisors, collection managers, estate attorneys, museum professionals, and anyone who has worked directly with collector families through that moment.
+- **Vogel:** seeking museum professionals who have managed a major collection gift, or a collection distributed across multiple institutions.
+- **Budi Tek:** seeking people experienced with cross-border art collections, family succession, or museum-partnership agreements.
+
+**Recommended Monday query: lead with the de la Cruz-adjacent one.** It serves three ends at once, it finds interviewees for the first piece, it is concrete for respondents, and it is genuine discovery (the surviving-spouse-as-first-decider theme). The [[dossier-de-la-cruz|dossier]] runs in parallel; the responses feed the piece. Posting does not wait on the piece being written.
+
 ## The compounding effect
 Every interview ends with the network-branching move from [[problem-discovery]]: "who sees a completely different part of this that I should understand, and would you introduce me?" After enough Conversations the same names recur, which identifies who sits at the center of the ecosystem. And being interviewed by Artobiography eventually becomes desirable, not for reach but because Alina becomes known for interviewing unusually interesting people involved with collections. That is how you eventually reach people you cannot find through a search.
 
