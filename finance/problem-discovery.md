@@ -46,6 +46,21 @@ The upcoming conversations should test **both** the business (would anyone hire 
 - "What would you call this problem?"
 The answers reveal whether there is a business *and* whether there is a field. A recurring "no one does that" is the strongest signal for both.
 
+## The Collection Transition Market Map (build the real TAM bottom-up, added 2026-08-16)
+The market cannot be sized from art-market reports (see [[pitch-deck]] slide 3b). Build it from the interviews, by investigating **actual transition events**, not hypotheticals. For every relevant conversation, get the story, *"tell me about the last collector you worked with who had to decide what would happen to a collection,"* then fill five cells:
+| Cell | What to learn |
+|---|---|
+| **Trigger** | What made them start thinking about the collection's future? (age, death, inheritance, business sale, move, divorce, kids involved, it outgrew the home, a museum inquiry) |
+| **Buyer** | Who felt the problem strongly enough to act? (collector, spouse, heir, family-office exec, trustee, attorney) |
+| **Current solution** | Who did they call first, and who ended up controlling the decision? |
+| **Spend** | Where did money already flow? **The killer question: "who got paid?"** (reveals existing budgets, the real TAM) |
+| **Gap** | What important part stayed unowned, no one coordinating *before* the specialists were chosen? |
+Two sizing questions for every interview: *"At roughly what point does a private collection become complicated enough that the owner needs to think about its future as a collection, rather than about individual works?"* and *"how many collectors like that do you encounter?"*
+
+**Target output (after ~30-50 interviews), stronger than any report:** *"Each year ~X families enter one of five predictable transition events; they already spend ~Y across Z fragmented services; no independent party owns the decision before those services are chosen. Nariway's wedge is that unowned decision."*
+
+**The pull signal to watch (not vanity metrics):** not "interesting idea," but "I have a family you should talk to" → "I wish you'd been around three years ago" → "can I introduce you?" → **"can you help us with this?"** Unsolicited movement toward a real collection problem is the only signal that counts, not Qwoted counts, subscribers, or followers.
+
 ## The signal ladder (Toi and the CFO watch for the progression)
 "Interesting idea" (weak) → "I've seen this problem" → "this happens all the time" → "here's where it goes wrong" → **"nobody really owns that"** → "I know someone dealing with this now" → "you should speak with them" → "what would you do for them?" → "what would that cost?" → **someone asks Nariway to help with a real situation** (the evidence we want). No feasibility study is pitched anywhere in that sequence; the market reveals what the first product should be.
 

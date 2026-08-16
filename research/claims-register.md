@@ -49,6 +49,22 @@
 
 ---
 
+### C10 · Wealth managers offering art services — [DOC-secondary]
+**Canonical:** ~**51%** of wealth managers now offer art-related services, up from roughly **25% in 2011** (Deloitte Art & Finance). Evidence the surrounding financial-services industry increasingly sees the collection as a live problem.
+**Source:** Deloitte Art & Finance Report (via ChatGPT market-sizing review 2026-08-16; confirm exact figure in the report before citing publicly).
+**Use:** landscape/why-now, not a Nariway market size.
+
+### C11 · Art as a share of collector wealth — [DOC-secondary]
+**Canonical:** among surveyed HNW collectors, art averaged ~**20%** of wealth, rising to ~**28%** for those with >$50M, and ~**24%** for those collecting 20+ years (Art Basel/UBS Survey of Global Collecting 2025, ~3,100 collectors across 10 markets; avg 2024 spend ~$439K across ~14 works).
+**Source:** Art Basel/UBS 2025 (via the review; confirm before public citation).
+**Use:** the conditions under which a collection becomes a management/succession problem; not a market size.
+
+### C12 · Intent to pass to heirs — [DOC-secondary]
+**Canonical:** ~**80%** of collectors intend to pass their collections to children or spouses (Art Basel/UBS 2025). So the dominant question is not "which museum?" but "what happens when control changes." Relates to C3 (retention is the norm); this is the stated *intention*, C3 is the observed outcome.
+**Source:** Art Basel/UBS 2025.
+
+*Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
+
 ## The convention
 - Add a claim here the first time a number matters enough to be repeated.
 - Elsewhere: **link** (`see [[claims-register]] C2`) rather than copy the number.
