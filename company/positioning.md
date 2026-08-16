@@ -27,26 +27,37 @@ So much extraordinary art sits behind closed doors, seen by almost no one. It co
 
 **Substack description (one line):** The stories behind remarkable art collections, and what becomes of them.
 
-**Substack About page:**
+**Substack About page** *(LIVE as published 2026-08-16, mirror of the live page, do not edit for style without changing Substack too):*
 > Every remarkable art collection has a story.
 >
-> Someone bought the first work. Then another. Over years, sometimes decades, individual choices became a collection.
+> Someone bought the first work, then another. Over years, sometimes decades, individual choices became a collection.
 >
-> Yet every collection eventually faces another question. What happens to it?
+> Eventually, another question arises.
 >
-> Some become museums. Some are given to universities or existing institutions. Some travel the world. Some remain in families for generations. Others are divided, sold, or disappear from public view.
+> What happens to it?
 >
-> Artobiography tells these stories.
+> Some collections stay in families for generations. Some become museums or foundations. Some are given or lent to existing institutions. Some travel. Some are divided or sold. Some disappear from public view.
 >
-> I write deeply researched features about remarkable private collections, the people who built them, and the decisions that determined what happened next. I am especially interested in collections that found unusual ways into public life, from small foundations and regional museums to long-term loans, traveling exhibitions, university partnerships, and models that don't fit neatly into any category.
+> Artobiography follows what happens next.
 >
-> Artobiography also publishes conversations with the people who shape the lives of collections today, the collectors, founders, museum leaders, curators, advisors, conservators, attorneys, and others who understand what it takes to care for important art and determine its future.
+> I write deeply researched stories about remarkable art collections, the people who built them, the choices that shaped their futures, and where those choices led.
 >
-> **About me.** I'm Alina Okun, founder of Nariway. My route into the art world was not through art history. I spent more than 20 years in finance and business before turning much of my attention to art. I've visited more than 100 museums, collected art, attended major art fairs and exhibitions, and written dozens of stories about artists and art. That combination made me curious about something I rarely saw discussed, what happens behind the collection itself.
+> Sometimes that means going back decades to understand how a collection came together. Sometimes it means following what happened after a founder died, a museum opened, a gift was made, or a collection changed hands. Sometimes it means returning years later to ask whether things turned out as intended.
 >
-> Who decides what its future should be? Why do some private collections become lasting public institutions while others don't? What does a collector have to give up to make something survive beyond them? What actually has to happen, financially, legally, operationally, and physically, to bring private art into public life?
+> Artobiography also publishes conversations with collectors, founders, museum leaders, curators, advisors, conservators, attorneys, collection managers, and others who have firsthand knowledge of how collections are built, cared for, shared, and passed on.
 >
-> Those are the questions behind Artobiography. Artobiography is published by Nariway, where I research how significant private collections move into public life and what makes those models endure.
+> **About me**
+> I'm Alina Okun, founder of Nariway.
+>
+> I came to art by an unusual route. I spent more than 20 years in finance and business, including as a CFO, before turning much of my attention to art. Along the way, I became a collector, visited hundreds of museums, attended art fairs and exhibitions, and spent two years writing about artists and their lives.
+>
+> Eventually, I became as curious about the lives of collections as I had been about the lives of artists.
+>
+> What happens after someone spends decades building one? Who decides its future? What happens when the next generation wants something different? Why do some collections remain together while others disperse? Why do some become institutions? What happens to art after it is donated? What makes one solution last while another fails?
+>
+> Those are the questions behind Artobiography.
+>
+> Artobiography is published by Nariway, an independent research and advisory company focused on the future of private art collections.
 
 **LinkedIn bio** *(more credential-forward than Substack, correct for the channel where referral partners look):*
 > I'm interested in what happens to important art collections over time.
