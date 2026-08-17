@@ -12,8 +12,8 @@ Your brief with Toi. Always the current picture. Your daily check-in email is th
 
 The few things only you can do, ordered by how directly they move toward the goal. Each says why now and what to say, so nothing here is vague.
 
-1. **Today is the last prep day before Query A posts tomorrow morning (Mon Aug 17).** nariway.com is LIVE with the new identity, that blocker is cleared. What's left on the checklist: lock Query A's wording; post the first Substack Note so a respondent sees an active publication; ready the interview kit; line up 2–3 warm/direct targets. This is the actual test of everything built so far. → [[conversations-series]]
-2. **Confirm your work-log hours** for tax (Aug 14 and Aug 15, both logged as draft estimates). One quick reply keeps the record current. → [[work-log]]
+1. **Query A is posted and live** (went out Sun evening, Aug 16, ahead of the Monday plan). This is now the actual test of everything built so far — reply-and-log as responses land, and send the Vogel outreach (Ruth Fine first). → [[conversations-series]]
+2. **Confirm your work-log hours** for tax (Aug 12 through Aug 15, all four still logged as draft estimates). One quick reply keeps the record current. → [[work-log]]
 3. **The flagship report runs in the background.** 47 of 50 cases coded, and this week's reconciliation pass fixed a real gap (20 already-coded cases had never been folded into the master synthesis). Nothing needed from you day to day. → [[flagship-report]]
 
 ---
@@ -22,10 +22,10 @@ The few things only you can do, ordered by how directly they move toward the goa
 
 The lenses react to every change and surface actions toward the goal. This updates as things move.
 
-- **CFO (the money).** Still $0, still no client conversation since Dawn on Aug 13. nariway.com going live is the one exception to a run of pure enrichment (case coding, two new steward agents, a QA audit) — it's real progress specifically because it unblocks tomorrow's Qwoted post. Target stands: three to five discovery conversations in the next three weeks, zero banked so far.
+- **CFO (the money).** Still $0, still no client conversation since Dawn on Aug 13. nariway.com going live is the one exception to a run of pure enrichment (case coding, two new steward agents, a QA audit) — it's real progress specifically because it unblocked Query A going live. Target stands: three to five discovery conversations in the next three weeks, zero banked so far.
 - **CMO (audience).** Website watch flagged a caveat, not a problem: search results for nariway.com still surface the old identity, most likely stale index cache (the redeploy is barely two days old) rather than a reversion — worth Alina's own eyes on the live site directly.
 - **Research (the case).** QA's one critical finding got fixed this week (down to 0 critical, 4 should-fix, same non-urgent backlog as before). The dataset reconciliation also caught something real: the master synthesis had silently been missing nearly half its own coded evidence until this week's fix.
-- **The one-million gap.** Unchanged since Aug 14: a solo advisory caps around 300–700k, so the target still needs a scalable, productized leg. Tomorrow's Qwoted post is the next real data point — a response, not the post itself, is what counts.
+- **The one-million gap.** Unchanged since Aug 14: a solo advisory caps around 300–700k, so the target still needs a scalable, productized leg. A response to the live Qwoted post is the next real data point — not the post itself.
 
 ---
 
