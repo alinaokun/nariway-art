@@ -1,5 +1,7 @@
 # Flagship Report — the annual "State of" for art and legacy (initiative)
 
+> **This file is the PLAN and STANDARDS. The actual evolving report content lives in → [[flagship-report-draft]] (the living manuscript, with a changelog at the top).** Open that one to read the report as it grows.
+
 The model is Nathan Benaich's **[State of AI Report](https://www.stateof.ai/)**: a free, data-dense, authoritative annual that made Air Street Capital the reference name in its field and drove inbound deal flow. Alina wants the equivalent at the intersection of **art and finance**, a consistent, meaningful flagship that creates a unique niche for Nariway and positions it as *the* source of this kind of data. This is the productized, scalable leg the CFO keeps asking for, the distinctive asset the CMO wants, and the purpose that finally gives the case database a point. Owned jointly by CMO (positioning and distribution), Research (rigor), and Alina (voice and judgment).
 
 ## The niche it owns (why it is defensible)

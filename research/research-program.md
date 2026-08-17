@@ -81,6 +81,23 @@ Kept as questions. Each earns "standing, automated" status only when real work s
 
 ---
 
+## The surrounding ecosystem — the full research agenda (added 2026-08-17, Alina's direction)
+The case dataset answers *what happened to collections*. To make Nariway **the** authority on the future of art collections, the research must also cover **everything around** the collections. These domains feed the report ([[flagship-report-draft]] §6-§10) and Nariway's authority; sourced findings deposit into [[market-intelligence]] (and [[claims-register]] for any recurring number), never fabricated, always sourced or marked unknown.
+
+| Domain | What to research | Feeds |
+|---|---|---|
+| **Macro / demand-side** | the Great Art Transfer detail, generational wealth wave, the women/spousal shift, UHNW demographics & geography, the collector-age curve | report §2/§6; C1, C8, C9 |
+| **The cost of keeping art** *(named gap)* | storage & climate-controlled facilities, freeports, conservation & maintenance, art handling / logistics / shipping, framing, security, annual carrying cost of a serious collection | report §7 (a distinctive chapter no market report does well) |
+| **Art finance** | art-secured lending market, art funds, fractional/shared ownership, how finance *postpones* a disposition | report §8; deepen C7 |
+| **Insurance** | fine-art insurance market size and structure, how risk shapes options | report §9 |
+| **Valuation & appraisal** | how art is valued for gift/estate/sale, appraisal standards, why the number is contested | report §9 |
+| **Tax & legal structures** | estate & gift tax, private (operating) foundations as a museum vehicle, fractional gifts, deaccession law, cultural-property / provenance risk | report §9; Erskine & Center for Art Law seeds |
+| **Institutional economics** | museum finances & endowment models, why museums decline gifts, deaccessioning trends & law, museum construction/closure economics | report §10 |
+| **The professional ecosystem** | advisors, family offices, T&E attorneys, collection managers, registrars — roles, incumbents, incentives | [[warm-network]], [[problem-discovery]] |
+| **Case expansion** | beyond the 50: more pathways, more geographies, corporate collections, and the *depth* pass (primary 990/deed/probate sourcing) | [[report-dataset]] |
+
+**Standing rule:** breadth of coverage never lowers the bar — every ecosystem claim is sourced to the [[flagship-report]] hierarchy (primary/official first) with a confidence tag, or it does not go in. A finding that only a directly-fetched primary doc can confirm is marked as such, not asserted.
+
 ## Cadence & automation stance
 
 - **Design (agreed): daily automated *collection*, weekly human *consumption*.** Agents scan the broad signal environment daily — promised gifts, private-collection shows, estate auctions, foundation launches, museum construction/closures, deaccessioning, new private spaces, major loans, collector deaths, estate disputes, tax/regulatory moves — and *store* what's relevant. Once a week: **Nariway Signals**, ~5 genuinely important developments, not 50 links. Continuous sensing without continuous interruption.

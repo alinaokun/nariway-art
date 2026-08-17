@@ -15,7 +15,7 @@ The few things only you can do, ordered by how directly they move toward the goa
 1. **Query A's response window opens this week** — reply with the templates and log every substantive response in the Intelligence Log as they land (the log is still empty; first responses expected now). → [[conversations-series]]
 2. **Send the Vogel outreach** — Ruth Fine first, then the four museum inquiries. Both drafts are ready and waiting in §8 of the afterlife file; this only goes out when you send it. → [[vogel-fifty-states-afterlife]]
 3. **One fact only you know:** does Alina's own bio say "more than 100 museums" or "hundreds of museums"? `website.md` and `positioning.md` now disagree, flagged by both this week's QA and hygiene sweeps. A one-line reply picks the true figure so the drift can be fixed.
-4. **Confirm your work-log hours** for tax (Aug 12 through 16, five days, all still draft estimates). One quick reply keeps the record current. → [[work-log]]
+4. **Compile the conversations pipeline** (your call, in progress) — pick the first three across different perspectives (Phillip Collins = Builder, Ruth Fine = Institution, one Advisor from Query A or the warm network). Nothing gets built until you choose them. → [[conversations-series]] *(Work-hours tracking was removed 2026-08-17; [[work-log]] is now a location-only tax record, default Montvale, no action needed unless you work out of state.)*
 
 ---
 
@@ -35,7 +35,7 @@ The lenses react to every change and surface actions toward the goal. This updat
 - Cases mapped, about 80. Coded to report grade, **50 of 50** (target reached 2026-08-16), and future runs shift entirely to depth — primary verification once WebFetch unblocks, and cross-case analysis like this run's first fully-counted governance-survival table. WebFetch is still blocked on primary sources (eighth consecutive confirmation) — most cases remain secondary-sourced pending a re-fetch pass.
 - The question that still decides everything is whether anyone will pay. Untested, and the moves above are how we start testing it.
 - The company is well built inside. The work now is outward.
-- **New direction, the flagship report.** An annual, data-rich "State of art and legacy" report (à la the State of AI Report), built on the case database, to make Nariway the source at art and finance. This is the scalable leg toward a million. Phased so it never becomes a black hole, and it runs alongside the market conversations, not instead. → [[flagship-report]]
+- **New direction, the flagship report.** An annual, data-rich "State of art and legacy" report (à la the State of AI Report), built on the case database, to make Nariway the source at art and finance. This is the scalable leg toward a million. Phased so it never becomes a black hole, and it runs alongside the market conversations, not instead. **Watch it evolve daily → [[flagship-report-draft]]** (the living manuscript; the [[flagship-report]] page holds the plan). Research now broadening beyond the 50 cases to the whole surrounding ecosystem (macro, the cost of keeping art, art finance, insurance, tax, museum economics).
 
 ---
 
