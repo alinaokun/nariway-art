@@ -87,6 +87,28 @@
 
 ---
 
+### C17 · Museum gift-rejection rate — [DOC-secondary]
+**Canonical:** An estimated **90 to 95%** of art and collectible material offered to museums is declined (Michael Duffy, Bank of America private bank, via trade press). A single expert's repeated quote, not a published study, treat as directional.
+**Source:** [[market-intelligence]] #6 (Fine Art Connoisseur; The Art Newspaper, 2022).
+**Use:** the demand-side mirror of C13-C16 (the carrying cost); explains why "donate it" is not a reliable default pathway.
+
+### C18 · SFMOMA storage-cost case study — [DOC-secondary]
+**Canonical:** A cited analysis (Anne Stone, 2014) found **95.2%** of SFMOMA's collection was in storage at any time, at an estimated **~$4.1M/year** in maintenance cost for the stored portion. Underpinned SFMOMA's 2019 Rothko deaccession ($50.1M, funding 11 acquisitions).
+**Source:** [[market-intelligence]] #6 (Artemundi; Pook & Pook, both citing the same figure; original Stone paper not independently confirmed).
+**Do NOT say:** this is a sector-wide rate — it is one institution's own cited case.
+
+### C19 · AAM 2025 sector financial snapshot — [DOC-secondary, primary trade survey]
+**Canonical:** AAM's 2025 Annual National Snapshot (fielded Jul-Aug 2025): only **52%** of US museums report stronger financial performance than pre-pandemic (down from 57% the prior year); **55%** report attendance still below 2019 levels; **34%** had a government grant/contract cancelled (mostly IMLS/NEH/NEA), and of those, only **8%** report the funding fully replaced, **67%** not replaced at all.
+**Source:** [[market-intelligence]] #6 (AAM, "National Survey Reveals Alarming Downturn," Nov 2025).
+**Use:** the sector-finance backdrop to key finding 6 ("the receiving end is closing"); the strongest-sourced claim in this cluster (a primary survey by the field's own trade body).
+
+### C20 · Philadelphia Museum of Art deficit (illustrative, not a coded case) — [DOC-secondary]
+**Canonical:** PMA reported a **~$10M operating deficit on a $75.6M FY2025-26 budget**, up from $5.4M the prior year, with FY2026-27 projected flat to as high as **$15.9M**, funded from cash/reserves.
+**Source:** [[market-intelligence]] #6 (Philadelphia Inquirer, Jul 2026; corroborated by Artforum/ARTnews/Artnet).
+**Use:** a live, large-scale illustration of the same funding-erosion mechanism [[report-dataset]] Pattern 2 codes for the Corcoran. PMA is **not** a coded case (general museum, not collector-founded — outside this sample's unit of analysis).
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
 
 ## The convention

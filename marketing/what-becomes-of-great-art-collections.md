@@ -149,7 +149,19 @@ The fine-art insurance market; how art is valued for gift, estate and sale, and 
 
 ### 4.5 Institutional economics: why museums say no
 
-Museum finances and endowment models; why museums increasingly decline gifts (space, budget, fit, overcrowded storage); deaccessioning trends and law; the economics of museum construction and closure. The supply side of "what becomes of it" is only half the story; this is the other half. *Research underway.*
+*A gift is not free to the museum that receives it either. This section prices the receiving side of the transaction that 4.2 priced for the owner.*
+
+**Museums decline most of what they are offered.** An estimated **90 to 95%** of art and collectible material offered to museums is declined, per Bank of America's own private-bank art advisory practice (C17). Museums increasingly treat a gift as a liability rather than a windfall: it inherits the same storage, insurance, and conservation clock described in 4.2, permanently, with no revenue attached, which is why some now ask a donor to accompany a gift with cash toward its future upkeep.
+
+**Storage is the concrete reason.** A cited analysis of one major museum's own deaccessioning rationale found **95.2%** of its collection was in storage at any given time, at an estimated **~$4.1M a year** to maintain the stored portion alone (C18), a case study, not a sector rate, but illustrative of the arithmetic behind every museum's "no."
+
+**The sector's finances are getting worse, not better.** The American Alliance of Museums' own 2025 survey of the field found only **52%** of US museums report stronger financial performance than before the pandemic, down from 57% the year before; **55%** report attendance still below 2019 levels; and **34%** have had a government grant or contract cancelled, with only 8% of those museums saying the funding has been fully replaced (C19). A marquee example is playing out in real time: the Philadelphia Museum of Art reported a **~$10M deficit** on a $75.6M FY2025-26 budget, nearly double the year before, projected to reach as much as $15.9M the following year (C20), the same endowment-and-revenue-erosion mechanism the coded [[report-dataset]] Corcoran case shows over 126 years, now visible at a much larger institution on a much shorter clock.
+
+**Deaccessioning rules are narrowly bounded, by the profession's own choice.** The Association of Art Museum Directors permits sale proceeds to fund only a specifically defined "direct care" of the remaining collection, conservation, storage materials, climate control, explicitly excluding staff salaries and exhibition costs. Even the industry's own escape valve for a struggling collection is built to keep the art, not to fund the institution around it.
+
+> **Figure 3.** The receiving-side cost mirror: what 4.2 shows for the owner, this section shows for the museum. *(chart to be produced)*
+
+The rest of this sub-section, museum endowment models in full and construction/closure economics, remains *research underway*.
 
 ---
 
@@ -179,6 +191,7 @@ Candidate predictions for the inaugural edition, to firm up as the evidence does
 *Everything below this line is working material. The reading draft ends above.*
 
 ### Changelog (newest first, the research engine appends here)
+- **2026-08-17** — §4.5 ("why museums say no") drafted from sourced research: the 90-95% gift-rejection rate, a storage-cost case study, AAM's 2025 sector financial snapshot, a live Philadelphia Museum of Art deficit example, and AAMD's direct-care deaccessioning rule. New claims C17-C20; detail in [[market-intelligence]] #6. Case dataset unchanged this run (still 50/50; WebFetch reconfirmed blocked, ninth consecutive run).
 - **2026-08-17** — Restructured into a clean WEF-style layout (preface, key-findings box, contents, five parts, appendix), working notes moved to this workshop, and the file renamed to the report's title. Content unchanged, only clarified.
 - **2026-08-17** — "The cost of keeping art" (now 4.2) drafted from sourced research: storage/freeports, insurance, conservation, handling, with the ~2.6%/yr emotional-yield anchor and the freeport paradox. New claims C13-C16; detail in [[market-intelligence]] #5.
 - **2026-08-17** — Manuscript created and seeded from the corpus (50 coded cases, claims-register C1-C12, dataset patterns, the Vogel custody-vs-view finding). Ecosystem sections scaffolded.
