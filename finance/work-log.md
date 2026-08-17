@@ -1,22 +1,15 @@
-# Work Log — daily hours and location (tax record)
+# Location Log — where Alina worked (tax record)
 
-A clear daily record of Alina's working hours and location, for tax substantiation (owned by the [[tax|Tax]] function, alongside the receipts discipline). Location matters because work performed in different states or countries can carry tax consequences, and hours support the business-purpose case for expenses.
+A record of where Alina was physically working, for state and country tax substantiation (owned by the [[tax|Tax]] function, alongside the receipts discipline). Work performed in a different state or country can carry tax consequences (nexus, residency days, apportionment), so **location** is what this file tracks. **Daily work hours are no longer tracked** (removed 2026-08-17, Alina's call), the hours estimate added noise without tax value.
 
 ## How this is kept (the mechanism)
-- **Location** is asserted by Toi from what is known: home base is **Montvale, NJ** by default, and the [[travel|trip calendar]] overrides it on travel days (Atlanta Sept 2–8, DC in October, Berlin Oct 14–18, Milan first week of December). Alina corrects any exception.
-- **Hours** are entered by Alina, because Toi cannot independently verify a full workday. Toi records an estimate from our session activity as a **starting figure to confirm**, and the number is not authoritative until Alina confirms it. She can also just say "worked ~X hours today" and it is logged exactly.
-- **The daily [[chief-of-staff|check-in]] email** shows the prior day's entry (asserted location, estimated hours) and asks Alina to confirm or correct, so the log stays current with one quick reply.
-- Honest limit: these are Alina's own records to stand behind; Toi maintains the structure and prompts, the CPA handles anything tax-technical.
+- **Default location is Montvale, NJ** (home base). It holds for any date not listed below as an exception.
+- **Alina reports every exception.** She will always say when she is working in a different state or country, and that sets the location for those dates. The [[travel|trip calendar]] is a planning aid, but this log records *actual* location, confirmed only by Alina.
+- Honest limit: this is Alina's own record to stand behind. Toi maintains the structure; the CPA handles anything tax-technical.
 
-## Log
-| Date | Location | Hours | Focus | Confirmed |
-|---|---|---|---|---|
-| 2026-08-12 | Montvale, NJ | ~8 _(draft estimate, to confirm)_ | Flagship report: template locked, pilot + 20-case wave coded to 30 of 50, preliminary patterns written. Dawn La Monica reconnect and materials review, Opal declined. Legal and Tax watch functions added, entity facts recorded. Substack bio locked, Notes queue revoiced. Learning, Network Research, regional-visits and courses registers built. | pending Alina |
-| 2026-08-13 | Montvale, NJ | ~7 _(draft estimate, to confirm)_ | Dawn La Monica call held and debriefed, thank-you note sent, Opal reopened then declined final. Website copy (alinaokun.com) finalized. Vault hygiene sweep, positioning/canonical-copy fixes. Case dataset coding oversight (toward 36 of 50). | pending Alina |
-| 2026-08-14 | Montvale, NJ | ~7 _(draft estimate, to confirm)_ | Fisher/SFMOMA figure resolved and homepage copy locked. Board-membership decision logged, whole-field board search filed to board-opportunities (10 candidates). Qwoted launch checklist set (Query A, Monday Aug 17). Case dataset coding oversight (toward 44 of 50). QA audit run (1 critical, 4 should-fix). | pending Alina |
-| 2026-08-15 | Montvale, NJ | ~6 _(draft estimate, to confirm)_ | nariway.com went LIVE with the new identity, clearing the last launch blocker. CFO and CMO steward agents added (daily rolling briefs); site-health/SEO agent added. QA audit re-run (critical resolved, down to 0; 4 should-fix remain). Case dataset reconciliation folded 20 previously-uncounted case files into the master synthesis, then 3 more cases coded (44→47 of 50). | pending Alina |
+## Location log (exceptions only; Montvale, NJ assumed otherwise)
+| Dates | Location | Notes |
+|---|---|---|
+| Through 2026-08-17 | Montvale, NJ | Home base (default). No out-of-state or out-of-country work reported in this period. |
 
-| 2026-08-16 | Montvale, NJ | ~9 _(draft estimate, to confirm)_ | Vogel Fifty-for-Fifty afterlife investigation completed (all 50 recipients, the custody-not-view finding); Vogel + de la Cruz editorial dossiers; editorial-direction and field-definition captures; Qwoted Query A locked and posted live (evening, ahead of plan); CFO/CMO steward briefs; QA audit (0 critical, 7 should-fix); MoMA coded as case 48/50, then CAM Raleigh + Rauschenberg Foundation HQ closed the set to 50 of 50. | pending Alina |
-| 2026-08-17 | Montvale, NJ | ~2 _(draft estimate, to confirm)_ | Cloud research depth run (Pattern 14, first fully-counted governance-survival table); vault hygiene sweep (8 fixes, 0 critical); Signals digest (Blaquier $450M sale filed); daily check-in. | pending Alina |
-
-*(Add a row per working day. Toi pre-fills location and a draft hours figure; Alina confirms.)*
+*(Add a row only when location changes. Any date not covered by an exception row is Montvale, NJ.)*
