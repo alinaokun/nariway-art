@@ -25,6 +25,20 @@
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-17 — Cloud run
+
+**Cases + auction scene (+1 → filed to [[candidate-universe]] and [[to-see]])**
+
+- **Sotheby's lands the $450M Blaquier collection — Van Gogh, Cézanne, Degas, Pissarro, Renoir — for a November New York sale.** The late Argentine industrialists Nelly Arrieta de Blaquier (described by the *New York Times* in 1995 as owner of the country's largest private collection) and her husband Carlos Pedro Blaquier built an Impressionist/Post-Impressionist trove now anchoring Sotheby's fall marquee week; the Van Gogh alone (*Châtaignier en fleurs roses et blanches*) is estimated at $150–200M. One of Sotheby's largest single-collection consignments in recent memory, and it lands inside the same mid-November NYC window [[to-see]] is already watching for the season's marquee sales — no preview dates published yet, Signals will watch for them. Filing this now closes a 5-day gap: Sotheby's announced it Aug 12 and it wasn't caught in the 08-14/08-15/08-16 cycles — the same miss pattern as the Joe Lewis Collection two cycles ago. [ARTnews](https://www.artnews.com/art-news/news/sothebys-blaquier-450-million-art-collection-1234794798/) · [Artnet](https://news.artnet.com/market/blaquier-art-collection-sothebys-2795536)
+
+**To-see nudge:** Christie's Medaugh Hiroshige public preview (Sept 11–14) is now 25 days out — inside a week of crossing the ~3-week escalation threshold; expect it to surface as a "see this soon" item in the next cycle or two. Betye Saar (closes Oct 4) and Ashbery (closes Oct 25) remain outside the window. Whitney *Lichtenstein: Like New* still has no published close date.
+
+**Auction-scene housekeeping:** with Blaquier now filed, the mid-November NYC marquee week that [[to-see]] flagged as "lineups usually announced early-to-mid October" already has its first major single-owner anchor two months early — worth revisiting that assumption; Signals will check house calendars more frequently as the date nears rather than waiting for the usual October window.
+
+**Prospects, partners, events register, market intelligence:** nothing genuinely new and public surfaced this cycle beyond what's already filed in [[prospects]], [[partners]], the events register, and [[market-intelligence]]. Checked specifically for the practitioner-ecosystem rooms (STEP New York, Heckerling, Purposeful Planning Institute, Family Wealth Alliance, Opal) and for courses (Sotheby's Institute, Christie's Education, art-law/art-finance programs) — nothing new; Georgina Adam's *NextGen Collectors and the Art Market* (Lund Humphries/Sotheby's Institute) is a real 2026 book but published back in March, not a fresh signal.
+
+**Tracked sources checked:** Katya Kazakina (*Art Detective*, Artnet — no confirmed new column located beyond what's already logged), Georgina Adam (*Art Market Eye* runs first Thursday monthly, next due Sept 3, unchanged), Center for Art Law (no confirmed new August post located beyond what's already logged), The Gray Market, The Art Bystander, Provenance Watch (no confirmed new on-thesis posts this cycle — note: several of these sites' own pages are blocked to direct fetch from this environment, so "checked" here means searched, not browsed directly; worth flagging if that persists).
+
 ### 2026-08-16 — Cloud run
 
 **Cases (+1 → filed to [[candidate-universe]])**
