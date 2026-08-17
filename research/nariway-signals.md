@@ -18,6 +18,10 @@
 - **Weekly digest ("Nariway Signals")** — ~5–10 genuinely relevant items across the four beats, each with one line on why it matters and where it was filed. *Radar is continuous; thinking is weekly.*
 - **Mid-week escalation only for time-sensitive items** — a conference/submission deadline closing, a prospect making a major public legacy announcement, a highly relevant opening you'd need to book travel for.
 
+## Sources & format (updated 2026-08-17)
+- **Commentary and newsletters feed the beats; they do not get an audit line.** The digest draws on the on-thesis writers in [[substack-register]] (Read and Engage tiers), Katya Kazakina, Georgina Adam, the Center for Art Law, and genuinely on-thesis PUBLIC posts by collectors, advisors, foundations, or museum leaders (including public LinkedIn or social posts where reachable). These surface **only as real items** (folded into a beat or a short "Worth reading" note), never as a "Tracked sources checked" / "checked, nothing new" section. Silence on a quiet source, not a status line. *(The audit trail was removed at Alina's request 2026-08-17; it read as noise.)*
+- **LinkedIn and social:** login-gated feeds are not reliably readable by the cloud agent, so Signals surfaces only what is publicly reachable via search; deeper LinkedIn-public monitoring lives in the separate **network-research** routine. Named accounts worth a standing watch get added to [[substack-register]] as Alina identifies them.
+
 ## How it runs
 - **First cycle: now (manual).** It seeds all four registers AND defines the filter — what counts as *signal* vs. noise — before any automation. (This is the cycle currently running.)
 - **Then weekly.** Once the filter proves out, this can be a **scheduled task** that scans, deposits, and drafts the digest automatically — or a ritual Toi runs each check-in. *Founder's call after seeing the first digest* (see the open question on HOME).
