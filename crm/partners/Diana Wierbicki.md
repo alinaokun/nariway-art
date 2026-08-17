@@ -25,4 +25,4 @@ website: "https://www.loeb.com/en/people/w/wierbicki-diana"
 - 2026-08-14 — Filed at Alina's request. No contact yet.
 
 ## Notes
-Part of the emerging lawyer directory ([[lawyers|lawyers.base]]), tagged `discipline: Art Law` (with strong estate/tax overlap).
+Part of the emerging lawyer directory ([[lawyers.base|lawyers.base]]), tagged `discipline: Art Law` (with strong estate/tax overlap).

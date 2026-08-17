@@ -22,4 +22,4 @@ website: "https://www.withersworldwide.com/en-gb/people/mari-claudia-jimenez"
 - 2026-08-14 — Surfaced by the network-research scan (public source). No contact yet.
 
 ## Notes
-Source: [Withers bio](https://www.withersworldwide.com/en-gb/people/mari-claudia-jimenez) · [ARTnews coverage of the Withers move](https://www.artnews.com/art-news/market/mari-claudia-jimenez-art-law-and-advisory-withers-1234742515/). Part of the emerging [[lawyers|lawyers.base]] directory, tagged `discipline: Art Law & Advisory`.
+Source: [Withers bio](https://www.withersworldwide.com/en-gb/people/mari-claudia-jimenez) · [ARTnews coverage of the Withers move](https://www.artnews.com/art-news/market/mari-claudia-jimenez-art-law-and-advisory-withers-1234742515/). Part of the emerging [[lawyers.base|lawyers.base]] directory, tagged `discipline: Art Law & Advisory`.

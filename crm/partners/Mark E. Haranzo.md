@@ -22,4 +22,4 @@ website: "https://www.hklaw.com/en/professionals/h/haranzo-mark-e"
 - 2026-08-14 — Surfaced by the network-research scan (public source). No contact yet.
 
 ## Notes
-Source: [Holland & Knight bio](https://www.hklaw.com/en/professionals/h/haranzo-mark-e) · [firm Art Law practice page](https://www.hklaw.com/en/services/practices/private-wealth-services/art-law). Part of the [[lawyers|lawyers.base]] directory, tagged `discipline: Estate & Tax`.
+Source: [Holland & Knight bio](https://www.hklaw.com/en/professionals/h/haranzo-mark-e) · [firm Art Law practice page](https://www.hklaw.com/en/services/practices/private-wealth-services/art-law). Part of the [[lawyers.base|lawyers.base]] directory, tagged `discipline: Estate & Tax`.

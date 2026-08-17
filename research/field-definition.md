@@ -52,7 +52,7 @@ Once a collector asks "what could my collection become?", the answer stops being
 - **Apply**, eventually take one real collection, ask what it could become, and assemble the specialists to execute. This closes the loop. See [[decision-map]] (which currently begins late in a collection's life; the field begins earlier, at formation).
 
 ## Mission vs intellectual obligation (the guardrail)
-Alina's **personal mission**: more people see the art now in private collections. Keep it, it answers *why this matters*. But the **discipline's obligation** is to determine what makes sense for the collection and its owner, and it must be able to conclude "keep it private," "don't build the museum," "your children should inherit it," "open six weekends a year." Holding the two apart is what keeps Nariway from being advocacy disguised as advice. (Same guardrail as the [[positioning]] north star and the [[nariway-vision-access|vision]]: the public benefit must be real, not assumed.)
+Alina's **personal mission**: more people see the art now in private collections. Keep it, it answers *why this matters*. But the **discipline's obligation** is to determine what makes sense for the collection and its owner, and it must be able to conclude "keep it private," "don't build the museum," "your children should inherit it," "open six weekends a year." Holding the two apart is what keeps Nariway from being advocacy disguised as advice. (Same guardrail as the [[positioning#Why Nariway exists (the vision)|positioning]] north star: the public benefit must be real, not assumed.)
 
 ## Drucker's five questions (answered honestly, mostly UNKNOWN)
 - **Mission?** Not yet fixed. Personal mission known; the company sentence waits until the business is clearer.
