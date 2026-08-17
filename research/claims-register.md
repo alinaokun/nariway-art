@@ -63,6 +63,30 @@
 **Canonical:** ~**80%** of collectors intend to pass their collections to children or spouses (Art Basel/UBS 2025). So the dominant question is not "which museum?" but "what happens when control changes." Relates to C3 (retention is the norm); this is the stated *intention*, C3 is the observed outcome.
 **Source:** Art Basel/UBS 2025.
 
+---
+
+### C13 · Fine-art insurance premium rate — [DOC-secondary]
+**Canonical:** Typical fine-art insurance runs **~1% to 2% of appraised value per year** for works kept at home (a $100K piece ≈ $1,000 to $2,000/year), falling to **~0.1% to 0.5%** (5 to 20 cents per $100) when professionally stored or vaulted with monitored security. Insurance is both a carrying cost and a lever: better storage/security lowers the premium.
+**Source:** [[market-intelligence]] #5 (Beacon Hill Private Wealth; MoMAA art-insurance guide, 2026).
+**Use:** the annual carrying-cost line item; not a market size. Home vs. vault is the swing factor.
+
+### C14 · Fine-art storage rate — [DOC-secondary]
+**Canonical:** Professional climate-controlled fine-art storage ≈ **$5.50 per sq ft per month** at a US specialist facility (~$175/month minimum), up to **~$12.50 per sq ft per month in New York City.**
+**Source:** [[market-intelligence]] #5 (Arrow Fine Art Services rate card; Artwork Archive, 2026).
+**Use:** benchmark for the "cost of keeping art" chapter; US-centric, order-of-magnitude.
+
+### C15 · Geneva Freeport scale — [DOC-secondary]
+**Canonical:** The **Geneva Freeport** held ~**1.2 million works of art (2013)**; ~**40%** of its contents is art with an **estimated value near $100B**; storage for a medium painting ≈ **$1,000/month**, a small room **$5,000 to 12,000/month.**
+**Source:** [[market-intelligence]] #5 (Geneva Freeport, Wikipedia, citing The Economist and press).
+**Use:** the "freeport paradox" (great art held tax-suspended and unseen), the vivid negative of [[nariway-vision-access]]. Treat as press-level estimate, not audited.
+
+### C16 · Total carrying cost anchor ("emotional yield ~2.6%/yr") — [DOC-secondary]
+**Canonical:** Dimson, Pukthuanthong & Vorsatz, "Emotional yields of collectibles" (*Financial Analysts Journal*, 2026), estimate an **"emotional yield" ≈ 2.6 percentage points per year** across 13 collectible classes over up to 110 years, the return a purely financial buyer foregoes by owning the object. This is a **foregone-return / willingness-to-pay** measure, NOT a pure out-of-pocket carrying cost, and the authors call it "probably conservative."
+**Source:** [[market-intelligence]] #5 (Evidence-Based Investor summary of the FAJ paper).
+**Do NOT say:** "holding art costs 2.6% of value in cash each year" ← it is a return drag, not a cash outlay. Confirm against the FAJ paper to upgrade to primary.
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
 
 ## The convention
