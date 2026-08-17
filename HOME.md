@@ -14,7 +14,7 @@ The few things only you can do, ordered by how directly they move toward the goa
 
 1. **Query A is posted and live** (went out Sun evening, Aug 16, ahead of the Monday plan). This is now the actual test of everything built so far — reply-and-log as responses land, and send the Vogel outreach (Ruth Fine first). → [[conversations-series]]
 2. **Confirm your work-log hours** for tax (Aug 12 through Aug 15, all four still logged as draft estimates). One quick reply keeps the record current. → [[work-log]]
-3. **The flagship report runs in the background.** 47 of 50 cases coded, and this week's reconciliation pass fixed a real gap (20 already-coded cases had never been folded into the master synthesis). Nothing needed from you day to day. → [[flagship-report]]
+3. **The flagship report runs in the background.** 50 of 50 cases now coded (reached 2026-08-16 eve); future runs shift to depth (primary-source verification, cross-case analysis) rather than new cases. Nothing needed from you day to day. → [[flagship-report]]
 
 ---
 
@@ -31,7 +31,7 @@ The lenses react to every change and surface actions toward the goal. This updat
 
 ## Where things stand
 
-- Cases mapped, about 80. Coded to report grade, **47 of 50**, and a cloud agent now deepens the dataset daily on its own, whether the laptop is open or closed. WebFetch is still blocked on primary sources (ProPublica etc., confirmed again this run) — most recent cases remain secondary-sourced pending a re-fetch pass.
+- Cases mapped, about 80. Coded to report grade, **50 of 50** (target reached), and a cloud agent now deepens the dataset daily on its own, whether the laptop is open or closed. WebFetch is still blocked on primary sources (ProPublica etc., confirmed again this run) — most recent cases remain secondary-sourced pending a re-fetch pass.
 - The question that still decides everything is whether anyone will pay. Untested, and the moves above are how we start testing it.
 - The company is well built inside. The work now is outward.
 - **New direction, the flagship report.** An annual, data-rich "State of art and legacy" report (à la the State of AI Report), built on the case database, to make Nariway the source at art and finance. This is the scalable leg toward a million. Phased so it never becomes a black hole, and it runs alongside the market conversations, not instead. → [[flagship-report]]
