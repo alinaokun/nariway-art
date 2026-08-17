@@ -2,12 +2,12 @@
 type: case
 title: Terra Museum of American Art
 sample: designed-10
-pathway: museum-dissolved
+pathway: found-standalone-museum
 status: coded
 priority: high
 founder_status: deceased
 geography: Chicago, IL
-outcome: collapsed
+outcome: closed-dispersed
 verification: spot-verified
 decision_owner: unknown
 interview_status: not-contacted

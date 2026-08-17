@@ -2,12 +2,12 @@
 type: case
 title: Neue Galerie → The Met
 sample: designed-10
-pathway: merge-for-perpetuity
+pathway: merger-into-institution
 status: coded
 priority: medium
 founder_status: living
 geography: New York, NY
-outcome: pivot
+outcome: merged
 verification: spot-verified
 decision_owner: founder-self
 interview_status: not-contacted

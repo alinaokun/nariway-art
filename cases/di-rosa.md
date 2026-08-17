@@ -2,7 +2,7 @@
 type: case
 title: di Rosa Center for Contemporary Art
 sample: designed-10
-pathway: museum+park
+pathway: found-art-park
 status: coded
 priority: high
 founder_status: deceased

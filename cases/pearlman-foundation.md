@@ -7,7 +7,7 @@ status: coded
 priority: high
 founder_status: deceased
 geography: New York, NY (collection); Princeton, NJ (49-year loan host)
-outcome: dispersed
+outcome: closed-dispersed
 verification: spot-verified
 ---
 

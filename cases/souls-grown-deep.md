@@ -7,7 +7,7 @@ status: coded
 priority: medium
 founder_status: deceased
 geography: Atlanta, GA (national)
-outcome: thriving
+outcome: stable
 verification: spot-verified
 decision_owner: unknown
 interview_status: not-contacted
