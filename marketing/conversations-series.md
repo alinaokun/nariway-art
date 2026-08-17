@@ -25,6 +25,7 @@ Before any interview runs, apply one test:
 If yes, it belongs in Conversations. If no, it is a private research conversation, not an editorial interview. Readers and interviewees must receive something worthwhile whether or not Nariway ever sells anything. This is what keeps it from becoming disguised customer research.
 
 ## Question architecture (three fixed + two person-specific)
+*This is the practical question set. The canonical intellectual structure it derives from, the five movements that make an Artobiography conversation recognizably different, now lives in [[editorial-direction]] ("The Artobiography conversation format"). Under the conversation-first decision (2026-08-17), this series is no longer a sub-format, it is Artobiography's primary format for year one.*
 Not identical questions for everyone, that goes dull. Three fixed questions that quietly probe Nariway territory, plus two unique to the person's collection or work.
 
 **For a collector**
