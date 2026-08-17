@@ -37,6 +37,7 @@
 - **Why it fits:** A textbook "founder's private vision into public life" case — Jack Lenor Larsen's 16-acre house, collection, and garden — that has publicly worked through post-founder governance strain (press covered "a LongHouse divided" after Larsen's 2020 death; new board president and new director since). That succession-and-sustainability arc is precisely Nariway's research subject, learned from the inside.
 - **Give/get:** Not public.
 - **Approach path:** Small design/collector-world board that recruits by invitation and refreshes regularly (four trustees added in one 2020 tranche). Warm intro through the design/craft-collecting or Hamptons art circles; a new director is a natural moment to add finance capacity.
+- **Update (2026-08-17):** A new Executive Director, Lara Sweeney, was installed for the 2026 season — another live leadership-transition moment to watch. [Hamptons.com](https://hamptons.com/longhouse-reserve-welcomes-new-director-and-unveils-2026-season/)
 
 ### 5. Grounds For Sculpture (Hamilton, NJ)
 [groundsforsculpture.org](https://www.groundsforsculpture.org/about/) — central NJ (~1 hr 15).
@@ -64,15 +65,32 @@
 
 ### 9. Montclair Art Museum (Montclair, NJ)
 [montclairartmuseum.org](https://www.montclairartmuseum.org/board-trustees) — NJ (~40 min).
-- **Why it fits:** A collecting museum with a demonstrably finance-valuing culture — its current director, Ira Wagner, rose from trustee and *Treasurer* before leading the institution, and the board runs a standing Finance committee. More established than others here, but well-matched to a governance-minded CFO and very close to home.
+- **Why it fits:** A collecting museum with a demonstrably finance-valuing culture — its longtime director, Ira Wagner, rose from trustee and *Treasurer* before leading the institution, and the board runs a standing Finance committee. More established than others here, but well-matched to a governance-minded CFO and very close to home.
 - **Give/get:** Not public.
 - **Approach path:** Trustee recruitment through the Montclair/Essex County professional-collector network; finance-committee service is the credible on-ramp.
+- **Update (2026-08-17):** Wagner has since departed; Todd Caissie moved from deputy director to interim director (Jan 1, 2026) and now director — a live leadership transition, worth watching whether it reopens board seats. [Montclair Local](https://montclairlocal.news/2026/07/todd-caissies-vision-for-the-montclair-art-museum/)
 
 ### 10. Center for Art Law (Brooklyn, NY)
 [itsartlaw.org/boards](https://itsartlaw.org/boards/) — NYC / virtual-friendly.
 - **Why it fits:** Not a museum, but the connective tissue of the exact advisor ecosystem Nariway wants inside its network — T&E and art-law attorneys, appraisers, foundation counsel — a small, growing nonprofit at the art/law/collections nexus where finance and governance capacity is genuinely scarce.
 - **Give/get:** Not public.
 - **Approach path:** Small board recruited by the founder/managing director (Irina Tarsis) and existing directors; virtual-leaning, low-dollar, high-network. Warm intro through the art-law/advisory community.
+
+### 11. The Olana Partnership (Hudson, NY)
+[olana.org](https://olana.org/board/) — Hudson Valley (~2 hr; several trustees are NYC-based).
+- **Why it fits:** The nonprofit partner governing programming and exhibitions at Olana, Frederic Church's Persian-fantasy house-estate, jointly with NY State Parks — an archetypal single-artist collection/home entering public stewardship, and a live case study in mixed public/private governance. The board is visibly recruiting finance-literate trustees: recent additions include a retired finance/banking executive and a director described in coverage as a CFO/financial expert, direct evidence a finance seat is a live need, not a courtesy one.
+- **Give/get:** Not public.
+- **Approach path:** Nomination via existing trustees or the Executive Director (Sean Sawyer); the board has diversified its recruiting channels visibly over 2024–25. Warm intro through Hudson Valley or NYC arts-philanthropy circles.
+
+### 12. Boscobel House and Gardens (Philipstown/Cold Spring, NY)
+[boscobel.org](https://www.boscobel.org/) — Hudson Valley (~1 hr 15, via Bear Mountain Bridge).
+- **Why it fits:** A small independent Federal-period decorative-arts house museum (~13–15-member board) in an active, current recruitment cycle — two new members named in a November 2025 report, both bringing operational/preservation expertise rather than purely social ties. Small enough that a CFO's finance and governance skills are genuinely load-bearing, not decorative.
+- **Give/get:** Not public.
+- **Approach path:** Board adds members through direct trustee/ED relationships; recent additions suggest openness to professional-expertise recruits beyond the traditional Hudson Valley social circuit. Warm intro through Hudson Valley preservation or collector circles.
+
+## Considered, weaker fit
+- **New Britain Museum of American Art** (New Britain, CT) — [nbmaa.org](https://nbmaa.org/trustees). Single-collector-adjacent founding (the Grace Judd Landers bequest built the core American-art collection) and a strong research dividend: a just-completed facilities/financial study feeding a 2025–2030 strategic plan explicitly aimed at reducing endowment-draw dependency. Weaker on drivability (~2.5 hr), a fit only if Alina is open to a longer-distance or hybrid board.
+- **Storm King Art Center** — a real governance/succession story (new ED Nora Lawrence, new Chair Nicholas Polsky), but the board is stacked with major individual donors and former museum directors, almost certainly a high give/get. Watch, don't approach yet.
 
 ## Also considered / not a fit (for now)
 - **ArtTable** ([arttable.org](https://www.arttable.org/about/)) — a superb *network* node (1,200+ women and nonbinary visual-arts leaders; board includes advisor-ecosystem figures) and worth joining for reach, but it is a membership organization advancing professional leadership, not a governance-hungry board where a CFO's skills are the scarce input. Pursue as a network, not a board target.
