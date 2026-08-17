@@ -11,11 +11,11 @@
 - [[operating-rhythm]] — **how Nariway runs day to day** (the learning engine): Research · Talk · Write · Capture, the three-part engine, the weekly scorecard.
 - [[advisory-panel]] — how a real decision gets deliberated. Decisions logged in `company/decisions/`.
 - [[positioning]] — canonical external identity. Website / LinkedIn / any public copy reference this.
-- [[voice]] — written voice and craft standards. · [[ai-tells]] — banned AI-writing patterns.
-- **On-call (not standing functions — spun up when triggered):** [[legal]], [[tax]] (watch-and-flag, never a substitute for a licensed pro — CFO owns) · [[it]] (tech decisions) · [[vault-hygiene]] (the librarian sweep; findings in `hygiene-report.md`) · [[quality-assurance]] (independent standards auditor, reports to Research; findings in `qa-report.md`).
+- [[voice]] — written voice and craft standards. · [[ai-tells]] — banned AI-writing patterns. · [[design-system]] — visual house style (reports, decks, website).
+- **On-call (not standing functions — spun up when triggered):** [[legal]], [[tax]] (watch-and-flag, never a substitute for a licensed pro — CFO owns) · [[it]] (tech decisions) · [[vault-hygiene]] (the librarian sweep; findings in `hygiene-report.md`) · [[quality-assurance]] (independent standards auditor, reports to Research; findings in `qa-report.md`) · [[site-health]] (Mon/Thu site/SEO watch on both live sites, rolling).
 
 ## CFO — the money — `finance/`
-- [[nariway-cfo]] — the charter (does this make money?). · [[pitch-deck]] — living strategy deck.
+- [[nariway-cfo]] — the charter (does this make money?). · [[pitch-deck]] — living strategy deck. · [[cfo-brief]] — daily rolling partner read (cfo-steward agent).
 - [[business-model-ledger]] · [[capital-ledger]] · [[comparables]] · [[work-log]] (hours + location for tax).
 - [[problem-discovery]] — the evidence-phase playbook (the four questions, the Conversation Universe, the signal ladder).
 
@@ -23,12 +23,12 @@
 - [[field-definition]] — **the intellectual project** ("how can a private art collection have a larger life?"); the possible undefined field. · [[research-program]] — the charter and the hypotheses. · [[case-study-protocol]] · [[claims-register]] (every recurring number's one home) · [[what-we-now-believe]] · [[market-intelligence]] · [[transfer-scope-note]] · [[learnings-log]] (one new thing learned a day, featured in the check-in).
 - **The case library — `cases/`:** [[candidate-universe]] (the ~80-case pool) · [[report-dataset]] (the coded master) · [[case-template]] (the coding standard) · open `Cases.base` for the sortable pipeline. ~40 coded case notes live here.
 - [[flagship-report]] — the flagship data report ("What Becomes of Great Art Collections").
-- **Advisory knowledge — `institution-building/`:** [[decision-map]] (the pathways a collection can take) · [[knowledge-base]] · [[specialist-map]] and the `specialists/` notes (open `specialists.base`).
+- **Advisory knowledge — `institution-building/`:** [[institution-building]] (the charter) · [[decision-map]] (the pathways a collection can take) · [[knowledge-base]] · [[specialist-map]] and the `specialists/` notes (open `specialists.base`).
 
 ## CMO — will the right people find it? — `marketing/`, `artobiography/`
-- [[nariway-cmo]] — the charter (relevant reach, not maximum). · [[opportunity-radar]] — media/partnership openings.
-- **The publication:** [[substack]] (the plan) · [[substack-playbook]] (what proven practitioners recommend) · [[substack-notes-queue]] (drafted Notes) · [[substack-register]] (who to follow) · [[conversations-series]] (the written-interview series) · [[subscriptions]] (newsletters worth mining) · `artobiography/` ([[format-v0.1]], [[editorial-structure-study]]).
-- **Showing up:** [[events-radar]] (which rooms, and why) + `marketing/events/` notes (open `events.base`) · [[courses-register]] · [[travel]] · [[to-see]] (time-limited exhibits + auction previews) · [[regional-visits]].
+- [[nariway-cmo]] — the charter (relevant reach, not maximum). · [[opportunity-radar]] — media/partnership openings. · [[cmo-brief]] — daily rolling partner read (cmo-steward agent).
+- **The publication:** [[substack]] (the plan) · [[substack-playbook]] (what proven practitioners recommend) · [[substack-notes-queue]] (drafted Notes) · [[substack-register]] (who to follow) · [[conversations-series]] (the written-interview series) · [[subscriptions]] (newsletters worth mining) · `artobiography/` ([[format-v0.1]], [[editorial-structure-study]], [[editorial-direction]] — the relaunch identity, [[editorial-candidate-packet]] — scored story candidates).
+- **Showing up:** [[events-radar]] (which rooms, and why) + `marketing/events/` notes (open `events.base`) · [[courses-register]] · [[travel]] · [[to-see]] (time-limited exhibits + auction previews) · [[regional-visits]] · [[board-opportunities]] (researched nonprofit-board target list).
 - **Reach:** [[linkedin]] · [[outreach]] · [[website]] · [[experiment-ledger]] · [[NARIWAY-WEBSITE-HANDOFF-2026-08|website handoff brief]] (dated snapshot for the separate website-design project).
 
 ## People — `crm/`
