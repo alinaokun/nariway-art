@@ -25,7 +25,7 @@ Before any interview runs, apply one test:
 If yes, it belongs in Conversations. If no, it is a private research conversation, not an editorial interview. Readers and interviewees must receive something worthwhile whether or not Nariway ever sells anything. This is what keeps it from becoming disguised customer research.
 
 ## Question architecture (three fixed + two person-specific)
-*This is the practical question set. The canonical intellectual structure it derives from, the five movements that make an Artobiography conversation recognizably different, now lives in [[editorial-direction]] ("The Artobiography conversation format"). Under the conversation-first decision (2026-08-17), this series is no longer a sub-format, it is Artobiography's primary format for year one.*
+*SUPERSEDED for outreach (2026-08) by "The research-integrated conversation program" below (the five-lens spine). Kept for reference. The editorial framing, the five movements, still lives in [[editorial-direction]] ("The Artobiography conversation format"); the lenses are its research-integrated evolution. Under the conversation-first decision (2026-08-17), this is Artobiography's primary format for year one.*
 Not identical questions for everyone, that goes dull. Three fixed questions that quietly probe Nariway territory, plus two unique to the person's collection or work.
 
 **For a collector**
@@ -45,6 +45,35 @@ Then two specific to their collection.
 3. What part of the decision was hardest to resolve?
 
 These map directly onto the four discovery questions in [[problem-discovery]], so every Conversation with a practitioner is also a logged data point there.
+
+## The research-integrated conversation program (evolved 2026-08, the First-10)
+The conversations are **not a separate content project**. They are the **human research layer of the same knowledge base producing** [[what-becomes-of-great-art-collections]]. Each conversation tests or deepens a report proposition and builds an ecosystem relationship. Working principle (from the First-10 outreach plan, Alina's working doc): *the interviews are the primary-source layer of the report.*
+
+### The common research spine (the five lenses)
+Do not ask everyone the same words. Ask everyone through the same **five lenses**, so answers compare later, with custom questions per person:
+1. **Trigger** — when did the collection's future become a real decision, not a distant idea?
+2. **Choice** — what options were considered, and why did one path win?
+3. **Friction** — what was harder, costlier, or more constrained than outsiders expect?
+4. **Structure** — how did money, governance, tax, family, institutions, access, and physical care shape the outcome?
+5. **Learning** — what does this person know now that could change how Nariway understands the field?
+
+Every conversation ends with the two **network questions**: who else should I speak with? what collection, institution, or model do most people overlook?
+
+**Claude's one recommendation (accept or drop):** keep the five lenses, and also ask ONE **identical signature question** of everyone, *"What do you think a collector owes to the collection they've built, if anything?"* The lenses give consistency of *theme*; an identical question gives consistency of *wording*, which is the only thing that lets you truly compare a collector's answer against an heir's, a museum director's, and an attorney's, the cross-position divergence that is the most citable thing the series can produce. One identical question does not make the set formulaic.
+
+### Evidence discipline (matches the report's McKinsey/BCG/WEF bar)
+**An interview is primary *qualitative* evidence, not statistical proof.** An expert can explain a mechanism, reveal a practice, suggest a hypothesis, challenge a finding, or point to a source. A claim like "80% of collectors do X" does **not** enter [[what-becomes-of-great-art-collections]] because an expert said it, it is verified independently first, or marked unknown. This separation keeps the conversations credible as report input.
+
+### After every conversation, capture
+One thing that changed or sharpened the view · one report claim/hypothesis this supports, challenges, or complicates · one fact or number needing independent verification · one new pathway/institution/collection/role to investigate · one introduction to request · one quote or idea possibly worth publishing · whether this belongs on Nariway as a public Conversation. Recurring belief shifts route to [[what-we-now-believe]]; practitioner process-answers to [[problem-discovery]].
+
+### The First-10 (full question sets in Alina's working doc; master pipeline in the external spreadsheet)
+Four inbound Qwoted responders first, **Mark Hilbert** (collector → university museum), **Alexis Hyde** (workplace display + residency), **Roxanna Zarnegar** (tech/access), **Sage Gee** (independent exhibition model), then two high-value report gaps, **Colleen Boyle** (who coordinates the decision) and **Leslie Anderson** (why museums decline), then four more seats, **Anou Singhvi** (nine-generation stewardship), **Matthew Erskine** (estate structure/operating foundations), **Gretchen Sorin** (museum durability across 200+ institutions), **Jennifer Findley** (collector/museum-committee bridge). **Do not contact all ten at once**, the first conversations reshape the later questions. **Backup rule:** verify each person's current role before outreach; if stale, replace the person, not the perspective (the unit is the seat and its question, not the name).
+
+**Two of these are really [[problem-discovery]] interviews.** Colleen Boyle's coordination question, *"who coordinates the whole decision across collector, family, attorney, wealth advisor, appraiser, museum, and where are the gaps in ownership?"*, is a direct test of **H7A** (the unowned pre-decision, Nariway's core thesis). Leslie Anderson tests the receiving-side "museums say no" claim. Log both as rows in [[problem-discovery]] as well.
+
+### How the conversations feed the report (chapter map)
+Ch.1 transfer (triggers, succession) · Ch.2 pathways (why one wins) · Ch.3 evidence (governance/durability/access/failure tests) · 4.2 cost of keeping art (real, unpriced costs) · 4.4 risk/value/structure (estate, foundations, valuation, restrictions) · 4.5 why museums say no (receiving-side criteria and hidden costs) · Outlook (weak signals on new models).
 
 ## Qwoted — run it as a sensor, not a publishing calendar (decided 2026-08-16)
 The point of Qwoted is not to fill an interview slate. It is to **discover people, stories, models, and problems we don't yet know exist** — the things desk research and our own taxonomy can't surface. So run it as a sensor: **ask → listen → notice the anomalies → ask a better next question → repeat.** Do not pre-program a fixed sequence of queries and dutifully execute it; let the *responses* choose the next query. The Drucker move applied to outreach.

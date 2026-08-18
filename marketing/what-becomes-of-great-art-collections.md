@@ -201,6 +201,8 @@ Candidate predictions for the inaugural edition, to firm up as the evidence does
 
 **Discipline.** Every number is sourced with a confidence tag, or marked unknown with the source that would resolve it. Modeled figures are labeled as models. "Unknown" is a counted value; every chart states n and how many cases were unknown for that field. A citation audit gates publication. The recurring numbers live in [[claims-register]]; the coded evidence in [[report-dataset]]; the ecosystem research in [[market-intelligence]].
 
+**Interviews.** The Nariway conversations ([[conversations-series]]) are **primary qualitative evidence, not statistical proof.** An interview can explain a mechanism, reveal a practice, challenge a finding, or point to a source. A quantitative claim from an interview ("80% of collectors do X") does not enter this report because an expert said it; it is verified independently first, or marked unknown.
+
 ---
 ---
 
