@@ -75,6 +75,15 @@ Four inbound Qwoted responders first, **Mark Hilbert** (collector → university
 ### How the conversations feed the report (chapter map)
 Ch.1 transfer (triggers, succession) · Ch.2 pathways (why one wins) · Ch.3 evidence (governance/durability/access/failure tests) · 4.2 cost of keeping art (real, unpriced costs) · 4.4 risk/value/structure (estate, foundations, valuation, restrictions) · 4.5 why museums say no (receiving-side criteria and hidden costs) · Outlook (weak signals on new models).
 
+### Outreach message essentials (outbound, from the Hilbert draft, 2026-08)
+Every outreach message and interview Doc should:
+- **Personalize from real homework** (dates, names, specifics). The Hilbert questions do this well, and it is the whole edge over PR-generated Q&As.
+- **Make the Doc self-explanatory.** It may reach the subject without the Qwoted/intro note, so put a short framing at the top of the *Doc itself*: what Nariway is, that this is a written Nariway Conversation, that it publishes on Nariway first and is later featured in Artobiography.
+- **Offer a review-before-publish step.** Telling the subject they can review the final piece before it goes live is the single biggest willingness-to-participate lever, and standard courtesy for written interviews.
+- **Set async, no-length-pressure expectations**, and note one or two possible follow-ups.
+- **Verify every fact asserted to the subject** (collection size, gallery count, anniversaries) and any "you have said" attribution. Getting the subject's own facts wrong undercuts the homework effect. Source it or soften it.
+- Route through the [[voice]] rules; use *they* for anyone whose pronouns you do not know.
+
 ## Qwoted — run it as a sensor, not a publishing calendar (decided 2026-08-16)
 The point of Qwoted is not to fill an interview slate. It is to **discover people, stories, models, and problems we don't yet know exist** — the things desk research and our own taxonomy can't surface. So run it as a sensor: **ask → listen → notice the anomalies → ask a better next question → repeat.** Do not pre-program a fixed sequence of queries and dutifully execute it; let the *responses* choose the next query. The Drucker move applied to outreach.
 
