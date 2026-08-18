@@ -29,6 +29,16 @@
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-18 — Cloud run
+
+**Prospects (+1 → filed to [[prospects]])**
+
+- **Joop van Caldenborgh, founder of Museum Voorlinden (Wassenaar, NL), gave a fresh on-record interview about his collection as the museum nears its 10th anniversary (Sept 10, 2026).** He's already done what most of the universe only discusses: donated his collection, the historic estate, and the museum building to the Voorlinden Foundation, and set up a separate supporting foundation to secure the museum's future. The Art Newspaper interview (June 16, 2026) has him talking on the record about what he collects and why — a living founder still narrating the legacy he already built. A clean example of executed governance, not just stated intent. [The Art Newspaper](https://www.theartnewspaper.com/2026/06/16/i-bought-a-portfolio-of-prints-with-the-money-i-earned-from-my-paper-route-joop-van-caldenborgh-on-the-art-he-collects-and-why) · [Voorlinden 10-year piece](https://thehagueonline.com/ten-years-of-voorlindendreams-ambitions-and-a-swimming-pool-full-of-art/)
+
+**Checked and ruled out (worth a note, not a signal):** a widely-shared "Christie's $180M Weis Collection" story turned out to be from the *2025* November marquee week (sale already happened, highlights already toured), not a new 2026 announcement — excluded rather than logged as fresh. No new single-owner sale has been announced yet for the 2026 November NYC marquee week beyond the Blaquier collection already filed; no preview dates published yet for Blaquier. Cases, corporate collections, partners, and events beats otherwise turned up nothing beyond what's already in [[candidate-universe]], [[partners]], and the events register. Courses beat: nothing new — Sotheby's Institute's NY Art, Finance and Investment intensive (already in [[courses-register]], already declined) remains the only current offering found.
+
+**To-see nudge:** Christie's Medaugh Hiroshige preview (Sept 11–14) is now 24 days out, still just outside the ~3-week window — expect it to cross next cycle. Betye Saar (closes Oct 4) and Ashbery (closes Oct 25) remain outside the window.
+
 ### 2026-08-17 — Cloud run
 
 **Cases + auction scene (+1 → filed to [[candidate-universe]] and [[to-see]])**
