@@ -68,7 +68,7 @@ A work-function specialized in authoring authoritative, data-rich research repor
 
 ## Decisions (locked 2026-08)
 1. **Title: "What Becomes of Great Art Collections"** (working title, Alina's choice). "The Great Art Transfer" is available as the inaugural edition's theme or subtitle to ride the moment.
-2. **Scope confirmed:** at least 50 cases, US-weighted with international benchmarks, the transfer as the spine.
+2. **Scope confirmed:** at least 50 cases, US-weighted with international benchmarks, the transfer as the spine. **Target raised 2026-08-18 (Alina): grow to ~75 near-term and ~100 over time; the 50 cap is lifted.** Breadth resumes alongside depth (primary-source verification when egress allows, plus cross-case analysis).
 3. **Lean first artifact: yes.** Publish a short, data-driven teaser (a few killer, fully-sourced charts plus the transfer thesis) *before* the full report, to start the authority and test appetite. Treat as a near-term Phase 2/3 deliverable off the pilot cases plus the market data.
 4. **Archive access: okay.** Alina will pursue the few primary docs (like the McNay will) that only a relationship or records request can unlock, for depth on flagship cases.
 5. **Green light** to run the coding in the background while her attention stays on the Dawn call and the Souls Grown Deep email.
