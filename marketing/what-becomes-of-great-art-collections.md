@@ -141,7 +141,25 @@ A modeled all-in figure for a *specific* collection would be a model, and is lef
 
 ### 4.3 Art finance
 
-Art-secured lending (~US$33.9 to 40 billion in 2025, C7) postpones a disposition rather than resolving it, adding interest and covenants and a possible forced sale later; plus art funds and fractional ownership. *Research underway.*
+Art-secured lending lets an owner extract liquidity from a collection without deciding its future. That is the product's appeal, and its structural limit: the loan does not resolve the collection's fate, it adds a creditor to it.
+
+**The market has quadrupled in a decade.** Outstanding art-secured loans stood at roughly **US$34 to 40 billion in 2025** (C7), up about **4x since 2015**, with the US market growing 15 to 20% a year over the last five years and projected to reach US$42.0 to 50.1 billion by 2027. Private banks alone hold an estimated US$13 to 15 billion of that book.
+
+**Table 3. How an art-secured loan is actually priced.**
+
+| Term | Typical figure | Ref |
+|---|---|---|
+| Loan-to-value | 50 to 60%; Citi's standard is 50% LTV with a US$10M minimum loan | C21 |
+| Minimum collection size | US$20M+ at Bank of America, US$10M minimum loan | C21 |
+| Interest rate | ~0.71 to 3.25%, priced as a spread over SOFR | C21 |
+
+**Auction houses are lenders now too.** Sotheby's Financial Services' own loan book doubled from US$800M to US$1.6B since 2021; Christie's Art Finance is estimated (not disclosed) at roughly US$500M (C22). Both houses can advance against a work's low estimate and, on default, sell the same work, a structural echo of the independence problem the report's advisory thesis is built around.
+
+**Why it matters.** A loan **postpones** the keep/sell/donate decision rather than resolving it. If the collateral's value falls and breaches the agreed loan-to-value, the borrower faces a margin call, additional collateral, paydown, or forced sale, typically at auction, in what is often the worst possible market moment to sell, with continuing liability for any shortfall (C22). For a family already delaying the harder governance question, a loan can quietly convert "undecided" into "decided by a margin call."
+
+> **Box 3. Fractional ownership is a different product, not a lighter version of a loan.** Platforms such as Masterworks sell shares in a single artwork to investors; it solves small-ticket market exposure, not liquidity for an existing collection, and carries its own concentrated platform risk. Not treated as an art-finance instrument in the sense above.
+
+Art funds and the fine-art insurance market remain *research underway*.
 
 ### 4.4 Risk, value, and structure
 
@@ -191,6 +209,7 @@ Candidate predictions for the inaugural edition, to firm up as the evidence does
 *Everything below this line is working material. The reading draft ends above.*
 
 ### Changelog (newest first, the research engine appends here)
+- **2026-08-18** — §4.3 ("art finance") drafted from sourced research: market size and trajectory (4x growth since 2015, projected to $42-50B by 2027), loan pricing terms (LTV, minimums, rates), the auction houses' own lending desks, and the margin-call/forced-sale mechanism. New claims C21-C22; detail in [[market-intelligence]] #7. Case dataset unchanged this run (still 50/50, WebFetch reconfirmed blocked, tenth consecutive run); two backlog contradictions narrowed via WebSearch ([[marciano]], [[jpmorgan-chase-collection]]) — see [[report-dataset]] Batch 11.
 - **2026-08-17** — §4.5 ("why museums say no") drafted from sourced research: the 90-95% gift-rejection rate, a storage-cost case study, AAM's 2025 sector financial snapshot, a live Philadelphia Museum of Art deficit example, and AAMD's direct-care deaccessioning rule. New claims C17-C20; detail in [[market-intelligence]] #6. Case dataset unchanged this run (still 50/50; WebFetch reconfirmed blocked, ninth consecutive run).
 - **2026-08-17** — Restructured into a clean WEF-style layout (preface, key-findings box, contents, five parts, appendix), working notes moved to this workshop, and the file renamed to the report's title. Content unchanged, only clarified.
 - **2026-08-17** — "The cost of keeping art" (now 4.2) drafted from sourced research: storage/freeports, insurance, conservation, handling, with the ~2.6%/yr emotional-yield anchor and the freeport paradox. New claims C13-C16; detail in [[market-intelligence]] #5.

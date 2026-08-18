@@ -36,8 +36,8 @@
 **Source:** Art Basel/UBS Global Art Market Report 2026, via [[market-intelligence]] #1.
 
 ### C7 · Art-secured lending market — [DOC-secondary]
-**Canonical:** Art-secured lending estimated at **~$33.9–40B in 2025**. Lending **postpones** a disposition decision (provides liquidity without a sale); it does not remove it, and adds interest, covenants, and possible forced sale later.
-**Source:** Deloitte, via [[market-intelligence]] #1 and The Art Newspaper (2026).
+**Canonical:** Art-secured lending estimated at **~$33.9–40B in 2025**, up roughly **4x since 2015**, projected to **$42.0–50.1B by 2027** (the US market grew ~15–20%/yr over the prior five years). Private banks alone hold an estimated **$13–15B** of that loan book; 2025 industry revenue (interest + fees) is estimated near **$2.3B**. Lending **postpones** a disposition decision (provides liquidity without a sale); it does not remove it, and adds interest, covenants, and possible forced sale later — see C22 for the specific margin-call/forced-sale mechanism.
+**Source:** Deloitte/ArtTactic Art & Finance Report 2025, via [[market-intelligence]] #1 and #7, and The Art Newspaper (2026).
 
 ### C8 · Spousal transfer, and to women — [DOC-secondary]
 **Canonical:** In the US, roughly **$54T is expected to pass first between spouses, with >95% of those transfers going to women** (Cerulli). So the first post-inheritance decision-maker is frequently a surviving wife, not a younger heir. (US total transfer through 2048 ≈ $124T, HNW/UHNW ≈ 2% of households but >half the total.)
@@ -106,6 +106,18 @@
 **Canonical:** PMA reported a **~$10M operating deficit on a $75.6M FY2025-26 budget**, up from $5.4M the prior year, with FY2026-27 projected flat to as high as **$15.9M**, funded from cash/reserves.
 **Source:** [[market-intelligence]] #6 (Philadelphia Inquirer, Jul 2026; corroborated by Artforum/ARTnews/Artnet).
 **Use:** a live, large-scale illustration of the same funding-erosion mechanism [[report-dataset]] Pattern 2 codes for the Corcoran. PMA is **not** a coded case (general museum, not collector-founded — outside this sample's unit of analysis).
+
+---
+
+### C21 · Art-secured loan terms (LTV, minimums, rate) — [DOC-secondary]
+**Canonical:** Typical art-secured loans run **50 to 60% loan-to-value**; Citi Private Bank's stated standard is **50% LTV with a $10M minimum loan**, Bank of America requires a collection worth **$20M+** and a **$10M minimum loan**. Rates are priced at a spread over SOFR, reported in a broad **~0.71% to 3.25%** range.
+**Source:** [[market-intelligence]] #7 (Sotheby's Financial Services; Masterworks Academy explainer, 2026).
+**Use:** the price/access structure behind C7's market size — who can actually borrow, and on what terms.
+
+### C22 · Auction-house lending desks and the margin-call/forced-sale mechanism — [DOC-secondary]
+**Canonical:** Sotheby's Financial Services' own loan book grew from **$800M to $1.6B since 2021** (doubling in four years); Christie's Art Finance loan book is analyst-estimated at roughly **$500M** (not disclosed by Christie's itself). If a work's appraised value falls and breaches the agreed LTV, the borrower faces a margin call, additional collateral, paydown, or seizure and forced sale, typically at auction, with continuing liability for any shortfall.
+**Source:** [[market-intelligence]] #7 (ARTnews; Art Basel; BS Arts Society; UEN Pressbooks, 2026).
+**Do NOT say:** the Christie's figure is confirmed — it is a single analyst's estimate, not a disclosed number.
 
 ---
 
