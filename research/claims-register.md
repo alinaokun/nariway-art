@@ -121,6 +121,23 @@
 
 ---
 
+### C23 · 2026 estate/gift tax exemption — [DOC-secondary]
+**Canonical:** The One Big Beautiful Bill Act set the federal estate/gift tax exemption at **$15M per individual ($30M per married couple) starting in 2026**, indexed for inflation thereafter, permanently replacing the smaller exemption that was set to roughly halve at end-2025. A materially higher bar before art gets swept into taxable estate value — weakens the classic "give it away before the estate tax bites" motive for large collections.
+**Source:** [[market-intelligence]] #8 (Nelson Mullins, ACTEC estate-planning summaries of the statute, 2026).
+**Do NOT say:** this is the statute's own text — it is advisory-firm interpretation, not a direct fetch of the law.
+
+### C24 · 2026 charitable-deduction 0.5% AGI floor — [DOC-secondary]
+**Canonical:** Starting in 2026, itemizers may deduct charitable contributions, including art gifts, only to the extent they exceed **0.5% of AGI** (a $300K-AGI household loses the first $1,500 of any gift to the floor). The 60%-of-AGI ceiling for cash gifts to public charities was made permanent in the same law; non-itemizers gained a small new $1,000/$2,000 deduction. Net effect for a large itemizing art donor: modestly less rewarding to give than before 2026.
+**Source:** [[market-intelligence]] #8 (Fidelity Charitable, TurboTax, and other advisory-firm summaries of the OBBBA, 2026).
+**Use:** paired with C23 as the report's sharpest 2026-specific finding — one provision reduces pressure to give art away, the other makes giving it away slightly less rewarding, both pulling toward retention (reinforces C3).
+
+### C25 · Fractional-gift completion window and clawback — [DOC-secondary]
+**Canonical:** A donor may give a museum an undivided percentage interest in a work over multiple years, but must complete the gift (donate all remaining interest to the same institution) within **10 years of the first fractional gift, or at death if sooner**; missing the deadline **recaptures every prior deduction claimed on the item, plus interest, plus a 10% penalty**, and the museum must hold the work for a period proportional to its ownership share each year throughout.
+**Source:** [[market-intelligence]] #8 (GiftLaw Pro / American Humane Society technical explainer; a tax-planning law firm's fractional-gifts memo, 2026).
+**Use:** paired with C22 (art-loan margin call) as a matched "flexible pathway, hidden clawback" pair — both convert a postponed decision into a forced one on a fixed clock.
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
 
 ## The convention

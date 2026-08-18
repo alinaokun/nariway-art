@@ -163,7 +163,28 @@ Art funds and the fine-art insurance market remain *research underway*.
 
 ### 4.4 Risk, value, and structure
 
-The fine-art insurance market; how art is valued for gift, estate and sale, and why the number is contested; estate and gift tax, private operating foundations as a museum vehicle, deaccession law, and the provenance risk that shadows any collection entering an institution. *Research underway.*
+*The tax code, valuation practice, and property law form the invisible scaffolding under every pathway in [[report-dataset]]. This section opens with the tax and legal layer; the fine-art insurance market and a fuller treatment of appraisal practice remain research underway.*
+
+**2026 pulls the donation decision in two directions at once.** A single piece of federal legislation now shapes both ends of the calculation a family makes about giving art away. The federal estate and gift tax exemption rose to **US$15 million per person (US$30 million per couple)** starting this year, permanently replacing a smaller, temporary exemption, so fewer, larger collections face the estate-tax pressure that has historically pushed families toward a museum gift. In the same law, itemized charitable deductions, including art gifts, are now reduced by a new **0.5% of AGI floor**, making the deduction for that same gift modestly smaller when a collector chooses to give anyway. Both changes point the same way, toward keeping the collection rather than giving it away, reinforcing this report's finding that retention is already the empirical norm (§1, C3), now with a live policy tailwind behind it.
+
+**Table 4. The tax scaffolding around a gift of art.**
+
+| Rule | What it means for a collection | Ref |
+|---|---|---|
+| Estate/gift tax exemption | $15M single / $30M couple from 2026, indexed thereafter | C23 |
+| Charitable deduction floor | Itemized gifts (incl. art) deductible only above 0.5% of AGI, from 2026 | C24 |
+| Operating vs. non-operating private foundation | Gift to an *operating* foundation can reach full fair-market-value, up to 50% of AGI; a *non-operating* foundation caps the deduction near cost basis, 20% of AGI | [[market-intelligence]] #8 |
+| Fractional-gift completion window | Remaining interest must transfer within 10 years of the first gift, or at death; miss it and every prior deduction is recaptured plus a 10% penalty | C25 |
+
+**Why some founders choose the harder structure.** Several cases in [[report-dataset]], among them Glenstone and Chinati, are organized as *private operating foundations* rather than simple grantmaking ones. The case narratives explain this as a control choice; the tax rule above supplies the other half: an operating foundation earns the founder a materially better deduction on lifetime gifts of the collection itself, not just more control over how it is run.
+
+**Valuation is contested because the government checks it, and finds reason to disagree.** The IRS refers any appraised artwork worth $50,000 or more, on an audited return, to its own **Art Advisory Panel**, a standing panel of museum directors, curators and dealers created in 1968. In the most recent year a public tally could be found (2012, a dated figure flagged as such), the Panel recommended adjusting **65%** of the appraisals it reviewed. Valuation disputes are not the exception in this territory; they are closer to the norm.
+
+**Two flexible pathways share a hidden clawback.** Art-secured lending (§4.3) lets a family postpone the keep/sell/donate decision, at the cost of a margin call if the collateral's value falls. Fractional gifts offer a comparable postponement in the other direction, donating a work gradually, at the cost of the same kind of clawback if the ten-year completion window lapses. Read together, they are the report's clearest illustration that a pathway which avoids one hard decision usually just moves the hard decision onto a clock.
+
+> **Box 4. Provenance risk got a new enforcement chapter in April 2026.** The Holocaust Expropriated Art Recovery Act of 2025 was signed into law April 13, 2026, re-arming US courts to hear decades-old Nazi-era restitution claims; a Manhattan court ordered the return of a Modigliani to an original owner's heir the same month, after an eleven-year case. It is a current, live reason museum due-diligence and title-warranty requirements before accepting a major gift (§4.5) keep tightening.
+
+The fine-art insurance market and a fuller treatment of appraisal standards remain *research underway*.
 
 ### 4.5 Institutional economics: why museums say no
 
@@ -211,6 +232,7 @@ Candidate predictions for the inaugural edition, to firm up as the evidence does
 *Everything below this line is working material. The reading draft ends above.*
 
 ### Changelog (newest first, the research engine appends here)
+- **2026-08-18 (2nd run)** — §4.4 ("risk, value, and structure") opened from stub with the report's first tax & legal structures content: the 2026 estate-exemption/charitable-deduction-floor pair (pulling the donation decision in opposite directions in the same year), the operating-vs-non-operating private foundation deduction gap, the IRS Art Advisory Panel's 65% appraisal-adjustment rate, the fractional-gift 10-year clawback (paired with the art-loan margin call as a matched "flexible pathway, hidden clawback" finding), and the April 2026 HEAR Act provenance-enforcement development. New claims C23-C25; detail in [[market-intelligence]] #8. Case dataset unchanged this run (still 50/50, WebFetch reconfirmed blocked against a twelfth distinct domain, eleventh consecutive run); [[sid-richardson]]'s net-assets figures dated to FY2024 and corroborated via a second aggregator, plus a new 3-year trend — see [[report-dataset]] Batch 12.
 - **2026-08-18** — §4.3 ("art finance") drafted from sourced research: market size and trajectory (4x growth since 2015, projected to $42-50B by 2027), loan pricing terms (LTV, minimums, rates), the auction houses' own lending desks, and the margin-call/forced-sale mechanism. New claims C21-C22; detail in [[market-intelligence]] #7. Case dataset unchanged this run (still 50/50, WebFetch reconfirmed blocked, tenth consecutive run); two backlog contradictions narrowed via WebSearch ([[marciano]], [[jpmorgan-chase-collection]]) — see [[report-dataset]] Batch 11.
 - **2026-08-17** — §4.5 ("why museums say no") drafted from sourced research: the 90-95% gift-rejection rate, a storage-cost case study, AAM's 2025 sector financial snapshot, a live Philadelphia Museum of Art deficit example, and AAMD's direct-care deaccessioning rule. New claims C17-C20; detail in [[market-intelligence]] #6. Case dataset unchanged this run (still 50/50; WebFetch reconfirmed blocked, ninth consecutive run).
 - **2026-08-17** — Restructured into a clean WEF-style layout (preface, key-findings box, contents, five parts, appendix), working notes moved to this workshop, and the file renamed to the report's title. Content unchanged, only clarified.
