@@ -98,6 +98,8 @@ Query A will draw PR pitches. Be selective — but the same PR people are contac
 > Thank you so much for this — I appreciate you thinking of the series. It isn't quite the right fit for what I'm featuring right now, but I'd genuinely like to stay in touch; the focus evolves and I may circle back. Please keep me in mind for collectors or projects involving unusual ways of bringing privately held art into public life.
 
 ## Qwoted Intelligence Log
+**The master pipeline lives in Alina's external spreadsheet** (her working doc, decided 2026-08-17). This vault log is **not** the system of record, so do not treat it as a gap when it is empty. Mirror into the vault only if Alina asks. There are already real Query A responses in the spreadsheet (e.g. Roxanna Zarnegar via a PR firm, Alexis Hyde), plus the Expert-directory finds.
+
 The success test for Query A is **not** an article. It is whether, six months out, you can trace **five stories, three important relationships, two new hypotheses, and one unexpected direction** back to people who answered it. Log every substantive response here (not just the interview-worthy ones — the anomalies matter most). Recurring problems route to [[what-we-now-believe]]; practitioner responses also get a row in [[problem-discovery]].
 
 | Date | Person | Role | Organization | Collection / model mentioned | Why interesting | New problem surfaced | New model surfaced | Potential Artobiography story | Potential Nariway relationship | Follow-up | Intros they might provide |
