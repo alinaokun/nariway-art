@@ -50,9 +50,10 @@
 ---
 
 ### C10 · Wealth managers offering art services — [DOC-secondary]
-**Canonical:** ~**51%** of wealth managers now offer art-related services, up from roughly **25% in 2011** (Deloitte Art & Finance). Evidence the surrounding financial-services industry increasingly sees the collection as a live problem.
-**Source:** Deloitte Art & Finance Report (via ChatGPT market-sizing review 2026-08-16; confirm exact figure in the report before citing publicly).
-**Use:** landscape/why-now, not a Nariway market size.
+**Canonical:** ~**51%** of wealth managers offered art-related services in 2025 — up from roughly **25% in 2011** over the long run, but **down from 63% in 2023** in the near term (consistent across both private banks, 50%, and family offices, 52%). Meanwhile **79%** average consensus among wealth managers, collectors, and art professionals agrees art *should* be part of wealth management, and **87%** of managers who do offer it cite the need for an integrated advisory relationship. **Read together: rising long-run acceptance, a recent execution dip, and a live gap between stated conviction and actual delivery** — not a single steady upward trend.
+**Source:** Deloitte Art & Finance Report (2011/general figure via ChatGPT market-sizing review 2026-08-16; the 2023→2025 trajectory and consensus/driver figures via [[market-intelligence]] #10, Deloitte Art & Finance Report 2025, WebSearch-synthesized, not directly fetched).
+**Do NOT say:** wealth-manager art-service adoption has risen steadily since 2011 — the most recent two-year window (2023-2025) moved the other way.
+**Use:** landscape/why-now and the professional-ecosystem services-gap finding, not a Nariway market size.
 
 ### C11 · Art as a share of collector wealth — [DOC-secondary]
 **Canonical:** among surveyed HNW collectors, art averaged ~**20%** of wealth, rising to ~**28%** for those with >$50M, and ~**24%** for those collecting 20+ years (Art Basel/UBS Survey of Global Collecting 2025, ~3,100 collectors across 10 markets; avg 2024 spend ~$439K across ~14 works).
@@ -147,6 +148,18 @@
 **Canonical:** Five market-research vendors give five mutually contradictory fine-art-insurance market-size estimates (ranging from ~$3.2B to an implausible ~$459B for 2025), none tracing to a named, reputable analyst house or disclosed methodology. **Do not cite any fine-art-insurance market-size figure as fact** — the honest state is `unknown at a reliable confidence tier`, pending a directly-fetched Deloitte/A.M. Best/S&P Global figure.
 **Source:** [[market-intelligence]] #9.
 **Use:** cite this entry, not a number, when the report needs to state the state of the insurance-market-size literature. Structural facts (leading carriers AXA XL/Chubb/AIG/Hiscox/Allianz; Lloyd's Fine Art & Specie syndicates as the traditional center of the trade) are corroborated and usable; the market-size figures are not.
+
+---
+
+### C28 · Independent art-advisor fee structure and the APAA's no-commission rule — [DOC-secondary]
+**Canonical:** Independent art advisors typically bill by retainer, hourly, or a **commission of roughly 10%** of a transacted work's value; the same ~10% figure recurs as an undisclosed-risk "introductory commission" some galleries pay an advisor for bringing a client to a sale. The **Association of Professional Art Advisors (APAA)**, the field's own credentialing body, bars members from accepting any sale-related remuneration that could conflict with a client's interests — a direct, profession-internal acknowledgment that the conflict is real and common enough to require a rule against it.
+**Source:** [[market-intelligence]] #10 (Artnet; Doug Woodham, "The Secret Middlemen of the High-End Art Market"; Art Services Network, 2026).
+**Use:** the sharpest available structural evidence for H7A's independence framing — a recognized fault line in the existing market, not one Nariway would be inventing.
+
+### C29 · Private collection-management staffing cost — [DOC-secondary]
+**Canonical:** A dedicated private art collection manager costs roughly **US$60,000 to $150,000/year** in the US, scaling with portfolio size and complexity; museum-employed registrars earn less, roughly **$37,000 to $90,000**. The Association of Registrars and Collections Specialists (ARCS) is the field's professional body for the custodial/cataloguing side of collection care.
+**Source:** [[market-intelligence]] #10 (Household Staff Agency; ZipRecruiter aggregated postings, 2026).
+**Use:** the labor line in the "cost of keeping art" chapter (§4.2), alongside storage/insurance/conservation/handling (C13-C16).
 
 ---
 
