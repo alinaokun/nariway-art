@@ -17,6 +17,12 @@ So much extraordinary art sits behind closed doors, seen by almost no one. It co
 > **Alina Okun, Founder**
 > *The future of private art collections. Every collection has a life beyond the person who built it.* (the live site hero)
 
+## Bio (canonical, first-person, set 2026-08-19)
+*Alina's primary bio, use this as the default About/bio across channels. Supersedes the earlier "About Alina" one-pager text. The live site About page and other profiles should be updated to this when convenient (the site via the `nariway-rebuild` project).*
+> My professional background spans more than two decades in finance, strategy, and organizational leadership, from public accounting and corporate finance to management consulting and serving as CFO of a technology company. Over time, research and writing became an increasingly important part of my work.
+>
+> Art has long been part of my life as a collector and writer. Today, my work centers on private art collections and their long-term futures. I am especially interested in how collections move across generations and institutions, the decisions that shape those transitions, and how more privately held art can find meaningful ways into public life.
+
 ## Public copy — live profiles (canonical, as of 2026-08-13)
 *The actual language on Alina's live profiles, cleaned to the [[voice]] craft standards (no em dashes, no colons in prose, no And/But sentence starts). When a profile changes, update this so the vault and the live text never drift.*
 
@@ -30,7 +36,7 @@ So much extraordinary art sits behind closed doors, seen by almost no one. It co
 > **About page.** Every collection has a future. Private art collections are often built over decades. During that time, families change, fortunes change, institutions change, and collectors themselves may begin to think differently about ownership, access, and what they want to leave behind. Nariway was created to study what happens next. We research how private collections remain in families, move into institutions, reach the public, change hands, or take entirely different forms over time. That research also informs our advisory work with collectors and families considering the future of their own collections.
 > **Founder bio (site version).** Alina Okun has spent more than two decades studying how organizations make financial and strategic decisions, first as a finance professional and management consultant, later as a startup CFO, private investor, and researcher. Her background spans public accounting, corporate finance, strategy, and investing across industries and international markets. She holds a doctorate in strategy and innovation, an MBA, and a bachelor's degree in public accounting. Alina is also a longtime art collector, researcher, and writer. Her work at Nariway is driven by a desire to see more privately held art find meaningful ways into public life.
 
-*The site founder bio is cleaner and more credential-forward than the Substack "About me" and differs in detail (it adds the MBA and the public-accounting degree, uses "management consultant / private investor," and omits the Arthur Andersen/UBS and "hundreds of museums" specifics). Each is correct for its channel; the site version is canonical for the site.*
+*This is the third-person founder bio currently live on nariway.com. **Update to do (2026-08-19):** replace it with the new first-person canonical **Bio** above, via the `nariway-rebuild` project. Until then, the canonical Bio governs; this block records what is still on the live page.*
 
 **Headline (standardize everywhere):** Founder, Nariway | Publisher, Artobiography *(LinkedIn may extend it with | Former CFO, a credential that earns its place with referral partners)*
 

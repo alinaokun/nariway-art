@@ -41,8 +41,7 @@ Voice-clean, describes researching, no advisory promise. Drop-in copy:
 > The stories behind remarkable art collections, and what becomes of them.
 > *[Read Artobiography]* → (link to the Substack)
 
-**About Alina**
-> Alina Okun founded Nariway. She spent more than 20 years in finance and business, from Arthur Andersen and UBS to serving as CFO of a technology company, and holds a doctorate in Strategy and Innovation. She has visited hundreds of museums, collected art, and written about artists and art. Nariway is where those two worlds meet, art on one side, and finance, organizations, strategy, and long-term durability on the other.
+*(About Alina removed 2026-08-19, superseded by the canonical Bio in [[positioning]].)*
 
 **Contact**
 > (email / contact form)
