@@ -1,6 +1,8 @@
 # Nariway Design System — the house style (canonical)
 
-*Everything Nariway produces visually, reports, decks, org charts, the website, uses this. The goal is a **modern, sophisticated, authoritative, highly elevated** look, the restraint of a top research institute (WEF, McKinsey Global Institute) with the precision of a contemporary art institution. Authority comes from space, hierarchy, and precision, never from decoration.*
+*Everything Nariway produces visually, reports, decks, org charts, uses this. The goal is a **modern, sophisticated, authoritative, highly elevated** look, the restraint of a top research institute (WEF, McKinsey Global Institute) with the precision of a contemporary art institution. Authority comes from space, hierarchy, and precision, never from decoration.*
+
+> **The LIVE nariway.com brand diverges from this (noted 2026-08-19).** The rebuilt site uses a warmer, **editorial** identity, **Newsreader** serif headlines + **Manrope** body (+ Schibsted Grotesk), white ground, warm near-black ink, owned by the separate `nariway-rebuild` project (see [[website]]). This design system still governs **internally produced assets** (the flagship report, decks) unless Alina decides to align them to the new site brand. Divergence flagged; reconciliation is her call.
 
 ## Hard don'ts (what "elevated" is NOT)
 - **No warm cream / beige / yellowish grounds. No brown or terracotta ink or accents.** (This was the earlier mistake, it is the generic AI-design cliché, not sophistication.)

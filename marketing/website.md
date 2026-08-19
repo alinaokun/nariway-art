@@ -1,6 +1,21 @@
 # Website — nariway.com and alinaokun.com
 
-*A CMO work-function (no persona): the public-facing outlets. **The Qwoted query does NOT wait on either site.** Priority now is a cheap interim fix so nothing public actively contradicts the new positioning, not a redesign. Full rebuild is deferred until Artobiography has published work to point to (rebuilding now is the premature-brand-build the CFO watches for). Positioning per [[positioning]]: Nariway is described as **researching** right now, not as a priced advisory, because what the advisory promises is exactly what the evidence phase is still resolving.*
+*A CMO work-function (no persona): the public-facing outlets, nariway.com and alinaokun.com.*
+
+## nariway.com — FULLY REDESIGNED AND LIVE (2026-08-19)
+**The entire site was rebuilt with a totally new brand.** This is no longer the interim one-pager or the concept discussed below, it is a complete, live site. **Source of truth for the design lives in the separate `nariway-rebuild` Claude Code project (which does NOT share memory with this vault) and on the live site itself, so scrape nariway.com or open that project for specifics.** Captured here 2026-08-19 by direct browser scrape:
+
+- **Information architecture / nav:** Conversations · About · Contact, with **Artobiography** linked as the publication. This realizes the conversation-first architecture ([[editorial-direction]]): Nariway is the home of the Conversations; Artobiography is the publication that synthesizes them.
+- **Hero:** "The future of private art collections" / "Every collection has a life beyond the person who built it," then the ~$992B transfer framing (Deloitte/ArtTactic, matches [[claims-register]] C1) and "Nariway studies what happens next."
+- **Conversations are LIVE and first-class.** Already published on-site: **Hall W. Rockefeller** (Less Than Half), "Being a female artist is an endurance sport," and **Adam Szymanski** (art advisor, Berlin), "Art is not a passive investment." So the Nariway-as-Conversations-archive model is real and running, not just planned.
+- **Advisory framing (honest to stage):** "Research and advisory for private art collections," with a soft CONTACT ("Considering the future of a collection?") for collectors and families making long-term decisions, not a hard sales pitch.
+- **The new visual brand (from the live CSS):**
+  - **Typography:** **Newsreader** (serif) for headlines and display, **Manrope** (sans) for body text, **Schibsted Grotesk** for some display/labels. A serif-headline, literary/editorial identity, a publication feel.
+  - **Palette:** white background, warm near-black ink (headings ~#1A1A17, body ~#0A0A0A). Minimal, sharp corners (0 radius), understated text/outline buttons, no filled buttons.
+  - This is a DIFFERENT direction from the earlier cool-navy "Institutional Modern" concept in [[design-system]], warmer and more editorial. The live rebuild is now the authoritative brand; treat the older design-system concept as superseded for the site.
+- **Reconciliation to do later (not now):** the live hero/section copy differs from the canonical public copy in [[positioning]]; the live site is authoritative for the site. Align positioning to the live copy when convenient.
+
+*Everything below this line is HISTORICAL, the pre-redesign interim and concept discussions, kept for the record. It no longer describes the live site.*
 
 ## Does posting the Qwoted query wait on the websites? No.
 The query points people to **Artobiography** (Substack), which is clean and on-message, and interviewees respond inside Qwoted. Neither website sits on that path. Holding the query for a site rebuild would be the exact over-building trap the whole strategy is guarding against. **Post the query now.** The site work runs in parallel, on its own clock.
