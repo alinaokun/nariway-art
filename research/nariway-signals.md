@@ -29,6 +29,16 @@
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-19 — Cloud run
+
+**Cases (+1 → filed to [[candidate-universe]])**
+
+- **Casabianca, Lake Como — the De Santis family's private post-war/Arte Povera collection, opened inside a boutique hotel.** A 1930s villa built by architect Piero Ponci for a textile manufacturer, on Como's quayside, now holds ~50 works — Kounellis, Kiefer, Vedova, Pistoletto, Kentridge, Paolini, Boetti, Merz, Calzolari, Zorio — spread across three floors and fifteen rooms, alongside working hotel rooms. Opened May 2026; caught late here (the Art Newspaper piece ran May 6) but not previously logged. Distinctive for the pathway, not just the collection: a **hospitality venue as the display form**, no museum, no foundation, a living family running both the art and the rooms as one thing. A genuinely novel non-building answer to "how does a private collection go semi-public," worth watching for whether it stays a one-off or becomes a repeatable model (art-hotel as legacy vehicle). [The Art Newspaper](https://www.theartnewspaper.com/2026/05/06/hotel-and-art-hub-casabianca-opens-on-italys-lake-como) · [Grand Hotel Tremezzo](https://www.grandhoteltremezzo.com/en/gazette/a-new-home-for-art-casabianca/)
+
+**Checked and ruled out (not a signal):** Kiran Nadar Museum of Art's Adjaye-designed Delhi building — still only "opening 2026," no firm date beyond what [[prospects]] already has on Kiran Nadar. No new Sotheby's/Christie's/Phillips November 2026 lineup or preview-date announcements beyond Blaquier (still no preview dates published). Cases, prospects, partners, and events beats otherwise turned up nothing beyond what's already filed. Commentary sources (The Gray Market, The Art Bystander, Provenance Watch, Katya Kazakina, Georgina Adam, Center for Art Law) had nothing new and on-thesis this cycle.
+
+**To-see nudge:** Christie's Medaugh Hiroshige preview (Sept 11–14) is now 23 days out — effectively at the ~3-week threshold, expect it to formally cross within a day or two; no new information beyond what's already on [[to-see]] (Alina has the Sept 12 preview calendared). Betye Saar (closes Oct 4) and Ashbery (closes Oct 25) remain outside the window.
+
 ### 2026-08-18 — Cloud run
 
 **Prospects (+1 → filed to [[prospects]])**
