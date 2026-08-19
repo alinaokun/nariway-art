@@ -2,14 +2,14 @@
 type: case
 title: McNay Art Museum
 sample: designed-10
-pathway: house-to-museum
+pathway: found-house-museum
 status: founder-review
 priority: high
 founder_status: deceased
 geography: San Antonio, TX
 outcome: thriving
-verification: in-progress
-decision_owner: founder-self
+verification: provisional
+decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H3, H7A, H8]
 packet: "[[mcnay-packet]]"

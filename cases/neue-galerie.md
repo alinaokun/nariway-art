@@ -9,7 +9,7 @@ founder_status: living
 geography: New York, NY
 outcome: merged
 verification: spot-verified
-decision_owner: founder-self
+decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H8]
 ---

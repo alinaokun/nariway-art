@@ -31,4 +31,4 @@
 ## The connection to Nariway (the reason to keep this close)
 The pivot is the **personal version of the exact decision Nariway advises on.** A collector who clings to "I must keep it intact, I spent 40 years building it" is caught in the same sunk-cost and identity trap Alina escaped ("I must keep researching work, I spent six years"). Her own pivot gives her genuine, earned empathy for the collector's hardest emotional barrier: letting go of what you built well enough to decide *freely* what its future should be. That is not a coincidence, and it may be the deepest reason she is suited to this work. The subject of Nariway and the story of its founder are the same story.
 
-See also [[nariway-vision-access]] (the animating why) and [[field-definition]] (the intellectual project). This note is the *personal* why beneath both.
+See also [[positioning#Why Nariway exists (the vision)|the vision]] (the animating why) and [[field-definition]] (the intellectual project). This note is the *personal* why beneath both.

@@ -78,7 +78,7 @@
 ### C15 · Geneva Freeport scale — [DOC-secondary]
 **Canonical:** The **Geneva Freeport** held ~**1.2 million works of art (2013)**; ~**40%** of its contents is art with an **estimated value near $100B**; storage for a medium painting ≈ **$1,000/month**, a small room **$5,000 to 12,000/month.**
 **Source:** [[market-intelligence]] #5 (Geneva Freeport, Wikipedia, citing The Economist and press).
-**Use:** the "freeport paradox" (great art held tax-suspended and unseen), the vivid negative of [[nariway-vision-access]]. Treat as press-level estimate, not audited.
+**Use:** the "freeport paradox" (great art held tax-suspended and unseen), the vivid negative of [[positioning#Why Nariway exists (the vision)|the vision]]. Treat as press-level estimate, not audited.
 
 ### C16 · Total carrying cost anchor ("emotional yield ~2.6%/yr") — [DOC-secondary]
 **Canonical:** Dimson, Pukthuanthong & Vorsatz, "Emotional yields of collectibles" (*Financial Analysts Journal*, 2026), estimate an **"emotional yield" ≈ 2.6 percentage points per year** across 13 collectible classes over up to 110 years, the return a purely financial buyer foregoes by owning the object. This is a **foregone-return / willingness-to-pay** measure, NOT a pure out-of-pocket carrying cost, and the authors call it "probably conservative."
