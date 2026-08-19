@@ -30,14 +30,14 @@ Personal contact; **former Opal Legacy Summit speaker**. Originally read as a wa
 - **The signals to listen for** (in rising order of value): "I've seen this," "this happens all the time," "here's where it goes wrong," **"nobody really owns that,"** "I have a client dealing with this now," "you should talk to them." You have not pitched anything to reach those.
 - **Where the real collectors gather**, and the two-way fit: her clients' collection questions to you, you into the family-office rooms.
 - **Close by widening the network (do not skip this):** "Who are two or three people you think I absolutely should talk to, people who have actually seen a family make a complicated decision about a collection? And would you feel comfortable introducing me?" One conversation should produce the next two. Introduction by introduction beats a list of strangers.
-- **Reopen Opal with her.** We declined Opal (Aug 25-26, family-office + legacy, at the Parrish) on her "wrong crowd for real art" read, but that was about collectors. For studying the practitioner *ecosystem*, that room may be exactly right. Ask her plainly: is the attendee quality strong enough that a researcher could find five people there who have personally witnessed a collection transition? Her answer decides it.
+- ~~Reopen Opal with her.~~ **Moot, Opal is DECLINED-FINAL (Alina is not attending, 2026-08-19). Do not reopen.**
 - **The Conversations ask (new).** Tell her Artobiography is restarting a written-interview series focused on collectors, private foundations, and the people who help collections move into public life, then ask: "Who are the first three people you think I should interview?" ([[conversations-series]]) This is warmer than a discovery ask, it invites contribution to a serious body of work rather than help validating a business, and her answer becomes both editorial pipeline and network map.
 - **Explore the two-way fit:** her clients' collection questions flow to Nariway; Nariway needs into the family-office rooms. Ask openly how you could help each other, and whether a few introductions make sense.
 - **One framing to keep in your pocket:** the ~$1T art transfer is happening now, mostly to surviving spouses, and no one independent stands beside the collector. It makes the problem real without arguing it.
 - **Don't:** pitch a priced service, oversell, or ask for anything transactional. Log what you learn here afterward.
 
 ## Notes
-Referral source and first discovery conversation, now open. Her Opal read resolved [[2026-08-12-opal-summit]] (decline). **Open follow-ups:** reply today with call times; on the call, learn her model and ask where the real collectors gather and how a cross-referral could work. Email: dawn@dawnmari.co.
+Referral source and first discovery conversation, **now CLOSED and do-not-initiate** (Alina, 2026-08-19: do not surface Dawn as an open item, a follow-up, or a "your move" in check-ins). Opal is **DECLINED, FINAL**, Alina is not attending. No open follow-ups. Email on file: dawn@dawnmari.co.
 
 ### What Dawn does now (from her four-PDF platform packet, 2026-08-12)
 **Dawn Marie La Monica, JD** (Georgetown Law, 25 years in financial services), founder of **DML Consultants LLC**. Her practice is **strategic connectivity and partnerships for single family offices**, not art. Three lines of work:
