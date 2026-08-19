@@ -138,6 +138,18 @@
 
 ---
 
+### C26 · Fine-art insurance claims are dominated by transit/handling, not theft — [DOC-secondary]
+**Canonical:** Transit and handling damage, not theft or fire, accounts for **up to roughly 50%** of fine-art insurance claims (multiple insurer/broker guides). Fine-art policies are typically written **"agreed value"** rather than market-value/actual-cash-value, to avoid a depreciation dispute at claim time; standard homeowners' policies often cap fine-art coverage near **10%** of total contents coverage, well below a serious collection's needs.
+**Source:** [[market-intelligence]] #9 (MyArtBroker; multiple insurer/broker guides, 2026).
+**Use:** the risk mechanism behind every loan/gift/sale pathway in [[report-dataset]] — moving art, not storing it, is the largest source of insured loss.
+
+### C27 · Fine-art insurance market-size literature is unreliable — [FINDING, not a market-size claim]
+**Canonical:** Five market-research vendors give five mutually contradictory fine-art-insurance market-size estimates (ranging from ~$3.2B to an implausible ~$459B for 2025), none tracing to a named, reputable analyst house or disclosed methodology. **Do not cite any fine-art-insurance market-size figure as fact** — the honest state is `unknown at a reliable confidence tier`, pending a directly-fetched Deloitte/A.M. Best/S&P Global figure.
+**Source:** [[market-intelligence]] #9.
+**Use:** cite this entry, not a number, when the report needs to state the state of the insurance-market-size literature. Structural facts (leading carriers AXA XL/Chubb/AIG/Hiscox/Allianz; Lloyd's Fine Art & Specie syndicates as the traditional center of the trade) are corroborated and usable; the market-size figures are not.
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
 
 ## The convention

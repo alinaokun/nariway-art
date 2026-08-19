@@ -96,7 +96,7 @@ Each pathway is illustrated by coded cases in [[report-dataset]].
 
 ## 3. What the evidence shows
 
-*These findings come from Nariway's coded dataset of collections (currently 50, hand-selected for variation; no rates are published off a non-random sample). They are stated as findings to test, not as laws.*
+*These findings come from Nariway's coded dataset of collections (currently 54 and growing toward ~75, hand-selected for variation; no rates are published off a non-random sample). They are stated as findings to test, not as laws.*
 
 **Governance beats endowment.** A collection with an independent board and a settled succession tends to outlast one with more money but sole founder control. The two poles are the **Barnes Foundation**, whose iron-clad donor control had to be rewritten by a court for the institution to survive, and the **Museum of Modern Art**, whose founding gifts were absorbed into an independent-board institution that long outlived its founders.
 
@@ -105,6 +105,10 @@ Each pathway is illustrated by coded cases in [[report-dataset]].
 **Distribution is not access.** The Vogels gave 2,500 works to one museum in each of the 50 states, yet a follow-up investigation found durable public *custody* but not demonstrable sustained public *view*. Public life turns out to be multidimensional, ownership, custody, visibility, access, scholarship and reach, not a single yes or no. See [[field-definition]].
 
 **A finding hidden in the gaps.** True endowment and staffing figures are systematically unavailable from standard web sources for most US institutions; they require the underlying tax filings. Reporting that gap honestly is itself a credibility signal.
+
+**Corporate collections fail, or don't, through five distinct mechanisms, and even banks misremember their own history.** Corporate-owned collections (bank, insurer, and finance-house holdings, tracked as a separate sub-population in [[report-dataset]]) turn out to disperse or endure through at least five distinct mechanisms: forced liquidation in a parent's bankruptcy, voluntary retreat from a dedicated public venue while the collection stays intact, unaffected continuity through repeated mergers, absorption of a distressed-but-not-bankrupt parent, and anticipatory monetization, selling art for cash years before any crisis actually arrives. A second, unrelated finding recurs across more than one bank: corporate collections narrate their own founding history about as loosely as families do, compressing decades of merger-driven accumulation into one clean, and often inaccurate, founding date.
+
+> **Box 1a. Same merger, two collections.** One bank's collection was absorbed into another's in a 2023 emergency takeover. Read from the absorbed side and the acquiring side both, the case shows the same M&A layering, and the same tidied-up origin story, that this report's family-collection cases already show across generations.
 
 > **Box 1. The Vogel case: custody without view.** *(short case study to be drawn from [[vogel-fifty-states-afterlife]])*
 
@@ -159,7 +163,11 @@ Art-secured lending lets an owner extract liquidity from a collection without de
 
 > **Box 3. Fractional ownership is a different product, not a lighter version of a loan.** Platforms such as Masterworks sell shares in a single artwork to investors; it solves small-ticket market exposure, not liquidity for an existing collection, and carries its own concentrated platform risk. Not treated as an art-finance instrument in the sense above.
 
-Art funds and the fine-art insurance market remain *research underway*.
+**Insurance is the quiet precondition behind every pathway above.** A lender will not advance against uncollateralized, uninsured art, and a museum accepting a gift inherits an insurance obligation as part of the forever-cost this report already prices (§4.5). One structural finding stands out: fine-art insurance claims are dominated by **transit and handling damage, not theft or fire**, up to roughly half of all claims (C26). Every loan, gift, and sale physically moves a work, which makes movement, not storage, the largest source of insured loss behind every "lighter model" pathway (§2) this report tracks gaining share.
+
+*A note on numbers this report will not repeat:* published estimates of the fine-art insurance market's total size disagree by roughly a hundredfold across vendors, with no disclosed methodology behind any of them (C27). Rather than pick one, this report names the disagreement as the finding. What is reliably known is the market's structure, concentrated among a handful of named specialist carriers and, beneath them, the Lloyd's of London Fine Art and Specie syndicates that have long been the trade's global center.
+
+Art funds and a fuller treatment of the professional advisory ecosystem remain *research underway*.
 
 ### 4.4 Risk, value, and structure
 
@@ -184,7 +192,9 @@ Art funds and the fine-art insurance market remain *research underway*.
 
 > **Box 4. Provenance risk got a new enforcement chapter in April 2026.** The Holocaust Expropriated Art Recovery Act of 2025 was signed into law April 13, 2026, re-arming US courts to hear decades-old Nazi-era restitution claims; a Manhattan court ordered the return of a Modigliani to an original owner's heir the same month, after an eleven-year case. It is a current, live reason museum due-diligence and title-warranty requirements before accepting a major gift (§4.5) keep tightening.
 
-The fine-art insurance market and a fuller treatment of appraisal standards remain *research underway*.
+**Valuation stays contested even after both sides have agreed a number in writing.** A billionaire collector sued his insurance syndicate for $410 million in 2025, arguing a fire had robbed five paintings of their "spark," a loss with no visible trace. A New York court rejected the claim in September 2025. The case is not typical of how insurance claims resolve, but it is a vivid, current pairing with the IRS's own Art Advisory Panel finding above: sophisticated parties, a binding agreed-value policy, and still no shared answer to what a work of art is worth once something has happened to it.
+
+A fuller treatment of appraisal standards remains *research underway*.
 
 ### 4.5 Institutional economics: why museums say no
 
@@ -232,6 +242,7 @@ Candidate predictions for the inaugural edition, to firm up as the evidence does
 *Everything below this line is working material. The reading draft ends above.*
 
 ### Changelog (newest first, the research engine appends here)
+- **2026-08-19** — Case dataset grows from 50 to **54** (4 new: [[ubs-art-collection]], [[fondazione-prada]], [[muzej-lah]], [[readers-digest-wallace-collection]] — the 50-case cap stays lifted, target ~75 near-term/~100 eventually per Alina's 2026-08-18 direction); [[weisman]]'s net-assets figure narrowed and dated (Batch 13). New §3 finding folded in: the corporate sub-sample's disposition mechanism is now a five-way split (forced liquidation / voluntary retreat / unaffected continuity / distressed absorption / anticipatory monetization), plus the corporate self-narrated-founding-date finding, confirmed on both sides of the UBS/Credit Suisse merger. §4.3 and §4.4 both move from "research underway" to drafted content on fine-art insurance: a data-quality finding (published market-size estimates disagree ~100x across vendors, named as a finding rather than a picked number), the Lloyd's Fine Art & Specie syndicate structure, the transit/handling-dominated claims pattern (C26), and the live Perelman $410M "invisible damage" case paired with the IRS Art Advisory Panel finding as a matched valuation-contestedness pair. New claims C26-C27; detail in [[market-intelligence]] #9. WebFetch reconfirmed blocked, thirteenth consecutive run.
 - **2026-08-18 (2nd run)** — §4.4 ("risk, value, and structure") opened from stub with the report's first tax & legal structures content: the 2026 estate-exemption/charitable-deduction-floor pair (pulling the donation decision in opposite directions in the same year), the operating-vs-non-operating private foundation deduction gap, the IRS Art Advisory Panel's 65% appraisal-adjustment rate, the fractional-gift 10-year clawback (paired with the art-loan margin call as a matched "flexible pathway, hidden clawback" finding), and the April 2026 HEAR Act provenance-enforcement development. New claims C23-C25; detail in [[market-intelligence]] #8. Case dataset unchanged this run (still 50/50, WebFetch reconfirmed blocked against a twelfth distinct domain, eleventh consecutive run); [[sid-richardson]]'s net-assets figures dated to FY2024 and corroborated via a second aggregator, plus a new 3-year trend — see [[report-dataset]] Batch 12.
 - **2026-08-18** — §4.3 ("art finance") drafted from sourced research: market size and trajectory (4x growth since 2015, projected to $42-50B by 2027), loan pricing terms (LTV, minimums, rates), the auction houses' own lending desks, and the margin-call/forced-sale mechanism. New claims C21-C22; detail in [[market-intelligence]] #7. Case dataset unchanged this run (still 50/50, WebFetch reconfirmed blocked, tenth consecutive run); two backlog contradictions narrowed via WebSearch ([[marciano]], [[jpmorgan-chase-collection]]) — see [[report-dataset]] Batch 11.
 - **2026-08-17** — §4.5 ("why museums say no") drafted from sourced research: the 90-95% gift-rejection rate, a storage-cost case study, AAM's 2025 sector financial snapshot, a live Philadelphia Museum of Art deficit example, and AAMD's direct-care deaccessioning rule. New claims C17-C20; detail in [[market-intelligence]] #6. Case dataset unchanged this run (still 50/50; WebFetch reconfirmed blocked, ninth consecutive run).
