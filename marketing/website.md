@@ -15,7 +15,17 @@
   - This is a DIFFERENT direction from the earlier cool-navy "Institutional Modern" concept in [[design-system]], warmer and more editorial. The live rebuild is now the authoritative brand; treat the older design-system concept as superseded for the site.
 - **Reconciliation to do later (not now):** the live hero/section copy differs from the canonical public copy in [[positioning]]; the live site is authoritative for the site. Align positioning to the live copy when convenient.
 
-*Everything below this line is HISTORICAL, the pre-redesign interim and concept discussions, kept for the record. It no longer describes the live site.*
+## alinaokun.com — FULLY REVAMPED AND LIVE (2026-08-19)
+**The personal site was completely rebuilt too, in the same editorial brand as nariway.com, so Alina's two sites now read as one identity.** Source of truth: the live site and the separate `alinaokun-website` Claude Code project (which does not share memory with this vault). Captured 2026-08-19 by direct scrape:
+- **Positioning:** hero "Alina Okun" with three pillars, **Finance · Art · Research**. Sections: About · Credentials · Current · Archive · Published Books.
+- **About (live):** the new first-person canonical bio ([[positioning]] "Bio") is now live here (live wording: "In recent years, research and writing have become a greater focus of my work").
+- **Credentials (new, structured):** Doctorate, Strategy and Innovation · MBA, Entrepreneurial Studies · BBA, Public Accounting · CPA, New York.
+- **Current:** **Nariway**, "Research and advisory work on the decisions that shape the long-term future of private art collections" (→ nariway.com); **Artobiography** (→ the publication).
+- **Archive:** the future-of-work work is kept as prior chapters, not erased (consistent with [[the-pivot]]): *The Brief Experiment* ("How we mistook 150 years for all of human history"), *History of Work* (a reference archive), *CIA Insights* (interviews on careers, work, education), *Essays*.
+- **Published Books:** *Luminary Leadership* and *Meet You in Calabar* (both co-authored).
+- **Visual brand:** the same editorial family as nariway.com, **Newsreader** serif + **Schibsted Grotesk** (alinaokun.com leans on Schibsted Grotesk as its main sans where nariway.com uses Manrope), warm near-black ink (~#1C1A17), clean and understated. Design and code owned by the `alinaokun-website` project.
+
+*Everything below this line is HISTORICAL for BOTH sites, the pre-revamp interim and concept discussions, kept for the record. It no longer describes the live sites.*
 
 ## Does posting the Qwoted query wait on the websites? No.
 The query points people to **Artobiography** (Substack), which is clean and on-message, and interviewees respond inside Qwoted. Neither website sits on that path. Holding the query for a site rebuild would be the exact over-building trap the whole strategy is guarding against. **Post the query now.** The site work runs in parallel, on its own clock.
