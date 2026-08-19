@@ -13,12 +13,24 @@ So much extraordinary art sits behind closed doors, seen by almost no one. It co
 **Nariway operates in the art world, but it is not fundamentally an "Arts" business.** Art is the **domain**; **strategic decision-making around the future of significant private collections** is the professional **territory**. Nariway is *strategic advisory / consulting* — not an arts org, media company, research institute, museum consultancy, or art advisor/dealer.
 
 ## The simple exterior
-> **Nariway** — strategic advisory
+> **Nariway** · research and advisory for private art collections
 > **Alina Okun, Founder**
-> *Significant private art collections, and what comes next.*
+> *The future of private art collections. Every collection has a life beyond the person who built it.* (the live site hero)
 
 ## Public copy — live profiles (canonical, as of 2026-08-13)
-*The actual language on Alina's live profiles, cleaned to the [[voice]] craft standards (no em dashes, no colons in prose, no And/But sentence starts). Website and LinkedIn copy inherit from here. When a profile changes, update this so the vault and the live text never drift.*
+*The actual language on Alina's live profiles, cleaned to the [[voice]] craft standards (no em dashes, no colons in prose, no And/But sentence starts). When a profile changes, update this so the vault and the live text never drift.*
+
+**nariway.com — LIVE site copy** *(2026-08-19, mirror of the live site; the live site is authoritative, do not edit here without changing the site. Design and code owned by the separate `nariway-rebuild` project, see [[website]].)*
+> **Hero.** The future of private art collections. Every collection has a life beyond the person who built it.
+> **Homepage intro.** Private art collections can remain in families for generations, enter museums or universities, become foundations, travel the world, or eventually be divided and sold. Over the next decade, an estimated $992 billion in art and collectibles will change hands globally (Deloitte and ArtTactic, Art & Finance Report 2025; see [[claims-register]] C1). Behind that number are thousands of individual collections, each facing its own questions of ownership, stewardship, family, access, and legacy. Nariway studies what happens next.
+> **Conversations.** Conversations about what happens to private collections. Nariway speaks with collectors, advisors, museum founders, curators, and others whose decisions shape the lives of private collections.
+> **What Nariway does.** Research and advisory for private art collections. Nariway studies how collections pass between generations, remain in families, enter institutions, reach the public, and evolve over time.
+> **Contact.** Considering the future of a collection? Our advisory work is for collectors and families making long-term decisions about significant private art collections.
+> **Publication.** Artobiography, the stories behind remarkable art collections and their futures.
+> **About page.** Every collection has a future. Private art collections are often built over decades. During that time, families change, fortunes change, institutions change, and collectors themselves may begin to think differently about ownership, access, and what they want to leave behind. Nariway was created to study what happens next. We research how private collections remain in families, move into institutions, reach the public, change hands, or take entirely different forms over time. That research also informs our advisory work with collectors and families considering the future of their own collections.
+> **Founder bio (site version).** Alina Okun has spent more than two decades studying how organizations make financial and strategic decisions, first as a finance professional and management consultant, later as a startup CFO, private investor, and researcher. Her background spans public accounting, corporate finance, strategy, and investing across industries and international markets. She holds a doctorate in strategy and innovation, an MBA, and a bachelor's degree in public accounting. Alina is also a longtime art collector, researcher, and writer. Her work at Nariway is driven by a desire to see more privately held art find meaningful ways into public life.
+
+*The site founder bio is cleaner and more credential-forward than the Substack "About me" and differs in detail (it adds the MBA and the public-accounting degree, uses "management consultant / private investor," and omits the Arthur Andersen/UBS and "hundreds of museums" specifics). Each is correct for its channel; the site version is canonical for the site.*
 
 **Headline (standardize everywhere):** Founder, Nariway | Publisher, Artobiography *(LinkedIn may extend it with | Former CFO, a credential that earns its place with referral partners)*
 
@@ -109,12 +121,13 @@ So much extraordinary art sits behind closed doors, seen by almost no one. It co
 ## What Nariway is NOT (guard the copy)
 Not an art writer · art historian · curator · museum consultant · art advisor/dealer · arts nonprofit · media company · research institute. **Artobiography is an *editorial* function** — the front door and credibility engine — not the definition of the company, and not assumed to be the primary revenue model.
 
-## The language line (between researcher and established advisor)
-Public copy occupies the space **between "I study" (undersells — sounds like a researcher) and "I advise" (overclaims — the service is still being validated, H7B).** Name the *territory and ambition*, not a priced, ready-to-buy service.
-- ✅ "The future of significant private art collections."
-- ✅ "Private collections — succession, legacy, and what comes next."
-- ❌ "I study how collections become public institutions." (undersells + too narrow — a new institution is only one outcome)
-- ❌ "I advise collectors on…" (premature until validated)
+## The language line (updated 2026-08-19 to match the live site)
+The live nariway.com now names **"research and advisory"** openly, framed honestly around the decision, "Our advisory work is for collectors and families making long-term decisions about significant private art collections," not a priced product with a client roster. So the guidance is no longer "don't say advise." It is: **name research and advisory, framed around the collection's future and the decision, never as a ready-to-buy service with current clients** (willingness-to-pay, H7B, is still being validated).
+- ✅ "Research and advisory for private art collections." (the live line)
+- ✅ "The future of private art collections."
+- ✅ "Our advisory work is for collectors and families making long-term decisions about significant private art collections." (advisory framed around the decision, honest to stage)
+- ❌ "I study how collections become public institutions." (undersells, and too narrow, a new institution is only one outcome)
+- ❌ Anything implying a current client roster, a fixed price, or a packaged product before H7B is validated.
 
 ## Still open (part of what discovery validates)
 **Who actually pays** — the collector directly (B2C) or the family office / estate (B2B) — is a live question the [[problem-discovery]] conversations will resolve. "Primarily B2C" is a best-fit hypothesis, not settled fact. The CRM already tracks both: [[prospects]] (collectors) and [[partners]] (channels).

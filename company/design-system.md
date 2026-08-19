@@ -1,32 +1,35 @@
 # Nariway Design System — the house style (canonical)
 
-*Everything Nariway produces visually, reports, decks, org charts, uses this. The goal is a **modern, sophisticated, authoritative, highly elevated** look, the restraint of a top research institute (WEF, McKinsey Global Institute) with the precision of a contemporary art institution. Authority comes from space, hierarchy, and precision, never from decoration.*
-
-> **The LIVE nariway.com brand diverges from this (noted 2026-08-19).** The rebuilt site uses a warmer, **editorial** identity, **Newsreader** serif headlines + **Manrope** body (+ Schibsted Grotesk), white ground, warm near-black ink, owned by the separate `nariway-rebuild` project (see [[website]]). This design system still governs **internally produced assets** (the flagship report, decks) unless Alina decides to align them to the new site brand. Divergence flagged; reconciliation is her call.
+*Everything Nariway produces visually, the flagship report, decks, org charts, one-pagers, uses this. **Aligned to the live nariway.com brand (2026-08-19), so the site, the report, and every asset read as one identity.** The goal is a **modern, sophisticated, editorial, highly elevated** look, the restraint of a top research institute (WEF, McKinsey Global Institute) with the warmth and literacy of a serious publication. Authority comes from space, hierarchy, typography, and precision, never from decoration. The live site is owned by the separate `nariway-rebuild` project (see [[website]]); this doc mirrors that brand for everything produced here.*
 
 ## Hard don'ts (what "elevated" is NOT)
-- **No warm cream / beige / yellowish grounds. No brown or terracotta ink or accents.** (This was the earlier mistake, it is the generic AI-design cliché, not sophistication.)
-- No textures, drop shadows for drama, heavy rounded corners, gradients-as-decoration, or emoji as section markers.
-- No decorative serifs used for warmth. Restraint over ornament.
+- **No warm cream / beige / yellowish grounds. No brown or terracotta ink or accents.** The brand ground is clean **white**; the ink is a **warm near-black** (a hair of warmth, not brown). Never a cream page or brown text. (Cream/brown was the earlier mistake, the generic AI-design cliché.)
+- No textures, drama drop-shadows, heavy rounded corners, gradients-as-decoration, or emoji as section markers.
+- **The serif is for editorial headlines only (Newsreader), used with restraint**, never as ornament. No script, slab, or decorative serifs; no serif in body text.
 
-## Palette (cool, near-monochrome, one accent)
-Light: `--bg:#FBFBFC` · `--surface:#FFFFFF` · `--surface-2:#F4F5F7` · `--ink:#0E1116` · `--ink-2:#3B424C` · `--muted:#697180` · `--line:#E6E8EC` · `--line-2:#CED3DB` · `--accent:#1B3A5B` (deep petrol-navy, used sparingly).
-Dark: `--bg:#0B0D11` · `--surface:#14171D` · `--surface-2:#0F1218` · `--ink:#EBEEF2` · `--ink-2:#B7BFC9` · `--muted:#8B94A1` · `--line:#222833` · `--line-2:#333B48` · `--accent:#7AA5D6`.
-The accent appears only on key numbers, thin rules, cadence/live indicators, and active states. Everything else is monochrome. **The accent is a single token, swap it to re-tone the whole system.**
+## Palette (warm near-monochrome on white)
+Light: `--bg:#FFFFFF` · `--surface:#FFFFFF` · `--surface-2:#F7F6F3` (a barely-warm off-white for panels) · `--ink:#1A1A17` (warm near-black, headings) · `--ink-body:#0A0A0A` · `--ink-2:#3A3A34` · `--muted:#6B6B62` · `--line:#E7E5DF` (warm hairline) · `--line-2:#D4D2CA`.
+Dark: `--bg:#141412` · `--surface:#1B1B18` · `--surface-2:#201F1C` · `--ink:#F2F1EC` · `--ink-2:#C7C5BC` · `--muted:#918E84` · `--line:#2A2925` · `--line-2:#3A3833`.
+The brand is essentially **monochrome warm**, white ground, warm near-black ink, warm-gray secondaries, hairlines. Color is used almost never; if a single restrained accent is truly needed, keep it quiet and warm-neutral, not a bright hue. Buttons are **text or hairline-outline** (transparent ground, no fill, sharp corners), matching the live site. Keep this one family consistent across the report, decks, and the site.
 
-## Type
-Grotesque only: `-apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, "Segoe UI", system-ui, sans-serif`. Strong scale contrast (a large confident headline against small precise text). **Micro-labels / eyebrows:** uppercase, `letter-spacing:.2em`, ~0.7rem, muted. **Numerals:** always `font-variant-numeric: tabular-nums`. Tight negative letter-spacing on large display sizes.
+## Type (the editorial pairing, from the live site)
+- **Headlines and display: Newsreader** (an editorial serif), medium weight (~500), large and confident, slight negative letter-spacing at big sizes. This is the brand's voice.
+- **Body: Manrope** (a clean geometric sans), comfortable size, ~65-character measure for running text.
+- **Eyebrows / micro-labels / UI: Schibsted Grotesk** (or Manrope), uppercase, `letter-spacing:.15em`, ~0.72rem, muted.
+- **Numerals:** always `font-variant-numeric: tabular-nums` where figures align.
+- Strong scale contrast between a large serif headline and small precise sans text is the primary hierarchy device.
+- Fonts: the three are Google Fonts. In Artifacts, load them from Google Fonts (the one allowed external host) with real fallback stacks, Newsreader → Georgia, "Times New Roman", serif; Manrope / Schibsted Grotesk → system-ui, sans-serif. Elsewhere inline as `@font-face` data URIs. Always give every face a genuine fallback.
 
 ## Layout
-Generous whitespace. **Hairline 1px rules are the primary structural device**, not filled boxes. Near-square corners (2–4px). A clear grid, aligned columns, and a tabular stat row where numbers matter. Cards are white (or `--surface`) with a hairline border and real padding, never a shadow-heavy or textured panel.
+Generous whitespace. **Hairline 1px rules are the primary structural device**, not filled boxes. **Sharp corners (0–2px)**, matching the live site. A clear grid, aligned columns, and a tabular stat row where numbers matter. Cards are white (or `--surface-2`) with a hairline border and real padding, never a shadow-heavy or textured panel.
 
 ## Always
-- Theme-aware (light and dark, both designed, via `prefers-color-scheme` + `data-theme` overrides). Light mode is the primary elevated look.
-- Self-contained (inline CSS, no external fonts/CDNs), responsive, wide content scrolls in its own container.
+- Theme-aware (light and dark, both designed, via `prefers-color-scheme` + `data-theme` overrides). Light mode (white ground) is the primary elevated look.
+- Self-contained CSS; the three brand fonts load from Google Fonts (the one host Artifacts allow) or inline as data URIs, always with fallback stacks. Responsive; wide content scrolls in its own container.
 - Favicon consistent per artifact.
 
-## Live examples (built to this system)
+## Live examples
 - [The Digital Workforce](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216) (org chart)
 - [What Becomes of Great Art Collections](https://claude.ai/code/artifact/6c3dde4f-bfc0-4b43-876c-ede2633907f6) (report visual)
 
-*When Alina wants a different tone, change the `--accent` token first; the rest holds.*
+*Both were built to the earlier cool-navy "Institutional Modern" system; they predate the 2026-08-19 editorial rebrand and should be re-skinned to the palette and type above the next time they are produced. When Alina wants a different tone, adjust within this warm-monochrome family; keep the Newsreader + Manrope pairing as the constant.*
