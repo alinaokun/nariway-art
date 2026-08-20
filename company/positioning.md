@@ -40,8 +40,12 @@ So much extraordinary art sits behind closed doors, seen by almost no one. It co
 
 **Headline (standardize everywhere):** Founder, Nariway | Publisher, Artobiography *(LinkedIn may extend it with | Former CFO, a credential that earns its place with referral partners)*
 
-**Qwoted / short bio:**
-> Artobiography is an independent publication about remarkable art collections and the people behind them. I tell the stories of how collections were built, what became of them, and how collectors, founders, institutions, and specialists think about their future. I am particularly interested in private collections, collector-founded museums and foundations, unusual models for bringing art into public life, collection stewardship, and the people working behind the scenes to preserve and share important art.
+**Qwoted profile bio** *(LIVE as posted 2026-08-20, third-person, mirror of the live Qwoted profile):*
+> Alina Okun is the founder of Nariway, a research and advisory firm focused on the future of private art collections. Her work draws on more than two decades in finance, strategy, and organizational leadership, as well as a longstanding involvement with art as a collector and writer.
+>
+> She publishes Nariway Conversations, a series featuring collectors, founders, museum leaders, advisors, and others involved in shaping the long-term future of private art collections. Her research considers how collections move across generations and institutions, the decisions that shape their futures, and the different ways privately held art can enter public life.
+>
+> She also publishes Artobiography, which tells the stories behind remarkable art collections.
 
 **Substack description (one line):** The stories behind remarkable art collections, and what becomes of them.
 
