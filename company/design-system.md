@@ -28,6 +28,9 @@ Generous whitespace. **Hairline 1px rules are the primary structural device**, n
 - Self-contained CSS; the three brand fonts load from Google Fonts (the one host Artifacts allow) or inline as data URIs, always with fallback stacks. Responsive; wide content scrolls in its own container.
 - Favicon consistent per artifact.
 
+## Emails (the daily Signals + check-in)
+Both daily emails render in this brand with **email-safe** technique (set in their cloud routines, 2026-08-20): every CSS rule INLINE on the elements (mail clients drop `<style>`/`<head>`), a Google Fonts link that degrades gracefully, and brand fonts with strong fallbacks, **Newsreader → Georgia serif** for headlines and masthead, **Manrope / Schibsted Grotesk → system sans** for body. Warm near-black ink on white, warm hairline rules, a ~600-640px centered column, tabular numerals. Where a client blocks web fonts, the serif fallback keeps the editorial feel, so it reads on-brand everywhere.
+
 ## Live examples
 - [The Digital Workforce](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216) (org chart)
 - [What Becomes of Great Art Collections](https://claude.ai/code/artifact/6c3dde4f-bfc0-4b43-876c-ede2633907f6) (report visual)
