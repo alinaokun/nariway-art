@@ -31,6 +31,33 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-20 — Cloud run
+
+**Orientation:** heaviest today on the mechanics of the "great estate rush" — how houses actually hunt down and win a collection after a death, set against a quieter countertrend of collectors keeping art ever more private rather than giving it away.
+
+**Lead**
+
+- **Christie's and Sotheby's are openly fighting over Herbert Lust's estate — 300 pieces, ~$60M, Giacometti-heavy.** Lust, an eccentric former investment banker who died in May at 99, spent seven decades amassing over 1,000 works (deep Giacometti, Robert Indiana, Hans Bellmer, Mary Bauermeister, Frank Stella) and had already donated hundreds of them to museums while he was alive — he wasn't hoarding, he was actively distributing, right up until the estate took over. That the two biggest houses are now competing publicly for the consignment is the clearest possible illustration of [[market-intelligence|the "great estate rush"]] thesis in action: this is what happens the moment a private governance process ends and no coordinator is left. [ARTnews](https://www.artnews.com/art-news/market/christies-sothebys-battle-herbert-lust-collection-1234795281/)
+
+**What's happening**
+
+- **Ken Griffin quietly loaned a Leonardo da Vinci to the Met — no announcement, just a new wall label.** The hedge-fund billionaire's *Madonna of the Yarnwinder* (studio of Leonardo, c. 1505) has been hanging at the Met since spring with minimal fanfare; only the trade press noticed. A living collector putting a major Old Master into public view through a long-term loan rather than a gift or a foundation is exactly the low-drama, reversible pathway most of the universe skips past. [ARTnews](https://www.artnews.com/art-news/news/met-museum-leonardo-da-vinci-ken-griffin-1234794238/) · [Puck](https://puck.news/newsletter_content/ken-griffins-stealth-leonardo-the-mets-orientalism-show/)
+- **Yusaku Maezawa's new $350M superyacht has a two-story private art gallery — Warhol, Koons, Prince, Wool on board.** Worth noting as the mirror image of everything else in this brief: while other collectors build hotels, museums, and art parks to open a collection up, Maezawa has built the ultimate closed room, a floating one that can outrun jurisdiction and public access entirely. A genuinely novel non-building form, just pointed the opposite direction from the pathway Nariway studies. [Artnet](https://news.artnet.com/art-world/art-collector-yusaku-maezawa-superyacht-2798941)
+- **The National Gallery of Art (DC) has quietly acquired ~190 works since March** — a first Ben Shahn, a major Wifredo Lam, colonial Latin American material, a Lillian Bassman/Paul Himmel photography group. Diffuse rather than a single donor's legacy moment, but a useful reminder of how much of a permanent collection is actually built: gift by gift, all year, off the front page. [The Art Newspaper](https://www.theartnewspaper.com/2026/08/19/national-gallery-art-us-acquisitions-wifredo-lam-marie-bracquemond)
+
+**Worth reading**
+
+- **Marion Maneker, "The Dark Art of Property Gathering" (Wall Power/Puck, Aug 14).** The unglamorous machinery behind every estate headline in this brief: specialists tracking prized works for years, scanning obituaries, and cold-calling heirs before a collection ever becomes a Herbert Lust-style bidding war. The best available account of how a "discovery" like today's lead item actually gets made. [Puck](https://puck.news/newsletter_content/gagosians-hamptons-reign-the-dark-art-of-property-gathering/)
+- **Roland-Philippe Kretzschmar, "The Omnivore Elite" (The Art Bystander).** Argues the upper class has stopped rejecting popular culture and now demands fluency in it instead — a real shift in the taste politics that shape what today's collectors choose to keep, show, and eventually give away. Directly upstream of the legacy decisions this brief tracks. [The Art Bystander](https://theartbystander.substack.com/p/the-omnivore-elite)
+
+**To see (escalating)**
+
+- **Christie's Alan Medaugh Hiroshige preview is 22 days out and now inside the ~3-week window.** Public preview Sept 11–14, sale Sept 15, at 20 Rockefeller Plaza — one of the finest Hiroshige collections ever assembled, 600+ prints. Already on Alina's calendar for the Sept 12 preview; this is the reminder that it's now close enough to firm up logistics. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+
+**For the record**
+
+- **White Cube's New York flagship lost three senior directors at once** (Courtney Willis Blair, Sukanya Rajaratnam, Jessie Washburne-Harris) — one to academia, one to independent ventures, one with no reason given — arriving alongside cuts at Zwirner and Pace. Gallery-side instability as the market-structure counterpart to the museum-side funding stress already in [[market-intelligence]]. [Artnet](https://news.artnet.com/market/white-cube-directors-depart-new-york-2792669)
+
 ### 2026-08-19 — Cloud run
 
 **Cases (+1 → filed to [[candidate-universe]])**
