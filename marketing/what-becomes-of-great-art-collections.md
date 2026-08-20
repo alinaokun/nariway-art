@@ -56,14 +56,14 @@ A collection is a biography until its owner dies. Then it becomes an estate. The
 
 **Table 1. The transfer in numbers.**  *All figures link to the [[claims-register]]; modeled figures are labeled.*
 
-| Figure | What it measures | Ref |
-|---|---|---|
-| ~US$992B | Art and collectibles changing hands over ~a decade, mostly by inheritance (modeled, Deloitte) | C1 |
-| ~US$2.56T → US$3.47T | UHNW art and collectible holdings, 2024 to 2030 | C9 |
-| ~US$54T | US wealth passing first between spouses, over 95% to women | C8 |
-| ~72% | Inheritors who keep at least some inherited art | C3 |
-| ~80% | Collectors who intend to pass their collection to heirs | C12 |
-| ~51% | Wealth managers offering art services in 2025 — up long-run from ~25% (2011), but down from 63% (2023) | C10 |
+| Figure               | What it measures                                                                                       | Ref |
+| -------------------- | ------------------------------------------------------------------------------------------------------ | --- |
+| ~US$992B             | Art and collectibles changing hands over ~a decade, mostly by inheritance (modeled, Deloitte)          | C1  |
+| ~US$2.56T → US$3.47T | UHNW art and collectible holdings, 2024 to 2030                                                        | C9  |
+| ~US$54T              | US wealth passing first between spouses, over 95% to women                                             | C8  |
+| ~72%                 | Inheritors who keep at least some inherited art                                                        | C3  |
+| ~80%                 | Collectors who intend to pass their collection to heirs                                                | C12 |
+| ~51%                 | Wealth managers offering art services in 2025 — up long-run from ~25% (2011), but down from 63% (2023) | C10 |
 
 **What the numbers mean.** This is not a wave of liquidation. It is a vast, largely private process of sorting and governance, happening years before any sale. Retention is the norm, and most collectors intend to keep the collection in the family, so the defining question is not "which museum?" but "what happens when control of this thing changes hands?" The surrounding financial industry has noticed, which is why art services inside wealth management have roughly doubled since 2011.
 
