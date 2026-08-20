@@ -15,7 +15,7 @@ The line under Alina's name shows next to every Note, so it is her most-seen cop
 
 Lead recommendation: **1** (safest short beat) or **3** (name recognition plus beat in one headline).
 
-**SUPERSEDED — see [[positioning]] for the live copy.** These six were exploratory options. The live profile is now set and canonical in [[positioning]] ("Public copy — live profiles"): profile headline **Founder, Nariway | Publisher, Artobiography**, publication description **The stories behind remarkable art collections, and what becomes of them.** Do not treat the options above as current; change the live copy in [[positioning]], not here. The truncation rule above still holds as guidance.
+**SUPERSEDED — see [[positioning]] for the live copy.** These six were exploratory options. The live profile is now set and canonical in [[positioning]] ("Public copy — live profiles"): profile headline (live 2026-08-20) **Founder of Nariway | The future of private art collections** (thesis-led, matches LinkedIn and the site hero), publication description **The stories behind remarkable art collections, and what becomes of them.** Do not treat the options above as current; change the live copy in [[positioning]], not here. The truncation rule above still holds as guidance.
 
 **Also:** point the profile links at the Nariway site and one strong Artobiography piece; writer identity leads, advisor identity supports.
 
