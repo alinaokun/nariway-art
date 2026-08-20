@@ -163,6 +163,28 @@
 
 ---
 
+### C30 · USPAP percentage-fee prohibition — [DOC-primary]
+**Canonical:** For IRS "qualified appraisal" purposes (required above $5,000 claimed value; attached to the return above $20,000/item or $500,000/item-or-group), an appraiser who charges a fee based on a **percentage of the appraised value is explicitly disqualified** from "qualified appraiser" status, with narrow nonprofit-fee exceptions. All fine-art appraisal in the US operates under USPAP (The Appraisal Foundation's Appraisal Standards Board) without a state/federal licensing regime specific to personal property.
+**Source:** [[market-intelligence]] #11 (IRS Publication 561; Form 8283 instructions; Appraisers Association of America IRS-requirements explainer, 2026).
+**Use:** the structural anti-conflict rule behind why appraisal fees are billed hourly/flat rather than on commission — a direct parallel to C28's APAA no-commission rule for art advisors.
+
+### C31 · IRS Art Advisory Panel FY2023 adjustment data — [DOC-secondary, transcribing a primary Federal Register notice]
+**Canonical:** In FY2023 (the most recent year located), the IRS's Art Advisory Panel reviewed **251 items across 67 taxpayer cases**, an aggregate claimed valuation of **$360.9 million**, and recommended **adjusting 63% of items reviewed** (157 of 251), a net adjustment of **–$64.6 million** (an 18% aggregate decrease on adjusted items).
+**Source:** [[market-intelligence]] #11 (Federal Register notice, 2024-10-10, "Art Advisory Panel — Notice of Availability of Report of 2023 Closed Meetings"; trade-press transcription, WealthManagement.com).
+**Use:** **supersedes as the current figure** the ~65%/2012 adjustment rate previously cited directly in [[what-becomes-of-great-art-collections]] §4.4 — treat the older figure as a longer-run reference point, not a contradiction, and cite C31 going forward. Not a direct fetch of the Panel's own PDF (WebFetch blocked); a Federal-Register-noticed primary report, read via search-snippet transcription.
+
+### C32 · Fair market value vs. insurance replacement value vs. auction estimate — [FINDING, definitional]
+**Canonical:** Three distinct, individually correct numbers exist for the same artwork depending on purpose: **fair market value** (IRS standard — donation deduction, estate/gift tax), **insurance replacement value** (typically higher — retail/replacement-urgency pricing), and an **auction estimate** (a non-binding pre-sale marketing forecast, not a valuation opinion at all). Each is authoritative within its own domain (IRS for FMV; insurance/appraisal industry practice for replacement value; auction houses for estimates) — no single body defines all three together.
+**Source:** [[market-intelligence]] #11 (IRS Pub 561; multiple appraiser-industry explainers; Sotheby's own estimate-methodology page).
+**Use:** the definitional backbone of the report's valuation-is-contested finding; explains why a collector, an insurer, and the IRS can each hold a different, defensible number for the same work simultaneously.
+
+### C33 · Fine-art appraisal-services market size is unreliable — [FINDING, not a market-size claim]
+**Canonical:** Only one aggregator estimate for the fine-art-appraisal-services market was locatable ($2.86B in 2026, growing to $4.31B by 2030), from a firm with no disclosed methodology; no named, methodologically transparent research house (IBISWorld, Deloitte Art & Finance, Arts Economics) sizes this segment specifically. **Do not cite a market-size figure for the appraisal industry** — the honest state is `unknown`, the same data-quality gap already named for fine-art insurance (C27).
+**Source:** [[market-intelligence]] #11 (The Business Research Company; IBISWorld category listings, which do not cover this segment directly, 2026).
+**Use:** cite this entry, not a number, alongside C27 when the report needs to state the state of the appraisal-market-size literature.
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
 
 ## The convention
