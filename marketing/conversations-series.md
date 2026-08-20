@@ -93,6 +93,7 @@ Every outreach message and interview Doc should:
 - **Set async, no-length-pressure expectations**, and note one or two possible follow-ups.
 - **Verify every fact asserted to the subject** (collection size, gallery count, anniversaries) and any "you have said" attribution. Getting the subject's own facts wrong undercuts the homework effect. Source it or soften it.
 - Route through the [[voice]] rules; use *they* for anyone whose pronouns you do not know.
+- **Cold outreach needs a credibility anchor** (unlike the warm, PR-mediated inbounds). A cold recipient must be able to verify you are real in seconds, so include a signature with name + "Founder, Nariway" + **nariway.com**, and point to the live series ("recent conversations at nariway.com") now that published Conversations exist as proof (Hall Rockefeller, Adam Szymanski). Keep the ask **two-step** for cold, invite first, send the questions only if they say yes (don't dump five questions on a stranger).
 
 ## Qwoted — run it as a sensor, not a publishing calendar (decided 2026-08-16)
 The point of Qwoted is not to fill an interview slate. It is to **discover people, stories, models, and problems we don't yet know exist** — the things desk research and our own taxonomy can't surface. So run it as a sensor: **ask → listen → notice the anomalies → ask a better next question → repeat.** Do not pre-program a fixed sequence of queries and dutifully execute it; let the *responses* choose the next query. The Drucker move applied to outreach.
