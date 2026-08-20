@@ -38,7 +38,7 @@ So much extraordinary art sits behind closed doors, seen by almost no one. It co
 
 *This is the third-person founder bio currently live on nariway.com. **Update to do (2026-08-19):** replace it with the new first-person canonical **Bio** above, via the `nariway-rebuild` project. Until then, the canonical Bio governs; this block records what is still on the live page.*
 
-**Headline (standardize everywhere):** Founder, Nariway | Publisher, Artobiography *(LinkedIn may extend it with | Former CFO, a credential that earns its place with referral partners)*
+**Headline.** Live LinkedIn (2026-08-20): **Founder at Nariway | The future of private art collections** (leads with the thesis, mirrors the site hero; "Publisher, Artobiography" and "Former CFO" dropped from the headline but still live in the profile's About/Experience). General standardized form for other channels where useful: Founder, Nariway | Publisher, Artobiography (add | Former CFO where the finance credential earns its place with referral partners).
 
 **Qwoted profile bio** *(LIVE as posted 2026-08-20, third-person, mirror of the live Qwoted profile):*
 > Alina Okun is the founder of Nariway, a research and advisory firm focused on the future of private art collections. Her work draws on more than two decades in finance, strategy, and organizational leadership, as well as a longstanding involvement with art as a collector and writer.
