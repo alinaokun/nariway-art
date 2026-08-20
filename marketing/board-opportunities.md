@@ -88,9 +88,24 @@
 - **Give/get:** Not public.
 - **Approach path:** Board adds members through direct trustee/ED relationships; recent additions suggest openness to professional-expertise recruits beyond the traditional Hudson Valley social circuit. Warm intro through Hudson Valley preservation or collector circles.
 
+### 13. The Church (Sag Harbor, NY)
+[27east.com coverage](https://www.27east.com/sag-harbor-express/community/community-news/article_7ad6bd53-fe41-4c08-adbd-d57a7b4d7559.html) — East End Long Island (~2.5 hrs from Montvale).
+- **Why it fits:** Artist-founded (Eric Fischl and April Gornik, 2021) conversion of a historic church into a public art/creative space — a collector-adjacent founder story, close analog to a house-museum. Board mixes major collectors and advisors: new appointee Lorinda Ash runs an art advisory firm and spent 20+ years as board president of the Museum at Eldridge Street; other trustees include a Pfizer executive and hedge-fund figures. Young and fast-growing (opened 2021, three new trustees named May 2026), plausibly needing finance/governance depth as it matures. Free public admission is core to the mission.
+- **Give/get:** Not public.
+- **Approach path:** Recruits visibly through press releases naming new trustees by expertise area — a warm intro via an existing trustee or executive director Sheri Pasquarella (herself a former art consultant) is the likely path.
+- **Found:** 2026-08-20 network-research scan.
+
+### 14. Morven Museum & Garden (Princeton, NJ)
+[morven.org/campaign](https://www.morven.org/campaign) — NJ (~1.25 hrs from Montvale).
+- **Why it fits:** Historic house-museum (former NJ governor's residence, decorative-arts/period collection open to the public). The board just launched a "100% board participation" campaign explicitly citing funding uncertainty — a live, disclosed sustainability push naming a finance/governance need. Public access and preservation mission; the 2024 executive-director transition is resolved but the institution is still visibly stabilizing ahead of 2026 semiquincentennial programming.
+- **Give/get:** Not public (the campaign references "100% board participation" as a goal, no dollar figure disclosed).
+- **Approach path:** Development office (Chief Development Officer Megan Shackney) is the named contact; campaign co-chair Robert "Nick" Lopez is a visible board entry point.
+- **Found:** 2026-08-20 network-research scan.
+
 ## Considered, weaker fit
 - **New Britain Museum of American Art** (New Britain, CT) — [nbmaa.org](https://nbmaa.org/trustees). Single-collector-adjacent founding (the Grace Judd Landers bequest built the core American-art collection) and a strong research dividend: a just-completed facilities/financial study feeding a 2025–2030 strategic plan explicitly aimed at reducing endowment-draw dependency. Weaker on drivability (~2.5 hr), a fit only if Alina is open to a longer-distance or hybrid board.
 - **Storm King Art Center** — a real governance/succession story (new ED Nora Lawrence, new Chair Nicholas Polsky), but the board is stacked with major individual donors and former museum directors, almost certainly a high give/get. Watch, don't approach yet.
+- **Merchant's House Museum** (Manhattan, ~45 min) — [merchantshouse.org](https://merchantshouse.org/calltoarms-2/). A genuine 14-year public-access/preservation crisis (a fight against adjacent construction threatens closure), but the museum is financially healthy per its FY2024 Form 990 (~$1M revenue, surplus, $4.4M net assets), so the "live finance need" criterion is weak, and it's a decorative-arts period house rather than a private art collection. Include only for a preservation-governance angle, not a finance one. Found 2026-08-20 network-research scan. **Also investigated and rejected:** The Watermill Center (Sag Harbor) — Robert Wilson's founder-succession story (he died July 2025) is real, but its "board" is an international curatorial/artist advisory council, not a fiduciary trustee board, with no evidence of a finance seat.
 
 ## Also considered / not a fit (for now)
 - **ArtTable** ([arttable.org](https://www.arttable.org/about/)) — a superb *network* node (1,200+ women and nonbinary visual-arts leaders; board includes advisor-ecosystem figures) and worth joining for reach, but it is a membership organization advancing professional leadership, not a governance-hungry board where a CFO's skills are the scarce input. Pursue as a network, not a board target.
