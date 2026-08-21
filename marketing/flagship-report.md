@@ -12,6 +12,8 @@ The report's edge is data no one else has: **Nariway's structured database of ho
 
 **North star (Alina, 2026-08-14): research nobody else has, at a McKinsey / BCG / WEF standard.** The moat is not row count, it is (1) **primary sources the field is too lazy to pull** (true endowment from IRS 990 Schedule D via the 990 PDF/XML, FTE, deeds, wills, probate) and (2) **original cross-case analysis** (governance-beats-endowment, the failure modes, the data-availability finding). The dataset-research agent now runs **twice daily** (5am and 5pm ET), with the second pass weighted to that proprietary depth once breadth nears 50. Quality is the only limit, never fabricate; verify or mark unknown.
 
+> **UPDATE 2026-08-21: the "report" is dissolving into the [[collection-index|Nariway Collection Index]]** — a continuously-maintained, web-native research platform (no PDF, no annual freeze), with the report absorbed as living Findings + periodic Research Briefs. This file's strategy still holds (the corpus is the asset); the *form* of the public output is now the Index. See [[collection-index]] for the architecture, access model, guardrails, and next steps.
+
 ## The strategy has evolved — the research IS the product (2026-08-20, external review + Alina)
 The manuscript has crossed a line. With the coded cases, the [[claims-register]], primary-source pulls, the deliberate disconfirmation passes, primary interviews, and the qualitative-vs-statistical discipline, this is no longer a content-marketing report you finish, promote, and move on from. **It is becoming Nariway's core intellectual asset.** So flip the model:
 
