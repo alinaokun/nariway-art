@@ -204,6 +204,28 @@
 
 ---
 
+### C37 · Museum endowment spending-rate norm — [DOC-secondary]
+**Canonical:** No single mandated national standard exists, but roughly **4-6% per year** is the widely cited de facto board norm for museum endowment spending. The Met draws its ~$320M annual operating budget roughly half from its ~$3.4B endowment (an effective **~4.7%** spend rate); the MFA Boston targets **5%**. Structurally, endowment income's *share* of museum revenue has fallen over the long run, from **40.4% (1969) to 21.8% (1987)** (a Neil Rudenstine-era study, reproduced in an NBER financial history of US art museums) — a decades-long shift toward earned/contributed revenue, not a recent crisis alone.
+**Source:** [[market-intelligence]] #6 addendum (Musa Guide; ARTnews financing overview; NBER, "Art Museums in the United States: A Financial Portrait," 2026 sourcing).
+**Use:** context for [[report-dataset]]'s own `net_assets_to_opex_ratio` figures — a rough sense of what "healthy" endowment reliance looks like at the sector level, distinct from any single coded case's own upper-bound ratio.
+
+### C38 · Museum construction/expansion cost benchmarks, 2025-2026 — [DOC-secondary]
+**Canonical:** Three current projects anchor a rough cost range: LACMA's Peter Zumthor-designed David Geffen Galleries (opened April 2026) cost **~$724M total** (347,500 total sq ft, 110,000 sq ft exhibition space, ~$2,080/sq ft on the total footprint), funded by a $150M Geffen gift plus $125M from the City of Los Angeles. The New Museum's OMA-designed expansion (opened March 2025, 60,000 sq ft) is reported **inconsistently at $82M and $125M**, up from an original $63M estimate — contested, not reconciled. The Portland Art Museum's Rothko Pavilion (opened Nov 2025, 21,881 sq ft) cost **$111-116M** (~$5,000-5,300/sq ft), a high-cost specialty-glass outlier funded almost entirely by private donation.
+**Source:** [[market-intelligence]] #6 addendum (ArchDaily; The Art Newspaper; Artnet; OPB, 2026).
+**Do NOT say:** these figures converge on one $/sq ft benchmark — they span roughly $2,000 to $5,300/sq ft depending on building type and scope, and the New Museum figure is itself unresolved between two reported numbers.
+
+### C39 · AAM 2025 Snapshot, deepened trend data — [DOC-secondary, extends C19]
+**Canonical:** Beyond C19's headline figures, the 2025 AAM Snapshot shows the sector's recovery *reversing*, not merely stalling: **55%** of museums report attendance below 2019 levels, up from **49%** the prior year; **26%** report their 2024 bottom line was weaker than 2019, with a **median 25% decline** among that group; concern about a coming philanthropy/funding shift rose to **63%**, up from **48%** the prior year.
+**Source:** [[market-intelligence]] #6 addendum (AAM, 2025 Annual National Snapshot, full PDF).
+**Use:** extends C19's snapshot with the year-over-year trend direction — cite alongside C19, not as a replacement for it.
+
+### C40 · China's private-museum contraction, 2025 — [DOC-secondary]
+**Canonical:** At least **five private Chinese museums** shut or halted programming in the first half of 2025 alone. The sector's 2000s-2010s boom was largely built on developer land-swap deals rather than sustainable operating models (ticket/membership revenue rarely covered costs, endowments were rare); UCCA's own director called 2025 "a moment of consolidation."
+**Source:** [[market-intelligence]] #6 addendum (The Art Newspaper; Artnet, 2025-2026).
+**Use:** an international comparator showing institutional-economics pressure on the receiving end is not a US-only phenomenon.
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
 
 ## The convention

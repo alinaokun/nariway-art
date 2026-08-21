@@ -91,13 +91,13 @@
 
 | Name | Founder | Founder | Geography | Thesis | Outcome | Scale |
 |---|---|---|---|---|---|---|
-| Anderson Collection @ Stanford | Andersons | Dec. | Stanford, CA | Postwar American; gift to university *with its own building* | Stable (survived founder) | 121 works |
+| ✓ **Anderson Collection @ Stanford** — CODED [[anderson-collection-stanford]] | Andersons | Dec. | Stanford, CA | Postwar American; gift to university *with its own building* | Thriving (survived both founders; founding director's July 2026 departure is a live, open transition) | 121+ works |
 | ✓ Ogden Museum of Southern Art — CODED [[ogden]] | Roger Ogden | Living | New Orleans, LA | Art of the American South; university-affiliated regional canon | Stable | 4,000+ |
 | ✓ Audain Art Museum — CODED [[audain]] | Michael Audain | Living | Whistler, BC 🇨🇦 | British Columbia art only — Emily Carr + Indigenous NW Coast | Founder-open | 56,000 sq ft |
 | ✓ **Fondation Beyeler** — CODED [[fondation-beyeler]] | Ernst & Hildy Beyeler | Dec. | Riehen / Basel 🇨🇭 | Dealer-collector's collection → museum (1997, Renzo Piano); **survived both founders and is expanding** (new Peter Zumthor building + park) — a benchmark of a collector-founded museum that keeps growing. [expansion](https://www.fondationbeyeler.ch/en/museum/fondation-beyelers-expanded-ensemble) | Thriving | ~400 works |
 | Museo Jumex | Eugenio López | Living | Mexico City 🇲🇽 | Latin American + intl contemporary; anchors a national scene | Founder-open | ~2,700 |
 | ✓ MONA — CODED [[mona-museum]] | David Walsh | Living | Hobart 🇦🇺 | Provocative sex-and-death curation; remade a city's economy | Thriving | ~2,000 |
-| Inhotim | Bernardo Paz | Living | Brumadinho 🇧🇷 | Site-specific contemporary in botanical landscape | **Distressed** (founder legal/financial) | 5,000 acres |
+| ✓ **Inhotim** — CODED [[inhotim]] | Bernardo Paz | Living | Brumadinho 🇧🇷 | Site-specific contemporary in botanical landscape | **Corrected 2026-08-21: not a forced loss of control** — a 2020 court ruling voided a debt-settlement scheme using the art, then Paz *voluntarily* donated the remaining collection/land in 2022, converting to independent governance while living, closer to [[dia-art-foundation]]'s pattern than to a forced liquidation | 1,942–5,000 acres (contested) |
 | **NEW (2026-08-16) — Paz's second museum**, untitled | Bernardo Paz | Living | Brumadinho 🇧🇷 (311-acre site next to Inhotim, no longer his) | Revives the Inhotim model — art pavilions in a botanical landscape — for his ~3,000-work personal collection plus international and South American contemporary art; curatorial team incl. Allan Schwartzman (also Inhotim's original advisor) | **Founder rebuild after loss of control** — first pavilions open Sept 2027 | 311 acres, 20+ galleries/pavilions planned |
 | Julia Stoschek Foundation | Julia Stoschek | Living | Düsseldorf 🇩🇪 | Time-based media (video/VR/performance) | **Changed plan** — closed Berlin, going nomadic | 1,000+ |
 | Yuz Museum / Budi Tek | Budi Tek | Dec. (2022) | Shanghai 🇨🇳 | Contemporary; founder died mid-LACMA partnership | **Succession unresolved** | large |
@@ -171,7 +171,7 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | ✓ **Storm King Art Center** — CODED [[storm-king]] | Ralph Ogden & H. Peter Stern | foundation sculpture park | Dec. | New Windsor, NY | Monumental outdoor sculpture; foundation stewardship in the landscape |
 | ✓ **Sammlung Boros** — CODED [[sammlung-boros]] | Christian & Karen Boros | private collection, appointment-only | Living | Berlin, DE | Contemporary in a WWII bunker; the appointment-only private-collection-public model |
 | **The Feuerle Collection** | Désiré Feuerle | private collection, appointment-only | Living | Berlin, DE | Southeast Asian and contemporary in a former bunker |
-| **Museum Berggruen** | Heinz Berggruen | collector collection → national museum | Dec. | Berlin, DE | Modern masters; collector placed the holding with the German state (Nationalgalerie) |
+| ✓ **Museum Berggruen** — CODED [[museum-berggruen]] | Heinz Berggruen | collector collection → national museum | Dec. | Berlin, DE | Modern masters; collector placed the holding with the German state (Nationalgalerie) |
 | **Medaugh Hiroshige collection → Christie's** | Alan Medaugh | intentional dispersal / auction | Living | New York (sale) | 600+ Hiroshige prints, one of the finest ever assembled, half a century of collecting → sold at auction (first sale ~Sept 15, 2026). A live *sale* pathway with a public preview; see [[to-see]] |
 
 ## 8 · Corporate & institutional collections (a distinct category — `origin: corporate`)
