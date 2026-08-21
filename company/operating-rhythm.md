@@ -22,6 +22,8 @@ Not "work on marketing." Four things, repeatedly:
 - **Written interviews are a formal Artobiography format.** Features answer "what happened?"; conversations answer "what are people seeing now?" Over ~50 interviews with people who have unusual visibility into the life of collections, that qualitative dataset becomes a proprietary Nariway asset. The published interview is the artifact; the accumulated knowledge is the asset. Credibility test still applies ([[conversations-series]]).
 
 ## The weekly scorecard (learning, not followers)
+*Live numbers of record now live in [[scoreboard]] (the KPI ledger the daily check-in renders as its dashboard). The table below is the standing target set; the scoreboard is the current state.*
+
 | Measure | Target |
 |---|---|
 | Meaningful external conversations / written interviews | 2 |
