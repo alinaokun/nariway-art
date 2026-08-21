@@ -226,6 +226,18 @@
 
 ---
 
+### C41 · Sotheby's Financial Services securitization and lifetime loan origination — [DOC-secondary]
+**Canonical:** Sotheby's Financial Services priced a **$900 million** art-loan securitization in January 2026 and has originated more than **$12 billion** in loans since the business began in 1988. A separate secondary source updates the total art-secured lending market-size range to **$38-45 billion (2026)**, up from an $8B 2015 base — broadly consistent with, not a correction to, the $34-40B/2025 figure already anchoring C7.
+**Source:** [[market-intelligence]] #7 addendum (Bocconi Students Arts Society; Angel Investors Network, 2026).
+**Use:** a scale/maturation marker for the art-lending market (securitization as a structural milestone), and an updated but non-contradictory market-size range alongside C7.
+
+### C42 · Forced-sale discount on art collateral, quantified — [DOC-secondary]
+**Canonical:** A forced sale of a $10 million painting at a soft auction might clear only **$4-5 million before fees**. A cited vintage-effect example: contemporary works appraised at **$15 million in 2021** sold for as little as **$7 million in 2023** as the segment cooled — meaning a 50-60% LTV ratio (C21) that looked conservative at origination can leave a lender under-collateralized within two years on a segment-wide decline, not only an individual work's decline. The art-secured lending market also has **no standardized disclosure requirements and no centralized registry of pledged artworks**, unlike vehicle-title liens.
+**Source:** [[market-intelligence]] #7 addendum (Bocconi Students Arts Society, 2026; illustrative figures, not named transactions).
+**Use:** extends C22's margin-call mechanism with an actual magnitude; do not present the $10M→$4-5M or $15M→$7M figures as specific, dated transactions — they are illustrative orders of magnitude in the source material.
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
 
 ## The convention
