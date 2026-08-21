@@ -4,7 +4,7 @@
 
 **North star:** $1M+/yr independent advisory. **Near-term goal (the only one that matters now):** reach a real situation where someone asks Nariway to help, then a first paid engagement. Everything below is scored against *that*, not against activity.
 
-**As of:** 2026-08-21
+**As of:** 2026-08-21 (Erskine Conversation published — first from the Qwoted motion)
 
 ## Tier 1 — WINNING (commercial; these lead, honest zeros and all)
 | Metric | Now | Prev wk | Source / note |
@@ -17,15 +17,15 @@
 ## Tier 2 — EVIDENCE (the proprietary asset; movement here is real progress)
 | Metric | Now | Prev wk | Source / note |
 |---|---:|---:|---|
-| Core-thesis status (H7A "no one owns the pre-decision") | LOW / untested | LOW | the make-or-break; [[what-we-now-believe]] |
-| Hypotheses that moved this week | 1 | — | H6/H8 governance narrowed by [[corcoran-gallery]] (disconfirmation) |
-| Deliberate disconfirmation attempts (cumulative) | 1 | 0 | Corcoran pass, 2026-08-20 |
+| Core-thesis status (H7A "no one owns the pre-decision") | LOW (first support) | LOW / untested | first substantive cross-seat evidence — Erskine confirms the pre-decision + names the coordinating role as real-but-improvised; [[what-we-now-believe]] |
+| Hypotheses that moved this week | 4 | — | H7A first support (Erskine); H6/H8, H2, H3 all narrowed by disconfirmation passes |
+| Deliberate disconfirmation attempts (cumulative) | 4 | 0 | Corcoran (H6/H8), H2, H3, Dia — the research agent's passes |
 
 ## Tier 3 — ENGINE (inputs; necessary, but must CONVERT upward — not achievements)
 | Metric | Now | Prev wk | Source / note |
 |---|---:|---:|---|
-| Conversations published | 2 | 2 | Hall Rockefeller, Adam Szymanski (nariway.com); verify vs [[website]] |
-| Conversations accepted / in progress | 4 | — | Sage, Matthew (drafting), Leslie (drafting), Kelly (Sept 10); verify vs [[conversations-series]] |
+| Conversations published | 3 | 2 | Hall Rockefeller, Adam Szymanski, + **Erskine (2026-08-21, first from Qwoted)**; verify vs [[website]] |
+| Conversations accepted / in progress | 3 | — | Sage, Leslie (drafting), Kelly (Sept 10); Matthew now published; verify vs [[conversations-series]] |
 | Conversations invited / awaiting reply | 3 | — | Glen, Jean-Baptiste, Michael (cold); Asher parked |
 | Cases coded (toward ~75 / ~100) | ~65 | — | authoritative tally in [[report-dataset]] — agent reads it, do not assert if unsure |
 | Demand-side (collector) responses collected | ~1 | — | Person-on-the-Street live; Dawn logged; [[problem-discovery]] |
