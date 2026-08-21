@@ -4,8 +4,8 @@
 
 *A CMO work-function (no persona). Three jobs: (1) keep the profile, especially headline and About, aligned with [[positioning]]; (2) monitor what actually works on LinkedIn for niche experts; (3) run the standing **network-research** scan below. Per the CMO charter, LinkedIn is selective institutional credibility, not an audience-building machine, and pre-launch we do not overclaim an advisory service that isn't validated (H7B).*
 
-## Current state (as of 2026-08-13)
-Headline and bio are set and live, recorded in [[positioning]]. Headline standardized to **Founder, Nariway | Publisher, Artobiography | Former CFO**. The bio uses the "focus on" framing that sits between researcher and advisor. Nothing to change right now.
+## Current state
+Headline and bio are set and live; the current text is recorded in [[positioning]] ("Public copy — live profiles" section), not here — see that file for the live headline.
 
 ## Standing mandate (ongoing)
 - Watch which formats and hooks work for niche-expert profiles; recommend headline/About tweaks as positioning evolves, and make the change **in [[positioning]]**, not here.
