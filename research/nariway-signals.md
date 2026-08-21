@@ -31,6 +31,34 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-21 — Cloud run
+
+**Orientation:** heaviest today on new institutional form and museum leadership churn — a living collector building a genuinely novel non-painting museum, a 30-year-old fair institutionalizing its own acquisition pipeline, and two major directorships changing hands in the same week — with a quieter thread underneath on secrecy and disclosure as the art world's live power question.
+
+**Lead**
+
+- **Robert Rosenkranz is opening Canyon, a museum built for art nobody has time for.** The entrepreneur and longtime video-art collector's new Lower East Side space (200 Broome Street, opening this fall) is purpose-built for durational forms, video, sound, performance, work that resists the walk-by glance a painting survives. Founding MASS MoCA director Joe Thompson is running it as a hybrid of museum, performing-arts venue, and "third place," with evening hours and real hospitality, explicitly extending how Rosenkranz already shows work inside his own home into a public building. It is the sharpest form-level answer in the universe right now to "how does a private collection go public without becoming a wing": not a bigger building for the same kind of looking, a different kind of looking entirely. [Artnet](https://news.artnet.com/art-world/canyon-museum-durational-immersive-art-new-york-2656883) · [The Art Newspaper](https://www.theartnewspaper.com/2026/04/08/digital-art-conservation-preservation-canyon-julia-stoschek-george-eastman-museum) · [Canyon](https://www.canyon.org/about)
+
+**What's happening**
+
+- **The Armory Show is putting money behind museum acquisitions for the first time in its 30-plus-year history.** Two new prizes debut at the September 24–27 edition: $20,000 for the Pérez Art Museum Miami (and its Green Family Foundation Caribbean Cultural Institute) and $15,000 for the Bronx Museum, both earmarked for permanent-collection purchases out of the fair's emerging-gallery sections. A fair quietly building itself a role in how museums actually acquire, worth watching as a repeatable model. [The Art Newspaper](https://www.theartnewspaper.com/2026/08/20/the-armory-show-acquisition-prizes-perez-art-museum-miami-bronx-museum)
+- **Two major museum directorships turned over in the same week.** The North Carolina Museum of Art's Valerie Hillings left Aug 19 to become the founding director of Guggenheim Abu Dhabi, which just set its opening date for Dec 11, 2026, the largest Guggenheim ever built (Frank Gehry, Saadiyat Island). In New York, Massimiliano Gioni steps up from artistic director to director of the New Museum this month, succeeding the retiring Lisa Phillips. Not collector-founded institutions, but the leadership bench for the field's biggest openings and its most closely watched contemporary museum both just reset at once. [Axios](https://www.axios.com/local/raleigh/2026/08/04/n-c-museum-of-art-director-departing-for-guggenheim-abu-dhabi) · [Guggenheim](https://www.guggenheim.org/press-release/abu-dhabi-announces-opening-of-guggenheim-abu-dhabi) · [Artnet](https://news.artnet.com/art-world/massimiliano-gioni-new-museum-director-2786527)
+- **Closing a gap: New York Historical's promised gift from board chair Agnes Hsu-Tang and her husband Oscar Tang was announced in February and its exhibition just closed (Aug 16), so it hadn't been logged here.** 150 works by 100+ Indigenous artists, timed to the nation's 250th anniversary, from a couple with roughly $190M in career philanthropic giving — a sitting board chair converting governance access directly into the collection itself, worth noting as a pattern even this late. [The Art Newspaper](https://www.theartnewspaper.com/2026/02/23/new-york-historical-gifted-150-works-indigenous-artists) · [New York Historical](https://www.nyhistory.org/press/receive-a-landmark-promised-gift-of-works-by-indigenous-artists-from-agnes-hsu-tang-and-oscar-tang)
+
+**Worth reading**
+
+- **Tatum Dooley, "NDAs in the art world" (Art Forecast, Aug 16).** A Canadian survey she cites found two-thirds of respondents in the art sector had signed an NDA, and 22% left the field afterward. Confidentiality culture is the default setting collectors and institutions reach for long before any legacy decision becomes public — this is the best current account of why. [Art Forecast](https://artforecast.substack.com/p/ndas-in-the-art-world)
+- **"Inherited Treasures, Complex Decisions" (Wealth Solutions Report).** An advisor-facing walkthrough of the full inherited-art decision stack, valuation, income and estate tax, insurance, ownership structure, charitable intent, auction strategy, family governance, that lines up almost exactly with Nariway's own keep/divide/lend/donate/sell framework, written for the trust-and-estate audience rather than collectors. First surfaced to [[substack-register]] on 2026-08-14; hadn't made a digest yet. [Wealth Solutions Report](https://www.wealthsolutionsreport.com/inherited-treasures-complex-decisions/)
+
+**Public voices**
+
+- **Citi Wealth's art-advisory team modeled the whole collection lifecycle in public, for a room of family offices.** At Citi's Global Family Office Leadership Summit (June 3, 150+ executives from 25+ countries), Fotini Xydas moderated Betsy Bickar and Carla Caputo, plus outside counsel Katherine Wilson-Milne, through acquisition, stewardship, and deaccession, red flags and documentation practice included. The bank-advisory version of exactly the conversation Nariway wants to own independently, and a reminder of who else is already in that room. [Fotini Xydas, LinkedIn](https://www.linkedin.com/in/fotini-xydas-100a63/) · [Citi Wealth](https://www.citigroup.com/global/news/perspectives/2026/architecting-future-forces-redefining-family-office-citi-wealth)
+
+**To see (escalating)**
+
+- **The Whitney Biennial closes in two days, Aug 23.** Free admission Fridays 5–8pm if a last look is wanted before it's gone; 56 artists, duos, and collectives, the field's largest recurring survey of American art. [Whitney](https://whitney.org/exhibitions/2026-biennial)
+- **Christie's Alan Medaugh Hiroshige preview (Sept 11–14, sale Sept 15) is now inside three weeks out.** Already on Alina's calendar for the Sept 12 preview at 20 Rockefeller Plaza; no new information, just the continuing nudge as the date closes in. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+
 ### 2026-08-20 — Cloud run
 
 **Orientation:** heaviest today on the mechanics of the "great estate rush" — how houses actually hunt down and win a collection after a death, set against a quieter countertrend of collectors keeping art ever more private rather than giving it away.
