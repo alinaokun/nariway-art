@@ -142,7 +142,7 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | **Powder Mountain** | Reed Hastings | resort → open-air museum | Living | Utah | novel resort-as-museum hybrid; Dia partnership |
 | **Goodwood Art Foundation** | Duke of Richmond | estate → public art foundation | Living | England | landed-estate stewardship going public |
 | **Jaipur Centre for Art** | Padmanabh Singh & N. Kadar | royal patronage → art space in a palace | Living | India | heritage-site, royal-patronage-to-public |
-| **Lucas Museum** | Lucas & Hobson | collector mega-museum | Living | Los Angeles | *category-defining* narrative art (flag: mega-museum) |
+| **Lucas Museum** | Lucas & Hobson | collector mega-museum | Living | Los Angeles | *category-defining* narrative art (flag: mega-museum) → **SEEDED as a case 2026-08-22 ([[lucas-museum]]), PRIORITY: bring to report grade** (verify endowment via 990, governance, site history); the biggest live standalone-museum test; opens 2026-09-22 |
 | **0xCollection** | Karel Komárek | digital-art institution | Living | Switzerland | on-chain/digital as a serious collecting field |
 | **Heckler → American Folk Art Museum** | Audrey Heckler | bequest of outsider-art collection | Dec. (2024) | New York | consolidates the outsider-art canon at its flagship |
 | **Kirk Edward Long → FAMSF** | Kirk Edward Long | living mega-gift of works on paper | Living | San Francisco | recharacterizes a public print repository overnight |
