@@ -117,16 +117,27 @@ Enough architecture. Locked: **Axis A** = the 8 lifecycle chapters (The Collecti
 
 **Prototype 1 BUILT + REVISED 2026-08-22** → the Collection Record at three evidence levels (Cisneros / Barnes / Corcoran): https://claude.ai/code/artifact/585e590c-0271-43d9-9752-b4cf43cd2fc8 . Real implementation lands in the `nariway-rebuild` website project; this is the visual prototype.
 
-**Record schema/treatment refinements from the v1 critique (LOCK for the production brief):**
-- The record is a **biography supported by research**, not a data sheet. Order: pathway eyebrow → name → founder · location → **standfirst** (the interpretive line, promoted to the deck, UNLABELED, Newsreader) → **Origin** (75–125 word narrative, optional, flexes shorter for thin cases) → a quiet **Key facts** strip (Focus · Selected artists/Recipients · Scale if meaningful · Current state) → **timeline** → **Sources + Last reviewed**.
-- **Add `origin` to the record schema** (75–125 words; how the collection came to exist; the field that moves it from database to biography).
-- **"Why it matters" is a standfirst, not a field** — no label; the sentence stands alone under the title.
-- **Public evidence-richness badges (thin/moderate/rich) are INTERNAL ONLY**, never rendered. Public rigor signals = Sources, Last reviewed, and (when needed) the "public information is limited" line.
-- **`Current state` replaces `Status`** and is SHORT; the longer story lives in the timeline/Origin.
-- **STANDING RULE: public interpretation is a separate writing pass, never a paste of the internal finding.** Internal-research prose ("dissolved on money", "not self-enforcing") must be rewritten as finished editorial before it goes public. Bake into the brief for every record and history.
-- No-image state confirmed as a first-class, intentional variant (never a gray placeholder). Timeline grammar confirmed (variable length).
+**Record schema/treatment — FINAL after the v1→v3 critique (LOCK for the production brief):**
+- The Index Record is **restrained and factual, NOT interpretive.** It answers only: what is this collection, where did it come from, what happened to it. Order: pathway eyebrow → name → founder · location → **Origin** (short, factual account; flexes with evidence) → a quiet **Key facts** strip (Focus · Selected artists/Recipients · Scale if meaningful · Current state) → **timeline** → **Sources + Last reviewed**.
+- **The interpretive standfirst is REMOVED (reverses the v2 lock).** The record does not carry a thesis under the title. Moving "Why it matters" to the top was an overcorrection; those lines had a manufactured "not X, but Y" AI cadence and made the page read like content marketing. The record needs no editorial thesis to stand.
+- **`origin` is in the schema, but the prose is RESTRAINED reference tone** — no rhetorical contrasts, no moral framing, no lines written to sound quotable, no museum-catalogue voice. Confidence through specificity, not authorial performance.
+- Public evidence-richness badges (thin/moderate/rich) are INTERNAL ONLY. Public rigor signals = Sources, Last reviewed, and (when needed) "public information is limited."
+- `Current state` (short) replaces `Status`; the longer story lives in the timeline.
+- No-image state = first-class intentional variant (never a gray placeholder). Timeline grammar confirmed (variable length).
 
-Next: Prototype 2 (rich Collection History, Barnes or Chinati), then 3 (Pathway "Partner with an institution"), then 4 (Reference chapter "Succession & Transition").
+**THE EDITORIAL GRAMMAR (the big discovery — where interpretation lives, by product level). Keeps Nariway from "constantly announcing profound conclusions," and separates fact from analysis so the reader can trust the records (the antidote to the Private Museum Research objectivity problem):**
+| Product | Voice | Interpretation |
+|---|---|---|
+| **Index Record** | factual, concise, restrained | minimal / none |
+| **Collection History** | narrative, explanatory | deep, authored |
+| **Pathway page** | comparative | what several cases reveal about ONE choice |
+| **Finding** | analytical | what the accumulated evidence suggests |
+| **Conversation** | first-person | the guest's perspective |
+| **Reference chapter** | synthesis | evidence + expert + economics + practical explanation |
+- **METHOD RULE: the case supplies evidence; the synthesis happens ABOVE the case.** Cisneros's dispersal is interpreted on the "Disperse deliberately" pathway page; Barnes on findings about donor restrictions/governance; Corcoran on findings about long-term financial durability. The record just supplies the facts.
+- **STANDING RULE (still holds, applied at the interpretation levels): public interpretation is a separate writing pass, never a paste of the internal finding.**
+
+Next: Prototype 2 (rich Collection History, Barnes or Chinati — where deep interpretation is now allowed), then 3 (Pathway "Partner with an institution" — comparative interpretation), then 4 (Reference chapter "Succession & Transition" — synthesis).
 
 ## PART 3 — WHAT THE EXERCISE PROVED (the template verdict for the brief)
 
