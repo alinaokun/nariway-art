@@ -243,6 +243,28 @@
 
 ---
 
+### C44 · Private foundation excise-tax/compliance stack — [DOC-secondary]
+**Canonical:** Self-dealing (IRC §4941) applies identically to operating and non-operating private foundations: any transaction with a "disqualified person" (substantial contributor, manager/trustee, or family) triggers a 10% excise tax on that person (5% on a knowingly-participating manager), escalating to 200% (50% for the manager) if uncorrected. A **non-operating** foundation must additionally distribute a minimum investment return of **5% of its non-charitable-use assets' net FMV** annually (IRC §4942) or face a 30%+ excise tax on the shortfall. A **private operating foundation is exempt from that 5% payout test** but must instead pass an "income test," spending 85%+ of the lesser of adjusted net income or minimum investment return directly on its own charitable activity (i.e., actually running the museum) every year.
+**Source:** [[market-intelligence]] #8 addendum (IRS.gov guidance; Hurwit & Associates; PKF O'Connor Davies, 2026).
+**Use:** the compliance-burden counterweight to the operating-foundation deduction advantage already noted in #8 — cases like [[glenstone]] and [[chinati]] chose a form with an ongoing obligation, not a one-time tax election.
+
+### C45 · UK Acceptance in Lieu scheme — [DOC-secondary]
+**Canonical:** The UK's Acceptance in Lieu scheme lets an estate settle inheritance tax by transferring a "pre-eminent" artwork to a public collection. FY2024-25: **£59.7M** of objects accepted, settling **£39.3M** of tax; the estate also receives a cash "douceur" of **25% of the tax settled for art** (10% for land) — a direct in-kind-plus-cash incentive with no US equivalent.
+**Source:** [[market-intelligence]] #8 addendum (Arts Council England AIL Report 2025; The Art Newspaper, Jan 2026).
+**Use:** the report's first cross-border tax comparator; contrast with the US system, which only reduces taxable income for an art gift.
+
+### C46 · Art-funded charitable remainder trusts are basis-limited — [DOC-secondary]
+**Canonical:** Funding a charitable remainder trust with art fails the "related use" test (the trust will sell it), so the deduction is capped at cost basis, not fair market value, and deferred until the trust sells the work. A "Flip-CRUT" (near-zero payout until the art sells, then converting to a standard unitrust) funded partly with liquid assets is the practitioner workaround for the trust's mandatory-payout requirement.
+**Source:** [[market-intelligence]] #8 addendum (Forbes/Matthew Erskine; Smith Gambrell & Russell, 2026).
+**Use:** a third "flexible pathway, hidden catch" mechanism in report §4.4, alongside the art-loan margin call (C22) and the fractional-gift clawback (C25).
+
+### C47 · Hilma af Klint Foundation dispute — [DOC-secondary]
+**Canonical:** Family-chair Erik af Klint sought to withdraw the artist's paintings into a private setting per her spiritualist wishes, opposed by other board members and a gallery partnership favoring continued public exhibition; a 2026 settlement kept the work publicly accessible.
+**Source:** [[market-intelligence]] #8 addendum (Center for Art Law; Artnet; the Foundation's own statement, 2026).
+**Use:** a contemporary, board-resolved H8 (founder-constraint) data point, distinct from Barnes (court-rewritten) and Neue Galerie→Met (founder-chosen continuity).
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
 
 ## The convention

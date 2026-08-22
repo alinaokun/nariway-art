@@ -8,7 +8,7 @@ priority: high
 founder_status: living
 geography: Los Angeles, CA
 outcome: emerging
-verification: press-sourced
+verification: provisional
 public_page_eligible: true
 public_verified: true
 public_depth: expanded

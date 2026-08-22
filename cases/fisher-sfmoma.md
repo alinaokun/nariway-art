@@ -9,8 +9,21 @@ founder_status: living
 geography: San Francisco, CA
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_depth: expanded
+public_status_text: "On 100-year loan to SFMOMA since 2009; dedicated galleries fully reinstalled in 2026."
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 # Fisher Collection at SFMOMA — the 100-year loan
+
+## Public profile
+*(export layer, per [[case-template]]; figures verify-to-grade before live export)*
+- **Public facts:** founded **2009** (loan agreement) · San Francisco, CA · Family-owned collection on long-term loan to a public museum · public_access: on permanent public view in dedicated Fisher galleries at SFMOMA · size: 720+ works on loan by 100 artists (full family collection sometimes cited ~1,100 works/185 artists)
+- **Composition:** focus *postwar and contemporary blue-chip art* · period *1960s onward* · selected_artists *(a coherent multi-artist survey; a full published checklist was not located this pass)*
+- **Pathway timeline:** 1970s — *Collecting begins* — Donald and Doris Fisher begin assembling the collection · ~2005-2008 — *Plan changes* (`abandoned-plan`) — a planned standalone museum in the Presidio is dropped after community opposition · 2009 — *Partner with an institution* (`long-term-loan`) — the collection placed on a 100-year renewable loan to SFMOMA, ownership retained by the family · 2016 — *Institution built to house it* — dedicated Fisher galleries open as part of SFMOMA's Snøhetta-designed expansion · 2026 — *Full reinstallation* — SFMOMA unveils the first complete reinstallation of the collection since 2016
+- **Origin:** Gap Inc. co-founders Donald and Doris Fisher built one of the largest private collections of modern and contemporary art in the United States. A plan to open a standalone museum in San Francisco's Presidio met community opposition and was abandoned; in 2009 the family instead placed the collection on a long-term (initially 25-year, later extended to 100-year, renewable) loan to SFMOMA, keeping ownership. Donald Fisher died weeks after the agreement was signed; Doris Fisher continued to support the collection's public display until her death in May 2026, by which point it had anchored SFMOMA's expanded galleries for a decade.
 
 *Coded to [[case-template]]. Report-grade, sourced. Gap-honest: private-agreement terms and any care endowment remain `unknown`.*
 

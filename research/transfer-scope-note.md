@@ -7,7 +7,7 @@
 - Scope is **"art AND collectibles"** (adds watches, jewellery, cars, wine), **global**, **~10 years forward**, ~$100B/yr.
 - The whole headline hinges on **one unsourced lever: "5% of UHNW wealth is art/collectibles."** At 3% → ~$595B; at 8% → ~$1.59T.
 - **No fine-art-only breakdown exists.** It is a bundle.
-- **"Change hands" = ownership transfer (mostly inheritance), NOT $992B of art coming to market.** Global art *auction* turnover is only ~$60B/yr.
+- **"Change hands" = ownership transfer (mostly inheritance), NOT $992B of art coming to market.** Global art market sales are only ~$59.6B/yr in total, of which auction is ~$24.8B (see [[claims-register]] C6).
 
 ## Stock figure (confirmed)
 UHNWI art-and-collectibles wealth: **$2.174T (2022) → $2.564T (2024) → projected ~$3.473T by 2030** (2025 report); the 2023 report's $2.174T→$2.861T-by-2026 vintage also checks out. It's a model (population × wealth × art-share), not an audit.
