@@ -116,20 +116,26 @@ def main():
     today = sys.argv[1] if len(sys.argv) > 1 else __import__("datetime").date.today().isoformat()
     collections = sorted((c for c in (project(p) for p in glob.glob("cases/*.md")) if c),
                          key=lambda c: c.get("name", c["slug"]))
+    # Merge the vault-authored editorial content layer (decisions, topics, conversations).
+    # These are AUTHORED (not generated from cases); content/content.json is their single source.
+    content = {}
+    if os.path.exists("content/content.json"):
+        content = json.load(open("content/content.json", encoding="utf-8"))
     out = {
         "generated": today,
         "taxonomy": TAXONOMY,
         "collections": collections,
-        "decisions": [],      # authored separately; added in a later export iteration
-        "topics": [],         # authored separately; added in a later export iteration
-        "conversations": [],  # authored separately; added in a later export iteration
+        "decisions": content.get("decisions", []),
+        "topics": content.get("topics", []),
+        "conversations": content.get("conversations", []),
     }
     os.makedirs("export", exist_ok=True)
     with open("export/nariway-public.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"exported {len(collections)} public collections -> export/nariway-public.json")
+    print(f"exported {len(collections)} collections, {len(out['decisions'])} decisions, "
+          f"{len(out['topics'])} topics, {len(out['conversations'])} conversations -> export/nariway-public.json")
     for c in collections:
-        print(f"  - {c.get('name', c['slug'])} ({c['publicDepth']})")
+        print(f"  collection: {c.get('name', c['slug'])} ({c['publicDepth']})")
 
 if __name__ == "__main__":
     main()

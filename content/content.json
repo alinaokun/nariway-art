@@ -1,0 +1,97 @@
+{
+  "_note": "Vault-authored editorial content (decisions, topics, conversations) for the Collection Index. SOURCE file — the export (scripts/export_public.py) merges this into export/nariway-public.json. Collections are generated from cases/*.md; these three are authored here. Prose ported from the prototype artifacts. Figures are verify-to-grade per build-brief §8 before production (see 'verify' flags).",
+  "decisions": [
+    {
+      "slug": "partner-institution",
+      "label": "Partner with an institution",
+      "framing": "A collector does not have to found a new institution to keep a collection together and publicly accessible. It can be placed with one that already exists.",
+      "relevantWhen": [
+        "They want the collection to stay publicly accessible.",
+        "They do not want to build and operate a museum.",
+        "An existing institution is a natural fit for what the collection contains.",
+        "They are willing to give up some ownership or some control.",
+        "They want institutional infrastructure for conservation, exhibitions, and public access."
+      ],
+      "axes": {
+        "ownership": ["gift", "long-term-loan", "partial", "co-ownership", "staged", "contested"],
+        "partner": ["museum", "university", "foundation", "archive-library", "network", "government"],
+        "publicModel": ["dedicated-galleries", "integrated", "rotating", "lending-program"]
+      },
+      "cases": [
+        {"slug": "anderson-collection-stanford", "ownership": "gift", "partner": "university", "publicModel": "dedicated-galleries", "works": 121, "opened": 2014},
+        {"slug": "fisher-sfmoma", "ownership": "long-term-loan", "partner": "museum", "publicModel": "dedicated-galleries", "works": 1100, "opened": 2016},
+        {"slug": "broad", "ownership": "retained", "partner": "network", "publicModel": "lending-program", "works": 2000, "since": 1984}
+      ],
+      "comparison": {
+        "dimensions": ["Ownership", "Duration", "Control retained", "Public access", "Kept together", "Collector-funded infrastructure", "Post-founder arrangement"],
+        "rows": [
+          {"case": "anderson-collection-stanford", "values": ["Transferred to the university", "Permanent", "Limited; the university governs", "Dedicated building at Stanford", "Yes", "A dedicated building at the university", "University holds and shows the collection (both founders deceased)"]},
+          {"case": "fisher-sfmoma", "values": ["Retained by the family", "~100-year loan", "Set by the loan terms", "Dedicated galleries at SFMOMA", "Yes", "None; galleries within the museum's own expansion", "Governed by the documented loan terms"]},
+          {"case": "broad", "values": ["Retained by the foundation", "Ongoing", "High; the foundation controls", "Loans to 550+ institutions; own free museum", "Dispersed across loans; foundation intact", "The foundation, and later its own museum", "Continued after Eli Broad's death, 2021"]}
+        ]
+      },
+      "questions": [
+        "Who owns the works?",
+        "Does the collection have to remain together?",
+        "How long does the arrangement last?",
+        "Who pays for conservation, insurance, and installation?",
+        "How much control does the collector retain?",
+        "What happens after the collector dies?",
+        "Can either party end the arrangement?"
+      ],
+      "related": {"topics": ["estate-planning"], "conversations": ["leslie-anderson", "matthew-erskine"]},
+      "sources": ["Anderson Collection at Stanford University", "SFMOMA; the Doris and Donald Fisher Collection", "The Broad Art Foundation"],
+      "lastReviewed": "2026-08"
+    }
+  ],
+  "topics": [
+    {
+      "slug": "great-wealth-transfer",
+      "title": "The Great Wealth Transfer and Art",
+      "kind": "macro-anchor",
+      "intro": "Over the coming decades an unprecedented amount of private wealth will pass between generations. A large share of it is held by people who also own art, which puts the question of what becomes of a collection at the center of a much larger transition.",
+      "facts": [
+        {"value": "~$31T+", "label": "Projected global wealth transfer over the coming decade (order of magnitude; sources and window vary)", "source": "wealth-research (Cerulli / UBS / Knight Frank)", "effectiveDate": "2025-2026", "verify": true},
+        {"value": "~$992B", "label": "Illustrative art-and-collectibles exposure implied under a modeled UHNW-share assumption — a Deloitte model, not a reported count", "source": "Deloitte Art & Finance (claims-register C1)", "effectiveDate": "2024", "verify": true},
+        {"value": "~72%", "label": "Share of inherited art that is retained rather than sold — the transition is usually about a change of hands, not a sale", "source": "claims-register C3", "effectiveDate": "2024", "verify": true}
+      ],
+      "sections": [
+        {"heading": "The scale of the transition", "body": "The wealth passing to heirs over the next decade is measured in tens of trillions of dollars, and a meaningful portion of it sits in art and collectibles. The headline figures are modeled estimates, not counts, and should be read as orders of magnitude."},
+        {"heading": "Why ownership transition matters even without a sale", "body": "Most inherited art is kept, not sold. That means the central event for a collection is usually a change of custody and responsibility, not a moment in the market, and it is exactly the moment that is most often unmanaged."},
+        {"heading": "What it means for collections", "body": "As collections change hands at scale, more families face the same set of decisions at once, with limited guidance on how others have handled them. That is the territory the Collection Index maps."}
+      ],
+      "related": {"decisions": ["partner-institution"], "topics": ["estate-planning"], "conversations": ["matthew-erskine"]},
+      "sources": ["Deloitte Art & Finance Report", "UBS / Knight Frank wealth research", "Art Basel & UBS Survey of Global Collecting"],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "estate-planning",
+      "title": "Estate Planning and Art Collections",
+      "kind": "professional-depth",
+      "intro": "Art does not move through an estate the way financial assets do. It is illiquid, taxed differently, expensive to hold, hard to divide, and often wanted by some heirs and not others. This is how that landscape works, and where it turns on professional advice.",
+      "facts": [
+        {"value": "$15M", "label": "Federal estate & gift tax exemption per individual (2026)", "source": "IRS / Treasury", "effectiveDate": "2026", "verify": true},
+        {"value": "40%", "label": "Top federal estate tax rate", "source": "IRS", "effectiveDate": "2026", "verify": true},
+        {"value": "28%", "label": "Maximum federal rate on long-term gains from collectibles, vs 20% on most other assets, plus the 3.8% net investment income tax where it applies", "source": "IRC §1(h); IRS", "verify": true},
+        {"value": "FMV", "label": "Basis is generally stepped up to fair market value at death (IRC §1014)", "source": "IRS", "verify": true}
+      ],
+      "sections": [
+        {"heading": "What makes art different", "body": "Illiquidity (a work cannot be partially sold to pay a tax bill), a higher collectibles capital-gains rate, estate-tax exposure at full value on an asset that produces no income, qualified-appraisal requirements, the cost of physical custody, and the problem that a single work cannot be divided among several heirs."},
+        {"heading": "The decisions this forces", "body": "Keep or sell; who receives the works; keep the collection intact or divide it; gift during life or transfer at death; give to charity and in what form; use a foundation or a trust."},
+        {"heading": "The federal tax framework", "body": "The 2026 federal estate and gift tax exemption is about $15M per individual with a 40% top rate; long-term gains on collectibles are taxed at a 28% federal maximum plus the 3.8% NIIT where applicable; and basis is generally stepped up to fair market value at death. Every figure here must be verified against the primary source before it is relied upon."},
+        {"heading": "Charitable gifts of art", "body": "A donor can generally deduct fair market value for a long-term-held work given to a public charity only if the charity's use is related to its exempt purpose (the related-use rule); deductions are capped as a share of adjusted gross income; and non-cash gifts above $5,000 require a qualified appraisal and IRS Form 8283, with high-value art reviewable by the IRS Art Advisory Panel."},
+        {"heading": "State and other jurisdictions", "body": "State estate and inheritance taxes vary by domicile and where works are held; a handful of states levy their own with far lower exemptions than the federal one, and other countries differ more sharply still. Specific jurisdiction pages will be added only where there is enough verified material to be useful."},
+        {"heading": "Questions to work through", "body": "Who legally owns the collection, and through what entity? What is the current cost basis? When was each work last appraised? Do the heirs want the collection? Would a museum accept it, and on what terms? Is the estate above or below the exemption? Gift during life or transfer at death?"},
+        {"heading": "Professional roles", "body": "A qualified appraiser establishes value; an estate and tax attorney structures the transfer and models consequences; an accountant handles filings; an insurance specialist covers valuation, transport, and storage; an art adviser or collection manager assists with records, transactions, and institutional relationships."}
+      ],
+      "related": {"decisions": ["partner-institution"], "topics": ["great-wealth-transfer"], "conversations": ["matthew-erskine", "asher-rubinstein"]},
+      "sources": ["IRS, Estate and Gift Tax", "Internal Revenue Code §1(h), §1014", "IRS, charitable contributions of property; Form 8283; Art Advisory Panel", "State revenue-department guidance"],
+      "lastReviewed": "2026-08"
+    }
+  ],
+  "conversations": [
+    {"slug": "matthew-erskine", "title": "Not every collection can stay whole", "guest": "Matthew Erskine", "url": "https://nariway.com/conversations/matthew-erskine", "relatedTopics": ["estate-planning", "great-wealth-transfer"], "relatedDecisions": ["partner-institution"]},
+    {"slug": "hall-rockefeller", "title": "Hall Rockefeller", "guest": "Hall Rockefeller", "url": "https://nariway.com/conversations/hall-rockefeller", "relatedTopics": [], "relatedDecisions": []},
+    {"slug": "adam-szymanski", "title": "Adam Szymanski", "guest": "Adam Szymanski", "url": "https://nariway.com/conversations/adam-szymanski", "relatedTopics": [], "relatedDecisions": []}
+  ]
+}

@@ -102,6 +102,10 @@ Stable coded layer = [[case-template]] (`pathway`/`outcome`/governance/coherence
 
 **Steady-state workflow:** research happens in the vault (Alina + cloud agent) → a case is marked public-eligible and its figures verified → run the export → the site rebuilds from the new JSON. Additive, auditable, no drift.
 
+**Two content origins (this is how the four content types get into the export):**
+- **Collections are GENERATED** from `cases/*.md` (the flat `public_*` frontmatter), automatically, by the export script.
+- **Decisions, Topics, and Conversations are AUTHORED** editorial content — they are not per-collection data, so they live in one vault source file, **`content/content.json`**, authored in the vault and **merged** into the export by `scripts/export_public.py`. Prototype content (the Partner-with-an-institution decision, the Estate Planning + Great Wealth Transfer topics, the Conversations index) is ported there. `nariway-rebuild` NEVER authors these in its own repo — it consumes them from the export, same rule as collections. (Correction to an earlier draft: the authored source is `content/content.json`, a SOURCE file; `export/nariway-public.json` is the generated OUTPUT. Do not conflate them.) Figures in `content/content.json` carry a `verify: true` flag until confirmed to grade per §8.
+
 ### The export contract (v1)
 The projection `nariway-rebuild` consumes. Field names are the contract; add fields as the data model grows, never remove silently.
 
