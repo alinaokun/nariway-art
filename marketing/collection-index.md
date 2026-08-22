@@ -79,6 +79,8 @@ The $1M goal is now the filter for every Index decision, which sharpened the com
 - **Image-rights fields to add now:** public `hero_image_status` (`cleared` / `open_access` / `permission_required` / `no_usable_image`); internal `image_source`, `image_rights`, `image_credit`, `image_caption`, `image_verified_date`.
 - **Decision-based navigation reinforced:** the content fields deepen the proof-of-work comparison (a prospect weighing a university gift sees Anderson@Stanford and Ogden are *not interchangeable* — different focus/artists/period), so "by decision" stays the organizing spine of the commercial view.
 
+> **The pre-build IA package is DONE → [[collection-index-architecture]]** (2026-08-22): the taxonomy (two navigable axes + a measurement overlay, all derived from decision-map + case-template + field-definition) and the 10-case two-lens drafts with the template verdict. That is the file ChatGPT / the website project should write the design brief around.
+
 ## Pre-build architecture locks (2026-08-22, session 5 — before ChatGPT's design brief)
 Concept is done; these are the decisions that must be right BEFORE the build spec, because they are expensive to unwind. The plan now: three products — **Collections** (the record), **The Field** (macro evidence/findings), **The Guide** (practical how-to) — with Field + Guide converging into a **reference-work** organized by a lifecycle taxonomy; hierarchy borrowed from Stanford AI Index (*Finding → Chapter → Evidence → Explanation → Sources*) and knowledge-architecture/metadata from Our World in Data (independent knowledge units: a stat, a case, a topic, a finding, a Conversation each stand alone and cross-link). The website itself is the reference work; no annual PDF.
 
