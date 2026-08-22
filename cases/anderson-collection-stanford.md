@@ -10,6 +10,29 @@ founder_status: deceased
 geography: Stanford, CA, USA
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "At Stanford University since 2014, in a purpose-built building."
+public_name: Anderson Collection at Stanford University
+public_founder: Harry W. and Mary Margaret "Moo" Anderson (with Mary Patricia Anderson Pence)
+public_location: Stanford, CA
+public_collecting_began: 1960s
+public_founded: 2014
+public_structure: Gift to a university; purpose-built building (a Stanford unit)
+public_access: Open to the public at Stanford, free
+public_size: 121 works by 86 artists
+public_focus: 20th-century American art, postwar
+public_movements: Abstract Expressionism; Bay Area figurative; color field; post-minimalism; California funk
+public_period: mid-20th century onward
+public_media: painting
+public_selected_artists: Jackson Pollock; Willem de Kooning; Franz Kline; Clyfford Still; Philip Guston; Richard Diebenkorn; Ellsworth Kelly
+public_pathway_timeline: 2011|partner-institution|university-partnership|121 works pledged to Stanford ;; 2014|partner-institution|university-partnership|Purpose-built Ennead building opens (September 21)
+public_origin: The Andersons, a Bay Area family, built one of the foremost private collections of 20th-century American art over nearly 50 years. In 2011 they pledged 121 works to Stanford, and a purpose-built museum opened on campus in 2014, keeping the collection together and publicly accessible as a university gift rather than a standalone family museum.
+public_sources: anderson.stanford.edu; Stanford Report
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Anderson Collection at Stanford University — a purpose-built university gift, now mid-succession at its own founding director's departure

@@ -60,6 +60,142 @@
   },
   "collections": [
     {
+      "slug": "anderson-collection-stanford",
+      "publicDepth": "expanded",
+      "name": "Anderson Collection at Stanford University",
+      "founder": "Harry W. and Mary Margaret \"Moo\" Anderson (with Mary Patricia Anderson Pence)",
+      "location": "Stanford, CA",
+      "profile": {
+        "founded": 2014,
+        "collectingBegan": "1960s",
+        "structure": "Gift to a university; purpose-built building (a Stanford unit)",
+        "publicAccess": "Open to the public at Stanford, free",
+        "currentState": "At Stanford University since 2014, in a purpose-built building.",
+        "size": "121 works by 86 artists"
+      },
+      "composition": {
+        "focus": "20th-century American art, postwar",
+        "movements": [
+          "Abstract Expressionism",
+          "Bay Area figurative",
+          "color field",
+          "post-minimalism",
+          "California funk"
+        ],
+        "period": "mid-20th century onward",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Jackson Pollock",
+          "Willem de Kooning",
+          "Franz Kline",
+          "Clyfford Still",
+          "Philip Guston",
+          "Richard Diebenkorn",
+          "Ellsworth Kelly"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "121 works pledged to Stanford",
+            "year": 2011,
+            "familyId": "partner-institution",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "Purpose-built Ennead building opens (September 21)",
+            "year": 2014,
+            "familyId": "partner-institution",
+            "codedPathway": "university-partnership"
+          }
+        ]
+      },
+      "origin": "The Andersons, a Bay Area family, built one of the foremost private collections of 20th-century American art over nearly 50 years. In 2011 they pledged 121 works to Stanford, and a purpose-built museum opened on campus in 2014, keeping the collection together and publicly accessible as a university gift rather than a standalone family museum.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "anderson.stanford.edu",
+        "Stanford Report"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "cisneros",
+      "publicDepth": "expanded",
+      "name": "Colección Patricia Phelps de Cisneros",
+      "founder": "Patricia Phelps de Cisneros",
+      "location": "Caracas, Venezuela / New York, NY",
+      "profile": {
+        "collectingBegan": "1970s",
+        "structure": "Private collection dispersed by gift into public museums; no founder museum",
+        "publicAccess": "Gifted works accessioned and shown at each recipient museum",
+        "currentState": "Works held in six museum collections, including MoMA's Cisneros Institute for the Study of Art from Latin America.",
+        "size": "~340+ works gifted (2016 and 2018 tranches); full collection size unpublished"
+      },
+      "composition": {
+        "focus": "Latin American modern and contemporary art, with a geometric-abstraction core",
+        "movements": [
+          "geometric abstraction",
+          "Latin American conceptualism"
+        ],
+        "period": "mid-20th century to contemporary",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Lygia Clark",
+          "Jesús Rafael Soto",
+          "Gego",
+          "Carlos Cruz-Diez",
+          "Hélio Oiticica",
+          "Alejandro Otero"
+        ],
+        "recipients": [
+          "MoMA",
+          "Museo Nacional Centro de Arte Reina Sofía",
+          "Blanton Museum of Art (UT Austin)",
+          "Museo de Arte Moderno de Buenos Aires",
+          "Museo de Arte de Lima",
+          "Bronx Museum of the Arts"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Collecting begins",
+            "year": "1970s"
+          },
+          {
+            "event": "~102 works gifted to MoMA, founding the Cisneros Institute for the Study of Art from Latin America",
+            "year": 2016,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-scattered"
+          },
+          {
+            "event": "200+ works by 91 artists gifted to six museums across the Americas and Europe",
+            "year": 2018,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          }
+        ]
+      },
+      "origin": "Patricia and Gustavo Cisneros began collecting Latin American art in the 1970s, building one of the world's foremost holdings, with a core in mid-century geometric abstraction. Rather than found a museum, Patricia Phelps de Cisneros chose deliberate dispersal, gifting works into the permanent collections of major existing institutions so that Latin American art enters the global canon. Gustavo Cisneros died in 2023; she remains an active collector.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "MoMA",
+        "The Art Newspaper"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "corcoran-gallery",
       "publicDepth": "record",
       "name": "Corcoran Gallery of Art",
@@ -94,6 +230,133 @@
       "sources": [
         "Cy pres dissolution ruling (2014)",
         "National Gallery of Art"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "de-la-cruz-collection",
+      "publicDepth": "expanded",
+      "name": "De la Cruz Collection",
+      "founder": "Rosa & Carlos de la Cruz",
+      "location": "Miami, FL",
+      "profile": {
+        "founded": 2009,
+        "structure": "Free private museum (2009–2024); privately owned, no foundation",
+        "publicAccess": "Was free and open to the public, 2009–2024; now closed",
+        "currentState": "Museum closed 2024 after the founder's death; collection consigned to auction.",
+        "size": "~1,000 works"
+      },
+      "composition": {
+        "focus": "contemporary art",
+        "period": "contemporary",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ],
+        "selectedArtists": [
+          "Ana Mendieta",
+          "Félix González-Torres",
+          "Jim Hodges"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Free 30,000-sq-ft private museum opens in Miami's Design District",
+            "year": 2009,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Founder Rosa de la Cruz dies; museum closed and the collection consigned to Christie's (May 2024 sale, 25 works, ~$34M)",
+            "year": 2024,
+            "familyId": "sell",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Rosa and Carlos de la Cruz opened a free 30,000-square-foot private museum in Miami's Design District in 2009 to show their contemporary collection and support local artists. Rosa de la Cruz died in February 2024; the museum did not reopen, and the collection was consigned to auction, a first Christie's sale in May 2024 realizing about $34 million.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "WLRN",
+        "ARTnews",
+        "Christie's"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "fisher-sfmoma",
+      "publicDepth": "expanded",
+      "name": "Fisher Collection at SFMOMA",
+      "founder": "Doris & Donald Fisher",
+      "location": "San Francisco, CA",
+      "profile": {
+        "collectingBegan": "1970s",
+        "structure": "Family-owned collection on long-term loan to a public museum",
+        "publicAccess": "On permanent public view in dedicated Fisher galleries at SFMOMA",
+        "currentState": "On 100-year loan to SFMOMA since 2009; dedicated galleries fully reinstalled in 2026.",
+        "size": "1,100 works (720+ on the initial loan, by ~100 artists)"
+      },
+      "composition": {
+        "focus": "postwar and contemporary art (post-1960s American and European)",
+        "period": "1960s onward",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Alexander Calder",
+          "Chuck Close",
+          "Ellsworth Kelly",
+          "Anselm Kiefer",
+          "Roy Lichtenstein",
+          "Agnes Martin",
+          "Gerhard Richter",
+          "Richard Serra",
+          "Andy Warhol"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Collecting begins",
+            "year": "1970s"
+          },
+          {
+            "event": "Planned Presidio museum dropped after community opposition",
+            "year": 2008
+          },
+          {
+            "event": "Collection placed on a 100-year renewable loan to SFMOMA, family retains ownership",
+            "year": 2009,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "Dedicated Fisher galleries open in SFMOMA's expansion",
+            "year": 2016,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "First full reinstallation since 2016",
+            "year": 2026,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          }
+        ]
+      },
+      "origin": "Gap Inc. co-founders Donald and Doris Fisher built one of the largest US private collections of modern and contemporary art. A plan to open a standalone museum in San Francisco's Presidio met community opposition and was abandoned; in 2009 the family instead placed the collection on a long-term (later 100-year) renewable loan to SFMOMA, keeping ownership. Donald Fisher died weeks after the agreement; the collection has anchored SFMOMA's expanded galleries since 2016.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "SFMOMA",
+        "artnet"
       ],
       "lastReviewed": "2026-08"
     },
@@ -205,6 +468,62 @@
         "Montgomery County Orphans' Court opinions"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "broad",
+      "publicDepth": "expanded",
+      "name": "The Broad Art Foundation",
+      "founder": "Eli & Edythe Broad",
+      "location": "Los Angeles / Santa Monica, CA",
+      "profile": {
+        "founded": 1984,
+        "structure": "Private foundation lending library (and its own museum, The Broad, 2015)",
+        "publicAccess": "Loans to 550+ institutions worldwide; The Broad museum free to the public",
+        "currentState": "Active; a lending library since 1984, and The Broad museum (free) since 2015.",
+        "size": "2,000+ works; 8,700+ loans made"
+      },
+      "composition": {
+        "focus": "postwar and contemporary art",
+        "period": "mid-20th century onward",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Jean-Michel Basquiat",
+          "Jeff Koons",
+          "Cindy Sherman",
+          "Ed Ruscha",
+          "Roy Lichtenstein",
+          "Andy Warhol"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Broad Art Foundation founded as a lending library",
+            "year": 1984,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "The Broad museum opens (free) in downtown Los Angeles",
+            "year": 2015,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Eli and Edythe Broad built a large postwar and contemporary collection and, in 1984, created the Broad Art Foundation as a lending library, a deliberate alternative to warehousing art, lending thousands of works to museums worldwide. In 2015 they added their own free museum, The Broad, in downtown Los Angeles. The model has continued since Eli Broad's death in 2021.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "thebroad.org",
+        "ARTnews"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "chinati",

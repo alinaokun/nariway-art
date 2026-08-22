@@ -10,20 +10,30 @@ geography: San Francisco, CA
 outcome: thriving
 verification: spot-verified
 public_page_eligible: true
+public_verified: true
 public_depth: expanded
 public_status_text: "On 100-year loan to SFMOMA since 2009; dedicated galleries fully reinstalled in 2026."
+public_name: Fisher Collection at SFMOMA
+public_founder: Doris & Donald Fisher
+public_location: San Francisco, CA
+public_collecting_began: 1970s
+public_structure: Family-owned collection on long-term loan to a public museum
+public_access: On permanent public view in dedicated Fisher galleries at SFMOMA
+public_size: 1,100 works (720+ on the initial loan, by ~100 artists)
+public_focus: postwar and contemporary art (post-1960s American and European)
+public_period: 1960s onward
+public_media: painting; sculpture
+public_selected_artists: Alexander Calder; Chuck Close; Ellsworth Kelly; Anselm Kiefer; Roy Lichtenstein; Agnes Martin; Gerhard Richter; Richard Serra; Andy Warhol
+public_pathway_timeline: 1970s|||Collecting begins ;; 2008|||Planned Presidio museum dropped after community opposition ;; 2009|partner-institution|long-term-loan|Collection placed on a 100-year renewable loan to SFMOMA, family retains ownership ;; 2016|partner-institution|long-term-loan|Dedicated Fisher galleries open in SFMOMA's expansion ;; 2026|partner-institution|long-term-loan|First full reinstallation since 2016
+public_origin: Gap Inc. co-founders Donald and Doris Fisher built one of the largest US private collections of modern and contemporary art. A plan to open a standalone museum in San Francisco's Presidio met community opposition and was abandoned; in 2009 the family instead placed the collection on a long-term (later 100-year) renewable loan to SFMOMA, keeping ownership. Donald Fisher died weeks after the agreement; the collection has anchored SFMOMA's expanded galleries since 2016.
+public_sources: SFMOMA; artnet
 hero_image_status: no_usable_image
 living_collector: false
 last_reviewed: 2026-08
 ---
 # Fisher Collection at SFMOMA — the 100-year loan
 
-## Public profile
-*(export layer, per [[case-template]]; figures verify-to-grade before live export)*
-- **Public facts:** founded **2009** (loan agreement) · San Francisco, CA · Family-owned collection on long-term loan to a public museum · public_access: on permanent public view in dedicated Fisher galleries at SFMOMA · size: 720+ works on loan by 100 artists (full family collection sometimes cited ~1,100 works/185 artists)
-- **Composition:** focus *postwar and contemporary blue-chip art* · period *1960s onward* · selected_artists *(a coherent multi-artist survey; a full published checklist was not located this pass)*
-- **Pathway timeline:** 1970s — *Collecting begins* — Donald and Doris Fisher begin assembling the collection · ~2005-2008 — *Plan changes* (`abandoned-plan`) — a planned standalone museum in the Presidio is dropped after community opposition · 2009 — *Partner with an institution* (`long-term-loan`) — the collection placed on a 100-year renewable loan to SFMOMA, ownership retained by the family · 2016 — *Institution built to house it* — dedicated Fisher galleries open as part of SFMOMA's Snøhetta-designed expansion · 2026 — *Full reinstallation* — SFMOMA unveils the first complete reinstallation of the collection since 2016
-- **Origin:** Gap Inc. co-founders Donald and Doris Fisher built one of the largest private collections of modern and contemporary art in the United States. A plan to open a standalone museum in San Francisco's Presidio met community opposition and was abandoned; in 2009 the family instead placed the collection on a long-term (initially 25-year, later extended to 100-year, renewable) loan to SFMOMA, keeping ownership. Donald Fisher died weeks after the agreement was signed; Doris Fisher continued to support the collection's public display until her death in May 2026, by which point it had anchored SFMOMA's expanded galleries for a decade.
+*(Public projection fields are in the frontmatter above, per [[case-template]] — the single machine source the export reads. The prose below is the internal research record.)*
 
 *Coded to [[case-template]]. Report-grade, sourced. Gap-honest: private-agreement terms and any care endowment remain `unknown`.*
 

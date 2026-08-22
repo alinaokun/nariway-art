@@ -10,8 +10,25 @@ geography: Caracas, Venezuela / New York, NY, USA
 outcome: thriving
 verification: spot-verified
 public_page_eligible: true
+public_verified: true
 public_depth: expanded
 public_status_text: "Works held in six museum collections, including MoMA's Cisneros Institute for the Study of Art from Latin America."
+public_name: Colección Patricia Phelps de Cisneros
+public_founder: Patricia Phelps de Cisneros
+public_location: Caracas, Venezuela / New York, NY
+public_collecting_began: 1970s
+public_structure: Private collection dispersed by gift into public museums; no founder museum
+public_access: Gifted works accessioned and shown at each recipient museum
+public_size: ~340+ works gifted (2016 and 2018 tranches); full collection size unpublished
+public_focus: Latin American modern and contemporary art, with a geometric-abstraction core
+public_movements: geometric abstraction; Latin American conceptualism
+public_period: mid-20th century to contemporary
+public_media: painting; sculpture; works on paper
+public_selected_artists: Lygia Clark; Jesús Rafael Soto; Gego; Carlos Cruz-Diez; Hélio Oiticica; Alejandro Otero
+public_recipients: MoMA; Museo Nacional Centro de Arte Reina Sofía; Blanton Museum of Art (UT Austin); Museo de Arte Moderno de Buenos Aires; Museo de Arte de Lima; Bronx Museum of the Arts
+public_pathway_timeline: 1970s|||Collecting begins ;; 2016|give-institution|donate-existing-museum-scattered|~102 works gifted to MoMA, founding the Cisneros Institute for the Study of Art from Latin America ;; 2018|disperse|intentional-dispersal|200+ works by 91 artists gifted to six museums across the Americas and Europe
+public_origin: Patricia and Gustavo Cisneros began collecting Latin American art in the 1970s, building one of the world's foremost holdings, with a core in mid-century geometric abstraction. Rather than found a museum, Patricia Phelps de Cisneros chose deliberate dispersal, gifting works into the permanent collections of major existing institutions so that Latin American art enters the global canon. Gustavo Cisneros died in 2023; she remains an active collector.
+public_sources: MoMA; The Art Newspaper
 hero_image_status: no_usable_image
 living_collector: true
 last_reviewed: 2026-08
@@ -19,12 +36,7 @@ last_reviewed: 2026-08
 
 # Colección Patricia Phelps de Cisneros — dispersal into the canon
 
-## Public profile
-*(export layer, per [[case-template]]; figures verify-to-grade before live export)*
-- **Public facts:** collecting began **1970s** · Caracas, Venezuela / New York, NY · Private collection dispersing by gift into public museum collections · public_access: the gifted works are on view/accessioned at each recipient museum, subject to each institution's own display schedule · size: gifted subset ~340+ works (2016 + 2018 tranches); full collection size unpublished
-- **Composition:** focus *Latin American modern and contemporary art, with a geometric-abstraction core* · movements *geometric abstraction · Latin American conceptualism* · period *mid-20th century to contemporary* (dated as of the 2016/2018 gifts; Patricia Phelps de Cisneros is a living collector and continues to be active) · recipients *MoMA (New York) · Museo Nacional Centro de Arte Reina Sofía (Madrid) · Blanton Museum of Art (UT Austin) · Museo de Arte Moderno de Buenos Aires · Museo de Arte de Lima · Bronx Museum of the Arts*
-- **Pathway timeline:** 1970s — *Collecting begins* (family collecting) — Patricia and Gustavo Cisneros begin building the collection · 2016 — *Give it away, existing institution* (`donate-existing-museum-scattered`) — ~102 works of geometric abstraction gifted to MoMA, founding the Cisneros Institute for the Study of Art from Latin America · 2018 — *Give it away, existing institution* (`intentional-dispersal`) — 200+ works by 91 artists from 22 countries gifted to six museums across the Americas and Europe
-- **Origin:** Patricia and Gustavo Cisneros began collecting Latin American art in the 1970s, building one of the world's foremost holdings spanning colonial-era work, mid-century geometric abstraction, and contemporary practice. Rather than found a Cisneros museum, Patricia Phelps de Cisneros chose deliberate dispersal: gifting works outright into the permanent collections of major existing institutions, betting that embedding Latin American art inside canonical Western museums does more lasting cultural work than concentrating it in one founder building. Gustavo Cisneros died in 2023; Patricia Phelps de Cisneros remains an active, living collector.
+*(Public projection fields are in the frontmatter above, per [[case-template]] — the single machine source the export reads. The prose below is the internal research record.)*
 
 *Coded to [[case-template]]. Report-grade, sourced. A living-founder collection that chose **deliberate dispersal** — gifting Latin American art across multiple existing museums (anchored at MoMA) to embed it in the global canon, rather than founding a Cisneros museum. Gap-honest: per-museum allocation beyond MoMA, and any foundation financials, remain `unknown`.*
 
