@@ -218,6 +218,30 @@ The pathway grammar was tested against the full coded set. It held on the clean 
 
 **These are taxonomy/IP decisions, hard-coded into the site, so they are Alina's call. Pending her decisions, the production brief should encode: the 6 families + a 7th "Steward it," the soft multi-path rule with timeline anchoring, the traveling→Partner and scattered-by-intent fixes, and the expanded Partner axes.** Full audit detail retained in the session task output.
 
+## Topic layer — FINAL spec (2026-08-22). Layer PROVEN; no more Topic prototypes, no more prototypes at all.
+Fold these into the production spec (do NOT keep polishing the estate-planning artifact):
+- **Topic pages are structured reference resources, NOT essays.** Depth is evidence-dependent, exactly like Collection depth.
+- **Strip inferred tax/planning recommendations.** Document the rules and stop; the reader is intelligent enough to see that facts interact. Remove any "an estate may be better off…" style conclusion — that is advice, not documentation. Present the figure + source + effective date, then stop.
+- **Disclaimers quiet and site-wide.** One short line near the bottom ("Nariway provides research and general information, not legal, tax, appraisal, investment, or other professional advice") plus a fuller footer/legal page. NOT a prominent top gray box (it reads nervous on an authoritative page).
+- **Factual restraint in phrasing** — no absolutes like "forces." e.g. "A single work cannot be physically divided among heirs. Families may therefore need to consider shared ownership, a buyout, sale, gift, or another arrangement."
+- **A Topic supports THREE kinds of evidence** (not every Topic needs all three): (1) **external data** (UBS, Deloitte, IRS, Art Basel, Fed, Knight Frank, government), (2) **rules & professional frameworks** (tax law, appraisal standards, insurance practice, museum requirements, estate rules), (3) **Nariway corpus evidence** (what the collections + Conversations actually show). **The third category is what separates a Nariway Topic from a law firm's article** — but only when the corpus supports it. The corpus thus does double duty: collection profiles AND proprietary evidence for Topics.
+- **Sourced-facts hero:** open with a group of 5–6 sourced facts spanning law + economics + collector behavior + corpus (e.g. $15M exemption / 40% rate / 28% collectibles / $5,000 appraisal threshold / "61% of collectors have not discussed their collection with heirs" [verify]). That combination is hard to replicate.
+- **"Professional roles" is factual, not a sales pitch.** Describe each specialist plainly (appraiser · estate attorney · tax adviser · insurance specialist · art adviser/collection manager). **Do NOT insert Nariway's positioning into reference copy** — the commercial pitch lives elsewhere on the site.
+- **NEVER manufacture a Nariway finding to fill a section.** Findings are NOT a standalone content type yet: a finding first appears INSIDE the page where it belongs (e.g. a corpus distribution inside the relevant Topic); it earns its own permanent Finding URL only when important enough to cite independently. Don't build containers before content (the killed-Histories lesson, again).
+- **Every time-sensitive number carries source + effective date + last-verified date.**
+
+## THE RESEARCH ARCHITECTURE — three kinds of knowledge that check each other (Alina's synthesis, 2026-08-22)
+The three public layers are not just sections; they are **different kinds of knowledge**:
+- **Collections = PRECEDENT** — what has actually happened.
+- **Decisions/Pathways = COMPARISON** — what forms a collector can choose among.
+- **Topics = CONTEXT** — the financial, legal, operational, family, and institutional forces affecting those choices.
+- **Conversations = EXPERTISE** — what experienced people know that the documents don't show.
+
+**Each layer checks the others, and together they are the research engine:** a tax rule (Topic) explains why a Collection took its path; a Collection demonstrates what a Decision looks like in practice; a Conversation reveals complications missing from public records; enough Collections produce original Nariway data → **Findings** → which improve the Decisions and Topics. **Commercially:** Nariway is not monetizing "content." The public research demonstrates that Nariway understands the *entire decision environment* around a significant collection, so a collector with a complicated situation sees the evidence of that expertise before ever speaking with Alina. That is closer to the $1M objective, and more defensible, than any annual report.
+
+## STATE OF PLAY (2026-08-22): prototyping COMPLETE
+All page types proven: Collection (structured profile + selective explanation, across rich/moderate/sparse), Pathway (structured comparison from the collector's decision), Topic (structured reference, three evidence kinds). Taxonomy audit DONE (results + recommendations above). **The ONLY things between here and the production brief: (a) Alina's decisions on the taxonomy recommendations, and (b) the optional dataset-integrity fix.** Then Claude Code writes the production brief for the `nariway-rebuild` project. No further prototypes.
+
 ## PART 3 — WHAT THE EXERCISE PROVED (the template verdict for the brief)
 
 1. **The two-level model (Index Record vs Collection History) is validated and necessary.** Corcoran and Almaty prove it: important cases with thin public detail earn a factual Index Record without being forced into a deep narrative they can't support. Deep histories are earned by evidence, not importance.
