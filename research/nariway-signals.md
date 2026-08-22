@@ -31,6 +31,33 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-22 — Cloud run
+
+**Orientation:** heaviest today on collector-museums hitting their own milestones — a firm opening date for the year's biggest private museum, a founder-anniversary expansion in Buenos Aires, and a founder-era museum's timeline slipping after its founder's death — with Tim Schneider's best essay in weeks taking a hammer to the "great wealth transfer" story this whole beat has been leaning on.
+
+**Lead**
+
+- **The Lucas Museum of Narrative Art has a firm opening date: September 22, 2026.** George Lucas and Mellody Hobson's billion-dollar, 300,000-square-foot Los Angeles museum — 40,000+ works spanning comics, illustration, film stills, and fine art, all under the thesis that visual storytelling is "the people's art" — has been "opening 2026" in the universe for months with no fixed date. It now has one, a month out. This is the biggest single test case live anywhere in Nariway's world for whether a mega-collection can become a mega-museum without losing the specificity of what the founders actually collected. [Lucas Museum](https://lucasmuseum.org/press/the-lucas-museum-of-narrative-art-to-open-on-september-22-2026) · [Forbes](https://www.forbes.com/sites/michaelgoldstein/2026/08/18/george-lucas-museum-of-narrative-art-gets-ready-for-launch/)
+
+**What's happening**
+
+- **Eduardo Costantini is using Malba's 25th anniversary (this September) to roughly double the museum's footprint.** The Daros Latinamerica acquisition (1,233 works, announced last December) turns out to be the anchor for a building extension beneath the adjacent Plaza Perú, timed deliberately to the anniversary — a living founder treating a milestone date as the occasion to formalize and grow his own namesake institution, not just mark it. → updated [[Eduardo Costantini]]. [ARTnews](https://www.artnews.com/art-news/news/malba-acquires-daros-latinamerica-collection-expansion-1234766956/)
+- **The Las Vegas Museum of Art's opening has slipped to fall 2029 — the first real timeline news since founder Elaine Wynn died in April 2025.** A smaller "Grand Central Galleries" media-lab prelude, not the museum itself, is what's actually opening next, in spring 2026. The clean mirror case to today's lead: what a collector-museum's schedule does once the founder who was driving it is no longer there to drive it. [Las Vegas Review-Journal](https://www.reviewjournal.com/business/future-las-vegas-art-museum-unveils-plans-for-media-lab-3392100/)
+- **Anita and A. Gary Klesch are endowing a two-year art-history-and-AI fellowship at Birkbeck, University of London, instead of expanding their own collection's public footprint.** A genuinely different legacy move from everything else in this brief: putting a private collection's money into the field's scholarly infrastructure (a postdoc studying AI, museums, and digital heritage) rather than a building. Worth tracking as a third pathway alongside "give the art" and "build the museum." [The Art Newspaper](https://www.theartnewspaper.com/2026/08/20/klesch-collection-endow-postdoctoral-fellowship-focusing-art-history-ai-birkbeck-london)
+
+**Worth reading**
+
+- **Tim Schneider, "The Great Wealth Transfer is art's reddest herring" (The Gray Market, Aug 21).** A direct, well-argued challenge to the exact narrative underneath [[market-intelligence|the "great estate rush" thesis]] this brief tracks constantly: Schneider argues the art trade has mythologized the coming intergenerational wealth transfer into a rescue story for a stagnant market, when dealers and houses remain largely uncurious about the next generation of collectors who'd actually receive that wealth. The most useful counter-read to this whole beat in weeks — worth holding against every "estate rush" item logged here. [The Gray Market](https://thegraymarket.substack.com/p/the-great-wealth-transfer-is-arts)
+
+**To see (escalating)**
+
+- **The Whitney Biennial closes tomorrow, Aug 23** — last call if a look is wanted; free Friday hours 5–8pm today. 56 artists, the field's largest recurring survey of American art. [Whitney](https://whitney.org/exhibitions/2026-biennial)
+- **Christie's Alan Medaugh Hiroshige preview is now 20 days out** (public preview Sept 11–14, sale Sept 15, 20 Rockefeller Plaza) — already on Alina's calendar for the Sept 12 preview; no new information, just the continuing countdown. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+
+**For the record**
+
+- **The Baltimore Museum of Art's 118-work haul this year includes 64 works gifted by Constance R. Caplan, a former board chair engaged with the museum since 1955.** Announced in July and caught late here, it's the same pattern as the Hsu-Tang filing at New York Historical two entries ago: a trustee with deep institutional access converting that access directly into the permanent collection. [Baltimore Fishbowl](https://baltimorefishbowl.com/stories/baltimore-museum-of-art-acquires-118-works-of-art-more-than-half-from-collector-constance-r-caplan/)
+
 ### 2026-08-21 — Cloud run
 
 **Orientation:** heaviest today on new institutional form and museum leadership churn — a living collector building a genuinely novel non-painting museum, a 30-year-old fair institutionalizing its own acquisition pipeline, and two major directorships changing hands in the same week — with a quieter thread underneath on secrecy and disclosure as the art world's live power question.
