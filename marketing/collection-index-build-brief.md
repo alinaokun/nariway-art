@@ -3,7 +3,7 @@
 > The single specification the **`nariway-rebuild`** website project builds from. It assembles everything settled across five prototypes, the 73-case taxonomy audit, and the standards. Concept and design rationale live in [[collection-index]] and [[collection-index-architecture]]; this file is the buildable instruction. Prototyping is complete. No further prototypes.
 
 ## 0. What the product is
-**A documented map of the decisions private art collections face, built from what collectors and institutions have actually done.** Not a report, not a downloadable PDF, not a textbook, not a directory. A continuously-maintained, web-native research platform. The unit is **the collection as an entity with a life history** (longitudinal) — the white space no one owns (Larry's List maps museums, Art Privée institutions, Collect24 artworks).
+**A documented map of the decisions private art collections face, built from what collectors and institutions have actually done.** Not a report, not a downloadable PDF, not a textbook, not a directory. A continuously-maintained, web-native research platform. The unit is **the collection as an entity with a life history**: Nariway studies the collection **longitudinally**, rather than primarily the collector, the artwork, the transaction, or the institution (the units the rest of the field is organized around — collectors at Larry's List, artworks at Collect24, institutions at Art Privée).
 
 Multiple doors, one research ecosystem: a collector enters at "my children don't want the art," an attorney at "examples of long-term museum loans," a journalist at "current wealth-transfer data," a family-office adviser at "appraisal/tax/insurance/succession." All reach the same underlying research.
 
@@ -65,16 +65,19 @@ Stable coded layer = [[case-template]] (`pathway`/`outcome`/governance/coherence
 - **Access:** radically open at launch — no email wall, no lead magnet. Add a "Know something we should update?" input channel (a research funnel). A registered "research" layer is deferred until users ask for it; do not build it now.
 
 ## 7. v1 scope (ruthless) and what's OUT
+**The non-negotiable v1 spine: Collections + Decisions + one macro anchor.** Together they tell the whole story without dozens of pages: *here is the scale of the transition happening now* (the macro anchor) · *here are actual collections that have faced it* (Collections) · *here are the choices they made* (Decisions) · *here is some of the professional knowledge to evaluate those choices* (the first deep Topic). That is a stronger authority position than a database alone or a set of educational articles.
+
 **v1 = the architecture capable of becoming the whole thing, populated enough to prove it works:**
 - The full **shallow Collection index** (all public-qualified collections as records) — the breadth signal.
 - A handful of **deep Collection pages** done well (from the evidence-rich set) — not all cases deep.
 - **Decision pages only where the corpus supports a useful comparison** (Partner with an institution is proven; others as cases allow).
-- **2–3 Topics** (Estate Planning; The Great Wealth Transfer and Art; one more) — not the full list.
+- **The macro anchor — The Great Wealth Transfer and Art (NON-NEGOTIABLE, not "Topic breadth").** Its job differs from a professional Topic: it establishes *why this field matters now*, connecting private collections to the larger transition in private wealth, inheritance, succession, and generational change. Do not treat it as optional decoration.
+- **Estate Planning — the first deep professional Topic (in v1).** Demonstrates subject-matter depth. Any Topics beyond these two are optional breadth.
 - **Methodology page** (inclusion criteria, definitions, verification, public-by-choice, living-collector handling — methodology is part of the authority).
 - **Conversations** (already live) wired in.
 - The **cross-link architecture** connecting Collections ↔ Decisions ↔ Topics ↔ Conversations.
 - Image-rights handling in the data model. Simple filtering only if genuinely useful; no elaborate interactive visualization.
-**Commercial priority if anything is cut:** the Decision/pathway pages and the rich Collection pages are load-bearing (the proof-of-work a referred prospect checks); cut Topics breadth before cutting those.
+**Commercial priority if anything is cut:** the Decision/pathway pages, the rich Collection pages, AND the macro anchor + first deep Topic are all load-bearing (the pathway/collection pages are the proof-of-work a referred prospect checks; the macro anchor is why-now, the first Topic is depth). Cut only *additional* Topic breadth before any of those — the macro anchor is NOT Topic breadth.
 **OUT / deferred:** the annual PDF report; a Reference-chapter textbook; a premium/registered layer; Findings as a standalone content type; any page a container-first instinct wants but the evidence doesn't yet fill.
 
 ## 8. Open items to resolve during the build (not blockers)
