@@ -8,7 +8,7 @@ priority: high
 founder_status: living
 geography: Los Angeles, CA
 outcome: emerging
-verification: press-sourced
+verification: provisional
 public_page_eligible: true
 public_depth: expanded
 public_status_text: "Opening September 22, 2026."
