@@ -13,6 +13,7 @@ decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H3, H4, H8]
 public_page_eligible: true
+public_verified: true
 public_depth: expanded
 public_status_text: "Open in Marfa since 1986."
 hero_image_status: no_usable_image
@@ -27,7 +28,7 @@ One-line: Donald Judd converted a decommissioned Army fort in far-West Texas int
 ## Public profile
 *(export layer, per [[case-template]]; figures verify-to-grade before live export)*
 - **Public facts:** founded **1986** · Marfa, Texas · Independent nonprofit foundation · public access: open by tour, annual October open house · ~340 acres
-- **Composition:** focus *Minimalism and related postwar and contemporary art* · period *1960s onward* · media *sculpture · installation · light* · selected_artists *Donald Judd · Dan Flavin · John Chamberlain · Ilya Kabakov · Roni Horn · Claes Oldenburg & Coosje van Bruggen · Richard Long* · recipients *(none)*
+- **Composition:** focus *Minimalism and related postwar and contemporary art* · period *1960s onward* · media *sculpture · installation · light* · selected_artists *Donald Judd · Dan Flavin · John Chamberlain · Carl Andre · Ingólfur Arnarsson · Roni Horn · Robert Irwin · Ilya Kabakov · Richard Long · Claes Oldenburg & Coosje van Bruggen · David Rabinowitch · John Wesley* · recipients *(none)* — *confirmed against chinati.org, 2026-08*
 - **Pathway timeline:** 1986 — *Build an institution* (`found-art-park`) — Chinati Foundation opens
 - **Origin:** Donald Judd grew dissatisfied in the 1970s with how museums showed art, rotating works in and out of view and treating an object's relationship to its space as temporary. He wanted permanent installation. He began spending time in Marfa and buying buildings, and with support from the Dia Art Foundation acquired the decommissioned Fort D.A. Russell, opening it in 1986 as the Chinati Foundation, named for the nearby mountains. It was built to hold a small number of works by a small number of artists, permanently.
 

@@ -10,6 +10,7 @@ geography: Merion / Philadelphia, PA
 outcome: pivoted
 verification: spot-verified
 public_page_eligible: true
+public_verified: true
 public_depth: expanded
 public_status_text: "Operating in Philadelphia since 2012; relocated from Merion by court order."
 hero_image_status: no_usable_image
@@ -23,7 +24,7 @@ last_reviewed: 2026-08
 ## Public profile
 *(export layer, per [[case-template]]; figures verify-to-grade before live export)*
 - **Public facts:** founded **1922** · Merion → Philadelphia, PA · educational foundation · open to the public · 4,000+ objects, 900+ paintings
-- **Composition:** focus *Impressionist, Post-Impressionist, and early Modern painting, hung in fixed ensembles* · movements *Impressionism · Post-Impressionism · early Modernism* · period *late 19th–early 20th century* · media *painting* · selected_artists *Renoir (181) · Cézanne (69) · Matisse (59) · Picasso (46)* · recipients *(none)*
+- **Composition:** focus *Impressionist, Post-Impressionist, and early Modern painting, hung in fixed ensembles* · movements *Impressionism · Post-Impressionism · early Modernism* · period *late 19th–early 20th century* · media *painting* · selected_artists *Renoir (179) · Cézanne (69) · Matisse (59) · Picasso (46)* · recipients *(none)* — *Renoir/Cézanne counts confirmed against barnesfoundation.org, 2026-08 (corrected from 181 to the site's stated 179)*
 - **Pathway timeline:** 1922 — *Build an institution* (`found-foundation`) — chartered as an educational foundation, Merion · 2012 — *Build an institution* (`found-standalone-museum`) — relocated to Philadelphia by court order under cy pres
 - **Origin:** Albert C. Barnes assembled his collection in the early twentieth century, building deep holdings in Impressionist, Post-Impressionist, and early Modern painting. In 1922 he chartered the Barnes Foundation as an educational institution and installed the works in fixed ensembles of his own arrangement in a purpose-built gallery in Merion. His trust set strict terms after his death, restricting whether the works could be moved or loaned, how they were hung, and who could see them.
 
@@ -46,7 +47,7 @@ last_reviewed: 2026-08
 
 ### Quantitative fields (each sourced; unknowns explicit)
 - `legal_recognition_year`: **1922** (chartered by the Commonwealth of PA, Dec 4) [secondary — Wikipedia] · `institution_open_year (Merion)`: **1925** [primary — barnesfoundation.org] · `institution_open_year (Parkway)`: **2012** (opened May 18–19) [primary — barnesfoundation.org]
-- `collection_size_current`: **4,000+ objects; 900+ paintings** [primary/secondary — barnesfoundation.org]. Named groups: **Renoir 181** (largest single group in the world), **Cézanne 69** (largest single group), **Matisse 59**, **Picasso 46** [primary — barnesfoundation.org]
+- `collection_size_current`: **4,000+ objects; 900+ paintings** [primary/secondary — barnesfoundation.org]. Named groups: **Renoir 179** (largest single group in the world; barnesfoundation.org states 179 as of 2026-08, corrected from a prior 181), **Cézanne 69** (largest single group), **Matisse 59**, **Picasso 46** [primary — barnesfoundation.org]
 - `collection_value`: **unknown** — press cites ~$20–30B (often "$25B") but there is **no official appraisal**; do not code as fact [secondary/inferred — Center for Art Law]
 - `net_assets_latest`: **$245,027,793** (FY ending June 2025) [primary — IRS Form 990, EIN 23-6000149, via ProPublica] · `total_expenses_latest`: **$30,073,540** (FY June 2025) [primary] · `net_assets_to_opex_ratio`: **~8.1x [UPPER BOUND]** (net assets include the buildings; true endowment is smaller and unpulled)
 - `total_revenue_latest`: **$33,749,714** (FY June 2025) [primary — ProPublica]

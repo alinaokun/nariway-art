@@ -10,6 +10,7 @@ geography: Los Angeles, CA
 outcome: emerging
 verification: press-sourced
 public_page_eligible: true
+public_verified: true
 public_depth: expanded
 public_status_text: "Opening September 22, 2026."
 hero_image_status: no_usable_image

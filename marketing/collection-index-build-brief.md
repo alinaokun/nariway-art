@@ -57,7 +57,7 @@ Firsthand practitioner perspective. Already live (Hall Rockefeller, Adam Szymans
 Earned cross-case conclusions. Appear inside the relevant page first; graduate to a standalone Finding URL only when cite-worthy. Never manufactured to fill a section.
 
 ## 5. Data model (the collection record)
-Stable coded layer = [[case-template]] (`pathway`/`outcome`/governance/coherence/decision_owner/quantitative fields, each with `_source`/`_confidence`). Public page renders a subset. Add now (retrofitting later across 100+ cases is painful): `origin` (narrative), the composition fields as genuinely structured data (focus/movements/period/media/selected-artists/recipients), `pathway` as an ordered event timeline (multi-path), `living_collector`, `public_page_eligible`, `public_depth`, `last_reviewed`, `public_status_text` (the factual public translation of the internal `outcome_category`), and the image-rights block (`hero_image_status` public; `image_source`/`image_rights`/`image_credit`/`image_caption`/`image_verified_date` internal). Let the dataset teach which further composition fields recur before adding them.
+Stable coded layer = [[case-template]] (`pathway`/`outcome`/governance/coherence/decision_owner/quantitative fields, each with `_source`/`_confidence`). Public page renders a subset. Add now (retrofitting later across 100+ cases is painful): `origin` (narrative), the composition fields as genuinely structured data (focus/movements/period/media/selected-artists/recipients), `pathway` as an ordered event timeline (multi-path), `living_collector`, `public_page_eligible`, `public_verified` (the export accuracy gate), `public_depth`, `last_reviewed`, `public_status_text` (the factual public translation of the internal `outcome_category`), and the image-rights block (`hero_image_status` public; `image_source`/`image_rights`/`image_credit`/`image_caption`/`image_verified_date` internal). Let the dataset teach which further composition fields recur before adding them.
 
 ## 6. Sourcing, images, access
 - **Source hierarchy** (from [[flagship-report]] Standards): primary/official → institutional research → professional standards bodies → academic → quality journalism. **Stricter for Topics** (tax/legal/insurance/macro): a fact like "$15M exemption" cites IRS/Treasury, never a blog. Numbers link to [[claims-register]]. Claim-level sourcing (quiet numbered notes).
@@ -90,13 +90,13 @@ Stable coded layer = [[case-template]] (`pathway`/`outcome`/governance/coherence
 
 **Mechanism — a public-projection export.** A script in `nariway-art` reads the coded case files and emits one file, **`export/nariway-public.json`**, committed to the vault. `nariway-rebuild` pulls that single file at build time (not a submodule of the whole vault) and renders it. Research reaches the site by re-running the export, never by copying.
 
-**The gate (publishable ≠ coded):** a case exports only if `public_page_eligible: true` AND its figures are verified-to-grade. This is what keeps the cloud research agent's continuous, partly-unverified work off the public site. `status: coded` alone is not enough.
+**The gate (publishable ≠ coded):** a case exports only if `public_page_eligible: true` AND `public_verified: true` (the public-facing claims — founder, dates, location, structure, composition/artists, pathway/status — confirmed against the institution's own site or reputable sources). **This is NOT the internal `verification` financial-depth tag.** The public page shows facts, not 990 financials, so public export depends on public-fact accuracy — which is confirmable via WebSearch and institution sites (never egress-blocked) — not on primary 990 pulls (which the cloud WebFetch block prevents). A case can be `public_verified: true` while its internal `verification` is still `secondary`. `status: coded` alone is not enough. This decoupling is what keeps the cloud agent's partly-unverified financial work off the site while NOT holding the whole site hostage to the 990 egress block.
 
 **Privacy (non-negotiable):** the projection emits ONLY public fields. Everything internal — the analytic `outcome_category`, sourcing-tier flags, verify-to-grade notes, prospect info, the private corpus — is stripped by construction. **Never make `nariway-rebuild` a submodule of the vault**; a public deploy would carry private material. It pulls only the projected JSON, which contains nothing private.
 
 **What lives where:** structured collection data → vault, exported (mandatory, or it drifts). Design tokens/templates/CSS → `nariway-rebuild` (the vault holds only the spec, [[design-system]]). All numbers → [[claims-register]] is the single source. **Adopted defaults (reversible):** Topic and Findings prose are authored in the vault (as markdown, versioned with the research, numbers tied to claims-register) and exported like everything else; the export commits into the vault and the site pulls it.
 
-**Population is automated (2026-08-22):** the twice-daily **dataset-research routine** now populates the public-projection fields on every case it codes AND backfills 1–2 already-coded cases per run (launch set first: Cisneros, Fisher, Anderson, Broad, de la Cruz), using the proof set (Chinati/Barnes/Corcoran/Lucas) as the format exemplar. So the corpus fills in its public fields over time without hand-work; verification-to-grade remains the separate gate the export enforces.
+**Population is automated (2026-08-22):** the twice-daily **dataset-research routine** now populates the public-projection fields on every case it codes AND backfills 1–2 already-coded cases per run (launch set first: Cisneros, Fisher, Anderson, Broad, de la Cruz), using the proof set (Chinati/Barnes/Corcoran/Lucas) as the format exemplar. So the corpus fills in its public fields over time without hand-work; the export gate is `public_verified` (public-fact accuracy, confirmable via WebSearch), which is separate from and NOT blocked by the internal 990 `verification` egress problem.
 
 **Prerequisite:** the export only works once the vault frontmatter carries the §5 fields (`public_page_eligible`, `public_depth`, `public_status_text`, composition fields, image-rights block, pathway-as-timeline). Build that data model in the vault BEFORE `nariway-rebuild` wires in real data.
 
@@ -190,7 +190,7 @@ The projection `nariway-rebuild` consumes. Field names are the contract; add fie
 **Export script (stub — lives in `nariway-art`, e.g. `scripts/export_public.py`; not runnable until the §5 fields exist):**
 ```python
 # Reads cases/*.md, projects the PUBLIC subset to export/nariway-public.json.
-# Contract: only public_page_eligible AND verified cases; only public fields; internal fields stripped.
+# Contract: only public_page_eligible AND public_verified cases; only public fields; internal fields stripped.
 import glob, json, re, datetime  # NOTE: pass the date in; the cloud env forbids Date.now()-style calls in some tools
 
 PUBLIC_PROFILE = ["founded","collectingBegan","structure","publicAccess","currentState","size"]
@@ -203,7 +203,7 @@ def parse_frontmatter(md):  # minimal YAML-ish frontmatter reader
     return m.group(1) if m else ""
 
 def is_publishable(fm):
-    return "public_page_eligible: true" in fm and "verification: primary-verified" in fm  # gate: eligible AND verified-to-grade
+    return "public_page_eligible: true" in fm and "public_verified: true" in fm  # gate: eligible AND public-facts confirmed (NOT the internal 990/verification tag)
 
 def project(path):
     fm = parse_frontmatter(open(path, encoding="utf-8").read())
