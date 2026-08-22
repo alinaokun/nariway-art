@@ -137,7 +137,11 @@ Enough architecture. Locked: **Axis A** = the 8 lifecycle chapters (The Collecti
 - **METHOD RULE: the case supplies evidence; the synthesis happens ABOVE the case.** Cisneros's dispersal is interpreted on the "Disperse deliberately" pathway page; Barnes on findings about donor restrictions/governance; Corcoran on findings about long-term financial durability. The record just supplies the facts.
 - **STANDING RULE (still holds, applied at the interpretation levels): public interpretation is a separate writing pass, never a paste of the internal finding.**
 
-Next: Prototype 2 (rich Collection History, Barnes or Chinati — where deep interpretation is now allowed), then 3 (Pathway "Partner with an institution" — comparative interpretation), then 4 (Reference chapter "Succession & Transition" — synthesis).
+**Origin-prose calibration (three tones, discovered across v1→v3).** Too-interpretive/AI ("a chosen legacy, not a failure to keep it whole") and too-dry ("began collecting in the 1970s. Over time the collection developed...") both fail. The target is **factual with enough human detail and specificity that the reader wants to keep going.** The writing formula for Origins: **how it began → what the collection became → what the collector did with it** (not every record supports all three, which is fine). **The current prototype Origin copy is PLACEHOLDER/reference-grade, not the final editorial standard** — each record gets an individual Origin writing pass at publication, based on its evidence. **Confirmed: no "Why it matters" field on the record at all** (the page is calmer and more authoritative without it).
+
+**Prototype 1: STRUCTURALLY SOLVED (2026-08-22).** Move on.
+
+Next: **Prototype 2 = the Chinati Foundation Collection History** (chosen over Barnes deliberately: Barnes is too easy to turn into courtroom drama; Chinati tests the harder, more representative breadth — the relationship among a collector/artist, the works, a place, an institutional model, and what happens after the founder). Then 3 (Pathway "Partner with an institution" — comparative), then 4 (Reference chapter "Succession & Transition" — synthesis).
 
 ## PART 3 — WHAT THE EXERCISE PROVED (the template verdict for the brief)
 
