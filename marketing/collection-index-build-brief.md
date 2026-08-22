@@ -85,5 +85,143 @@ Stable coded layer = [[case-template]] (`pathway`/`outcome`/governance/coherence
 - **Apply the audit's taxonomy refinements to the corpus**, then freeze the Partner axis value lists.
 - The pathway grammar and composition field set are working hypotheses; let the full corpus finalize them.
 
-## 9. Reference set (what the builder reads)
+## 9. How the two repos reconcile (`nariway-art` ↔ `nariway-rebuild`)
+**The vault is the database. `nariway-rebuild` is the presentation layer. The website consumes the data; it never re-authors it.** Hand-copying case data into the site repo is the silent-omission/drift failure this whole project has fought — forbidden. The only edited copy of any collection is in the vault.
+
+**Mechanism — a public-projection export.** A script in `nariway-art` reads the coded case files and emits one file, **`export/nariway-public.json`**, committed to the vault. `nariway-rebuild` pulls that single file at build time (not a submodule of the whole vault) and renders it. Research reaches the site by re-running the export, never by copying.
+
+**The gate (publishable ≠ coded):** a case exports only if `public_page_eligible: true` AND its figures are verified-to-grade. This is what keeps the cloud research agent's continuous, partly-unverified work off the public site. `status: coded` alone is not enough.
+
+**Privacy (non-negotiable):** the projection emits ONLY public fields. Everything internal — the analytic `outcome_category`, sourcing-tier flags, verify-to-grade notes, prospect info, the private corpus — is stripped by construction. **Never make `nariway-rebuild` a submodule of the vault**; a public deploy would carry private material. It pulls only the projected JSON, which contains nothing private.
+
+**What lives where:** structured collection data → vault, exported (mandatory, or it drifts). Design tokens/templates/CSS → `nariway-rebuild` (the vault holds only the spec, [[design-system]]). All numbers → [[claims-register]] is the single source. **Adopted defaults (reversible):** Topic and Findings prose are authored in the vault (as markdown, versioned with the research, numbers tied to claims-register) and exported like everything else; the export commits into the vault and the site pulls it.
+
+**Prerequisite:** the export only works once the vault frontmatter carries the §5 fields (`public_page_eligible`, `public_depth`, `public_status_text`, composition fields, image-rights block, pathway-as-timeline). Build that data model in the vault BEFORE `nariway-rebuild` wires in real data.
+
+**Steady-state workflow:** research happens in the vault (Alina + cloud agent) → a case is marked public-eligible and its figures verified → run the export → the site rebuilds from the new JSON. Additive, auditable, no drift.
+
+### The export contract (v1)
+The projection `nariway-rebuild` consumes. Field names are the contract; add fields as the data model grows, never remove silently.
+
+```json
+{
+  "generated": "2026-08-22",                     // stamped at export time
+  "taxonomy": {
+    "pathwayFamilies": [
+      { "id": "build-institution",  "label": "Build an institution",     "hasPublicPage": true  },
+      { "id": "partner-institution","label": "Partner with an institution","hasPublicPage": true  },
+      { "id": "give-institution",   "label": "Give to an institution",    "hasPublicPage": false },
+      { "id": "disperse",           "label": "Disperse deliberately",     "hasPublicPage": false },
+      { "id": "sell",               "label": "Sell",                      "hasPublicPage": false },
+      { "id": "keep-family",        "label": "Keep it in the family",     "hasPublicPage": false }
+    ],
+    "partnerAxes": {
+      "ownership": ["gift","long-term-loan","partial","co-ownership","staged","contested"],
+      "partner":   ["museum","university","foundation","archive-library","network","government"],
+      "publicModel":["dedicated-galleries","integrated","rotating","lending-program"]
+    }
+  },
+  "collections": [
+    {
+      "slug": "chinati",
+      "name": "The Chinati Foundation",
+      "founder": "Donald Judd",
+      "location": "Marfa, Texas",
+      "profile": {
+        "founded": 1986, "collectingBegan": null,
+        "structure": "Independent nonprofit foundation",
+        "publicAccess": "Open by tour; annual October open house",
+        "currentState": "Open, ~340 acres",       // public_status_text — factual, NOT the internal outcome label
+        "size": "~13 artists, permanent installations"
+      },
+      "composition": {                            // structured data, not display copy; omit any unknown key
+        "focus": "Minimalism and related postwar and contemporary art",
+        "movements": ["Minimalism"],
+        "period": "1960s onward",
+        "media": ["sculpture","installation","light"],
+        "selectedArtists": ["Donald Judd","Dan Flavin","John Chamberlain","Ilya Kabakov","Roni Horn","Claes Oldenburg & Coosje van Bruggen","Richard Long"],
+        "recipients": []                          // present only for dispersal/gift cases
+      },
+      "classification": {                         // Nariway's IP; rendered in its own block, separate from fact
+        "pathwayTimeline": [
+          { "year": 1986, "familyId": "build-institution", "codedPathway": "found-art-park", "event": "Chinati Foundation opens" }
+        ]
+      },
+      "origin": "Donald Judd grew dissatisfied in the 1970s with…",   // restrained reference prose
+      "sections": [                               // appear ONLY where evidence warrants; not mandatory
+        { "heading": "The place", "body": "…", "refs": [1] },
+        { "heading": "After the founder", "body": "…", "refs": [1,4] }
+      ],
+      "timeline": [ { "year": 1979, "event": "Acquires Fort D.A. Russell with Dia support" } ],
+      "image": { "status": "no_usable_image", "url": null, "credit": null, "caption": null },
+      "sources": [ { "n": 1, "text": "The Chinati Foundation (chinati.org)", "url": null } ],
+      "lastReviewed": "2026-08",
+      "related": { "pathways": ["build-institution"], "topics": ["succession-transition"], "conversations": [], "collections": ["storm-king","menil"] }
+    }
+  ],
+  "decisions": [                                  // pathway pages — only families with hasPublicPage:true AND enough cases
+    {
+      "slug": "partner-institution",
+      "label": "Partner with an institution",
+      "framing": "A collector does not have to found a new institution to keep a collection together and publicly accessible.",
+      "relevantWhen": ["…"],
+      "axes": { "ownership": ["gift","long-term-loan"], "partner": ["museum","university"], "publicModel": ["dedicated-galleries"] },
+      "cases": [ { "slug": "anderson-collection-stanford", "ownership": "gift", "partner": "university", "publicModel": "dedicated-galleries", "works": 121, "opened": 2014 } ],
+      "comparison": { "dimensions": ["Ownership","Duration","Control retained","Public access","Kept together","Collector-funded infrastructure","Post-founder arrangement"], "rows": [ { "case": "anderson-collection-stanford", "values": ["…"] } ] },
+      "questions": ["Who owns the works?","Does the collection have to remain together?"],
+      "sources": [], "lastReviewed": "2026-08"
+    }
+  ],
+  "topics": [
+    { "slug": "estate-planning", "title": "Estate Planning and Art Collections", "kind": "professional-depth",
+      "facts": [ { "value": "$15M", "label": "Federal estate & gift tax exemption per individual (2026)", "source": "IRS / Treasury", "effectiveDate": "2026", "lastVerified": null } ],
+      "sections": [ { "heading": "What makes art different", "body": "…" } ],
+      "sources": [], "lastReviewed": "2026-08" },
+    { "slug": "great-wealth-transfer", "title": "The Great Wealth Transfer and Art", "kind": "macro-anchor", "facts": [], "sections": [], "sources": [], "lastReviewed": null }
+  ],
+  "conversations": [
+    { "slug": "matthew-erskine", "title": "Not every collection can stay whole", "guest": "Matthew Erskine", "url": "https://nariway.com/conversations/matthew-erskine", "relatedTopics": ["estate-planning","succession-transition"], "relatedPathways": ["build-institution"] }
+  ]
+}
+```
+
+**Export script (stub — lives in `nariway-art`, e.g. `scripts/export_public.py`; not runnable until the §5 fields exist):**
+```python
+# Reads cases/*.md, projects the PUBLIC subset to export/nariway-public.json.
+# Contract: only public_page_eligible AND verified cases; only public fields; internal fields stripped.
+import glob, json, re, datetime  # NOTE: pass the date in; the cloud env forbids Date.now()-style calls in some tools
+
+PUBLIC_PROFILE = ["founded","collectingBegan","structure","publicAccess","currentState","size"]
+PUBLIC_COMPOSITION = ["focus","movements","period","media","selectedArtists","recipients"]
+# fields deliberately NEVER exported: outcome_category, durability_signal, verification, *_confidence,
+# decision_owner, secondary-sourcing notes, prospect/CRM data, anything under the private corpus.
+
+def parse_frontmatter(md):  # minimal YAML-ish frontmatter reader
+    m = re.match(r"^---\n(.*?)\n---\n", md, re.S)
+    return m.group(1) if m else ""
+
+def is_publishable(fm):
+    return "public_page_eligible: true" in fm and "verification: primary-verified" in fm  # gate: eligible AND verified-to-grade
+
+def project(path):
+    fm = parse_frontmatter(open(path, encoding="utf-8").read())
+    if not is_publishable(fm):
+        return None
+    # ... map the PUBLIC fields into the export-contract shape above (profile, composition,
+    #     classification.pathwayTimeline, origin, sections, timeline, image, sources, related);
+    #     public_status_text -> profile.currentState; NEVER copy internal fields.
+    return {"slug": path.split("/")[-1].replace(".md",""), "...": "..."}
+
+def main(today):
+    collections = [c for c in (project(p) for p in glob.glob("cases/*.md")) if c]
+    out = {"generated": today, "taxonomy": {}, "collections": collections,
+           "decisions": [], "topics": [], "conversations": []}
+    json.dump(out, open("export/nariway-public.json","w",encoding="utf-8"), ensure_ascii=False, indent=2)
+    print(f"exported {len(collections)} public collections")
+
+# main(today="2026-08-22")  # pass the date explicitly
+```
+The gate condition, the field allow-list, and the "NEVER exported" list above are the load-bearing parts — they are what make the private/public boundary enforced by code rather than by discipline.
+
+## 10. Reference set (what the builder reads)
 Design: [[design-system]] (Newsreader/Manrope/Schibsted, white + warm near-black, hairlines, sharp corners, both themes). Data & standards: [[report-dataset]], [[case-template]], [[claims-register]], [[what-we-now-believe]]. Field/decision logic: [[field-definition]], [[decision-map]]. Voice: [[voice]], [[ai-tells]]. The full design rationale and the taxonomy audit: [[collection-index]], [[collection-index-architecture]]. Conversations: [[conversations-series]].
