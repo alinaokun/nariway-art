@@ -242,6 +242,20 @@ The three public layers are not just sections; they are **different kinds of kno
 ## STATE OF PLAY (2026-08-22): prototyping COMPLETE
 All page types proven: Collection (structured profile + selective explanation, across rich/moderate/sparse), Pathway (structured comparison from the collector's decision), Topic (structured reference, three evidence kinds). Taxonomy audit DONE (results + recommendations above). **The ONLY things between here and the production brief: (a) Alina's decisions on the taxonomy recommendations, and (b) the optional dataset-integrity fix.** Then Claude Code writes the production brief for the `nariway-rebuild` project. No further prototypes.
 
+## TAXONOMY — FINAL decisions (Alina, 2026-08-22). Governing principle: the internal dataset must not dictate the public product.
+- **Dataset integrity: FIXED** ([[report-dataset]] Batch 19; Ganz/Rennie/Kohler folded in as 55/72/73, missing-55 resolved, no ID renumbered).
+- **Multi-path = a TIMELINE of pathway events, not a static label and not a bare multi-select.** Fisher is "planned museum → long-term loan," not two floating tags. This fits Nariway's premise that collections change over time. Model pathway as ordered events with dates. (~1 in 4 cases need this.)
+- **"Steward it" is NOT a 7th public Decision family.** Corporate active-stewardship (JPMorgan/BofA/UBS/Progressive) is an ongoing operating STATE, not a transition decision. Handle it internally as `retain-and-steward` with subtypes (family / corporate / foundation / other); revisit whether it earns a public Decision page after the corpus and commercial use-cases are clearer. Public Decisions reflect **decisions real users face**, not every category the corpus needs.
+- **"Keep it in the family" stays in the intellectual model but gets NO public Decision page at n=0.** Retention is common in the world (H1) but the corpus has zero comparable documented cases; that is a research gap, not a content assignment. Flag the corpus bias internally; build the page when evidence supports.
+- **Public Decision pages appear ONLY when the corpus has enough cases to make the comparison genuinely useful.**
+- **`traveling-program` → Partner** when ownership is retained (reserve Disperse for actual title transfer).
+- **Donation to multiple institutions is classified by DOCUMENTED intent** (single named recipient set = Give; deliberate wide scattering = Disperse). **HARD RULE: if intent is not publicly documented, do NOT infer it** — leave the case hybrid/uncertain rather than forcing a cleaner category.
+- **Partner grammar (three axes) expands as the corpus demands, values frozen only after the full audit is adopted:** Ownership add co-ownership/shared-title, staged/phased gift, contested/reverted; Partner allow network/consortium and government/state, not only "an institution"; Public model allows combinations.
+- **Underneath the public site sits the private research corpus, whose classification is considerably more detailed than the public site exposes.**
+
+## → THE PRODUCTION BRIEF IS WRITTEN: [[collection-index-build-brief]] (2026-08-22)
+Everything settled across the five prototypes + the audited taxonomy + the standards is assembled into the build spec for the `nariway-rebuild` project. Prototyping is complete; no further prototypes.
+
 ## PART 3 — WHAT THE EXERCISE PROVED (the template verdict for the brief)
 
 1. **The two-level model (Index Record vs Collection History) is validated and necessary.** Corcoran and Almaty prove it: important cases with thin public detail earn a factual Index Record without being forced into a deep narrative they can't support. Deep histories are earned by evidence, not importance.
