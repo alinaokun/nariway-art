@@ -26,6 +26,25 @@ Born from the fresh-eyes review of [[mcnay-packet]] (2026-08). Controlled vocabu
 
 **The durability metric, stated once.** Charts run on `endowment_to_opex_ratio` where the true endowment is known; fall back to `net_assets_to_opex_ratio` (flagged upper bound) where not; fall back to the ordinal `durability_signal` where neither. Never mix an upper-bound net-assets ratio and a true-endowment ratio in one series without labeling (claims-register C4, generalized).
 
+## Public projection layer (the export schema — added 2026-08-22)
+Distinct from the coded header above, which is the INTERNAL research schema. These fields are what the public site renders, projected by the export ([[collection-index-build-brief]] §9). **A blank/absent public field simply does not render; unknown is never filled with prose.** Internal fields (`outcome_category`, `durability_signal`, `verification`, `decision_owner`, `_confidence` tags, sourcing notes) are NEVER exported.
+
+**Frontmatter flags (the export gate + render controls):**
+- `public_page_eligible`: `true` / `false` — the curatorial/ethics gate (public-by-choice, documented, non-sensitive). The live export requires this **AND** a verified-to-grade `verification` status (or non-numeric/structural figures); `status: coded` alone is not enough.
+- `public_depth`: `record` (structured profile only) / `expanded` (profile + factual sections). Depth follows evidence, never a quota.
+- `public_status_text`: a SHORT factual sentence, the public translation of the internal `outcome_category` (which never renders). e.g. `pivoted` → "Operating in Philadelphia since 2012."; `dissolved` → "Dissolved, 2014."
+- `hero_image_status`: `cleared` / `open_access` / `permission_required` / `no_usable_image`. (Internal-only, never exported: `image_source`, `image_rights`, `image_credit`, `image_caption`, `image_verified_date`.)
+- `living_collector`: `true` / `false` — gates sensitive handling; when true, artist/period fields are dated/softened and no post-founder outcome is predicted.
+- `last_reviewed`: `YYYY-MM`.
+
+**Body block `## Public profile` (structured public content the export reads):**
+- **Composition** (structured; omit any unknown key, never "Selected artists" as a false-complete list): `focus` · `movements` [] · `period` · `media` [] · `selected_artists` [] · `recipients` [] (dispersal/gift cases). Genuinely structured data (the eventual research dataset), not display prose.
+- **Pathway timeline** (the multi-path model; replaces a single static label): an ordered list of `{ year · family · coded_pathway · event }`. A case appears under every family its timeline touches.
+- **Origin**: a short, restrained, factual narrative (how it began → what it became → what the collector did). Placeholder-grade until an individual writing pass at publication.
+- **Public facts**: `founded` / `collecting_began` · `location` · `structure` · `public_access` · `size` (only where not already unambiguous).
+
+*Populating these does not re-verify the coded header. Anything marked `public_page_eligible: true` is still held from the live export until its figures reach `verification: primary-verified` (or are non-numeric/structural).*
+
 ## Gaps are a first-class value (not an exception)
 - Every quantitative field has an explicit `unknown` state; a **blank is never allowed** (blanks hide gaps; `unknown` counts them). "Unknown is a finding."
 - Contested fields store **both candidate values plus the resolving source needed**, and stay `unknown` until a primary source decides. So the report can say "N of ~80 cases have a verified founding endowment" — the gap becomes a statistic, which for a report on how collections fare is itself a differentiator.

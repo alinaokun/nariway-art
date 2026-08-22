@@ -9,10 +9,23 @@ founder_status: living
 geography: Los Angeles, CA
 outcome: emerging
 verification: press-sourced
+public_page_eligible: true
+public_depth: expanded
+public_status_text: "Opening September 22, 2026."
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 # Lucas Museum of Narrative Art
 
 **Seed case, promoted from [[candidate-universe]] 2026-08-22 off a Nariway Signals finding.** Living founders, a mega-collection becoming a mega-museum, opening **September 22, 2026** — the single biggest *live* test case in Nariway's world of whether a founder's private collection can scale into a mega-institution without losing the specificity of what was actually collected. Needs the dataset-research agent's depth pass to reach report grade (primary-source endowment via 990, governance structure, deed); figures below are **press-sourced, verify before asserting**.
+
+## Public profile
+*(export layer, per [[case-template]]; LIVING founders + EMERGING + press-sourced, so figures are dated/soft and the export gate holds it back until verified; no post-founder outcome is predicted)*
+- **Public facts:** founders **George Lucas & Mellody Hobson** · Los Angeles, CA · standalone museum · 40,000+ works · opening to the public Sept 2026
+- **Composition:** focus *narrative art — illustration, comic art, film, photography, and fine art* · period *20th century–present (as documented, 2026)* · media *illustration · comic art · painting · photography · film* · selected_artists *(as documented, 2026)* *Norman Rockwell · N.C. Wyeth · Jack Kirby · Frida Kahlo · Jacob Lawrence* · recipients *(none)*
+- **Pathway timeline:** 2026 — *Build an institution* (`found-standalone-museum`) — museum opens, Los Angeles
+- **Origin:** George Lucas's collecting began in college with an illustration and grew, with Mellody Hobson, into a large collection organized around a single idea, that visual storytelling is a serious art. Rather than disperse it, they funded a purpose-built museum in Los Angeles to hold it, opening in 2026.
 
 ## What it is
 Founded by **George Lucas and Mellody Hobson** (president and co-CEO of Ariel Investments; also chair of Starbucks' board — a heavyweight financial-governance principal, not a passive spouse). A **~$1B project self-funded by Lucas**, covering construction, the art, and an endowment of **at least $400M**. **300,000 sq ft** (100,000 sq ft exhibition, 35 galleries), designed by MAD Architects (Ma Yansong), in Exposition Park, LA, alongside the Natural History Museum, California African American Museum, and California Science Center.
