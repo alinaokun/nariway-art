@@ -129,7 +129,7 @@ Enough architecture. Locked: **Axis A** = the 8 lifecycle chapters (The Collecti
 | Product | Voice | Interpretation |
 |---|---|---|
 | **Index Record** | factual, concise, restrained | minimal / none |
-| **Collection History** | narrative, explanatory | deep, authored |
+| **Collection History** | narrative + **context** | **careful** interpretation that EMERGES from the facts, never a case built to prove a Nariway hypothesis (revised 2026-08-22) |
 | **Pathway page** | comparative | what several cases reveal about ONE choice |
 | **Finding** | analytical | what the accumulated evidence suggests |
 | **Conversation** | first-person | the guest's perspective |
@@ -141,7 +141,20 @@ Enough architecture. Locked: **Axis A** = the 8 lifecycle chapters (The Collecti
 
 **Prototype 1: STRUCTURALLY SOLVED (2026-08-22).** Move on.
 
-Next: **Prototype 2 = the Chinati Foundation Collection History** (chosen over Barnes deliberately: Barnes is too easy to turn into courtroom drama; Chinati tests the harder, more representative breadth — the relationship among a collector/artist, the works, a place, an institutional model, and what happens after the founder). Then 3 (Pathway "Partner with an institution" — comparative), then 4 (Reference chapter "Succession & Transition" — synthesis).
+**THE GOVERNING PRINCIPLE (discovered building Prototype 2, applies everywhere): Nariway does not need to sound clever.** The subject is already interesting; authority comes from connecting what others have not, documenting it carefully, and explaining it clearly. That is far harder for AI-generated competitors to imitate than a distinctive voice. Manufactured "not X, but Y" theses, quotable pull-lines, and lesson-announcing section titles ("What X shows") are BANNED across all page types.
+
+**Collection History corrections (from the P2 critique, LOCK):**
+- **Write the case FAITHFULLY first; compare cases ONE LEVEL UP.** Comparative moves (e.g. Chinati vs Barnes on preserving intent) belong on Pathway/Finding pages, NOT inside a History. Putting the comparison inside the case turns it into evidence built for a predetermined conclusion, and it is a confirmation-bias trap as the corpus grows.
+- A History answers: what happened · why the collector made these choices · how the collection developed · what changed after the founder · what worked · what was hard · where it is now. Interpretation emerges; it does not organize.
+- **Deepen the after-the-founder story** (the real Nariway subject and the thing a reader does not already know): who took responsibility, financial condition, governance, crises, estate/foundation conflict, financing, expansion-vs-fidelity, conservation-vs-permanence, how much changed. End with a factual **"[Collection] today"**, not a lesson; a restrained close, no bow.
+- **Length: ~1,800–2,500 words** when the evidence warrants (a History is earned by knowing enough to tell the larger life).
+- **Claim-level sourcing** (quiet numbered notes/superscripts), not one compressed source line, since journalists/academics/lawyers/clients will check.
+- **Image standards differ BY PAGE TYPE:** Record = image optional (no-image is a first-class state); **History = a legitimate image is strongly preferred, and "a licensed image exists" becomes a selection criterion for the 5–6 launch Histories.**
+- Cross-link block stays, but **remove "What the cases suggest"** from it (don't make every page deliver a conclusion); reframe as a quiet "Explore the research" (Pathway · Related topics · Related collections · Related chapters).
+
+**Prototype 2 BUILT + REVISED 2026-08-22** → Chinati Foundation Collection History: https://claude.ai/code/artifact/93cea7ab-3c45-4b80-8d3e-36f4c5dba26d . Page-type visual grammar confirmed; rewritten as faithful biography with the deepened after-Judd account, "Chinati today" close, claim-level notes, and an image slot. Specifics flagged verify-to-grade.
+
+Original build note: **Prototype 2 = the Chinati Foundation Collection History** (chosen over Barnes deliberately: Barnes is too easy to turn into courtroom drama; Chinati tests the harder, more representative breadth — the relationship among a collector/artist, the works, a place, an institutional model, and what happens after the founder). Then 3 (Pathway "Partner with an institution" — comparative), then 4 (Reference chapter "Succession & Transition" — synthesis).
 
 ## PART 3 — WHAT THE EXERCISE PROVED (the template verdict for the brief)
 
