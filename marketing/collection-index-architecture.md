@@ -128,8 +128,7 @@ Enough architecture. Locked: **Axis A** = the 8 lifecycle chapters (The Collecti
 **THE EDITORIAL GRAMMAR (the big discovery — where interpretation lives, by product level). Keeps Nariway from "constantly announcing profound conclusions," and separates fact from analysis so the reader can trust the records (the antidote to the Private Museum Research objectivity problem):**
 | Product | Voice | Interpretation |
 |---|---|---|
-| **Index Record** | factual, concise, restrained | minimal / none |
-| **Collection History** | narrative + **context** | **careful** interpretation that EMERGES from the facts, never a case built to prove a Nariway hypothesis (revised 2026-08-22) |
+| **Collection page** (unified; History retired 2026-08-22) | factual, restrained; depth = evidence | minimal / none on the page; sections appear only when verified. Interpretation lives above it |
 | **Pathway page** | comparative | what several cases reveal about ONE choice |
 | **Finding** | analytical | what the accumulated evidence suggests |
 | **Conversation** | first-person | the guest's perspective |
@@ -155,6 +154,18 @@ Enough architecture. Locked: **Axis A** = the 8 lifecycle chapters (The Collecti
 **Prototype 2 BUILT + REVISED 2026-08-22** → Chinati Foundation Collection History: https://claude.ai/code/artifact/93cea7ab-3c45-4b80-8d3e-36f4c5dba26d . Page-type visual grammar confirmed; rewritten as faithful biography with the deepened after-Judd account, "Chinati today" close, claim-level notes, and an image slot. Specifics flagged verify-to-grade.
 
 Original build note: **Prototype 2 = the Chinati Foundation Collection History** (chosen over Barnes deliberately: Barnes is too easy to turn into courtroom drama; Chinati tests the harder, more representative breadth — the relationship among a collector/artist, the works, a place, an institutional model, and what happens after the founder). Then 3 (Pathway "Partner with an institution" — comparative), then 4 (Reference chapter "Succession & Transition" — synthesis).
+
+## ARCHITECTURE SIMPLIFIED — Collection History RETIRED as a page type (2026-08-22, Alina)
+Working on Chinati showed the History was a **content obligation created by the architecture**, not something the reader needs, and a 1,800-2,500-word narrative requirement is exactly what pressures the writing into connective prose, interpretation, clever conclusions, and unsupported causal claims (AI slop). **Decision: eliminate Collection History as a standard page type. One canonical Collection page per collection, whose DEPTH EXPANDS with the amount of reliable public evidence.** No target word count, no narrative arc, no obligatory conclusion.
+- **Core stays restrained and factual.** Rich collections ADD evidence-supported sections that appear ONLY when verified public info exists: Origin · The Collection · The Place · Structure & Governance · After the Founder · Public Life · Stewardship & Cost · Giving · Sale/Dispersal · Turning Points · Current State · Timeline · Sources. A thin collection (Corcoran) has a handful; a rich one (Chinati) has many. **No artificial "important enough for a History" distinction** — Barnes just has a richer page because more is known.
+- **One collection = one URL** that gets better over time (Wikipedia-like: richness lives on the canonical page, never a parallel essay). Easier maintenance (no record-vs-history contradiction), additive database (unknown → leave out; verified → add; sources conflict → say so; new development → update), and it removes the temptation to publish because publishing feels productive.
+- **Verification burden flips from "prove every sentence of a 2,000-word essay" to "only put information in once it can be proved."** Far safer, and it kills the pressure to bridge gaps with plausible prose.
+- **Long-form essays are NOT prohibited** — if a case is genuinely worth an essay, publish it as **Nariway Research / an essay and LINK it to the collection**, never as a required architectural layer.
+- **Commercial logic:** a rich structured factual page (origin, focus, artists, structure, governance, succession, funding, turning points, current status, images, exact sources, links to similar cases) is stronger proof of research capability to a referred prospect than a beautiful essay. The essay proves Nariway can write an essay; the structured page proves Nariway did the research.
+
+**The page types, now simpler:** **Collection → Pathway → Topic/Reference chapter → Finding → Conversation.** (Collection History removed.) Interpretation still lives above the Collection page: comparative on Pathway, analytical on Finding, synthesis on Topic/Reference, first-person in Conversation. Stable data underneath, flexible editorial presentation above.
+
+**Prototype 3 BUILT 2026-08-22** → the unified Collection page at two depths (Chinati deep / Corcoran sparse), decomposed from the Chinati History into verified-level factual sections with interpretation and narrative connective tissue stripped, claim-level notes, a "sources differ" treatment, and an image slot: https://claude.ai/code/artifact/ee4d283c-7a51-402d-beeb-c8f049a149ac . **Supersedes the separate Collection Record (585e...) and Collection History (93ce...) prototypes.** Next: Prototype 4 = the Pathway page ("Partner with an institution"), where comparative interpretation is finally strong.
 
 ## PART 3 — WHAT THE EXERCISE PROVED (the template verdict for the brief)
 
