@@ -236,6 +236,11 @@
 **Source:** [[market-intelligence]] #7 addendum (Bocconi Students Arts Society, 2026; illustrative figures, not named transactions).
 **Use:** extends C22's margin-call mechanism with an actual magnitude; do not present the $10M→$4-5M or $15M→$7M figures as specific, dated transactions — they are illustrative orders of magnitude in the source material.
 
+### C43 · Fine-art logistics/handling market-size literature is unreliable — [FINDING, not a market-size claim]
+**Canonical:** At least four mutually incompatible 2026 vendor estimates exist for the fine-art logistics/handling market: $3.6B (2026) → $4.88B (2031); $3.22B (2025) → $3.35B (2026); $3.8B (2026) → $6.81B (2035); $4.06B (2026) — none traceable to a named, disclosed-methodology analyst house. This is the **third** ecosystem sub-domain, after fine-art insurance (C27) and appraisal services (C33), where this report states the data-quality gap rather than picking a number. Named operator scale (UOVO: 1M+ sq ft across 11 US locations; Crozier: 1.8M sq ft across 12 global markets) is separately corroborated and more reliable than any of the four market-size figures.
+**Source:** [[market-intelligence]] #5 addendum (Ken Research, Mordor Intelligence, MarkWide Research, Business Research Insights, 2026).
+**Use:** cite this entry, not a number, when the report needs to state the fine-art logistics market's size; cite the UOVO/Crozier figures for facility-scale color instead.
+
 ---
 
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*

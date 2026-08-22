@@ -17,7 +17,7 @@
 | ✓ Hillwood — CODED [[hillwood]] | Marjorie Merriweather Post | Dec. | Washington, DC | Russian imperial + French decorative arts | Thriving (survived founder) | ~18,000 objects |
 | ✓ The Dalí Museum — CODED [[dali-museum]] | Reynolds & Eleanor Morse | Dec. | St. Petersburg, FL | Complete-arc single-artist (Dalí), kept together by deed | Thriving | 2,400+ Dalí |
 | Museum of Russian Icons | Gordon Lankton | Dec. (2021) | Clinton, MA | Largest N. American Russian icon holding — one exec's obsession | Stable (survived founder) | 1,000+ |
-| John Michael Kohler Art Preserve | Kohler / R. Kohler II | Dec. | Sheboygan, WI | Artist-built *environments* preserved whole | Thriving | ~30,000 |
+| ✓ John Michael Kohler Art Preserve — CODED [[kohler-art-preserve]] | Kohler / R. Kohler II | Dec. | Sheboygan, WI | Artist-built *environments* preserved whole | Thriving | ~30,000 |
 | Sid Richardson Museum | Sid Richardson | Dec. | Fort Worth, TX | Remington & Russell — Western/frontier only; free | Stable (survived founder) | ~60 core |
 | Reynolda House | Reynolds family | Dec. | Winston-Salem, NC | American survey inside a tobacco-fortune estate | Stable | survey |
 | ✓ Michener Art Museum — CODED [[michener-art-museum]] | James Michener | Dec. | Doylestown, PA | Pennsylvania Impressionists / Bucks County school | Stable | regional |
@@ -60,7 +60,7 @@
 |---|---|---|---|---|---|---|
 | ✓ Kinsey Collection — CODED [[kinsey]] | Bernard & Shirley Kinsey | Living | LA → national tour | Black American art + history 1595–present; unexpected venues (SoFi) | Thriving; 15M+ visitors | ~700 obj |
 | ✓ Onera Foundation — CODED [[onera]] | David B. Peterson | Living | New Canaan, CT | Art + architecture + diplomacy; access to embassy (FAPE) works | Emerging (2025) | seasonal |
-| Rennie Museum | Bob Rennie | Living | Vancouver, BC | Single-artist depth; identity/social-justice; docent-only | Founder-open; gifted bldg to Chinese Canadian Museum | ~2,000+ |
+| ✓ Rennie Museum — CODED [[rennie-collection]] | Bob Rennie | Living | Vancouver, BC | Single-artist depth; identity/social-justice; docent-only | Founder-open; gifted bldg to Chinese Canadian Museum | ~2,000+ |
 | The Bunker Artspace | Beth Rudin DeWoody | Living | West Palm Beach, FL | Anti-blue-chip; champions emerging/overlooked voices | Thriving | ~10,000 |
 | The Warehouse (Wieland) | John & Sue Wieland | Living | Atlanta, GA | Broad contemporary; Westside Atlanta civic access | Stable | 400+ |
 | Weisman Art Foundation | Frederick Weisman | Dec. | Los Angeles, CA | 20th-c. art in domestic hang, kept as founder left it | Stable | 400+ |
@@ -85,7 +85,7 @@
 | ✓ Neue Galerie → The Met | Lauder | Living | New York, NY | German/Austrian modernism; **merge for perpetuity** vs. going alone | Pivot (merger 2028) | named + endowment |
 | Rachofsky "The Warehouse" | Howard Rachofsky | Living | Dallas, TX | Arte Povera / Gutai; collect privately, **will it** to Dallas MoA | Founder-open | shared venue |
 | Stieglitz (Fisk × Crystal Bridges) | O'Keeffe bequest | Dec. | Nashville / Bentonville | Modernist trove; **50/50 shared custody** between two institutions | Dispersed (shared) | 101 obj |
-| Ganz Collection | Victor & Sally Ganz | Dec. | New York, NY | Deepest private Picasso + postwar; chose the **auction block** | Dispersed ($206.5M, 1997) | 58 works |
+| ✓ Ganz Collection — CODED [[ganz-collection]] | Victor & Sally Ganz | Dec. | New York, NY | Deepest private Picasso + postwar; chose the **auction block** | Dispersed ($206.5M, 1997) | 58 works |
 
 ## 7 · University partnerships & international benchmarks
 
