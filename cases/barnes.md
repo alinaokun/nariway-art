@@ -13,6 +13,21 @@ public_page_eligible: true
 public_verified: true
 public_depth: expanded
 public_status_text: "Operating in Philadelphia since 2012; relocated from Merion by court order."
+public_name: The Barnes Foundation
+public_founder: Albert C. Barnes
+public_location: Merion → Philadelphia, Pennsylvania
+public_founded: 1922
+public_structure: Educational foundation
+public_access: Open to the public
+public_size: 4,000+ objects; 900+ paintings
+public_focus: Impressionist, Post-Impressionist, and early Modern painting, hung in fixed ensembles
+public_movements: Impressionism; Post-Impressionism; early Modernism
+public_period: late 19th–early 20th century
+public_media: painting
+public_selected_artists: Renoir (179); Cézanne (69); Matisse (59); Picasso (46)
+public_pathway_timeline: 1922|build-institution|found-foundation|Chartered as an educational foundation in Merion ;; 2012|build-institution|found-standalone-museum|Relocated to Philadelphia by court order under cy pres
+public_origin: Albert C. Barnes assembled his collection in the early twentieth century, with deep holdings of Impressionist, Post-Impressionist, and early Modern painting. In 1922 he chartered the Barnes Foundation as an educational institution and installed the works in fixed ensembles of his own arrangement in Merion. His trust set strict terms after his death, restricting whether works could be moved or loaned, how they were hung, and who could see them.
+public_sources: barnesfoundation.org; Montgomery County Orphans' Court opinions
 hero_image_status: no_usable_image
 living_collector: false
 last_reviewed: 2026-08
@@ -21,12 +36,7 @@ last_reviewed: 2026-08
 
 *Coded to [[case-template]]. Report-grade, sourced. The spine here is the **litigation and cy pres record**, not self-history; Barnes's own account and the film *The Art of the Steal* are color only. This is the reference case for what happens when a founder's deed-of-trust constraints collide with institutional viability.*
 
-## Public profile
-*(export layer, per [[case-template]]; figures verify-to-grade before live export)*
-- **Public facts:** founded **1922** · Merion → Philadelphia, PA · educational foundation · open to the public · 4,000+ objects, 900+ paintings
-- **Composition:** focus *Impressionist, Post-Impressionist, and early Modern painting, hung in fixed ensembles* · movements *Impressionism · Post-Impressionism · early Modernism* · period *late 19th–early 20th century* · media *painting* · selected_artists *Renoir (179) · Cézanne (69) · Matisse (59) · Picasso (46)* · recipients *(none)* — *Renoir/Cézanne counts confirmed against barnesfoundation.org, 2026-08 (corrected from 181 to the site's stated 179)*
-- **Pathway timeline:** 1922 — *Build an institution* (`found-foundation`) — chartered as an educational foundation, Merion · 2012 — *Build an institution* (`found-standalone-museum`) — relocated to Philadelphia by court order under cy pres
-- **Origin:** Albert C. Barnes assembled his collection in the early twentieth century, building deep holdings in Impressionist, Post-Impressionist, and early Modern painting. In 1922 he chartered the Barnes Foundation as an educational institution and installed the works in fixed ensembles of his own arrangement in a purpose-built gallery in Merion. His trust set strict terms after his death, restricting whether the works could be moved or loaned, how they were hung, and who could see them.
+*(Public projection fields are in the frontmatter above, per [[case-template]] — the single machine source the export reads. The prose below is the internal research record; Renoir count corrected from 181 to the site's stated 179, 2026-08.)*
 
 ## Coded header
 - `pathway`: **found-foundation** (chartered 1922 as an educational foundation, not a public museum) · `secondary_pathways`: [**found-standalone-museum** — de facto since the 2012 Parkway relocation] · `pathway_is_branched`: **yes**

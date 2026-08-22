@@ -187,7 +187,7 @@ The projection `nariway-rebuild` consumes. Field names are the contract; add fie
 }
 ```
 
-**Export script (stub — lives in `nariway-art`, e.g. `scripts/export_public.py`; not runnable until the §5 fields exist):**
+**Export script — RUNNABLE, at `nariway-art/scripts/export_public.py`** (dependency-free; reads the flat `public_*` frontmatter; gate = `public_page_eligible AND public_verified`; emits `export/nariway-public.json`; privacy-checked — no internal fields present). First export generated 2026-08-22 with the verified proof set (Chinati, Barnes, Corcoran, Lucas); it grows automatically as the cloud agent backfills `public_verified` cases. Logic sketch:
 ```python
 # Reads cases/*.md, projects the PUBLIC subset to export/nariway-public.json.
 # Contract: only public_page_eligible AND public_verified cases; only public fields; internal fields stripped.

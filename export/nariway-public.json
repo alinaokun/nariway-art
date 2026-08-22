@@ -1,0 +1,272 @@
+{
+  "generated": "2026-08-22",
+  "taxonomy": {
+    "pathwayFamilies": [
+      {
+        "id": "build-institution",
+        "label": "Build an institution",
+        "hasPublicPage": true
+      },
+      {
+        "id": "partner-institution",
+        "label": "Partner with an institution",
+        "hasPublicPage": true
+      },
+      {
+        "id": "give-institution",
+        "label": "Give to an institution",
+        "hasPublicPage": false
+      },
+      {
+        "id": "disperse",
+        "label": "Disperse deliberately",
+        "hasPublicPage": false
+      },
+      {
+        "id": "sell",
+        "label": "Sell",
+        "hasPublicPage": false
+      },
+      {
+        "id": "keep-family",
+        "label": "Keep it in the family",
+        "hasPublicPage": false
+      }
+    ],
+    "partnerAxes": {
+      "ownership": [
+        "gift",
+        "long-term-loan",
+        "partial",
+        "co-ownership",
+        "staged",
+        "contested"
+      ],
+      "partner": [
+        "museum",
+        "university",
+        "foundation",
+        "archive-library",
+        "network",
+        "government"
+      ],
+      "publicModel": [
+        "dedicated-galleries",
+        "integrated",
+        "rotating",
+        "lending-program"
+      ]
+    }
+  },
+  "collections": [
+    {
+      "slug": "corcoran-gallery",
+      "publicDepth": "record",
+      "name": "Corcoran Gallery of Art",
+      "founder": "William Wilson Corcoran",
+      "location": "Washington, D.C.",
+      "profile": {
+        "founded": 1869,
+        "structure": "Private collection → independent museum",
+        "currentState": "Dissolved, 2014."
+      },
+      "composition": {
+        "focus": "American art"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Founded",
+            "year": 1869
+          },
+          {
+            "event": "Dissolved by court order (cy pres); collection distributed to the National Gallery of Art and other Washington institutions",
+            "year": 2014,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-scattered"
+          }
+        ]
+      },
+      "origin": "The Corcoran Gallery of Art was founded in 1869 by William Wilson Corcoran, a Washington banker, to house his collection and support American art. It was among the earliest art museums in the United States and operated for most of its history as a private museum with an affiliated art school.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Cy pres dissolution ruling (2014)",
+        "National Gallery of Art"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "lucas-museum",
+      "publicDepth": "expanded",
+      "name": "Lucas Museum of Narrative Art",
+      "founder": "George Lucas & Mellody Hobson",
+      "location": "Los Angeles, CA",
+      "profile": {
+        "structure": "Standalone museum",
+        "publicAccess": "Opening to the public September 2026",
+        "currentState": "Opening September 22, 2026.",
+        "size": "40,000+ works"
+      },
+      "composition": {
+        "focus": "Narrative art — illustration, comic art, film, photography, and fine art",
+        "period": "20th century–present (as documented, 2026)",
+        "media": [
+          "illustration",
+          "comic art",
+          "painting",
+          "photography",
+          "film"
+        ],
+        "selectedArtists": [
+          "Norman Rockwell",
+          "N.C. Wyeth",
+          "Jack Kirby",
+          "Frida Kahlo",
+          "Jacob Lawrence"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Museum opens in Los Angeles",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "George Lucas's collecting began in college and grew, with Mellody Hobson, into a large collection organized around a single idea, that visual storytelling is a serious art. Rather than disperse it, they funded a purpose-built museum in Los Angeles to hold it, opening in 2026.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "lucasmuseum.org",
+        "The Art Newspaper",
+        "Forbes"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "barnes",
+      "publicDepth": "expanded",
+      "name": "The Barnes Foundation",
+      "founder": "Albert C. Barnes",
+      "location": "Merion → Philadelphia, Pennsylvania",
+      "profile": {
+        "founded": 1922,
+        "structure": "Educational foundation",
+        "publicAccess": "Open to the public",
+        "currentState": "Operating in Philadelphia since 2012; relocated from Merion by court order.",
+        "size": "4,000+ objects; 900+ paintings"
+      },
+      "composition": {
+        "focus": "Impressionist, Post-Impressionist, and early Modern painting, hung in fixed ensembles",
+        "movements": [
+          "Impressionism",
+          "Post-Impressionism",
+          "early Modernism"
+        ],
+        "period": "late 19th–early 20th century",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Renoir (179)",
+          "Cézanne (69)",
+          "Matisse (59)",
+          "Picasso (46)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Chartered as an educational foundation in Merion",
+            "year": 1922,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Relocated to Philadelphia by court order under cy pres",
+            "year": 2012,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Albert C. Barnes assembled his collection in the early twentieth century, with deep holdings of Impressionist, Post-Impressionist, and early Modern painting. In 1922 he chartered the Barnes Foundation as an educational institution and installed the works in fixed ensembles of his own arrangement in Merion. His trust set strict terms after his death, restricting whether works could be moved or loaned, how they were hung, and who could see them.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "barnesfoundation.org",
+        "Montgomery County Orphans' Court opinions"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "chinati",
+      "publicDepth": "expanded",
+      "name": "The Chinati Foundation",
+      "founder": "Donald Judd",
+      "location": "Marfa, Texas",
+      "profile": {
+        "founded": 1986,
+        "structure": "Independent nonprofit foundation",
+        "publicAccess": "Open by tour; annual October open house",
+        "currentState": "Open in Marfa since 1986.",
+        "size": "~340 acres; permanent installations by ~13 artists"
+      },
+      "composition": {
+        "focus": "Minimalism and related postwar and contemporary art",
+        "movements": [
+          "Minimalism"
+        ],
+        "period": "1960s onward",
+        "media": [
+          "sculpture",
+          "installation",
+          "light"
+        ],
+        "selectedArtists": [
+          "Donald Judd",
+          "Dan Flavin",
+          "John Chamberlain",
+          "Carl Andre",
+          "Ingólfur Arnarsson",
+          "Roni Horn",
+          "Robert Irwin",
+          "Ilya Kabakov",
+          "Richard Long",
+          "Claes Oldenburg & Coosje van Bruggen",
+          "David Rabinowitch",
+          "John Wesley"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Chinati Foundation opens",
+            "year": 1986,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          }
+        ]
+      },
+      "origin": "Donald Judd, dissatisfied with how museums rotated art in and out of view, wanted permanent installation. In the 1970s he moved to Marfa and, with Dia Art Foundation support, acquired the former Fort D.A. Russell, opening it in 1986 as the Chinati Foundation to hold a small number of works permanently.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "chinati.org",
+        "Dia Art Foundation"
+      ],
+      "lastReviewed": "2026-08"
+    }
+  ],
+  "decisions": [],
+  "topics": [],
+  "conversations": []
+}

@@ -38,11 +38,14 @@ Distinct from the coded header above, which is the INTERNAL research schema. The
 - `living_collector`: `true` / `false` — gates sensitive handling; when true, artist/period fields are dated/softened and no post-founder outcome is predicted.
 - `last_reviewed`: `YYYY-MM`.
 
-**Body block `## Public profile` (structured public content the export reads):**
-- **Composition** (structured; omit any unknown key, never "Selected artists" as a false-complete list): `focus` · `movements` [] · `period` · `media` [] · `selected_artists` [] · `recipients` [] (dispersal/gift cases). Genuinely structured data (the eventual research dataset), not display prose.
-- **Pathway timeline** (the multi-path model; replaces a single static label): an ordered list of `{ year · family · coded_pathway · event }`. A case appears under every family its timeline touches.
-- **Origin**: a short, restrained, factual narrative (how it began → what it became → what the collector did). Placeholder-grade until an individual writing pass at publication.
-- **Public facts**: `founded` / `collecting_began` · `location` · `structure` · `public_access` · `size` (only where not already unambiguous).
+**Structured public fields — ALL in FRONTMATTER (flat `key: value`, the machine contract the export reads; single source of truth; dependency-free, so no YAML library is needed).** Lists use `; ` as the delimiter; omit any field that is unknown (never a false-complete list). This is a STRICT format contract — keep it exact so the export parses reliably across ~100 agent-maintained files.
+- Identity/profile: `public_name` · `public_founder` · `public_location` · `public_founded` (year) / `public_collecting_began` · `public_structure` · `public_access` · `public_size`
+- Composition: `public_focus` · `public_movements` (`; `-list) · `public_period` · `public_media` (`; `-list) · `public_selected_artists` (`; `-list) · `public_recipients` (`; `-list; dispersal/gift cases)
+- `public_pathway_timeline` (the multi-path model): events as `year|family|coded_pathway|event`, multiple events separated by ` ;; `. A case appears under every family its timeline touches.
+- `public_origin`: one or two short, restrained, factual sentences (how it began → what it became → what the collector did); placeholder-grade until a publication writing pass.
+- `public_sources`: `; `-list of short source labels.
+
+**Why flat frontmatter (not a prose body block, not nested YAML):** the export must parse reliably across ~100 agent-maintained files. Flat `key: value` is the format an agent gets right every time and a parser reads without a YAML dependency. The richer factual prose SECTIONS (brief §4a: The place, After the founder, etc.) stay in the normal case body and are a LATER export iteration; v1 exports profile + composition + timeline + origin + status + image + sources.
 
 *Populating these does not re-verify the coded header. Anything marked `public_page_eligible: true` is still held from the live export until its figures reach `verification: primary-verified` (or are non-numeric/structural).*
 
