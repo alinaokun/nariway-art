@@ -11,7 +11,7 @@
 - [[operating-rhythm]] — **how Nariway runs day to day** (the learning engine): Research · Talk · Write · Capture, the three-part engine, the weekly scorecard.
 - [[advisory-panel]] — how a real decision gets deliberated. Decisions logged in `company/decisions/`.
 - [[positioning]] — canonical external identity. Website / LinkedIn / any public copy reference this.
-- [[scoreboard]] — **the numbers of record** (the KPI ledger the daily check-in renders as its dashboard: Winning / Evidence / Engine tiers, scored against a first paid engagement).
+- [[scoreboard]] — **the numbers of record** (Winning / Evidence / Engine tiers, scored against a first paid engagement; maintained by the Monday weekly-advisor run). · [[weekly-brief]] — the accountability log behind the **weekly advisor** email (replaced the retired daily check-in, 2026-08-22; see `company/decisions/`).
 - [[the-pivot]] — **private founder note**: why Alina left six years of future-of-work research (the joy test; intellectual sunk cost). The personal why beneath Nariway. Not public without her say-so.
 - [[voice]] — written voice and craft standards. · [[ai-tells]] — banned AI-writing patterns. · [[design-system]] — visual house style (reports, decks, website).
 - **On-call (not standing functions — spun up when triggered):** [[legal]], [[tax]] (watch-and-flag, never a substitute for a licensed pro — CFO owns) · [[it]] (tech decisions) · [[vault-hygiene]] (the librarian sweep; findings in `hygiene-report.md`) · [[quality-assurance]] (independent standards auditor, reports to Research; findings in `qa-report.md`) · [[site-health]] (Mon/Thu site/SEO watch on both live sites, rolling).

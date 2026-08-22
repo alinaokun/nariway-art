@@ -37,8 +37,7 @@ Read [[capital-ledger]] for cash position and burn; do not restate a number here
 ---
 
 ## How to keep this current
-- **Daily check-in (automated):** refresh the **As of** date; recompute the Tier-3 engine counts from their source files (report-dataset, conversations-series, website); leave Tier-1/Tier-2 unless a logged event changed them.
-- **Monday board run:** before editing, copy the current `Now` column into `Prev wk` for all tiers (this is the weekly trend baseline), then update, then append a dated row to **Weekly snapshots** below.
+- **Monday weekly-advisor run (automated — now the ONLY run that maintains this):** recompute the Tier-3 engine counts from their source files (report-dataset, conversations-series, website, problem-discovery); copy each tier's current `Now` into `Prev wk` (the weekly trend baseline); refresh the **As of** date; append a dated row to **Weekly snapshots** below. The scoreboard is internal reference now, it is NOT pasted into any email (the daily check-in was retired 2026-08-22, see [[weekly-brief]] / the decision record).
 - **Event-driven (Alina / Toi):** bump Tier-1 the moment a real situation, discovery call, or engagement happens; bump Tier-2 when a hypothesis changes confidence or a disconfirmation pass runs. These are the numbers that matter; keep them true.
 
 ## Weekly snapshots (Monday board run appends one line)
