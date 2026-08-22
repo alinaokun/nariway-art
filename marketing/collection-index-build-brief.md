@@ -96,6 +96,8 @@ Stable coded layer = [[case-template]] (`pathway`/`outcome`/governance/coherence
 
 **What lives where:** structured collection data → vault, exported (mandatory, or it drifts). Design tokens/templates/CSS → `nariway-rebuild` (the vault holds only the spec, [[design-system]]). All numbers → [[claims-register]] is the single source. **Adopted defaults (reversible):** Topic and Findings prose are authored in the vault (as markdown, versioned with the research, numbers tied to claims-register) and exported like everything else; the export commits into the vault and the site pulls it.
 
+**Population is automated (2026-08-22):** the twice-daily **dataset-research routine** now populates the public-projection fields on every case it codes AND backfills 1–2 already-coded cases per run (launch set first: Cisneros, Fisher, Anderson, Broad, de la Cruz), using the proof set (Chinati/Barnes/Corcoran/Lucas) as the format exemplar. So the corpus fills in its public fields over time without hand-work; verification-to-grade remains the separate gate the export enforces.
+
 **Prerequisite:** the export only works once the vault frontmatter carries the §5 fields (`public_page_eligible`, `public_depth`, `public_status_text`, composition fields, image-rights block, pathway-as-timeline). Build that data model in the vault BEFORE `nariway-rebuild` wires in real data.
 
 **Steady-state workflow:** research happens in the vault (Alina + cloud agent) → a case is marked public-eligible and its figures verified → run the export → the site rebuilds from the new JSON. Additive, auditable, no drift.
