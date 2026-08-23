@@ -263,6 +263,16 @@
 **Source:** [[market-intelligence]] #8 addendum (Center for Art Law; Artnet; the Foundation's own statement, 2026).
 **Use:** a contemporary, board-resolved H8 (founder-constraint) data point, distinct from Barnes (court-rewritten) and Neue Galerie→Met (founder-chosen continuity).
 
+### C48 · HENRY collectors: majority uninsured despite treating collecting as investment — [DOC-secondary]
+**Canonical:** Chubb's 2026 survey of 1,000 affluent Americans ("HENRYs," 20s-40s, $250K-$1M+ income) who actively collect luxury items (including art) found **78%** name future value as a top purchase factor, but **fewer than half** have insured their collections. Of the uninsured, 46% mistakenly believe homeowners' coverage is adequate, 38% haven't gotten around to it, only 34% judge the risk genuinely low, and only **14%** cite cost as a barrier.
+**Source:** [[market-intelligence]] #9 addendum (Chubb newsroom, 2026-07-16; PR Newswire; Insurance Business America).
+**Use:** the insurance domain's first named-carrier survey figure, one tier more reliable than the report-mill market-size estimates #9's main entry already flagged as unreliable; a demand-side data point for the "collectors say yes when asked, don't get around to it unprompted" pattern.
+
+### C49 · HENRY collectors: 94% want valuables insurance, price is not the barrier — [DOC-secondary]
+**Canonical:** In the same Chubb survey, **94%** of respondents say they want to purchase valuables insurance, with 38% preferring point-of-sale purchase; cost is cited by only 14% as a reason for going uninsured.
+**Source:** [[market-intelligence]] #9 addendum (Chubb, 2026-07-16).
+**Use:** pairs with [[market-intelligence]] #10's wealth-manager finding (79% consensus art belongs in wealth management vs. 63%→51% actual offering) — a recurring demand/supply gap shape across two independent ecosystem domains (insurance, advisory), suggestive but not proof for H7B.
+
 ---
 
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*

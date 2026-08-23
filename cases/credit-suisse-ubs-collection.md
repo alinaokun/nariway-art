@@ -10,6 +10,31 @@ founder_status: n/a
 geography: Zürich, Switzerland
 outcome: pivoted
 verification: spot-verified
+decision_owner: no-identifiable-person
+interview_status: not-contacted
+hypotheses: [H3, H4]
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Absorbed into the UBS Art Collection following UBS's 2023 emergency takeover of Credit Suisse; integration ongoing."
+public_name: Credit Suisse Art Collection (absorbed into the UBS Art Collection)
+public_founder: Credit Suisse (corporate collection)
+public_location: Zürich, Switzerland
+public_collecting_began: 1975
+public_structure: Corporate collection, absorbed into an acquirer's larger corporate collection
+public_access: Displayed inside bank offices; not a dedicated public venue
+public_size: ~13,500 works (absorbed); combined UBS collection 40,000+ works post-merger
+public_focus: Swiss contemporary art (Credit Suisse's holding); UBS's own collection is globally curated, blue-chip contemporary
+public_movements: Swiss contemporary art
+public_period: 1975–2023 (as an independent collection)
+public_media: painting; works on paper; art-in-architecture commissions
+public_selected_artists: Ferdinand Hodler; Félix Vallotton; John Armleder; Monica Studer & Christoph van den Berg; Balthasar Burkhard; Yves Netzhammer
+public_pathway_timeline: 1975|build-institution|hybrid|Credit Suisse begins a corporate art collection of Swiss contemporary art ;; 2023|dispersal|merger-into-institution|Credit Suisse is absorbed into UBS in a state-brokered emergency merger; its ~13,500-work collection is absorbed into the UBS Art Collection
+public_origin: Credit Suisse built a corporate collection of Swiss contemporary art beginning in 1975, displayed across its bank offices. When Credit Suisse was absorbed into UBS in a 2023 emergency, government-brokered merger, its roughly 13,500-work collection was absorbed whole into UBS's own larger corporate collection, and the two banks' holdings are still being integrated.
+public_sources: The Art Newspaper; Wall Street Journal; Zarastro Art
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Credit Suisse Art Collection → UBS — the M&A-absorption-of-a-distressed-parent cell the corporate sub-sample was missing

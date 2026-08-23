@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22",
+  "generated": "2026-08-23",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -234,6 +234,66 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "credit-suisse-ubs-collection",
+      "publicDepth": "expanded",
+      "name": "Credit Suisse Art Collection (absorbed into the UBS Art Collection)",
+      "founder": "Credit Suisse (corporate collection)",
+      "location": "Zürich, Switzerland",
+      "profile": {
+        "collectingBegan": "1975",
+        "structure": "Corporate collection, absorbed into an acquirer's larger corporate collection",
+        "publicAccess": "Displayed inside bank offices; not a dedicated public venue",
+        "currentState": "Absorbed into the UBS Art Collection following UBS's 2023 emergency takeover of Credit Suisse; integration ongoing.",
+        "size": "~13,500 works (absorbed); combined UBS collection 40,000+ works post-merger"
+      },
+      "composition": {
+        "focus": "Swiss contemporary art (Credit Suisse's holding); UBS's own collection is globally curated, blue-chip contemporary",
+        "movements": [
+          "Swiss contemporary art"
+        ],
+        "period": "1975–2023 (as an independent collection)",
+        "media": [
+          "painting",
+          "works on paper",
+          "art-in-architecture commissions"
+        ],
+        "selectedArtists": [
+          "Ferdinand Hodler",
+          "Félix Vallotton",
+          "John Armleder",
+          "Monica Studer & Christoph van den Berg",
+          "Balthasar Burkhard",
+          "Yves Netzhammer"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Credit Suisse begins a corporate art collection of Swiss contemporary art",
+            "year": 1975,
+            "familyId": "build-institution",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "Credit Suisse is absorbed into UBS in a state-brokered emergency merger; its ~13,500-work collection is absorbed into the UBS Art Collection",
+            "year": 2023,
+            "familyId": "dispersal",
+            "codedPathway": "merger-into-institution"
+          }
+        ]
+      },
+      "origin": "Credit Suisse built a corporate collection of Swiss contemporary art beginning in 1975, displayed across its bank offices. When Credit Suisse was absorbed into UBS in a 2023 emergency, government-brokered merger, its roughly 13,500-work collection was absorbed whole into UBS's own larger corporate collection, and the two banks' holdings are still being integrated.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Wall Street Journal",
+        "Zarastro Art"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "de-la-cruz-collection",
       "publicDepth": "expanded",
       "name": "De la Cruz Collection",
@@ -287,6 +347,85 @@
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
+    },
+    {
+      "slug": "deutsche-bank-collection",
+      "publicDepth": "expanded",
+      "name": "Deutsche Bank Collection / PalaisPopulaire",
+      "founder": "Deutsche Bank AG (corporate collection; initiated by executive board member Herbert Zapp)",
+      "location": "Frankfurt (HQ) / Berlin (PalaisPopulaire), Germany",
+      "profile": {
+        "collectingBegan": "1979",
+        "structure": "Internal corporate art program (Deutsche Bank AG \"Art & Culture\" division)",
+        "publicAccess": "PalaisPopulaire open to the public in central Berlin through end of 2026, then rotating exhibitions at partner venues from 2027",
+        "currentState": "Closing its Berlin exhibition venue at the end of 2026; the collection continues on rotating loan to partner venues from 2027.",
+        "size": "~55,000–57,000 works on paper and photographs (figure contested across sources)"
+      },
+      "composition": {
+        "focus": "Contemporary drawings, prints and photography, principally post-1945",
+        "period": "1945–present",
+        "media": [
+          "drawing",
+          "print",
+          "photography"
+        ],
+        "selectedArtists": [
+          "Joseph Beuys",
+          "Lucia Tallová (Artist of the Year, 2026)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Deutsche Bank board member Herbert Zapp begins buying works on paper, seeded by 57 Beuys drawings",
+            "year": 1979,
+            "familyId": "build-institution",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "Collection formally established, anchored to the bank's 150th-anniversary narrative",
+            "year": 1980,
+            "familyId": "build-institution",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "PalaisPopulaire opens in the historic Prinzessinnenpalais, Unter den Linden, Berlin",
+            "year": 2018,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "~200 modern works sold to fund new acquisitions",
+            "year": 2020,
+            "familyId": "pivot",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "PalaisPopulaire closure announced; lease not renewed; closing festival Nov 19-22, 2026",
+            "year": 2026,
+            "familyId": "dispersal",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "Collection continues via rotating exhibitions at partner venues; Artist of the Year award continues in a new roving format",
+            "year": 2027,
+            "familyId": "pivot",
+            "codedPathway": "traveling-program"
+          }
+        ]
+      },
+      "origin": "In the late 1970s, Deutsche Bank executive Herbert Zapp began buying art for the bank, starting with 57 early drawings by Joseph Beuys. The collection grew into one of the largest corporate art collections in the world. In 2018 the bank opened PalaisPopulaire, a dedicated public exhibition venue in Berlin; in 2026 it announced the venue's closure at the end of the year, shifting from a fixed public building to a rotating-partnership model while keeping the collection intact.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Kunstforum International",
+        "Frieze",
+        "The Art Newspaper",
+        "Tagesspiegel",
+        "db.com"
+      ],
+      "lastReviewed": "2026-08"
     },
     {
       "slug": "fisher-sfmoma",
@@ -357,6 +496,68 @@
       "sources": [
         "SFMOMA",
         "artnet"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "las-vegas-museum-of-art",
+      "publicDepth": "expanded",
+      "name": "Las Vegas Museum of Art",
+      "founder": "Elaine Wynn",
+      "location": "Las Vegas, NV",
+      "profile": {
+        "founded": 2024,
+        "structure": "Independent nonprofit museum, in partnership with LACMA",
+        "publicAccess": "Prelude venue (Grand Central Galleries) open; full museum planned fall 2029",
+        "currentState": "Under construction in Symphony Park; a prelude venue (Grand Central Galleries) opened 2026, full museum planned for fall 2029.",
+        "size": "n/a — no permanent collection of its own; access via a 50-year LACMA loan/curation partnership to LACMA's 150,000-object collection"
+      },
+      "composition": {
+        "focus": "General art museum (LACMA partnership, no announced sole curatorial thesis)"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "An earlier Las Vegas branch effort (Art Museum at Symphony Park) merges into the Nevada Museum of Art rather than opening in Las Vegas",
+            "year": 2018,
+            "familyId": "build-institution",
+            "codedPathway": "abandoned-plan"
+          },
+          {
+            "event": "Elaine Wynn founds the Las Vegas Museum of Art as an independent nonprofit, with a LACMA partnership announced",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Elaine Wynn dies (April); LVMA and LACMA continue the project without her",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Grand Central Galleries prelude venue opens in Symphony Park",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Full museum planned to open (delayed from an earlier fall 2028 target)",
+            "year": 2029,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Elaine Wynn, Wynn Resorts co-founder and a longtime LACMA trustee, spent years pursuing a standalone art museum for Las Vegas after an earlier attempt folded into Nevada's existing museum in Reno. In 2024 she founded the Las Vegas Museum of Art as its own nonprofit, brokering a 50-year partnership giving it access to LACMA's collection. She died in April 2025, before the museum opened; the institution and its LACMA partnership are continuing under the board she built.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "ARTnews",
+        "Las Vegas Review-Journal",
+        "LACMA (Unframed)"
       ],
       "lastReviewed": "2026-08"
     },
@@ -583,6 +784,66 @@
         "Dia Art Foundation"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "klesch-collection-birkbeck",
+      "publicDepth": "expanded",
+      "name": "The Klesch Collection",
+      "founder": "A. Gary Klesch & Anita Klesch",
+      "location": "London, UK",
+      "profile": {
+        "collectingBegan": "2014",
+        "structure": "Private collection (no public venue); funds a university fellowship",
+        "publicAccess": "Not open to the public; works appear via loans and museum exhibitions",
+        "currentState": "Collection retained privately; funding a two-year postdoctoral fellowship at Birkbeck, University of London, from 2026.",
+        "size": "40+ paintings"
+      },
+      "composition": {
+        "focus": "15th–17th-century European Old Master painting",
+        "movements": [
+          "Northern Renaissance",
+          "Mannerism",
+          "Dutch and Flemish Golden Age",
+          "Italian Baroque"
+        ],
+        "period": "c.1450–1700",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Giuseppe Arcimboldo",
+          "Anthony van Dyck",
+          "Sofonisba Anguissola",
+          "Peter Paul Rubens"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Collection begins with a set of Arcimboldo's Four Seasons",
+            "year": 2014,
+            "familyId": "build-institution",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Klesches endow a two-year AI/art-history postdoctoral fellowship at Birkbeck, University of London",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "retain-family"
+          }
+        ]
+      },
+      "origin": "Gary and Anita Klesch began collecting Old Masters in 2014 with a set of paintings by Giuseppe Arcimboldo and built a private collection of 15th- to 17th-century European painting. Rather than founding a museum, they have funded scholarships and, in 2026, an academic fellowship connecting art history and artificial intelligence — putting the collection's resources into the field's scholarly infrastructure instead of a building.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Birkbeck, University of London",
+        "thekleschcollection.com"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     }
   ],
   "decisions": [
