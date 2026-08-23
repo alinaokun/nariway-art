@@ -9,6 +9,27 @@ founder_status: living
 geography: Cold Spring, NY
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Cold Spring, New York since 2017; expanded 2023."
+public_name: Magazzino Italian Art
+public_founder: Nancy Olnick and Giorgio Spanu
+public_location: Cold Spring, New York
+public_founded: 2017
+public_structure: Private foundation
+public_access: Open to the public
+public_focus: Postwar and contemporary Italian art, centered on Arte Povera
+public_movements: Arte Povera
+public_period: 1960s onward
+public_media: painting; sculpture; installation
+public_selected_artists: Mario Merz; Marisa Merz; Jannis Kounellis; Luciano Fabro; Michelangelo Pistoletto; Alighiero Boetti; Lucio Fontana; Piero Manzoni
+public_pathway_timeline: 2017|build-institution|found-standalone-museum|Magazzino opens in a converted warehouse in Cold Spring ;; 2023|build-institution|found-standalone-museum|The purpose-built Robert Olnick Pavilion opens
+public_origin: Nancy Olnick and Giorgio Spanu, a New York-based collecting couple, opened Magazzino in 2017 to house one of the largest US concentrations of postwar Italian art, anchored on Arte Povera. The museum occupies a converted industrial building in the Hudson Valley, expanded in 2023 with the purpose-built Robert Olnick Pavilion.
+public_sources: magazzino.art; Wikipedia; artnet News
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 # Magazzino Italian Art — the tight-thesis Arte Povera museum
 

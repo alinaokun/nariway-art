@@ -10,6 +10,27 @@ founder_status: deceased
 geography: Berlin, Germany
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Owned by Berlin's Nationalgalerie since 2000; the Stülerbau is closed for renovation, with reopening expected in 2026-2027."
+public_name: Museum Berggruen
+public_founder: Heinz Berggruen
+public_location: Berlin, Germany
+public_founded: 1996
+public_structure: Part of the Nationalgalerie, Staatliche Museen zu Berlin (Stiftung Preußischer Kulturbesitz)
+public_access: Open to the public (currently closed for renovation)
+public_focus: Classic Modern art, with a deep concentration of Picasso
+public_period: early-mid 20th century
+public_media: painting; sculpture; works on paper
+public_selected_artists: Pablo Picasso; Paul Klee; Henri Matisse; Alberto Giacometti; Paul Cézanne; Georges Braque
+public_recipients: Stiftung Preußischer Kulturbesitz (Prussian Cultural Heritage Foundation)
+public_pathway_timeline: 1995|partner-institution|long-term-loan|Berggruen places the collection on long-term loan to Berlin ;; 1996|||The collection opens to the public in the Stülerbau ;; 2000|give-institution|donate-existing-museum-intact|Berggruen sells the collection to the state foundation far below market value, keeping it in Berlin
+public_origin: The Berlin-born dealer and collector Heinz Berggruen assembled a major collection of Classic Modern art, with a deep concentration of Picasso alongside Klee, Matisse, and Giacometti. First shown in Berlin's Stülerbau in 1996, the collection was sold in 2000 to the state-run Prussian Cultural Heritage Foundation far below its market value so it would remain in Germany, and it operates today as the Museum Berggruen within the Nationalgalerie.
+public_sources: smb.museum; berlin.de; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Museum Berggruen — a below-market sale into a state museum system, with a three-generation family philanthropic tail

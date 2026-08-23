@@ -10,6 +10,28 @@ founder_status: living
 geography: Almaty, Kazakhstan
 outcome: emerging
 verification: provisional
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Almaty since 2025."
+public_name: Almaty Museum of Arts (ALMA)
+public_founder: Nurlan Smagulov
+public_location: Almaty, Kazakhstan
+public_founded: 2025
+public_collecting_began: early 1990s
+public_structure: Private museum (founder-funded, with a stated endowment fund)
+public_access: Open to the public
+public_size: 700+ works; ~100,000 sq ft building
+public_focus: Contemporary art of Kazakhstan and Central Asia, bridged to international contemporary art
+public_period: 20th–21st century (as documented)
+public_media: painting; sculpture; installation; video
+public_selected_artists: Richard Serra; Anselm Kiefer; Bill Viola; Yayoi Kusama
+public_pathway_timeline: early 1990s|||Nurlan Smagulov begins collecting ;; 2025|build-institution|found-standalone-museum|Almaty Museum of Arts opens in Almaty
+public_origin: "Kazakh entrepreneur Nurlan Smagulov collected Central Asian and international contemporary art from the early 1990s, and in 2025 opened the Almaty Museum of Arts, the first large private contemporary-art museum in Central Asia, with a stated plan to move toward mixed governance including state participation."
+public_sources: almaty.art; ARTnews; Artnet; The Times of Central Asia
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Almaty Museum of Arts (ALMA) — Central Asia's first private contemporary museum, built with an explicit state-partnership succession plan from day one

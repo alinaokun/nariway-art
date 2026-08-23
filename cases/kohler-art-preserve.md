@@ -11,6 +11,26 @@ geography: Sheboygan, WI
 outcome: thriving
 verification: spot-verified
 origin: private-individual
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Sheboygan, Wisconsin since 2021."
+public_name: The Art Preserve of the John Michael Kohler Arts Center
+public_founder: Ruth DeYoung Kohler II
+public_location: Sheboygan, Wisconsin
+public_founded: 2021
+public_structure: Nonprofit (satellite of the John Michael Kohler Arts Center)
+public_access: Open to the public
+public_size: 25,000+ objects
+public_focus: Artist-built environments by self-taught artists
+public_period: 20th century
+public_media: installation; sculpture
+public_pathway_timeline: 2020|||Ruth DeYoung Kohler II, who drove the decades-long collecting, dies ;; 2021|build-institution|found-standalone-museum|The Art Preserve opens in Sheboygan as a satellite of the John Michael Kohler Arts Center
+public_origin: Ruth DeYoung Kohler II spent decades as director of the John Michael Kohler Arts Center rescuing artist-built environments created by self-taught artists. She oversaw the purpose-built Art Preserve to house them; it opened in Sheboygan in 2021, seven months after her death.
+public_sources: jmkac.org; Wikipedia; The Art Newspaper
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # The Art Preserve of the John Michael Kohler Arts Center — Sheboygan, WI

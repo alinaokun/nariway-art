@@ -9,6 +9,25 @@ founder_status: living
 geography: New York, NY (closed venue) → global, no fixed location
 outcome: pivoted
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "New York building closed in 2024; now operating as a global 'museum without walls'."
+public_name: Rubin Museum of Himalayan Art
+public_founder: Shelley Rubin & Donald Rubin
+public_location: New York, New York (physical museum closed 2024)
+public_founded: 2004
+public_structure: Independent nonprofit (Shelley & Donald Rubin Cultural Trust)
+public_access: Physical museum closed October 2024; now operates through partnerships, loans, traveling exhibitions, and digital programs
+public_size: ~4,000 objects
+public_focus: Himalayan and Tibetan Buddhist art
+public_media: painting; sculpture; ritual objects; textiles
+public_pathway_timeline: 2004|build-institution|found-standalone-museum|Rubin Museum of Art opens in a converted Chelsea building in New York ;; 2024|partner-institution|traveling-program|Closes its New York building to operate through partnerships, loans, and traveling exhibitions
+public_origin: Shelley and Donald Rubin built a collection of art from the Himalayas and the Tibetan Buddhist world and opened a dedicated museum in New York in 2004. In 2024 they closed the building and reorganized the institution to circulate the collection through partnerships, loans, and traveling exhibitions.
+public_sources: rubinmuseum.org; CNN; Wikipedia
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Rubin Museum of Art — the sample's first living-founder building closure, and a "museum without walls" pivot distinct from Deutsche Bank's

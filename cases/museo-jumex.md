@@ -10,6 +10,27 @@ survived_founder: not-yet-testable
 geography: Mexico City, Mexico
 outcome: founder-open
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Mexico City since 2013."
+public_name: Museo Jumex
+public_founder: Eugenio López Alonso
+public_location: Mexico City, Mexico
+public_founded: 2013
+public_collecting_began: 1994
+public_structure: Private foundation (Fundación Jumex Arte Contemporáneo)
+public_access: Open to the public
+public_size: 2,000+ works
+public_focus: Latin American and international contemporary art
+public_period: late 20th-21st century
+public_selected_artists: Jeff Koons; Andy Warhol; Olafur Eliasson; Tacita Dean; Abraham Cruzvillegas; Mario García Torres
+public_pathway_timeline: 2001|||Fundación Jumex is established and opens a gallery inside the family's juice plant ;; 2013|build-institution|found-standalone-museum|Museo Jumex opens in a David Chipperfield building in Polanco
+public_origin: Eugenio López Alonso, heir to the Jumex juice fortune, began collecting contemporary art in 1994 and established the Fundación Jumex Arte Contemporáneo in 2001. In 2013 he opened Museo Jumex, a David Chipperfield-designed public museum in Mexico City's Polanco district, holding one of Latin America's leading contemporary-art collections.
+public_sources: fundacionjumex.org; Wikipedia; Dezeen; ArchDaily
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Museo Jumex — Mexico City, Mexico

@@ -10,6 +10,26 @@ founder_status: living
 geography: Bled, Slovenia
 outcome: emerging
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "New museum near Lake Bled, Slovenia, announced to open in 2026."
+public_name: Muzej Lah
+public_founder: Igor and Mojca Lah
+public_location: Bled, Slovenia
+public_structure: Private foundation (Fundacija Lah, registered in Switzerland)
+public_access: Not yet open (opening announced for 2026)
+public_size: 800+ works by 100+ artists
+public_focus: Post-1945 Slovenian and international contemporary art
+public_period: 1945 to present
+public_media: painting; sculpture; installation
+public_selected_artists: Anselm Kiefer; Joseph Beuys; Ilya and Emilia Kabakov; Zoran Mušič; Anne Imhof
+public_pathway_timeline: 2017|||Fundacija Lah, the collection's foundation, is established ;; 2026|build-institution|found-standalone-museum|Muzej Lah, a David Chipperfield building near Lake Bled, is announced to open
+public_origin: Slovenian philanthropists Igor and Mojca Lah assembled a collection of post-1945 Slovenian and international art over roughly three decades. They commissioned David Chipperfield Architects to design Muzej Lah, a purpose-built museum near Lake Bled announced to open in 2026, bringing the collection into public view for the first time.
+public_sources: muzejlah.com; fundacijalah.com; Domus; David Chipperfield Architects
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Muzej Lah — Central Europe's version of the new-region private museum, and the sample's second Swiss-registered foundation

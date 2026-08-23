@@ -12,6 +12,29 @@ verification: spot-verified
 decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H1, H4, H5]
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in St. Petersburg, Florida since 1982; purpose-built building opened 2011."
+public_name: The Dalí Museum
+public_founder: A. Reynolds Morse & Eleanor Reese Morse
+public_location: St. Petersburg, Florida
+public_founded: 1982
+public_collecting_began: 1943
+public_structure: Independent nonprofit (Salvador Dali Museum Inc.)
+public_access: Open to the public
+public_size: ~2,400 works
+public_focus: The most comprehensive collection of Salvador Dalí's work outside Europe
+public_movements: Surrealism
+public_period: 20th century
+public_media: painting; drawing; prints; sculpture
+public_selected_artists: Salvador Dalí
+public_pathway_timeline: 1943|||A. Reynolds and Eleanor Morse buy their first Dalí ;; 1982|give-institution|found-standalone-museum|The Dalí Museum opens in a converted St. Petersburg warehouse ;; 2011|build-institution|found-standalone-museum|Purpose-built museum opens after both founders' deaths
+public_origin: "Ohio industrialists A. Reynolds and Eleanor Reese Morse built the world's most comprehensive private Salvador Dalí collection over some forty years and gave it whole to a new St. Petersburg, Florida nonprofit, which opened in a converted warehouse in 1982. The museum thrived after both founders' deaths, opening a purpose-built building in 2011."
+public_sources: thedali.org; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # The Dalí Museum

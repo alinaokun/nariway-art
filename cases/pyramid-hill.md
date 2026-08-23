@@ -12,6 +12,26 @@ verification: spot-verified
 decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H4, H7A, H8]
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Hamilton, Ohio since 1996."
+public_name: Pyramid Hill Sculpture Park and Museum
+public_founder: Harry T. Wilks
+public_location: Hamilton, Ohio
+public_founded: 1997
+public_structure: Independent nonprofit sculpture park and museum
+public_access: Open to the public
+public_size: 300+ acres; 70+ outdoor sculptures
+public_focus: Monumental outdoor sculpture; ancient sculpture
+public_period: modern and contemporary; antiquities
+public_media: sculpture
+public_pathway_timeline: 1987|||Harry T. Wilks buys Ohio farmland and builds the Pyramid House ;; 1997|build-institution|found-art-park|Establishes a nonprofit sculpture park to protect the land from development ;; 2014|||Harry T. Wilks dies
+public_origin: Harry T. Wilks bought farmland in Hamilton, Ohio in 1987, kept acquiring adjacent parcels, and in 1997 established a nonprofit sculpture park to protect the assembled landscape from development. It grew to more than 70 monumental outdoor sculptures across several hundred acres and has continued under hired leadership since his death in 2014.
+public_sources: pyramidhill.org; Wikipedia; Cincinnati Magazine
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Pyramid Hill Sculpture Park and Museum

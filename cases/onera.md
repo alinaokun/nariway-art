@@ -9,6 +9,23 @@ founder_status: living
 geography: New Canaan, CT, USA
 outcome: emerging
 verification: provisional
+public_page_eligible: true
+public_verified: true
+public_depth: record
+public_status_text: "Opened its public exhibition venue in New Canaan in October 2025."
+public_name: Onera Foundation
+public_founder: David B. Peterson
+public_location: New Canaan, Connecticut
+public_founded: 2018
+public_structure: Architectural-preservation foundation with a public exhibition venue
+public_access: Open to the public (Tuesday–Saturday)
+public_focus: Historic American architecture and its intersection with art
+public_pathway_timeline: 2018|build-institution|found-foundation|Onera Foundation established; acquires the 1836 Maxwell Perkins House ;; 2025|build-institution|found-house-museum|Opens the restored house as a public exhibition venue
+public_origin: David B. Peterson founded the Onera Foundation in 2018 to advance the preservation of historic American architecture. It restored the landmarked 1836 Maxwell Perkins House in New Canaan and opened it to the public as an exhibition venue in October 2025.
+public_sources: onerafoundation.org; The Art Newspaper; The Architect's Newspaper
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Onera Foundation

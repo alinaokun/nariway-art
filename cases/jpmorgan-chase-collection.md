@@ -10,6 +10,25 @@ founder_status: n/a
 geography: New York, NY, USA (global — ~450 offices)
 outcome: stable
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: record
+public_status_text: "Active corporate collection, in continuous operation since 1959."
+public_name: JPMorgan Chase Art Collection
+public_location: New York, New York (global)
+public_collecting_began: 1959
+public_structure: Corporate collection (JPMorgan Chase & Co.)
+public_access: Displayed in corporate offices; occasional public touring exhibitions
+public_size: 30,000+ objects across ~450 offices worldwide
+public_focus: Modern and contemporary art
+public_period: 20th–21st century
+public_media: painting; sculpture; works on paper; photography
+public_pathway_timeline: 1959|||David Rockefeller establishes the art collection at Chase Manhattan Bank ;; 2000|||Chase and J.P. Morgan merge to form JPMorgan Chase, and the collection continues
+public_origin: David Rockefeller, then president of Chase Manhattan Bank, established the corporate art collection in 1959, integrating art into the bank's offices. It became a model for corporate collecting and, now numbering more than 30,000 objects, continues across the merged JPMorgan Chase's offices worldwide.
+public_sources: jpmorganchase.com; Forbes; Rockefeller University archives
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # JPMorgan Chase Art Collection — the sample's first corporate case with no crisis at all, and it has outlived four mergers

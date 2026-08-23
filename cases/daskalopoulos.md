@@ -9,6 +9,26 @@ founder_status: living
 geography: Athens, Greece / international
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Gifted to four public museums beginning 2022; works entered permanent public collections."
+public_name: The D.Daskalopoulos Collection
+public_founder: Dimitris Daskalopoulos
+public_location: Athens, Greece / international
+public_collecting_began: 1994
+public_structure: Private collection (dispersed by gift)
+public_access: Gifts and shared ownership to public institutions
+public_size: Over 350 works by 142 artists (the gifted body)
+public_focus: Contemporary art on the human body as a source of creativity and a vessel of struggle
+public_period: Contemporary
+public_recipients: EMST, Athens (140 works); Tate, London (110 works); Solomon R. Guggenheim, New York & MCA Chicago (~100 works, jointly owned)
+public_pathway_timeline: 1994|||Dimitris Daskalopoulos begins the collection ;; 2022|disperse|intentional-dispersal|Over 350 works gifted to four museums, ~100 jointly co-owned by the Guggenheim and MCA Chicago
+public_origin: "Dimitris Daskalopoulos built the collection from 1994 around a single theme: the human body as a source of creativity and a vessel of struggle. In 2022 he gifted over 350 works to four public museums, including a rare shared-ownership grouping held jointly by the Guggenheim and MCA Chicago."
+public_sources: tate.org.uk; mcachicago.org; The Art Newspaper
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # D.Daskalopoulos Collection — the co-ownership giveaway

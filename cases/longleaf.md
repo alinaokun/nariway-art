@@ -9,6 +9,27 @@ founder_status: living
 geography: Watersound, FL, USA
 outcome: emerging
 verification: provisional
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "In development in Walton County, Florida; public opening planned for 2026."
+public_name: Longleaf Art Park
+public_founder: Bruce Berkowitz
+public_location: Watersound, Walton County, Florida
+public_founded: 2026
+public_structure: Private operating foundation (Berkowitz Contemporary Foundation)
+public_access: Planned free public access at opening
+public_size: 15.5 acres; anchored by one monumental Richard Serra sculpture
+public_focus: Monumental contemporary sculpture
+public_period: 21st century
+public_media: sculpture
+public_selected_artists: Richard Serra
+public_pathway_timeline: 2021|||A planned Miami museum is abandoned ;; 2024|build-institution|found-art-park|Longleaf Art Park is announced at Watersound Origins ;; 2026|build-institution|found-art-park|Public opening planned
+public_origin: Hedge-fund manager Bruce Berkowitz, after abandoning a planned Miami museum, is building the 15.5-acre Longleaf Art Park within a St. Joe Company development in the Florida Panhandle to permanently house Richard Serra's monumental Passage of Time. His Berkowitz Contemporary Foundation funds it, operations are delegated to a local arts nonprofit, and a public opening is planned for 2026.
+public_sources: The Art Newspaper; St. Joe Company / Cultural Arts Alliance of Walton County; Artnet
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Longleaf Art Park / Berkowitz Contemporary Foundation

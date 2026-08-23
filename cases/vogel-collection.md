@@ -9,6 +9,28 @@ founder_status: deceased
 geography: New York, NY, USA (dispersed to all 50 states)
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Dispersed to the National Gallery of Art and one museum in each of the 50 states."
+public_name: Dorothy and Herbert Vogel Collection
+public_founder: Dorothy Vogel & Herbert Vogel
+public_location: New York, New York (dispersed nationwide)
+public_collecting_began: 1960s
+public_structure: Private collection, dispersed by gift
+public_access: Held in the collections of the National Gallery of Art and museums in all 50 states
+public_size: ~4,000–5,000 works
+public_focus: Minimalist, conceptual, and post-minimalist art
+public_period: 1960s–2000s
+public_media: painting; drawing; sculpture
+public_selected_artists: Sol LeWitt; Richard Tuttle; Lynda Benglis; Donald Judd; Christo and Jeanne-Claude; Robert Mangold; Chuck Close
+public_recipients: National Gallery of Art; one museum in each of the 50 states (Fifty Works for Fifty States)
+public_pathway_timeline: 1960s|||Dorothy and Herbert Vogel begin collecting on a postal clerk's salary ;; 1992|give-institution|donate-existing-museum-intact|Transfer roughly 1,100 works to the National Gallery of Art ;; 2008|disperse|intentional-dispersal|Fifty Works for Fifty States distributes 2,500 works to a museum in every state ;; 2012|||Herbert Vogel dies ;; 2025|||Dorothy Vogel dies
+public_origin: Herbert Vogel, a New York postal clerk, and Dorothy Vogel, a librarian, built one of the most significant collections of minimalist and conceptual art on a single modest salary. Rather than sell or found a museum, they gave roughly 1,100 works to the National Gallery of Art from 1992 and, in 2008–09, distributed 2,500 more to one museum in each of the 50 states.
+public_sources: nga.gov; arts.gov; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # The Vogel Collection — a postal clerk and a librarian, one salary, 5,000 works, dispersed to all 50 states

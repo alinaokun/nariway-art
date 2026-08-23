@@ -9,6 +9,29 @@ founder_status: deceased
 geography: New York, NY (collection); Princeton, NJ (49-year loan host)
 outcome: closed-dispersed
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Collection gifted in 2025 to three U.S. museums; on long-term loan at Princeton, 1976–2025."
+public_name: The Henry and Rose Pearlman Foundation Collection
+public_founder: Henry Pearlman
+public_location: New York, New York; long-term loan at Princeton University Art Museum, 1976–2025
+public_founded: 1955
+public_structure: Private foundation
+public_access: Historically shown on long-term loan at Princeton University Art Museum; being distributed to three public museums
+public_size: 63 works in the 2025 gift
+public_focus: Impressionist, Post-Impressionist, and early Modern European art
+public_movements: Impressionism; Post-Impressionism; early Modernism
+public_period: late 19th–early 20th century
+public_media: painting; works on paper; sculpture
+public_selected_artists: Paul Cézanne; Vincent van Gogh; Amedeo Modigliani; Edgar Degas; Édouard Manet; Chaïm Soutine
+public_recipients: Brooklyn Museum (29 works); The Museum of Modern Art (28 works); Los Angeles County Museum of Art (6 works)
+public_pathway_timeline: 1955|||Henry and Rose Pearlman Foundation established ;; 1976|partner-institution|long-term-loan|Collection placed on long-term loan at Princeton University Art Museum ;; 2025|disperse|intentional-dispersal|Foundation gifts 63 works across Brooklyn Museum, MoMA, and LACMA
+public_origin: Henry Pearlman assembled a tightly focused collection of Impressionist, Post-Impressionist, and early Modern European art, held after his 1974 death by the family foundation and shown on long-term loan at Princeton University Art Museum from 1976. In 2025 the foundation gifted the 63-work collection to the Brooklyn Museum, MoMA, and LACMA.
+public_sources: Brooklyn Museum; MoMA; LACMA; The Art Newspaper
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Henry and Rose Pearlman Foundation — a 49-year single-host loan ends in a permanent, co-owned three-museum split, and the disposition mechanism is genuinely novel

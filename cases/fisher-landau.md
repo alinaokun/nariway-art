@@ -9,6 +9,29 @@ founder_status: deceased
 geography: Long Island City, NY, USA
 outcome: closed-dispersed
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Center closed in 2017; the collection was dispersed by gift to the Whitney (2010) and by estate auction (2023)."
+public_name: Fisher Landau Center for Art
+public_founder: Emily Fisher Landau
+public_location: Long Island City, New York
+public_founded: 1991
+public_collecting_began: late 1960s
+public_structure: Private museum / foundation
+public_access: Closed since 2017 (formerly open to the public)
+public_size: Reported at 1,200–1,500 works over the collection's life
+public_focus: Postwar and contemporary American art
+public_period: 1960s–2000s
+public_media: painting; photography; sculpture
+public_selected_artists: Jasper Johns; Willem de Kooning; Robert Rauschenberg; Ed Ruscha; Cy Twombly; Andy Warhol; Pablo Picasso
+public_recipients: Whitney Museum of American Art (2010 gift of ~367 works); dispersed at Sotheby's (2023 estate auction, ~$424.7M)
+public_pathway_timeline: 1991|build-institution|found-standalone-museum|Fisher Landau Center for Art opens in a former Long Island City parachute factory ;; 2010|give-institution|donate-existing-museum-scattered|~367 works pledged to the Whitney Museum ;; 2017|||The Center closes to the public ;; 2023|disperse|sell-auction|The estate collection sells at Sotheby's for ~$424.7M after Fisher Landau's death
+public_origin: "Emily Fisher Landau began collecting postwar and contemporary American art in the late 1960s and opened a private study center in Long Island City in 1991. She gave some 367 works to the Whitney in 2010, closed the center herself in 2017, and the remainder of her collection was sold at auction in 2023 after her death."
+public_sources: whitney.org; Sotheby's; The Art Newspaper; Artnet
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Fisher Landau Center for Art — the founder closed it herself, then the estate sold it

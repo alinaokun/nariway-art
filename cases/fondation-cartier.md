@@ -10,6 +10,25 @@ founder_status: living
 geography: Paris, France
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Operating in Paris since 1984; reopened in a new Jean Nouvel building at Place du Palais-Royal in October 2025."
+public_name: Fondation Cartier pour l'art contemporain
+public_founder: Alain Dominique Perrin (for Cartier)
+public_location: Paris, France
+public_founded: 1984
+public_structure: Corporate foundation (funded by Cartier / Richemont)
+public_access: Open to the public
+public_focus: Contemporary art across many media, commissioning-led and multidisciplinary
+public_period: 1980s onward
+public_selected_artists: Sarah Sze; Cai Guo-Qiang; Giuseppe Penone; Claudia Andujar; David Lynch
+public_pathway_timeline: 1984|build-institution|found-foundation|Alain Dominique Perrin founds the Fondation Cartier, France's first corporate art foundation, at Jouy-en-Josas ;; 1994|build-institution|found-standalone-museum|A Jean Nouvel-designed building opens on Boulevard Raspail, Paris ;; 2025|||Relocates to a new Jean Nouvel building at Place du Palais-Royal
+public_origin: "Cartier president Alain Dominique Perrin founded the Fondation Cartier in 1984 as France's first corporate foundation for contemporary art. It has occupied a sequence of purpose-built Jean Nouvel buildings, moving in 2025 to a new home at Place du Palais-Royal, across from the Louvre."
+public_sources: fondationcartier.com; Wikipedia; Britannica
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Fondation Cartier pour l'art contemporain — the oldest corporate-foundation-to-public-museum case in the sample, mid-relocation

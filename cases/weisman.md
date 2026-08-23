@@ -9,6 +9,27 @@ founder_status: deceased
 geography: Los Angeles, CA, USA
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open by appointment at the founder's Los Angeles estate."
+public_name: Frederick R. Weisman Art Foundation
+public_founder: Frederick R. Weisman
+public_location: Los Angeles, California
+public_founded: 1982
+public_structure: Private art foundation
+public_access: Guided tours by appointment at the Holmby Hills estate; works lent to museums worldwide
+public_size: 400+ works on display
+public_focus: 20th-century art
+public_movements: Abstract Expressionism; Pop art; Surrealism; European Modernism
+public_period: 20th century
+public_media: painting; sculpture
+public_pathway_timeline: 1982|build-institution|found-house-museum|Frederick Weisman acquires a Holmby Hills estate to show his collection ;; 1994|||Frederick Weisman dies; his widow Billie Milam Weisman becomes director
+public_origin: Frederick R. Weisman built a major postwar and 20th-century art collection and, in 1982, acquired a Mediterranean Revival estate in Holmby Hills, Los Angeles, to display it as a domestic environment. Since his death in 1994 the foundation has been directed by his widow, Billie Milam Weisman, keeping the collection largely as he arranged it and opening it by appointment.
+public_sources: weismanfoundation.org; Wikipedia; Coagula
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Frederick R. Weisman Art Foundation — the collection kept "as he left it"

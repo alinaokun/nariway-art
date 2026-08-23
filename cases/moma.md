@@ -12,6 +12,28 @@ outcome: thriving
 verification: spot-verified
 collection_coherence: absorbed
 decision_owner: collective-founders-trustees
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in New York since 1929."
+public_name: The Museum of Modern Art
+public_founder: Lillie P. Bliss, Mary Quinn Sullivan, and Abby Aldrich Rockefeller (founding trustees)
+public_location: New York, New York
+public_founded: 1929
+public_structure: Independent nonprofit museum
+public_access: Open to the public
+public_size: ~200,000 works
+public_focus: Modern and contemporary art
+public_movements: Post-Impressionism; Cubism; Surrealism; Abstract Expressionism
+public_period: late 19th century to present
+public_media: painting; sculpture; drawings; prints; photography; film; design
+public_selected_artists: Vincent van Gogh; Paul Cézanne; Pablo Picasso; Henri Matisse; Andy Warhol
+public_pathway_timeline: 1929|build-institution|found-standalone-museum|Founded by three collectors as a museum devoted to modern art ;; 1931|give-institution||Lillie P. Bliss bequeaths her collection, the museum's founding core
+public_origin: Three collectors - Lillie P. Bliss, Mary Quinn Sullivan, and Abby Aldrich Rockefeller - founded the Museum of Modern Art in New York in 1929 to champion modern art. Lillie Bliss's 1931 bequest formed the founding collection, and her will permitted the museum to sell works to strengthen its holdings. It has grown into one of the world's foremost museums of modern and contemporary art.
+public_sources: moma.org; Britannica; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 # The Museum of Modern Art — New York, NY
 

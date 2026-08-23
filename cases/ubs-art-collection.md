@@ -10,6 +10,25 @@ founder_status: n/a
 geography: Zürich, Switzerland / global
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Actively collected and exhibited; public gallery in New York since 2019."
+public_name: UBS Art Collection
+public_location: Zürich, Switzerland / global
+public_collecting_began: 1960s
+public_structure: Corporate art collection
+public_access: Displayed across UBS offices worldwide; UBS Art Gallery in New York open to the public; works lent to museums
+public_size: 30,000+ works
+public_focus: Contemporary art
+public_period: 20th–21st century
+public_media: painting; works on paper; photography; sculpture; video; installation
+public_pathway_timeline: 1960s|build-institution|found-foundation|UBS begins collecting contemporary art ;; 2019|build-institution|found-foundation|The UBS Art Gallery opens to the public at the firm's New York headquarters
+public_origin: UBS has collected contemporary art since the 1960s, building one of the largest corporate collections in the world. Most works hang in UBS offices worldwide; a dedicated public gallery opened at the firm's New York headquarters in 2019, and works are regularly lent to museums.
+public_sources: ubs.com; MoMA; PR Newswire
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # UBS Art Collection — the sample's clearest "active steward" corporate case, and the acquirer's own side of the [[credit-suisse-ubs-collection]] merger

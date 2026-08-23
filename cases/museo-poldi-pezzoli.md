@@ -10,6 +10,25 @@ founder_status: deceased
 geography: Milan, Italy
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Milan since 1881."
+public_name: Museo Poldi Pezzoli
+public_founder: Gian Giacomo Poldi Pezzoli
+public_location: Milan, Italy
+public_founded: 1881
+public_structure: Artistic foundation with hybrid public-private governance
+public_access: Open to the public
+public_focus: A collector's house museum of old-master paintings and decorative arts
+public_period: Middle Ages to 19th century
+public_media: painting; arms and armour; textiles; clocks; jewellery; decorative arts
+public_pathway_timeline: 1879|||Gian Giacomo Poldi Pezzoli dies, having willed his palazzo and collection for public benefit ;; 1881|build-institution|found-house-museum|The museum opens in his former Milan palazzo
+public_origin: Gian Giacomo Poldi Pezzoli, a Milanese nobleman, assembled old-master paintings and decorative arts in his family palazzo and, by his will, left the house and its contents for public benefit. The museum opened in 1881, two years after his death, and has operated continuously since as a foundation with hybrid public and private governance.
+public_sources: museopoldipezzoli.it; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Museo Poldi Pezzoli — the sample's oldest and longest-surviving case, 145 years and counting, with a narrow binding constraint honored, not broken

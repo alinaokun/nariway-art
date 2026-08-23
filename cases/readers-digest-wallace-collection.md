@@ -10,6 +10,26 @@ founder_status: deceased
 geography: Chappaqua / Pleasantville, NY
 outcome: closed-dispersed
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Corporate collection; 37 major works sold at Sotheby's in 1998 for $86.6M."
+public_name: The Reader's Digest (Wallace) Collection
+public_founder: Lila Acheson Wallace (with DeWitt Wallace, co-founders of Reader's Digest)
+public_location: Chappaqua / Pleasantville, New York
+public_structure: Corporate collection (The Reader's Digest Association)
+public_access: Historically displayed at the company's Pleasantville headquarters (not a public venue)
+public_focus: Impressionist, Modern, and contemporary art
+public_movements: Impressionism; Modernism
+public_period: late 19th–20th century
+public_media: painting; sculpture
+public_selected_artists: Amedeo Modigliani; Vincent van Gogh; Alberto Giacometti; Henri Matisse
+public_pathway_timeline: 1998|sell|sell-auction|37 major works sold at Sotheby's New York for $86.6 million
+public_origin: Lila Acheson Wallace, who co-founded Reader's Digest with her husband DeWitt Wallace, assembled a museum-quality art collection that lined the company's Pleasantville, New York headquarters. In 1998 the company sold 37 of its major works at Sotheby's for $86.6 million.
+public_sources: The Art Newspaper (1998); Sotheby's; AP
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Reader's Digest (Wallace) Collection — the corporate sub-sample's fifth mechanism: a healthy-enough parent monetizes the art *years before* any bankruptcy

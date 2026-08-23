@@ -9,6 +9,23 @@ founder_status: deceased
 geography: New York, NY / Captiva Island, FL
 outcome: stable
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Grantmaking foundation active since 2008; selling surplus real estate in 2026."
+public_name: Robert Rauschenberg Foundation
+public_founder: Robert Rauschenberg
+public_location: New York, New York; Captiva Island, Florida
+public_founded: 2008
+public_structure: Artist-endowed grantmaking foundation
+public_access: Not a public museum (grantmaking, archives, and residency programs)
+public_focus: Support for artists and the legacy of Robert Rauschenberg
+public_pathway_timeline: 2008|build-institution|found-foundation|Robert Rauschenberg Foundation established around the artist's death ;; 2026|sell|sell-private|Foundation sells the Captiva Island compound ($45M) and lists his NYC townhouse-studio
+public_origin: The Robert Rauschenberg Foundation, established around the artist's 2008 death, supports artists and stewards his legacy through grantmaking, archives, and residency programs. In 2026 it sold his Captiva Island compound and listed his longtime New York townhouse-studio, reallocating proceeds toward its programs.
+public_sources: rauschenbergfoundation.org; ARTnews; Artforum; Artnet News
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Robert Rauschenberg Foundation — divesting real estate while the endowment and program stay intact

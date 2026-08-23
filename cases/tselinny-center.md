@@ -10,6 +10,23 @@ founder_status: living
 geography: Almaty, Kazakhstan
 outcome: emerging
 verification: provisional
+public_page_eligible: true
+public_verified: true
+public_depth: record
+public_status_text: "Permanent venue opened in Almaty in September 2025."
+public_name: Tselinny Center of Contemporary Culture
+public_founder: Kairat Boranbayev
+public_location: Almaty, Kazakhstan
+public_founded: 2018
+public_structure: Private cultural institution (non-collecting)
+public_access: Open to the public
+public_focus: Contemporary culture and art of Kazakhstan and Central Asia
+public_pathway_timeline: 2018|build-institution|found-foundation|Kairat Boranbayev founds Tselinny as a non-collecting cultural center ;; 2025|build-institution|found-foundation|Permanent venue opens in a converted 1964 Soviet cinema, redesigned by Asif Khan
+public_origin: Kairat Boranbayev founded Tselinny in 2018 as Kazakhstan's first independent, non-collecting center of contemporary culture. Its permanent home, a 1964 Soviet-era cinema in Almaty reworked by architect Asif Khan, opened to the public in September 2025.
+public_sources: CIMAM; ArtNews; Dezeen; archpaper.com
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Tselinny Center of Contemporary Culture — a non-collecting culture center inside a founder's personal corporate structure, opened months before his patron's conviction became durability-relevant

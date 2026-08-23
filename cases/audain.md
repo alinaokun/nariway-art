@@ -9,6 +9,27 @@ founder_status: living
 geography: Whistler, BC, Canada
 outcome: stable
 verification: provisional
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Whistler, British Columbia since 2016."
+public_name: Audain Art Museum
+public_founder: Michael Audain (with Yoshiko Karasawa)
+public_location: Whistler, British Columbia, Canada
+public_founded: 2016
+public_structure: Independent nonprofit / registered charity (with a separate endowment foundation)
+public_access: Open to the public
+public_size: ~200 works at opening (now ~300); 56,000 sq ft
+public_focus: Art of British Columbia, from 18th-century First Nations masks to contemporary
+public_period: 18th century onward
+public_media: masks; painting; sculpture; photography
+public_selected_artists: Emily Carr; E.J. Hughes; Jeff Wall; Stan Douglas; Rodney Graham
+public_pathway_timeline: 2016|build-institution|found-standalone-museum|Audain Art Museum opens in Whistler
+public_origin: "Vancouver homebuilder Michael Audain and his wife Yoshiko Karasawa assembled a collection focused on the art of British Columbia over several decades. In 2016 they opened a purpose-built museum in Whistler, funded by the Audain Foundation on a symbolic long-term municipal land lease, with a separate foundation still building its endowment."
+public_sources: audainartmuseum.com; CBC; Canadian Art
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Audain Art Museum

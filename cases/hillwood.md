@@ -12,6 +12,27 @@ verification: spot-verified
 decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H1, H4, H8]
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Washington, D.C. since 1977."
+public_name: Hillwood Estate, Museum & Gardens
+public_founder: Marjorie Merriweather Post
+public_location: Washington, D.C.
+public_founded: 1977
+public_structure: Nonprofit museum (Marjorie Merriweather Post Foundation)
+public_access: Open to the public
+public_size: 25 acres of gardens and woodlands; largest holding of Russian imperial art outside Russia
+public_focus: Russian imperial art and 18th-century French decorative arts
+public_period: 18th–early 20th century
+public_media: decorative arts; porcelain; jewelry
+public_selected_artists: House of Fabergé
+public_pathway_timeline: 1962|give-institution|donate-existing-museum-intact|Arranges to bequeath the estate and a $10M endowment to the Smithsonian ;; 1973|||Marjorie Merriweather Post dies; the Smithsonian later returns the estate as underfunded ;; 1977|build-institution|found-house-museum|Reopens to the public as a house museum under the Post Foundation
+public_origin: Marjorie Merriweather Post assembled the largest collection of Russian imperial art outside Russia, along with important 18th-century French decorative arts, at her Washington estate. After a bequest to the Smithsonian was returned as underfunded, her foundation reopened Hillwood to the public as a house museum in 1977.
+public_sources: hillwoodmuseum.org; Smithsonian Institution Archives; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Hillwood Estate, Museum & Gardens

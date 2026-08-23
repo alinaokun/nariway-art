@@ -11,6 +11,27 @@ geography: New York, NY
 outcome: closed-dispersed
 verification: spot-verified
 origin: private-individual
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Sold at Christie's, New York, in 1997 for $206.5M — then a record for a single-owner auction."
+public_name: The Collection of Victor and Sally Ganz
+public_founder: Victor Ganz; Sally Ganz
+public_location: New York, New York
+public_collecting_began: 1941
+public_structure: Private collection
+public_access: Dispersed at auction (never a public institution)
+public_focus: Deep holdings of Picasso alongside postwar American art
+public_movements: Cubism; Abstract Expressionism; Pop; Minimalism
+public_period: Early–late 20th century
+public_media: painting; sculpture
+public_selected_artists: Pablo Picasso; Jasper Johns; Frank Stella; Robert Rauschenberg; Eva Hesse
+public_pathway_timeline: 1941|||Victor and Sally Ganz make their first Picasso purchase ;; 1987|||Victor Ganz dies ;; 1997|disperse|sell-auction|After Sally Ganz's death, the collection is sold at Christie's for $206.5M
+public_origin: "Victor and Sally Ganz built one of the 20th century's most focused private collections from a modest textile income, buying Picasso in depth alongside Johns, Stella, Rauschenberg, and Hesse. With no foundation or gift plan in place, their heirs sold the collection at Christie's in 1997, setting a single-owner auction record."
+public_sources: Christie's; ARTnews; NPR; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # The Collection of Victor and Sally Ganz — New York, NY

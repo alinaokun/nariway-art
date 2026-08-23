@@ -9,6 +9,29 @@ founder_status: deceased
 geography: Riehen/Basel, Switzerland
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Riehen, near Basel, since 1997; expanding through 2026–2027."
+public_name: Fondation Beyeler
+public_founder: Ernst Beyeler; Hildy Beyeler
+public_location: Riehen (Basel), Switzerland
+public_founded: 1982
+public_collecting_began: post-WWII (Beyeler gallery era)
+public_structure: Independent foundation (Beyeler-Stiftung)
+public_access: Open to the public
+public_size: ~300 works
+public_focus: Classical modernism and modern/contemporary masters
+public_movements: Impressionism; Post-Impressionism; Cubism; Surrealism; Abstract Expressionism
+public_period: Late 19th–20th century
+public_media: painting; sculpture
+public_selected_artists: Cézanne; Monet; Picasso; Matisse; Rothko; Giacometti; Klee
+public_pathway_timeline: 1982|build-institution|found-foundation|The Beyeler-Stiftung is established ;; 1997|build-institution|found-standalone-museum|The Renzo Piano-designed museum opens in Riehen ;; 2010|||Ernst Beyeler dies; an independent board continues the museum
+public_origin: "Ernst and Hildy Beyeler, Basel art dealers for half a century, placed their collection of classical modernism into a foundation in 1982 and opened a Renzo Piano-designed museum in Riehen in 1997. Childless, they left the museum to an independent board, under which it has continued to grow."
+public_sources: fondationbeyeler.ch; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Fondation Beyeler — a dealer-collector couple's museum, governance locked 28 years before death, now expanding

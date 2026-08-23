@@ -10,6 +10,24 @@ founder_status: living
 geography: Hobart, Tasmania, Australia
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open near Hobart, Tasmania since 2011."
+public_name: Museum of Old and New Art (MONA)
+public_founder: David Walsh
+public_location: Berriedale, Hobart, Tasmania, Australia
+public_founded: 2011
+public_structure: Privately owned museum (deliberately for-profit, not a charity)
+public_access: Open to the public (ticketed)
+public_focus: Antiquities alongside modern and contemporary art, on the themes of sex and death
+public_period: antiquity to present
+public_pathway_timeline: 2011|build-institution|found-standalone-museum|MONA opens in a largely underground building on the Moorilla estate near Hobart
+public_origin: David Walsh, who made his fortune from professional gambling, opened MONA near Hobart, Tasmania in 2011 to display his collection of antiquities and modern and contemporary art in a largely underground building. He deliberately runs it as a private, for-profit museum rather than a charity, covering its operating losses from his other businesses.
+public_sources: mona.net.au; Wikipedia; ABC News
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Museum of Old and New Art (MONA) — deliberately not a charity, funded by gambling winnings, and the sample's most explicit rejection of the nonprofit-museum form

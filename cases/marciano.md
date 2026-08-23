@@ -9,6 +9,26 @@ founder_status: living
 geography: Los Angeles, CA, USA
 outcome: distressed
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Closed abruptly in 2019; reopened on a scaled-down model, with a first director named in 2024."
+public_name: Marciano Art Foundation
+public_founder: Maurice Marciano and Paul Marciano
+public_location: Los Angeles, California
+public_founded: 2017
+public_structure: Private operating foundation
+public_access: Open by timed reservation (scaled-down model since 2024)
+public_focus: Contemporary art
+public_period: late 20th-21st century
+public_media: painting; sculpture; installation
+public_selected_artists: Mike Kelley; Sterling Ruby; Christopher Wool; Albert Oehlen
+public_pathway_timeline: 2017|build-institution|found-foundation|Marciano Art Foundation opens in a converted Masonic temple ;; 2019|||The public program closes abruptly amid staff layoffs during a union drive ;; 2024|||Reopens on a scaled-down model and names its first director
+public_origin: Guess co-founders Maurice and Paul Marciano opened the Marciano Art Foundation in 2017 in a converted 1961 Masonic temple on Wilshire Boulevard, showing their contemporary-art collection with free public access. It closed its public program abruptly in November 2019 after laying off visitor-services staff during a union drive, and reopened on a scaled-down, by-appointment model in 2024.
+public_sources: marcianoartfoundation.org; ARTnews; Artnet News; Wikipedia
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Marciano Art Foundation — a labor-relations crisis, not a money crisis

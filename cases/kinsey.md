@@ -9,6 +9,26 @@ founder_status: living
 geography: Los Angeles, CA (national tour)
 outcome: thriving
 verification: provisional
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Touring nationally since 2006."
+public_name: The Kinsey African American Art & History Collection
+public_founder: Bernard and Shirley Kinsey
+public_location: Los Angeles, California (national tour)
+public_founded: 2006
+public_structure: Traveling exhibition; family foundation as educational arm
+public_access: Shown at host institutions on tour
+public_size: ~700 objects
+public_focus: African American art, history, and artifacts
+public_period: 1595–present
+public_media: painting; sculpture; manuscripts; photography
+public_pathway_timeline: 2006|build-institution|traveling-program|The collection begins touring, opening at the California African American Museum, Los Angeles ;; 2009|build-institution|found-foundation|The Bernard and Shirley Kinsey Foundation for Arts and Education is established
+public_origin: Bernard and Shirley Kinsey assembled one of the largest private collections of African American art, documents, and artifacts. Rather than build a museum, they chose to circulate it as a traveling exhibition, touring since 2006, with a family foundation as its educational arm.
+public_sources: thekinseycollection.com; Smithsonian; Tacoma Art Museum
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Kinsey Collection

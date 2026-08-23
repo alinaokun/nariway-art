@@ -9,6 +9,27 @@ founder_status: deceased
 geography: Doylestown, PA, USA
 outcome: stable
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Doylestown, Pennsylvania since 1988."
+public_name: James A. Michener Art Museum
+public_founder: James A. Michener (namesake and lead benefactor)
+public_location: Doylestown, Pennsylvania
+public_founded: 1988
+public_structure: Independent nonprofit museum
+public_access: Open to the public
+public_focus: American art, with a signature collection of Pennsylvania Impressionism (the Bucks County "New Hope School")
+public_movements: Pennsylvania Impressionism
+public_period: late 19th-20th century
+public_media: painting
+public_selected_artists: Daniel Garber; Edward Redfield; Fern Coppedge
+public_pathway_timeline: 1988|build-institution|found-standalone-museum|The museum opens in the adapted former Bucks County prison, funded by county government and named for its benefactor
+public_origin: The James A. Michener Art Museum opened in 1988 in Doylestown, Pennsylvania, in the adaptively reused 1884 Bucks County prison, initiated by county government and a local arts council. It is named for the Pulitzer Prize-winning author James A. Michener, a Doylestown native and its principal benefactor, and is known for its collection of Pennsylvania Impressionist painting.
+public_sources: michenerartmuseum.org; Wikipedia; Visit Philadelphia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # James A. Michener Art Museum — a civic institution with a naming benefactor, not a collector's museum

@@ -10,6 +10,26 @@ founder_status: living
 geography: Brumadinho, Minas Gerais, Brazil
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Brumadinho, Brazil since 2006."
+public_name: Instituto Inhotim
+public_founder: Bernardo Paz
+public_location: Brumadinho, Minas Gerais, Brazil
+public_founded: 2004
+public_structure: Independent nonprofit institute
+public_access: Open to the public
+public_size: ~346 acres open to visitors; 23 exhibition pavilions
+public_focus: International contemporary art set within a botanical garden
+public_period: late 20th century onward
+public_media: installation; sculpture
+public_pathway_timeline: 2004|build-institution|found-art-park|Bernardo Paz founds Inhotim on his estate in Brumadinho ;; 2006|||Opens to the public ;; 2022|give-institution|found-foundation|Paz donates his collection, galleries, and land to the independent Instituto Inhotim
+public_origin: Bernardo Paz, a Brazilian mining entrepreneur, developed Inhotim on his estate in Brumadinho and opened it to the public in 2006 as a large contemporary-art park set within a botanical garden. In 2022 he donated the collection, galleries, and land to an independent nonprofit institute.
+public_sources: Wikipedia; The Art Newspaper; ARTnews
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Inhotim — a founder-sole art park's governance crisis, resolved by total voluntary donation while the founder was still living, and still in dispute

@@ -9,6 +9,27 @@ founder_status: living
 geography: Johnson City → Marble Falls, TX, USA
 outcome: pivoted
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Marble Falls, Texas since 2015; relocated from the original Johnson City sculpture ranch."
+public_name: Museo Benini (formerly Benini Sculpture Ranch)
+public_founder: Benini (with Lorraine Benini)
+public_location: Marble Falls, Texas (formerly Johnson City, Texas)
+public_founded: 2015
+public_structure: Single-artist museum; Benini Foundation (501(c)(3) since 2025)
+public_access: Open to the public (free Saturdays; group tours by appointment)
+public_size: ~115 works on view; 35-acre site; 6,500 sq ft gallery
+public_focus: The life's work of the artist Benini
+public_period: 1950s onward
+public_media: painting; sculpture
+public_selected_artists: Benini
+public_pathway_timeline: 1999|keep-family|found-art-park|Benini Sculpture Ranch opens on a ~143-acre site near Johnson City ;; 2014|keep-family|found-house-museum|Founders relocate to Marble Falls ;; 2015|build-institution|found-house-museum|Museo Benini opens ;; 2025|||Benini Foundation granted 501(c)(3) status
+public_origin: "Italian-born artist Benini and his wife Lorraine ran an open-air sculpture ranch near Johnson City, Texas from 1999. In 2014–2015 they relocated to a smaller purpose-built site in Marble Falls, opening Museo Benini, a single-artist museum of Benini's own work, and in 2025 formalized the Benini Foundation as a nonprofit."
+public_sources: museobenini.com; Glasstire; Wikipedia
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Benini Sculpture Ranch / MuseoBenini — a founder-driven relocation while both founders are still living, filling the sample's art-park-failure gap

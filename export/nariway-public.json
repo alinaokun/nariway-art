@@ -60,6 +60,63 @@
   },
   "collections": [
     {
+      "slug": "almaty-museum-of-arts",
+      "publicDepth": "expanded",
+      "name": "Almaty Museum of Arts (ALMA)",
+      "founder": "Nurlan Smagulov",
+      "location": "Almaty, Kazakhstan",
+      "profile": {
+        "founded": 2025,
+        "collectingBegan": "early 1990s",
+        "structure": "Private museum (founder-funded, with a stated endowment fund)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Almaty since 2025.",
+        "size": "700+ works; ~100,000 sq ft building"
+      },
+      "composition": {
+        "focus": "Contemporary art of Kazakhstan and Central Asia, bridged to international contemporary art",
+        "period": "20th–21st century (as documented)",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation",
+          "video"
+        ],
+        "selectedArtists": [
+          "Richard Serra",
+          "Anselm Kiefer",
+          "Bill Viola",
+          "Yayoi Kusama"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Nurlan Smagulov begins collecting",
+            "year": "early 1990s"
+          },
+          {
+            "event": "Almaty Museum of Arts opens in Almaty",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Kazakh entrepreneur Nurlan Smagulov collected Central Asian and international contemporary art from the early 1990s, and in 2025 opened the Almaty Museum of Arts, the first large private contemporary-art museum in Central Asia, with a stated plan to move toward mixed governance including state participation.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "almaty.art",
+        "ARTnews",
+        "Artnet",
+        "The Times of Central Asia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "anderson-collection-stanford",
       "publicDepth": "expanded",
       "name": "Anderson Collection at Stanford University",
@@ -121,6 +178,434 @@
         "Stanford Report"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "audain",
+      "publicDepth": "expanded",
+      "name": "Audain Art Museum",
+      "founder": "Michael Audain (with Yoshiko Karasawa)",
+      "location": "Whistler, British Columbia, Canada",
+      "profile": {
+        "founded": 2016,
+        "structure": "Independent nonprofit / registered charity (with a separate endowment foundation)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Whistler, British Columbia since 2016.",
+        "size": "~200 works at opening (now ~300); 56,000 sq ft"
+      },
+      "composition": {
+        "focus": "Art of British Columbia, from 18th-century First Nations masks to contemporary",
+        "period": "18th century onward",
+        "media": [
+          "masks",
+          "painting",
+          "sculpture",
+          "photography"
+        ],
+        "selectedArtists": [
+          "Emily Carr",
+          "E.J. Hughes",
+          "Jeff Wall",
+          "Stan Douglas",
+          "Rodney Graham"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Audain Art Museum opens in Whistler",
+            "year": 2016,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Vancouver homebuilder Michael Audain and his wife Yoshiko Karasawa assembled a collection focused on the art of British Columbia over several decades. In 2016 they opened a purpose-built museum in Whistler, funded by the Audain Foundation on a symbolic long-term municipal land lease, with a separate foundation still building its endowment.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "audainartmuseum.com",
+        "CBC",
+        "Canadian Art"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "bank-of-america-collection",
+      "publicDepth": "expanded",
+      "name": "Bank of America Collection (\"Art in our Communities\")",
+      "location": "Charlotte, North Carolina / global",
+      "profile": {
+        "collectingBegan": "1970s (predecessor institutions, as documented)",
+        "structure": "Corporate collection",
+        "publicAccess": "Lends complete exhibitions free to museums and nonprofit galleries; no dedicated public venue",
+        "currentState": "Active corporate lending program based in Charlotte; no public venue of its own.",
+        "size": "30,000+ works"
+      },
+      "composition": {
+        "focus": "Broad survey — painting, prints, photography, sculpture",
+        "media": [
+          "painting",
+          "prints",
+          "photography",
+          "sculpture"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Art in our Communities lending program launched",
+            "year": 2009
+          }
+        ]
+      },
+      "origin": "Bank of America and its predecessor institutions built a corporate art collection of more than 30,000 works over decades. In 2009 the bank launched Art in our Communities, lending complete, curated exhibitions at no cost to museums and nonprofit galleries worldwide rather than operating a public venue of its own.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "about.bankofamerica.com",
+        "Arts & Collections"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "bechtler",
+      "publicDepth": "expanded",
+      "name": "Bechtler Museum of Modern Art",
+      "founder": "Andreas Bechtler",
+      "location": "Charlotte, North Carolina",
+      "profile": {
+        "founded": 2010,
+        "structure": "Nonprofit foundation (Andreas H. Bechtler Arts Foundation), in a civic public-private partnership",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Charlotte since 2010.",
+        "size": "1,400+ works; ~36,500 sq ft"
+      },
+      "composition": {
+        "focus": "Mid-20th-century European modernism",
+        "movements": [
+          "Modernism"
+        ],
+        "period": "20th century",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Alberto Giacometti",
+          "Joan Miró",
+          "Alexander Calder",
+          "Andy Warhol",
+          "Jean Tinguely",
+          "Le Corbusier",
+          "Max Ernst",
+          "Barbara Hepworth",
+          "Paul Klee"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Andreas Bechtler commits the collection to the City of Charlotte",
+            "year": 2006,
+            "familyId": "give-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Bechtler Museum of Modern Art opens",
+            "year": 2010,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Andreas Bechtler inherited part of a modern-art collection assembled by his parents Hans and Bessie Bechtler and expanded it. In 2006 he committed the collection to the City of Charlotte, and in 2010 the Bechtler Museum of Modern Art opened in a purpose-built Mario Botta building, operated by a family foundation through a public-private partnership.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "bechtler.org",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "sammlung-boros",
+      "publicDepth": "expanded",
+      "name": "Boros Collection (Sammlung Boros)",
+      "founder": "Christian Boros & Karen Boros",
+      "location": "Berlin, Germany",
+      "profile": {
+        "founded": 2008,
+        "collectingBegan": "1980s",
+        "structure": "Private collection, opened to the public",
+        "publicAccess": "By pre-booked guided tour (Thursday–Sunday)",
+        "currentState": "Open in Berlin by guided tour since 2008.",
+        "size": "~500 works"
+      },
+      "composition": {
+        "focus": "International contemporary art",
+        "period": "1990 to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation",
+          "photography"
+        ],
+        "selectedArtists": [
+          "Wolfgang Tillmans",
+          "Olafur Eliasson",
+          "Damien Hirst",
+          "Anselm Reyle",
+          "Tobias Rehberger",
+          "Manfred Pernice",
+          "John Bock"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Christian Boros begins collecting contemporary art",
+            "year": "1980s"
+          },
+          {
+            "event": "Acquires a 1942 Berlin air-raid bunker",
+            "year": 2003
+          },
+          {
+            "event": "Opens the collection to the public in the converted bunker",
+            "year": 2008,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Christian Boros began collecting international contemporary art in the 1980s and, with Karen Boros, converted a 1942 Berlin air-raid bunker to house it. The collection has been shown to the public by guided tour since 2008 in rotating multi-year presentations.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "boros-collection.com",
+        "visitBerlin",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "brauer-museum-valparaiso",
+      "publicDepth": "expanded",
+      "name": "Brauer Museum of Art (Valparaiso University)",
+      "location": "Valparaiso, Indiana",
+      "profile": {
+        "founded": 1953,
+        "structure": "University art museum (Valparaiso University)",
+        "publicAccess": "Open on reduced public hours (as of 2024)",
+        "currentState": "Reopened on reduced public hours in November 2024 after a closure amid a deaccessioning controversy."
+      },
+      "composition": {
+        "focus": "American art teaching collection, 19th–20th century",
+        "movements": [
+          "Hudson River School",
+          "American Impressionism",
+          "American Modernism"
+        ],
+        "period": "19th–20th century",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Frederic Edwin Church",
+          "Childe Hassam",
+          "Georgia O'Keeffe"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Valparaiso University art collection established",
+            "year": 1953
+          },
+          {
+            "event": "Current Brauer Museum building opens",
+            "year": 1982
+          },
+          {
+            "event": "University announces sale of three major paintings to fund dormitory renovations",
+            "year": 2023,
+            "familyId": "sell",
+            "codedPathway": "sell-private"
+          },
+          {
+            "event": "Museum closed, then reopened on reduced hours",
+            "year": 2024
+          }
+        ]
+      },
+      "origin": "The Brauer Museum of Art grew from Valparaiso University's teaching collection, assembled over decades under founding director Richard Brauer and housed in its current building since 1982. In 2023 the university moved to sell three major American paintings — by Church, Hassam, and O'Keeffe — to fund dormitory renovations, over its founding director's objection; the museum closed in 2024 and reopened on reduced hours.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "ARTnews",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "cam-raleigh",
+      "publicDepth": "expanded",
+      "name": "CAM Raleigh (Contemporary Art Museum)",
+      "location": "Raleigh, North Carolina",
+      "profile": {
+        "founded": 2011,
+        "structure": "Independent nonprofit (Contemporary Art Foundation)",
+        "publicAccess": "Temporarily closed (as of 2025)",
+        "currentState": "Temporarily closed since 2025; downtown Raleigh building listed for sale in 2026."
+      },
+      "composition": {
+        "focus": "Contemporary art — kunsthalle model, rotating exhibitions with no permanent collection"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "CAM Raleigh opens in its downtown building",
+            "year": 2011
+          },
+          {
+            "event": "Museum temporarily closes citing financial strain",
+            "year": 2025
+          },
+          {
+            "event": "Downtown building listed for sale; a smaller or itinerant future planned",
+            "year": 2026,
+            "familyId": "sell",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "CAM Raleigh, a contemporary art museum with no permanent collection, opened in its downtown Raleigh building in 2011. After revenue declined over several years, it closed temporarily in 2025 and listed the building for sale in 2026, planning to continue in a smaller or itinerant form.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "WUNC",
+        "Axios Raleigh",
+        "WRAL"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "thoma",
+      "publicDepth": "expanded",
+      "name": "Carl & Marilynn Thoma Art Foundation",
+      "founder": "Carl Thoma & Marilynn Thoma",
+      "location": "Santa Fe, New Mexico / Chicago, Illinois",
+      "profile": {
+        "founded": 2014,
+        "collectingBegan": "1975",
+        "structure": "Private foundation",
+        "publicAccess": "Museum loan program; Art House (Santa Fe) open to the public; Orange Door (Chicago) by appointment",
+        "currentState": "Active loan program and two viewing spaces since 2014.",
+        "size": "~1,500–1,700 works"
+      },
+      "composition": {
+        "focus": "Digital and electronic art, Spanish colonial art, Japanese art, and post-war painting and sculpture",
+        "media": [
+          "digital art",
+          "painting",
+          "sculpture"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Carl and Marilynn Thoma begin collecting",
+            "year": 1975
+          },
+          {
+            "event": "The Carl & Marilynn Thoma Art Foundation is formed and opens two viewing spaces",
+            "year": 2014,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Carl and Marilynn Thoma began collecting in 1975 and formed their foundation in 2014 to circulate the collection rather than concentrate it in a founder museum. Public access runs mainly through a museum loan program, supplemented by two viewing spaces: Art House in Santa Fe and the Orange Door in Chicago.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "thomafoundation.org",
+        "Chicago Reader",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "casabianca",
+      "publicDepth": "expanded",
+      "name": "Casabianca",
+      "founder": "Paolo and Antonella De Santis",
+      "location": "Lake Como (Tremezzina), Italy",
+      "profile": {
+        "founded": 2026,
+        "collectingBegan": "1980s",
+        "structure": "Private collection, opened as a wing of a family hospitality business (no foundation)",
+        "publicAccess": "Open to paying visitors (€15)",
+        "currentState": "Open on Lake Como since May 2026.",
+        "size": "~50 works on view; a restored 1930s villa across three floors"
+      },
+      "composition": {
+        "focus": "Post-war Italian art and Arte Povera",
+        "movements": [
+          "Arte Povera"
+        ],
+        "period": "post-war 20th century onward",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ],
+        "selectedArtists": [
+          "Jannis Kounellis",
+          "Anselm Kiefer",
+          "Emilio Vedova",
+          "Michelangelo Pistoletto",
+          "William Kentridge",
+          "Giulio Paolini",
+          "Alighiero Boetti",
+          "Mario Merz",
+          "Pier Paolo Calzolari",
+          "Gilberto Zorio"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Casabianca opens to paying visitors as an art villa within the family hotel business",
+            "year": 2026,
+            "familyId": "keep-family",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "Paolo and Antonella De Santis, owners of the Grand Hotel Tremezzo on Lake Como, assembled a four-decade collection of post-war Italian art and Arte Povera. In May 2026 they opened Casabianca, a restored 1930s villa shown to paying visitors as a wing of the family hospitality business, with no separate museum or foundation.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "grandhoteltremezzo.com"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "cisneros",
@@ -294,6 +779,54 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "crystal-bridges",
+      "publicDepth": "expanded",
+      "name": "Crystal Bridges Museum of American Art",
+      "founder": "Alice Walton",
+      "location": "Bentonville, Arkansas",
+      "profile": {
+        "founded": 2011,
+        "structure": "Independent nonprofit museum (family-controlled board), endowed by the Walton Family Foundation",
+        "publicAccess": "Open to the public (free admission)",
+        "currentState": "Open in Bentonville, Arkansas since 2011.",
+        "size": "~4,100 works; ~120-acre campus"
+      },
+      "composition": {
+        "focus": "American art from the colonial era to the present",
+        "period": "18th century onward",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Asher B. Durand",
+          "Gilbert Stuart",
+          "Norman Rockwell"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Crystal Bridges opens in Bentonville with an $800M Walton Family Foundation endowment",
+            "year": 2011,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Alice Walton, daughter of Walmart founder Sam Walton, assembled a survey collection of American art and in 2011 opened Crystal Bridges in her hometown of Bentonville, Arkansas — a purpose-built Moshe Safdie complex set in about 120 acres of Ozark landscape, with free admission and an $800M founding endowment from the Walton Family Foundation.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "crystalbridges.org",
+        "Encyclopedia of Arkansas"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "de-la-cruz-collection",
       "publicDepth": "expanded",
       "name": "De la Cruz Collection",
@@ -428,6 +961,199 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "dia-art-foundation",
+      "publicDepth": "expanded",
+      "name": "Dia Art Foundation",
+      "founder": "Heiner Friedrich; Philippa de Menil; Helen Winkler",
+      "location": "New York and Beacon, New York (plus sites in the western U.S. and Germany)",
+      "profile": {
+        "founded": 1974,
+        "structure": "Independent nonprofit foundation",
+        "publicAccess": "Open to the public",
+        "currentState": "Operating across multiple U.S. and German sites; flagship Dia Beacon open since 2003."
+      },
+      "composition": {
+        "focus": "Permanent, large-scale installation of Minimalist and Land art",
+        "movements": [
+          "Minimalism",
+          "Land art"
+        ],
+        "period": "1960s–1970s onward",
+        "media": [
+          "installation",
+          "sculpture",
+          "light",
+          "earthworks"
+        ],
+        "selectedArtists": [
+          "Donald Judd",
+          "Dan Flavin",
+          "Walter De Maria",
+          "Richard Serra",
+          "Michael Heizer",
+          "Robert Smithson",
+          "Nancy Holt",
+          "John Chamberlain",
+          "Andy Warhol",
+          "Joseph Beuys"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Dia is founded in New York",
+            "year": 1974,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Governance crisis: co-founder Heiner Friedrich ousted, board expanded, works sold to cover debt",
+            "year": 1985
+          },
+          {
+            "event": "Dia Beacon opens in a former factory on the Hudson",
+            "year": 2003,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Dia was founded in 1974 by Heiner Friedrich, Philippa de Menil, and Helen Winkler to help artists realize large-scale, permanent projects. After a 1985 funding crisis forced a governance overhaul, an independent board rebuilt the foundation, which opened its flagship Dia Beacon in 2003 and now spans multiple sites.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "diaart.org",
+        "Britannica",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "vogel-collection",
+      "publicDepth": "expanded",
+      "name": "Dorothy and Herbert Vogel Collection",
+      "founder": "Dorothy Vogel & Herbert Vogel",
+      "location": "New York, New York (dispersed nationwide)",
+      "profile": {
+        "collectingBegan": "1960s",
+        "structure": "Private collection, dispersed by gift",
+        "publicAccess": "Held in the collections of the National Gallery of Art and museums in all 50 states",
+        "currentState": "Dispersed to the National Gallery of Art and one museum in each of the 50 states.",
+        "size": "~4,000–5,000 works"
+      },
+      "composition": {
+        "focus": "Minimalist, conceptual, and post-minimalist art",
+        "period": "1960s–2000s",
+        "media": [
+          "painting",
+          "drawing",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Sol LeWitt",
+          "Richard Tuttle",
+          "Lynda Benglis",
+          "Donald Judd",
+          "Christo and Jeanne-Claude",
+          "Robert Mangold",
+          "Chuck Close"
+        ],
+        "recipients": [
+          "National Gallery of Art",
+          "one museum in each of the 50 states (Fifty Works for Fifty States)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Dorothy and Herbert Vogel begin collecting on a postal clerk's salary",
+            "year": "1960s"
+          },
+          {
+            "event": "Transfer roughly 1,100 works to the National Gallery of Art",
+            "year": 1992,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Fifty Works for Fifty States distributes 2,500 works to a museum in every state",
+            "year": 2008,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          },
+          {
+            "event": "Herbert Vogel dies",
+            "year": 2012
+          },
+          {
+            "event": "Dorothy Vogel dies",
+            "year": 2025
+          }
+        ]
+      },
+      "origin": "Herbert Vogel, a New York postal clerk, and Dorothy Vogel, a librarian, built one of the most significant collections of minimalist and conceptual art on a single modest salary. Rather than sell or found a museum, they gave roughly 1,100 works to the National Gallery of Art from 1992 and, in 2008–09, distributed 2,500 more to one museum in each of the 50 states.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "nga.gov",
+        "arts.gov",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "enron-art-collection",
+      "publicDepth": "expanded",
+      "name": "Enron Art Collection",
+      "location": "Houston, Texas",
+      "profile": {
+        "collectingBegan": "~1999",
+        "structure": "Corporate collection",
+        "publicAccess": "Dispersed (formerly displayed in Enron's Houston headquarters)",
+        "currentState": "Collection liquidated at auction in 2002 following Enron's December 2001 bankruptcy."
+      },
+      "composition": {
+        "focus": "Contemporary sculpture and works on paper acquired as corporate art",
+        "selectedArtists": [
+          "Claes Oldenburg",
+          "Donald Judd",
+          "Andy Warhol",
+          "Alex Katz",
+          "Martin Puryear"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Enron assembles an art collection for its Houston headquarters",
+            "year": 1999
+          },
+          {
+            "event": "Enron files for Chapter 11 bankruptcy (December)",
+            "year": 2001
+          },
+          {
+            "event": "Works liquidated at Phillips, de Pury & Luxembourg to satisfy creditors",
+            "year": 2002,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Enron assembled a contemporary-art collection in its final years to decorate its Houston headquarters. After the company's 2001 bankruptcy, the works were sold at auction in 2002 among other corporate assets, most fetching modest sums.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "UPI",
+        "AccountingWEB",
+        "Washington Post"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "fisher-sfmoma",
       "publicDepth": "expanded",
       "name": "Fisher Collection at SFMOMA",
@@ -500,6 +1226,671 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "fisher-landau",
+      "publicDepth": "expanded",
+      "name": "Fisher Landau Center for Art",
+      "founder": "Emily Fisher Landau",
+      "location": "Long Island City, New York",
+      "profile": {
+        "founded": 1991,
+        "collectingBegan": "late 1960s",
+        "structure": "Private museum / foundation",
+        "publicAccess": "Closed since 2017 (formerly open to the public)",
+        "currentState": "Center closed in 2017; the collection was dispersed by gift to the Whitney (2010) and by estate auction (2023).",
+        "size": "Reported at 1,200–1,500 works over the collection's life"
+      },
+      "composition": {
+        "focus": "Postwar and contemporary American art",
+        "period": "1960s–2000s",
+        "media": [
+          "painting",
+          "photography",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Jasper Johns",
+          "Willem de Kooning",
+          "Robert Rauschenberg",
+          "Ed Ruscha",
+          "Cy Twombly",
+          "Andy Warhol",
+          "Pablo Picasso"
+        ],
+        "recipients": [
+          "Whitney Museum of American Art (2010 gift of ~367 works)",
+          "dispersed at Sotheby's (2023 estate auction, ~$424.7M)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Fisher Landau Center for Art opens in a former Long Island City parachute factory",
+            "year": 1991,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "~367 works pledged to the Whitney Museum",
+            "year": 2010,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-scattered"
+          },
+          {
+            "event": "The Center closes to the public",
+            "year": 2017
+          },
+          {
+            "event": "The estate collection sells at Sotheby's for ~$424.7M after Fisher Landau's death",
+            "year": 2023,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Emily Fisher Landau began collecting postwar and contemporary American art in the late 1960s and opened a private study center in Long Island City in 1991. She gave some 367 works to the Whitney in 2010, closed the center herself in 2017, and the remainder of her collection was sold at auction in 2023 after her death.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "whitney.org",
+        "Sotheby's",
+        "The Art Newspaper",
+        "Artnet"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "fondation-beyeler",
+      "publicDepth": "expanded",
+      "name": "Fondation Beyeler",
+      "founder": "Ernst Beyeler; Hildy Beyeler",
+      "location": "Riehen (Basel), Switzerland",
+      "profile": {
+        "founded": 1982,
+        "collectingBegan": "post-WWII (Beyeler gallery era)",
+        "structure": "Independent foundation (Beyeler-Stiftung)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Riehen, near Basel, since 1997; expanding through 2026–2027.",
+        "size": "~300 works"
+      },
+      "composition": {
+        "focus": "Classical modernism and modern/contemporary masters",
+        "movements": [
+          "Impressionism",
+          "Post-Impressionism",
+          "Cubism",
+          "Surrealism",
+          "Abstract Expressionism"
+        ],
+        "period": "Late 19th–20th century",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Cézanne",
+          "Monet",
+          "Picasso",
+          "Matisse",
+          "Rothko",
+          "Giacometti",
+          "Klee"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The Beyeler-Stiftung is established",
+            "year": 1982,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The Renzo Piano-designed museum opens in Riehen",
+            "year": 1997,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Ernst Beyeler dies; an independent board continues the museum",
+            "year": 2010
+          }
+        ]
+      },
+      "origin": "Ernst and Hildy Beyeler, Basel art dealers for half a century, placed their collection of classical modernism into a foundation in 1982 and opened a Renzo Piano-designed museum in Riehen in 1997. Childless, they left the museum to an independent board, under which it has continued to grow.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "fondationbeyeler.ch",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "fondation-cartier",
+      "publicDepth": "expanded",
+      "name": "Fondation Cartier pour l'art contemporain",
+      "founder": "Alain Dominique Perrin (for Cartier)",
+      "location": "Paris, France",
+      "profile": {
+        "founded": 1984,
+        "structure": "Corporate foundation (funded by Cartier / Richemont)",
+        "publicAccess": "Open to the public",
+        "currentState": "Operating in Paris since 1984; reopened in a new Jean Nouvel building at Place du Palais-Royal in October 2025."
+      },
+      "composition": {
+        "focus": "Contemporary art across many media, commissioning-led and multidisciplinary",
+        "period": "1980s onward",
+        "selectedArtists": [
+          "Sarah Sze",
+          "Cai Guo-Qiang",
+          "Giuseppe Penone",
+          "Claudia Andujar",
+          "David Lynch"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Alain Dominique Perrin founds the Fondation Cartier, France's first corporate art foundation, at Jouy-en-Josas",
+            "year": 1984,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "A Jean Nouvel-designed building opens on Boulevard Raspail, Paris",
+            "year": 1994,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Relocates to a new Jean Nouvel building at Place du Palais-Royal",
+            "year": 2025
+          }
+        ]
+      },
+      "origin": "Cartier president Alain Dominique Perrin founded the Fondation Cartier in 1984 as France's first corporate foundation for contemporary art. It has occupied a sequence of purpose-built Jean Nouvel buildings, moving in 2025 to a new home at Place du Palais-Royal, across from the Louvre.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "fondationcartier.com",
+        "Wikipedia",
+        "Britannica"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "fondazione-prada",
+      "publicDepth": "expanded",
+      "name": "Fondazione Prada",
+      "founder": "Miuccia Prada; Patrizio Bertelli",
+      "location": "Milan and Venice, Italy",
+      "profile": {
+        "founded": 1993,
+        "structure": "Corporate/cultural foundation (funded by Prada Group)",
+        "publicAccess": "Open to the public",
+        "currentState": "Operating in Milan (since 2015) and Venice (since 2011)."
+      },
+      "composition": {
+        "focus": "Contemporary art, architecture, cinema, and philosophy (multidisciplinary)",
+        "period": "Contemporary"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Miuccia Prada and Patrizio Bertelli establish the foundation",
+            "year": 1993,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The Venice venue opens at Ca' Corner della Regina",
+            "year": 2011,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The OMA-designed Milan campus opens in a former distillery",
+            "year": 2015,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Miuccia Prada and Patrizio Bertelli founded Fondazione Prada in 1993 as a multidisciplinary cultural institution. It opened a Venice venue in 2011 and a Rem Koolhaas/OMA-designed campus in Milan in 2015, funded on an ongoing basis by Prada Group.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "fondazioneprada.org",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "weisman",
+      "publicDepth": "expanded",
+      "name": "Frederick R. Weisman Art Foundation",
+      "founder": "Frederick R. Weisman",
+      "location": "Los Angeles, California",
+      "profile": {
+        "founded": 1982,
+        "structure": "Private art foundation",
+        "publicAccess": "Guided tours by appointment at the Holmby Hills estate; works lent to museums worldwide",
+        "currentState": "Open by appointment at the founder's Los Angeles estate.",
+        "size": "400+ works on display"
+      },
+      "composition": {
+        "focus": "20th-century art",
+        "movements": [
+          "Abstract Expressionism",
+          "Pop art",
+          "Surrealism",
+          "European Modernism"
+        ],
+        "period": "20th century",
+        "media": [
+          "painting",
+          "sculpture"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Frederick Weisman acquires a Holmby Hills estate to show his collection",
+            "year": 1982,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Frederick Weisman dies; his widow Billie Milam Weisman becomes director",
+            "year": 1994
+          }
+        ]
+      },
+      "origin": "Frederick R. Weisman built a major postwar and 20th-century art collection and, in 1982, acquired a Mediterranean Revival estate in Holmby Hills, Los Angeles, to display it as a domestic environment. Since his death in 1994 the foundation has been directed by his widow, Billie Milam Weisman, keeping the collection largely as he arranged it and opening it by appointment.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "weismanfoundation.org",
+        "Wikipedia",
+        "Coagula"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "glenstone",
+      "publicDepth": "expanded",
+      "name": "Glenstone Museum",
+      "founder": "Mitchell Rales; Emily Wei Rales",
+      "location": "Potomac, Maryland",
+      "profile": {
+        "founded": 2006,
+        "structure": "Private operating foundation",
+        "publicAccess": "Open to the public, free timed admission (visitation capped)",
+        "currentState": "Open to the public in Potomac, Maryland since 2006.",
+        "size": "~1,300 works; ~300-acre campus"
+      },
+      "composition": {
+        "focus": "Post-WWII and contemporary art shown in dialogue with landscape and architecture",
+        "period": "Post-1945 onward",
+        "selectedArtists": [
+          "Henri Matisse",
+          "Jackson Pollock",
+          "Willem de Kooning",
+          "Jasper Johns",
+          "Jean-Michel Basquiat",
+          "Felix Gonzalez-Torres"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Glenstone opens with the Charles Gwathmey-designed Gallery",
+            "year": 2006,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The Thomas Phifer-designed Pavilions open, expanding the campus",
+            "year": 2018,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          }
+        ]
+      },
+      "origin": "Mitchell Rales, co-founder of the Danaher conglomerate, and his wife Emily Wei Rales, a former art dealer, built Glenstone on their Potomac estate as a private operating foundation joining art, architecture, and landscape. It opened in 2006 and expanded substantially with the 2018 Pavilions.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "glenstone.org",
+        "The Art Newspaper",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "grounds-for-sculpture",
+      "publicDepth": "expanded",
+      "name": "Grounds For Sculpture",
+      "founder": "J. Seward Johnson",
+      "location": "Hamilton, New Jersey",
+      "profile": {
+        "founded": 1992,
+        "structure": "Independent nonprofit",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Hamilton, New Jersey since 1992.",
+        "size": "42 acres; 300+ outdoor sculptures"
+      },
+      "composition": {
+        "focus": "Contemporary sculpture",
+        "period": "20th–21st century",
+        "media": [
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "J. Seward Johnson",
+          "George Segal",
+          "Kiki Smith",
+          "Magdalena Abakanowicz",
+          "Beverly Pepper",
+          "Anthony Caro",
+          "Clement Meadmore",
+          "Boaz Vaadia"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Grounds For Sculpture opens on the former New Jersey State Fairgrounds",
+            "year": 1992,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Converted to an independent nonprofit with its own board, two decades before the founder's death",
+            "year": 2000,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "J. Seward Johnson dies",
+            "year": 2020
+          }
+        ]
+      },
+      "origin": "J. Seward Johnson, a Johnson & Johnson heir and figurative sculptor, opened Grounds For Sculpture on the former New Jersey State Fairgrounds in 1992 to make contemporary sculpture accessible to a general public. In 2000 he converted it into an independent nonprofit with its own board, twenty years before his death.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "groundsforsculpture.org",
+        "Wikipedia",
+        "VisitNJ"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "hillwood",
+      "publicDepth": "expanded",
+      "name": "Hillwood Estate, Museum & Gardens",
+      "founder": "Marjorie Merriweather Post",
+      "location": "Washington, D.C.",
+      "profile": {
+        "founded": 1977,
+        "structure": "Nonprofit museum (Marjorie Merriweather Post Foundation)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Washington, D.C. since 1977.",
+        "size": "25 acres of gardens and woodlands; largest holding of Russian imperial art outside Russia"
+      },
+      "composition": {
+        "focus": "Russian imperial art and 18th-century French decorative arts",
+        "period": "18th–early 20th century",
+        "media": [
+          "decorative arts",
+          "porcelain",
+          "jewelry"
+        ],
+        "selectedArtists": [
+          "House of Fabergé"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Arranges to bequeath the estate and a $10M endowment to the Smithsonian",
+            "year": 1962,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Marjorie Merriweather Post dies; the Smithsonian later returns the estate as underfunded",
+            "year": 1973
+          },
+          {
+            "event": "Reopens to the public as a house museum under the Post Foundation",
+            "year": 1977,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          }
+        ]
+      },
+      "origin": "Marjorie Merriweather Post assembled the largest collection of Russian imperial art outside Russia, along with important 18th-century French decorative arts, at her Washington estate. After a bequest to the Smithsonian was returned as underfunded, her foundation reopened Hillwood to the public as a house museum in 1977.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "hillwoodmuseum.org",
+        "Smithsonian Institution Archives",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "inhotim",
+      "publicDepth": "expanded",
+      "name": "Instituto Inhotim",
+      "founder": "Bernardo Paz",
+      "location": "Brumadinho, Minas Gerais, Brazil",
+      "profile": {
+        "founded": 2004,
+        "structure": "Independent nonprofit institute",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Brumadinho, Brazil since 2006.",
+        "size": "~346 acres open to visitors; 23 exhibition pavilions"
+      },
+      "composition": {
+        "focus": "International contemporary art set within a botanical garden",
+        "period": "late 20th century onward",
+        "media": [
+          "installation",
+          "sculpture"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Bernardo Paz founds Inhotim on his estate in Brumadinho",
+            "year": 2004,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Opens to the public",
+            "year": 2006
+          },
+          {
+            "event": "Paz donates his collection, galleries, and land to the independent Instituto Inhotim",
+            "year": 2022,
+            "familyId": "give-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Bernardo Paz, a Brazilian mining entrepreneur, developed Inhotim on his estate in Brumadinho and opened it to the public in 2006 as a large contemporary-art park set within a botanical garden. In 2022 he donated the collection, galleries, and land to an independent nonprofit institute.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wikipedia",
+        "The Art Newspaper",
+        "ARTnews"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "jpmorgan-chase-collection",
+      "publicDepth": "record",
+      "name": "JPMorgan Chase Art Collection",
+      "location": "New York, New York (global)",
+      "profile": {
+        "collectingBegan": "1959",
+        "structure": "Corporate collection (JPMorgan Chase & Co.)",
+        "publicAccess": "Displayed in corporate offices; occasional public touring exhibitions",
+        "currentState": "Active corporate collection, in continuous operation since 1959.",
+        "size": "30,000+ objects across ~450 offices worldwide"
+      },
+      "composition": {
+        "focus": "Modern and contemporary art",
+        "period": "20th–21st century",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper",
+          "photography"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "David Rockefeller establishes the art collection at Chase Manhattan Bank",
+            "year": 1959
+          },
+          {
+            "event": "Chase and J.P. Morgan merge to form JPMorgan Chase, and the collection continues",
+            "year": 2000
+          }
+        ]
+      },
+      "origin": "David Rockefeller, then president of Chase Manhattan Bank, established the corporate art collection in 1959, integrating art into the bank's offices. It became a model for corporate collecting and, now numbering more than 30,000 objects, continues across the merged JPMorgan Chase's offices worldwide.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "jpmorganchase.com",
+        "Forbes",
+        "Rockefeller University archives"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "michener-art-museum",
+      "publicDepth": "expanded",
+      "name": "James A. Michener Art Museum",
+      "founder": "James A. Michener (namesake and lead benefactor)",
+      "location": "Doylestown, Pennsylvania",
+      "profile": {
+        "founded": 1988,
+        "structure": "Independent nonprofit museum",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Doylestown, Pennsylvania since 1988."
+      },
+      "composition": {
+        "focus": "American art, with a signature collection of Pennsylvania Impressionism (the Bucks County \"New Hope School\")",
+        "movements": [
+          "Pennsylvania Impressionism"
+        ],
+        "period": "late 19th-20th century",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Daniel Garber",
+          "Edward Redfield",
+          "Fern Coppedge"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The museum opens in the adapted former Bucks County prison, funded by county government and named for its benefactor",
+            "year": 1988,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "The James A. Michener Art Museum opened in 1988 in Doylestown, Pennsylvania, in the adaptively reused 1884 Bucks County prison, initiated by county government and a local arts council. It is named for the Pulitzer Prize-winning author James A. Michener, a Doylestown native and its principal benefactor, and is known for its collection of Pennsylvania Impressionist painting.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "michenerartmuseum.org",
+        "Wikipedia",
+        "Visit Philadelphia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "khao-yai-art-forest",
+      "publicDepth": "expanded",
+      "name": "Khao Yai Art Forest",
+      "founder": "Marisa Chearavanont",
+      "location": "Nakhon Ratchasima, Thailand",
+      "profile": {
+        "founded": 2025,
+        "structure": "Privately owned open-air museum",
+        "publicAccess": "Open to the public",
+        "currentState": "Open near Khao Yai National Park, Thailand since 2025.",
+        "size": "161 acres"
+      },
+      "composition": {
+        "focus": "Land art and large-scale sculpture in a reforested landscape",
+        "period": "21st century",
+        "media": [
+          "sculpture",
+          "installation",
+          "land art"
+        ],
+        "selectedArtists": [
+          "Louise Bourgeois",
+          "Richard Long",
+          "Elmgreen & Dragset"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Marisa Chearavanont purchases the land",
+            "year": 2022
+          },
+          {
+            "event": "Khao Yai Art Forest opens to the public",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          }
+        ]
+      },
+      "origin": "Marisa Chearavanont bought land near Khao Yai National Park in 2022 and, reforesting a former plantation, opened Khao Yai Art Forest in February 2025. The open-air site presents large-scale land art and sculpture within the landscape.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wikipedia",
+        "ARTnews",
+        "Artnet"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "las-vegas-museum-of-art",
       "publicDepth": "expanded",
       "name": "Las Vegas Museum of Art",
@@ -562,6 +1953,119 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "lehman-brothers-collection",
+      "publicDepth": "record",
+      "name": "Lehman Brothers Art Collection",
+      "location": "New York, New York",
+      "profile": {
+        "structure": "Corporate collection (liquidated in bankruptcy)",
+        "currentState": "Dispersed at auction in 2010 following the parent company's 2008 bankruptcy."
+      },
+      "composition": {
+        "focus": "Modern and contemporary art",
+        "period": "late 20th–early 21st century",
+        "media": [
+          "painting",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Damien Hirst",
+          "Gerhard Richter",
+          "Julie Mehretu",
+          "Neo Rauch",
+          "Liu Ye"
+        ],
+        "recipients": [
+          "Sotheby's (New York)",
+          "Christie's (London)",
+          "Freeman's (Philadelphia)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Lehman Brothers acquires Neuberger Berman, whose collection it takes on",
+            "year": 2003
+          },
+          {
+            "event": "Lehman Brothers Holdings files for bankruptcy",
+            "year": 2008
+          },
+          {
+            "event": "The collection is liquidated across three auctions",
+            "year": 2010,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "The collection, largely assembled for the asset manager Neuberger Berman and acquired by Lehman Brothers in 2003, hung in the bank's corporate offices. After Lehman's 2008 bankruptcy it was liquidated across three auctions in 2010.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Sotheby's",
+        "Art Observed",
+        "PBS NewsHour"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "longleaf",
+      "publicDepth": "expanded",
+      "name": "Longleaf Art Park",
+      "founder": "Bruce Berkowitz",
+      "location": "Watersound, Walton County, Florida",
+      "profile": {
+        "founded": 2026,
+        "structure": "Private operating foundation (Berkowitz Contemporary Foundation)",
+        "publicAccess": "Planned free public access at opening",
+        "currentState": "In development in Walton County, Florida; public opening planned for 2026.",
+        "size": "15.5 acres; anchored by one monumental Richard Serra sculpture"
+      },
+      "composition": {
+        "focus": "Monumental contemporary sculpture",
+        "period": "21st century",
+        "media": [
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Richard Serra"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "A planned Miami museum is abandoned",
+            "year": 2021
+          },
+          {
+            "event": "Longleaf Art Park is announced at Watersound Origins",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Public opening planned",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          }
+        ]
+      },
+      "origin": "Hedge-fund manager Bruce Berkowitz, after abandoning a planned Miami museum, is building the 15.5-acre Longleaf Art Park within a St. Joe Company development in the Florida Panhandle to permanently house Richard Serra's monumental Passage of Time. His Berkowitz Contemporary Foundation funds it, operations are delegated to a local arts nonprofit, and a public opening is planned for 2026.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "St. Joe Company / Cultural Arts Alliance of Walton County",
+        "Artnet"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "lucas-museum",
       "publicDepth": "expanded",
       "name": "Lucas Museum of Narrative Art",
@@ -612,6 +2116,1173 @@
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
+    },
+    {
+      "slug": "magazzino",
+      "publicDepth": "expanded",
+      "name": "Magazzino Italian Art",
+      "founder": "Nancy Olnick and Giorgio Spanu",
+      "location": "Cold Spring, New York",
+      "profile": {
+        "founded": 2017,
+        "structure": "Private foundation",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Cold Spring, New York since 2017; expanded 2023."
+      },
+      "composition": {
+        "focus": "Postwar and contemporary Italian art, centered on Arte Povera",
+        "movements": [
+          "Arte Povera"
+        ],
+        "period": "1960s onward",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ],
+        "selectedArtists": [
+          "Mario Merz",
+          "Marisa Merz",
+          "Jannis Kounellis",
+          "Luciano Fabro",
+          "Michelangelo Pistoletto",
+          "Alighiero Boetti",
+          "Lucio Fontana",
+          "Piero Manzoni"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Magazzino opens in a converted warehouse in Cold Spring",
+            "year": 2017,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The purpose-built Robert Olnick Pavilion opens",
+            "year": 2023,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Nancy Olnick and Giorgio Spanu, a New York-based collecting couple, opened Magazzino in 2017 to house one of the largest US concentrations of postwar Italian art, anchored on Arte Povera. The museum occupies a converted industrial building in the Hudson Valley, expanded in 2023 with the purpose-built Robert Olnick Pavilion.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "magazzino.art",
+        "Wikipedia",
+        "artnet News"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "marciano",
+      "publicDepth": "expanded",
+      "name": "Marciano Art Foundation",
+      "founder": "Maurice Marciano and Paul Marciano",
+      "location": "Los Angeles, California",
+      "profile": {
+        "founded": 2017,
+        "structure": "Private operating foundation",
+        "publicAccess": "Open by timed reservation (scaled-down model since 2024)",
+        "currentState": "Closed abruptly in 2019; reopened on a scaled-down model, with a first director named in 2024."
+      },
+      "composition": {
+        "focus": "Contemporary art",
+        "period": "late 20th-21st century",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ],
+        "selectedArtists": [
+          "Mike Kelley",
+          "Sterling Ruby",
+          "Christopher Wool",
+          "Albert Oehlen"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Marciano Art Foundation opens in a converted Masonic temple",
+            "year": 2017,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The public program closes abruptly amid staff layoffs during a union drive",
+            "year": 2019
+          },
+          {
+            "event": "Reopens on a scaled-down model and names its first director",
+            "year": 2024
+          }
+        ]
+      },
+      "origin": "Guess co-founders Maurice and Paul Marciano opened the Marciano Art Foundation in 2017 in a converted 1961 Masonic temple on Wilshire Boulevard, showing their contemporary-art collection with free public access. It closed its public program abruptly in November 2019 after laying off visitor-services staff during a union drive, and reopened on a scaled-down, by-appointment model in 2024.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "marcianoartfoundation.org",
+        "ARTnews",
+        "Artnet News",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "benini",
+      "publicDepth": "expanded",
+      "name": "Museo Benini (formerly Benini Sculpture Ranch)",
+      "founder": "Benini (with Lorraine Benini)",
+      "location": "Marble Falls, Texas (formerly Johnson City, Texas)",
+      "profile": {
+        "founded": 2015,
+        "structure": "Single-artist museum; Benini Foundation (501(c)(3) since 2025)",
+        "publicAccess": "Open to the public (free Saturdays; group tours by appointment)",
+        "currentState": "Open in Marble Falls, Texas since 2015; relocated from the original Johnson City sculpture ranch.",
+        "size": "~115 works on view; 35-acre site; 6,500 sq ft gallery"
+      },
+      "composition": {
+        "focus": "The life's work of the artist Benini",
+        "period": "1950s onward",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Benini"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Benini Sculpture Ranch opens on a ~143-acre site near Johnson City",
+            "year": 1999,
+            "familyId": "keep-family",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Founders relocate to Marble Falls",
+            "year": 2014,
+            "familyId": "keep-family",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Museo Benini opens",
+            "year": 2015,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Benini Foundation granted 501(c)(3) status",
+            "year": 2025
+          }
+        ]
+      },
+      "origin": "Italian-born artist Benini and his wife Lorraine ran an open-air sculpture ranch near Johnson City, Texas from 1999. In 2014–2015 they relocated to a smaller purpose-built site in Marble Falls, opening Museo Benini, a single-artist museum of Benini's own work, and in 2025 formalized the Benini Foundation as a nonprofit.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "museobenini.com",
+        "Glasstire",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "museo-jumex",
+      "publicDepth": "expanded",
+      "name": "Museo Jumex",
+      "founder": "Eugenio López Alonso",
+      "location": "Mexico City, Mexico",
+      "profile": {
+        "founded": 2013,
+        "collectingBegan": "1994",
+        "structure": "Private foundation (Fundación Jumex Arte Contemporáneo)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Mexico City since 2013.",
+        "size": "2,000+ works"
+      },
+      "composition": {
+        "focus": "Latin American and international contemporary art",
+        "period": "late 20th-21st century",
+        "selectedArtists": [
+          "Jeff Koons",
+          "Andy Warhol",
+          "Olafur Eliasson",
+          "Tacita Dean",
+          "Abraham Cruzvillegas",
+          "Mario García Torres"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Fundación Jumex is established and opens a gallery inside the family's juice plant",
+            "year": 2001
+          },
+          {
+            "event": "Museo Jumex opens in a David Chipperfield building in Polanco",
+            "year": 2013,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Eugenio López Alonso, heir to the Jumex juice fortune, began collecting contemporary art in 1994 and established the Fundación Jumex Arte Contemporáneo in 2001. In 2013 he opened Museo Jumex, a David Chipperfield-designed public museum in Mexico City's Polanco district, holding one of Latin America's leading contemporary-art collections.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "fundacionjumex.org",
+        "Wikipedia",
+        "Dezeen",
+        "ArchDaily"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "museo-poldi-pezzoli",
+      "publicDepth": "expanded",
+      "name": "Museo Poldi Pezzoli",
+      "founder": "Gian Giacomo Poldi Pezzoli",
+      "location": "Milan, Italy",
+      "profile": {
+        "founded": 1881,
+        "structure": "Artistic foundation with hybrid public-private governance",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Milan since 1881."
+      },
+      "composition": {
+        "focus": "A collector's house museum of old-master paintings and decorative arts",
+        "period": "Middle Ages to 19th century",
+        "media": [
+          "painting",
+          "arms and armour",
+          "textiles",
+          "clocks",
+          "jewellery",
+          "decorative arts"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Gian Giacomo Poldi Pezzoli dies, having willed his palazzo and collection for public benefit",
+            "year": 1879
+          },
+          {
+            "event": "The museum opens in his former Milan palazzo",
+            "year": 1881,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          }
+        ]
+      },
+      "origin": "Gian Giacomo Poldi Pezzoli, a Milanese nobleman, assembled old-master paintings and decorative arts in his family palazzo and, by his will, left the house and its contents for public benefit. The museum opened in 1881, two years after his death, and has operated continuously since as a foundation with hybrid public and private governance.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "museopoldipezzoli.it",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "museum-berggruen",
+      "publicDepth": "expanded",
+      "name": "Museum Berggruen",
+      "founder": "Heinz Berggruen",
+      "location": "Berlin, Germany",
+      "profile": {
+        "founded": 1996,
+        "structure": "Part of the Nationalgalerie, Staatliche Museen zu Berlin (Stiftung Preußischer Kulturbesitz)",
+        "publicAccess": "Open to the public (currently closed for renovation)",
+        "currentState": "Owned by Berlin's Nationalgalerie since 2000; the Stülerbau is closed for renovation, with reopening expected in 2026-2027."
+      },
+      "composition": {
+        "focus": "Classic Modern art, with a deep concentration of Picasso",
+        "period": "early-mid 20th century",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Pablo Picasso",
+          "Paul Klee",
+          "Henri Matisse",
+          "Alberto Giacometti",
+          "Paul Cézanne",
+          "Georges Braque"
+        ],
+        "recipients": [
+          "Stiftung Preußischer Kulturbesitz (Prussian Cultural Heritage Foundation)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Berggruen places the collection on long-term loan to Berlin",
+            "year": 1995,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "The collection opens to the public in the Stülerbau",
+            "year": 1996
+          },
+          {
+            "event": "Berggruen sells the collection to the state foundation far below market value, keeping it in Berlin",
+            "year": 2000,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "The Berlin-born dealer and collector Heinz Berggruen assembled a major collection of Classic Modern art, with a deep concentration of Picasso alongside Klee, Matisse, and Giacometti. First shown in Berlin's Stülerbau in 1996, the collection was sold in 2000 to the state-run Prussian Cultural Heritage Foundation far below its market value so it would remain in Germany, and it operates today as the Museum Berggruen within the Nationalgalerie.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "smb.museum",
+        "berlin.de",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "mona-museum",
+      "publicDepth": "expanded",
+      "name": "Museum of Old and New Art (MONA)",
+      "founder": "David Walsh",
+      "location": "Berriedale, Hobart, Tasmania, Australia",
+      "profile": {
+        "founded": 2011,
+        "structure": "Privately owned museum (deliberately for-profit, not a charity)",
+        "publicAccess": "Open to the public (ticketed)",
+        "currentState": "Open near Hobart, Tasmania since 2011."
+      },
+      "composition": {
+        "focus": "Antiquities alongside modern and contemporary art, on the themes of sex and death",
+        "period": "antiquity to present"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "MONA opens in a largely underground building on the Moorilla estate near Hobart",
+            "year": 2011,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "David Walsh, who made his fortune from professional gambling, opened MONA near Hobart, Tasmania in 2011 to display his collection of antiquities and modern and contemporary art in a largely underground building. He deliberately runs it as a private, for-profit museum rather than a charity, covering its operating losses from his other businesses.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "mona.net.au",
+        "Wikipedia",
+        "ABC News"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "muzej-lah",
+      "publicDepth": "expanded",
+      "name": "Muzej Lah",
+      "founder": "Igor and Mojca Lah",
+      "location": "Bled, Slovenia",
+      "profile": {
+        "structure": "Private foundation (Fundacija Lah, registered in Switzerland)",
+        "publicAccess": "Not yet open (opening announced for 2026)",
+        "currentState": "New museum near Lake Bled, Slovenia, announced to open in 2026.",
+        "size": "800+ works by 100+ artists"
+      },
+      "composition": {
+        "focus": "Post-1945 Slovenian and international contemporary art",
+        "period": "1945 to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ],
+        "selectedArtists": [
+          "Anselm Kiefer",
+          "Joseph Beuys",
+          "Ilya and Emilia Kabakov",
+          "Zoran Mušič",
+          "Anne Imhof"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Fundacija Lah, the collection's foundation, is established",
+            "year": 2017
+          },
+          {
+            "event": "Muzej Lah, a David Chipperfield building near Lake Bled, is announced to open",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Slovenian philanthropists Igor and Mojca Lah assembled a collection of post-1945 Slovenian and international art over roughly three decades. They commissioned David Chipperfield Architects to design Muzej Lah, a purpose-built museum near Lake Bled announced to open in 2026, bringing the collection into public view for the first time.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "muzejlah.com",
+        "fundacijalah.com",
+        "Domus",
+        "David Chipperfield Architects"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "neue-galerie",
+      "publicDepth": "expanded",
+      "name": "Neue Galerie New York",
+      "founder": "Ronald S. Lauder",
+      "location": "New York, New York",
+      "profile": {
+        "founded": 2001,
+        "structure": "Independent museum; merging into The Metropolitan Museum of Art (announced 2026, effective 2028)",
+        "publicAccess": "Open to the public",
+        "currentState": "Merging into The Metropolitan Museum of Art in 2028."
+      },
+      "composition": {
+        "focus": "Early twentieth-century German and Austrian art and design",
+        "movements": [
+          "Expressionism",
+          "Vienna Secession",
+          "Bauhaus"
+        ],
+        "period": "early 20th century",
+        "media": [
+          "painting",
+          "works on paper",
+          "decorative arts"
+        ],
+        "selectedArtists": [
+          "Gustav Klimt",
+          "Egon Schiele",
+          "Otto Dix",
+          "George Grosz"
+        ],
+        "recipients": [
+          "The Metropolitan Museum of Art"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Ronald S. Lauder and dealer Serge Sabarsky's museum opens in the William Starr Miller House",
+            "year": 2001,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Merger with The Metropolitan Museum of Art announced",
+            "year": 2026,
+            "familyId": "give-institution",
+            "codedPathway": "merger-into-institution"
+          },
+          {
+            "event": "Merger to take effect; renamed The Met Ronald S. Lauder Neue Galerie",
+            "year": 2028,
+            "familyId": "give-institution",
+            "codedPathway": "merger-into-institution"
+          }
+        ]
+      },
+      "origin": "Ronald S. Lauder and dealer Serge Sabarsky founded the Neue Galerie to show early twentieth-century German and Austrian art, opening in 2001 in a former Fifth Avenue mansion. In 2026 the museum and The Metropolitan Museum of Art announced plans to merge in 2028, transferring the collection, building, and endowment to The Met.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "metmuseum.org",
+        "The Art Newspaper",
+        "ARTnews"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "ogden",
+      "publicDepth": "expanded",
+      "name": "Ogden Museum of Southern Art",
+      "founder": "Roger H. Ogden",
+      "location": "New Orleans, Louisiana",
+      "profile": {
+        "founded": 1999,
+        "structure": "Independent nonprofit museum (founded through a University of New Orleans partnership)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in New Orleans since 2003.",
+        "size": "~5,000 works"
+      },
+      "composition": {
+        "focus": "Art of the American South",
+        "period": "19th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "photography",
+          "works on paper"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Founded with a ~600-work gift from Roger H. Ogden, in partnership with the University of New Orleans",
+            "year": 1999,
+            "familyId": "partner-institution",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "Stephen Goldring Hall opens",
+            "year": 2003,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Roger H. Ogden, a New Orleans developer, gave some 600 works of Southern art to seed a museum established in 1999 in partnership with the University of New Orleans. It opened its purpose-built home in 2003 and has grown its holdings to roughly 5,000 works.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ogdenmuseum.org",
+        "Wikipedia",
+        "NOLA.com"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "onera",
+      "publicDepth": "record",
+      "name": "Onera Foundation",
+      "founder": "David B. Peterson",
+      "location": "New Canaan, Connecticut",
+      "profile": {
+        "founded": 2018,
+        "structure": "Architectural-preservation foundation with a public exhibition venue",
+        "publicAccess": "Open to the public (Tuesday–Saturday)",
+        "currentState": "Opened its public exhibition venue in New Canaan in October 2025."
+      },
+      "composition": {
+        "focus": "Historic American architecture and its intersection with art"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Onera Foundation established; acquires the 1836 Maxwell Perkins House",
+            "year": 2018,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Opens the restored house as a public exhibition venue",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          }
+        ]
+      },
+      "origin": "David B. Peterson founded the Onera Foundation in 2018 to advance the preservation of historic American architecture. It restored the landmarked 1836 Maxwell Perkins House in New Canaan and opened it to the public as an exhibition venue in October 2025.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "onerafoundation.org",
+        "The Art Newspaper",
+        "The Architect's Newspaper"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "pyramid-hill",
+      "publicDepth": "expanded",
+      "name": "Pyramid Hill Sculpture Park and Museum",
+      "founder": "Harry T. Wilks",
+      "location": "Hamilton, Ohio",
+      "profile": {
+        "founded": 1997,
+        "structure": "Independent nonprofit sculpture park and museum",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Hamilton, Ohio since 1996.",
+        "size": "300+ acres; 70+ outdoor sculptures"
+      },
+      "composition": {
+        "focus": "Monumental outdoor sculpture; ancient sculpture",
+        "period": "modern and contemporary; antiquities",
+        "media": [
+          "sculpture"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Harry T. Wilks buys Ohio farmland and builds the Pyramid House",
+            "year": 1987
+          },
+          {
+            "event": "Establishes a nonprofit sculpture park to protect the land from development",
+            "year": 1997,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Harry T. Wilks dies",
+            "year": 2014
+          }
+        ]
+      },
+      "origin": "Harry T. Wilks bought farmland in Hamilton, Ohio in 1987, kept acquiring adjacent parcels, and in 1997 established a nonprofit sculpture park to protect the assembled landscape from development. It grew to more than 70 monumental outdoor sculptures across several hundred acres and has continued under hired leadership since his death in 2014.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "pyramidhill.org",
+        "Wikipedia",
+        "Cincinnati Magazine"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "rennie-collection",
+      "publicDepth": "expanded",
+      "name": "Rennie Collection",
+      "founder": "Bob Rennie",
+      "location": "Vancouver, British Columbia, Canada",
+      "profile": {
+        "collectingBegan": "1980s",
+        "structure": "Private collection; formerly shown at the appointment-only Rennie Museum (2009–2022)",
+        "publicAccess": "The Rennie Museum operated by appointment (2009–2022); works being transferred to the National Gallery of Canada",
+        "currentState": "Private Vancouver collection being gifted in stages to the National Gallery of Canada.",
+        "size": "~4,000 works"
+      },
+      "composition": {
+        "focus": "Contemporary art engaging identity and social justice",
+        "period": "contemporary",
+        "media": [
+          "painting",
+          "photography",
+          "sculpture",
+          "installation"
+        ],
+        "selectedArtists": [
+          "John Baldessari",
+          "Mike Kelley",
+          "Lynette Yiadom-Boakye",
+          "Kerry James Marshall",
+          "Brian Jungen"
+        ],
+        "recipients": [
+          "National Gallery of Canada"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Opens the appointment-only Rennie Museum in Vancouver's Wing Sang Building",
+            "year": 2009,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Begins staged gifts of works to the National Gallery of Canada (280+ works by 2026)",
+            "year": 2012,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Donates the Wing Sang Building toward the new Chinese Canadian Museum",
+            "year": 2022,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Bob Rennie, a Vancouver real-estate marketer, built a contemporary-art collection from the 1980s and opened it to the public by appointment in his Wing Sang Building in 2009. Since 2012 he and his family have gifted works in stages to the National Gallery of Canada, and in 2022 he donated the building itself toward Vancouver's Chinese Canadian Museum.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "National Gallery of Canada",
+        "The Art Newspaper",
+        "The Globe and Mail",
+        "BCBusiness"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "rauschenberg-foundation-hq",
+      "publicDepth": "expanded",
+      "name": "Robert Rauschenberg Foundation",
+      "founder": "Robert Rauschenberg",
+      "location": "New York, New York; Captiva Island, Florida",
+      "profile": {
+        "founded": 2008,
+        "structure": "Artist-endowed grantmaking foundation",
+        "publicAccess": "Not a public museum (grantmaking, archives, and residency programs)",
+        "currentState": "Grantmaking foundation active since 2008; selling surplus real estate in 2026."
+      },
+      "composition": {
+        "focus": "Support for artists and the legacy of Robert Rauschenberg"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Robert Rauschenberg Foundation established around the artist's death",
+            "year": 2008,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Foundation sells the Captiva Island compound ($45M) and lists his NYC townhouse-studio",
+            "year": 2026,
+            "familyId": "sell",
+            "codedPathway": "sell-private"
+          }
+        ]
+      },
+      "origin": "The Robert Rauschenberg Foundation, established around the artist's 2008 death, supports artists and stewards his legacy through grantmaking, archives, and residency programs. In 2026 it sold his Captiva Island compound and listed his longtime New York townhouse-studio, reallocating proceeds toward its programs.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "rauschenbergfoundation.org",
+        "ARTnews",
+        "Artforum",
+        "Artnet News"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "rubin-museum",
+      "publicDepth": "expanded",
+      "name": "Rubin Museum of Himalayan Art",
+      "founder": "Shelley Rubin & Donald Rubin",
+      "location": "New York, New York (physical museum closed 2024)",
+      "profile": {
+        "founded": 2004,
+        "structure": "Independent nonprofit (Shelley & Donald Rubin Cultural Trust)",
+        "publicAccess": "Physical museum closed October 2024; now operates through partnerships, loans, traveling exhibitions, and digital programs",
+        "currentState": "New York building closed in 2024; now operating as a global 'museum without walls'.",
+        "size": "~4,000 objects"
+      },
+      "composition": {
+        "focus": "Himalayan and Tibetan Buddhist art",
+        "media": [
+          "painting",
+          "sculpture",
+          "ritual objects",
+          "textiles"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Rubin Museum of Art opens in a converted Chelsea building in New York",
+            "year": 2004,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Closes its New York building to operate through partnerships, loans, and traveling exhibitions",
+            "year": 2024,
+            "familyId": "partner-institution",
+            "codedPathway": "traveling-program"
+          }
+        ]
+      },
+      "origin": "Shelley and Donald Rubin built a collection of art from the Himalayas and the Tibetan Buddhist world and opened a dedicated museum in New York in 2004. In 2024 they closed the building and reorganized the institution to circulate the collection through partnerships, loans, and traveling exhibitions.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "rubinmuseum.org",
+        "CNN",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "shelburne-museum",
+      "publicDepth": "expanded",
+      "name": "Shelburne Museum",
+      "founder": "Electra Havemeyer Webb",
+      "location": "Shelburne, Vermont",
+      "profile": {
+        "founded": 1947,
+        "structure": "Independent nonprofit museum",
+        "publicAccess": "Open to the public (seasonal)",
+        "currentState": "Operating in Shelburne, Vermont, since 1947.",
+        "size": "39 buildings on ~45 acres; 150,000+ objects"
+      },
+      "composition": {
+        "focus": "American folk art and Americana, with inherited Impressionist paintings",
+        "movements": [
+          "American folk art",
+          "Impressionism"
+        ],
+        "period": "18th–19th century Americana; late 19th–early 20th century paintings",
+        "media": [
+          "folk art",
+          "decorative arts",
+          "textiles",
+          "painting",
+          "architecture"
+        ],
+        "selectedArtists": [
+          "Claude Monet",
+          "Édouard Manet",
+          "Edgar Degas",
+          "Mary Cassatt"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Electra Havemeyer Webb founds the Shelburne Museum",
+            "year": 1947,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Electra Havemeyer Webb dies",
+            "year": 1960
+          }
+        ]
+      },
+      "origin": "Electra Havemeyer Webb, a pioneering collector of American folk art and Americana, founded the Shelburne Museum in 1947, relocating dozens of historic New England buildings to the grounds to display her collections alongside Impressionist paintings inherited from her parents. The museum has operated continuously since, well beyond her death in 1960.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "shelburnemuseum.org",
+        "Wikipedia",
+        "Vermont Historical Society"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "sid-richardson",
+      "publicDepth": "expanded",
+      "name": "Sid Richardson Museum",
+      "founder": "Sid W. Richardson",
+      "location": "Fort Worth, Texas",
+      "profile": {
+        "founded": 1982,
+        "collectingBegan": "1942",
+        "structure": "Program of the Sid W. Richardson Foundation",
+        "publicAccess": "Open to the public; free admission",
+        "currentState": "Open in downtown Fort Worth since 1982; free admission.",
+        "size": "~56 works on permanent display"
+      },
+      "composition": {
+        "focus": "Western American art",
+        "period": "late 19th–early 20th century",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Frederic Remington",
+          "Charles M. Russell"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Sid Richardson begins collecting Western American art",
+            "year": 1942
+          },
+          {
+            "event": "Sid Richardson dies; his estate passes to the Sid W. Richardson Foundation",
+            "year": 1959
+          },
+          {
+            "event": "The collection opens as a free public museum in Fort Worth's Sundance Square",
+            "year": 1982,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Texas oilman Sid W. Richardson assembled a collection of Western American art, concentrated on Frederic Remington and Charles M. Russell, beginning in 1942. After his death in 1959 the collection passed to the foundation he had chartered, which opened it as a free public museum in downtown Fort Worth in 1982.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "sidrichardsonmuseum.org",
+        "Texas State Historical Association",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "souls-grown-deep",
+      "publicDepth": "expanded",
+      "name": "Souls Grown Deep Foundation",
+      "founder": "William S. Arnett",
+      "location": "Atlanta, Georgia",
+      "profile": {
+        "founded": 2010,
+        "structure": "Nonprofit foundation",
+        "publicAccess": "Collection dispersed to partner museums; foundation runs advocacy and community grant programs",
+        "currentState": "Dispersing its collection into major museums; based in Atlanta.",
+        "size": "1,000+ works by 160+ artists at founding"
+      },
+      "composition": {
+        "focus": "Art by Black artists of the American South",
+        "period": "20th–21st century",
+        "media": [
+          "painting",
+          "sculpture",
+          "assemblage",
+          "quilts"
+        ],
+        "selectedArtists": [
+          "Thornton Dial",
+          "Lonnie Holley",
+          "Nellie Mae Rowe",
+          "Ronald Lockett",
+          "the Gee's Bend quiltmakers"
+        ],
+        "recipients": [
+          "Metropolitan Museum of Art",
+          "Philadelphia Museum of Art",
+          "Museum of Fine Arts, Boston",
+          "Brooklyn Museum",
+          "High Museum of Art",
+          "Fine Arts Museums of San Francisco"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "William Arnett donates 1,300+ works to establish the Souls Grown Deep Foundation",
+            "year": 2010,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Begins a series of gifts and purchases placing works in major museums",
+            "year": 2014,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          },
+          {
+            "event": "William Arnett dies",
+            "year": 2020
+          }
+        ]
+      },
+      "origin": "The art historian and collector William Arnett assembled a large collection of work by Black self-taught artists of the American South and, in 2010, established the Souls Grown Deep Foundation to steward it. Rather than build a single museum, the foundation places the work into major museum collections nationwide and channels proceeds back to the artists' communities.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "soulsgrowndeep.org",
+        "Metropolitan Museum of Art",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "storm-king",
+      "publicDepth": "expanded",
+      "name": "Storm King Art Center",
+      "founder": "Ralph E. Ogden & H. Peter Stern",
+      "location": "New Windsor (Mountainville), New York",
+      "profile": {
+        "founded": 1960,
+        "structure": "Independent nonprofit art center",
+        "publicAccess": "Open to the public (seasonal)",
+        "currentState": "Open near New Windsor, New York, since 1960.",
+        "size": "~500 acres; 100+ sculptures"
+      },
+      "composition": {
+        "focus": "Monumental modern and contemporary sculpture in the landscape",
+        "period": "1960s onward",
+        "media": [
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "David Smith",
+          "Alexander Calder",
+          "Mark di Suvero",
+          "Isamu Noguchi",
+          "Louise Nevelson",
+          "Maya Lin",
+          "Richard Serra",
+          "Andy Goldsworthy",
+          "Ursula von Rydingsvard"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Ralph Ogden and H. Peter Stern found Storm King Art Center",
+            "year": 1960,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Acquisition of 13 David Smith works establishes the sculpture-in-landscape model",
+            "year": 1967
+          },
+          {
+            "event": "Ralph Ogden dies",
+            "year": 1974
+          },
+          {
+            "event": "H. Peter Stern dies",
+            "year": 2016
+          }
+        ]
+      },
+      "origin": "Star Expansion Company owners Ralph E. Ogden and his son-in-law H. Peter Stern founded Storm King in 1960, initially envisioning a Hudson River School painting museum. The 1967 purchase of thirteen David Smith sculptures redirected it toward monumental modern sculpture sited across an open landscape, and it now spans roughly 500 acres.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "stormking.org",
+        "ARTnews",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "terra",
+      "publicDepth": "expanded",
+      "name": "Terra Museum of American Art",
+      "founder": "Daniel J. Terra",
+      "location": "Chicago, Illinois (originally Evanston)",
+      "profile": {
+        "founded": 1980,
+        "structure": "Single-collector museum (later a grantmaking foundation)",
+        "publicAccess": "Closed 2004; core works on long-term loan to the Art Institute of Chicago",
+        "currentState": "Museum closed 2004; continues as the grantmaking Terra Foundation for American Art."
+      },
+      "composition": {
+        "focus": "American art",
+        "period": "18th–early 20th century",
+        "media": [
+          "painting"
+        ],
+        "recipients": [
+          "Art Institute of Chicago"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Daniel Terra establishes his foundation",
+            "year": 1978,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The Terra Museum of American Art opens in Evanston, Illinois",
+            "year": 1980,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Museum relocates to downtown Chicago",
+            "year": 1987
+          },
+          {
+            "event": "Daniel Terra dies",
+            "year": 1996
+          },
+          {
+            "event": "Museum closes; the Terra Foundation lends core works to the Art Institute of Chicago",
+            "year": 2004,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Chicago businessman Daniel J. Terra opened a museum for his collection of American art in Evanston in 1980, moving it to downtown Chicago in 1987. After his 1996 death and a period of board litigation, the museum closed in 2004 and the collection continued as the grantmaking Terra Foundation for American Art, with core works placed on long-term loan to the Art Institute of Chicago.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "terraamericanart.org",
+        "Artforum",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "kohler-art-preserve",
+      "publicDepth": "expanded",
+      "name": "The Art Preserve of the John Michael Kohler Arts Center",
+      "founder": "Ruth DeYoung Kohler II",
+      "location": "Sheboygan, Wisconsin",
+      "profile": {
+        "founded": 2021,
+        "structure": "Nonprofit (satellite of the John Michael Kohler Arts Center)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Sheboygan, Wisconsin since 2021.",
+        "size": "25,000+ objects"
+      },
+      "composition": {
+        "focus": "Artist-built environments by self-taught artists",
+        "period": "20th century",
+        "media": [
+          "installation",
+          "sculpture"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Ruth DeYoung Kohler II, who drove the decades-long collecting, dies",
+            "year": 2020
+          },
+          {
+            "event": "The Art Preserve opens in Sheboygan as a satellite of the John Michael Kohler Arts Center",
+            "year": 2021,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Ruth DeYoung Kohler II spent decades as director of the John Michael Kohler Arts Center rescuing artist-built environments created by self-taught artists. She oversaw the purpose-built Art Preserve to house them; it opened in Sheboygan in 2021, seven months after her death.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "jmkac.org",
+        "Wikipedia",
+        "The Art Newspaper"
+      ],
+      "lastReviewed": "2026-08"
     },
     {
       "slug": "barnes",
@@ -804,6 +3475,300 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "ganz-collection",
+      "publicDepth": "expanded",
+      "name": "The Collection of Victor and Sally Ganz",
+      "founder": "Victor Ganz; Sally Ganz",
+      "location": "New York, New York",
+      "profile": {
+        "collectingBegan": "1941",
+        "structure": "Private collection",
+        "publicAccess": "Dispersed at auction (never a public institution)",
+        "currentState": "Sold at Christie's, New York, in 1997 for $206.5M — then a record for a single-owner auction."
+      },
+      "composition": {
+        "focus": "Deep holdings of Picasso alongside postwar American art",
+        "movements": [
+          "Cubism",
+          "Abstract Expressionism",
+          "Pop",
+          "Minimalism"
+        ],
+        "period": "Early–late 20th century",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Pablo Picasso",
+          "Jasper Johns",
+          "Frank Stella",
+          "Robert Rauschenberg",
+          "Eva Hesse"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Victor and Sally Ganz make their first Picasso purchase",
+            "year": 1941
+          },
+          {
+            "event": "Victor Ganz dies",
+            "year": 1987
+          },
+          {
+            "event": "After Sally Ganz's death, the collection is sold at Christie's for $206.5M",
+            "year": 1997,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Victor and Sally Ganz built one of the 20th century's most focused private collections from a modest textile income, buying Picasso in depth alongside Johns, Stella, Rauschenberg, and Hesse. With no foundation or gift plan in place, their heirs sold the collection at Christie's in 1997, setting a single-owner auction record.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Christie's",
+        "ARTnews",
+        "NPR",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "daskalopoulos",
+      "publicDepth": "expanded",
+      "name": "The D.Daskalopoulos Collection",
+      "founder": "Dimitris Daskalopoulos",
+      "location": "Athens, Greece / international",
+      "profile": {
+        "collectingBegan": "1994",
+        "structure": "Private collection (dispersed by gift)",
+        "publicAccess": "Gifts and shared ownership to public institutions",
+        "currentState": "Gifted to four public museums beginning 2022; works entered permanent public collections.",
+        "size": "Over 350 works by 142 artists (the gifted body)"
+      },
+      "composition": {
+        "focus": "Contemporary art on the human body as a source of creativity and a vessel of struggle",
+        "period": "Contemporary",
+        "recipients": [
+          "EMST, Athens (140 works)",
+          "Tate, London (110 works)",
+          "Solomon R. Guggenheim, New York & MCA Chicago (~100 works, jointly owned)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Dimitris Daskalopoulos begins the collection",
+            "year": 1994
+          },
+          {
+            "event": "Over 350 works gifted to four museums, ~100 jointly co-owned by the Guggenheim and MCA Chicago",
+            "year": 2022,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          }
+        ]
+      },
+      "origin": "Dimitris Daskalopoulos built the collection from 1994 around a single theme: the human body as a source of creativity and a vessel of struggle. In 2022 he gifted over 350 works to four public museums, including a rare shared-ownership grouping held jointly by the Guggenheim and MCA Chicago.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "tate.org.uk",
+        "mcachicago.org",
+        "The Art Newspaper"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "dali-museum",
+      "publicDepth": "expanded",
+      "name": "The Dalí Museum",
+      "founder": "A. Reynolds Morse & Eleanor Reese Morse",
+      "location": "St. Petersburg, Florida",
+      "profile": {
+        "founded": 1982,
+        "collectingBegan": "1943",
+        "structure": "Independent nonprofit (Salvador Dali Museum Inc.)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in St. Petersburg, Florida since 1982; purpose-built building opened 2011.",
+        "size": "~2,400 works"
+      },
+      "composition": {
+        "focus": "The most comprehensive collection of Salvador Dalí's work outside Europe",
+        "movements": [
+          "Surrealism"
+        ],
+        "period": "20th century",
+        "media": [
+          "painting",
+          "drawing",
+          "prints",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Salvador Dalí"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "A. Reynolds and Eleanor Morse buy their first Dalí",
+            "year": 1943
+          },
+          {
+            "event": "The Dalí Museum opens in a converted St. Petersburg warehouse",
+            "year": 1982,
+            "familyId": "give-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Purpose-built museum opens after both founders' deaths",
+            "year": 2011,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Ohio industrialists A. Reynolds and Eleanor Reese Morse built the world's most comprehensive private Salvador Dalí collection over some forty years and gave it whole to a new St. Petersburg, Florida nonprofit, which opened in a converted warehouse in 1982. The museum thrived after both founders' deaths, opening a purpose-built building in 2011.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "thedali.org",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "pearlman-foundation",
+      "publicDepth": "expanded",
+      "name": "The Henry and Rose Pearlman Foundation Collection",
+      "founder": "Henry Pearlman",
+      "location": "New York, New York; long-term loan at Princeton University Art Museum, 1976–2025",
+      "profile": {
+        "founded": 1955,
+        "structure": "Private foundation",
+        "publicAccess": "Historically shown on long-term loan at Princeton University Art Museum; being distributed to three public museums",
+        "currentState": "Collection gifted in 2025 to three U.S. museums; on long-term loan at Princeton, 1976–2025.",
+        "size": "63 works in the 2025 gift"
+      },
+      "composition": {
+        "focus": "Impressionist, Post-Impressionist, and early Modern European art",
+        "movements": [
+          "Impressionism",
+          "Post-Impressionism",
+          "early Modernism"
+        ],
+        "period": "late 19th–early 20th century",
+        "media": [
+          "painting",
+          "works on paper",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Paul Cézanne",
+          "Vincent van Gogh",
+          "Amedeo Modigliani",
+          "Edgar Degas",
+          "Édouard Manet",
+          "Chaïm Soutine"
+        ],
+        "recipients": [
+          "Brooklyn Museum (29 works)",
+          "The Museum of Modern Art (28 works)",
+          "Los Angeles County Museum of Art (6 works)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Henry and Rose Pearlman Foundation established",
+            "year": 1955
+          },
+          {
+            "event": "Collection placed on long-term loan at Princeton University Art Museum",
+            "year": 1976,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "Foundation gifts 63 works across Brooklyn Museum, MoMA, and LACMA",
+            "year": 2025,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          }
+        ]
+      },
+      "origin": "Henry Pearlman assembled a tightly focused collection of Impressionist, Post-Impressionist, and early Modern European art, held after his 1974 death by the family foundation and shown on long-term loan at Princeton University Art Museum from 1976. In 2025 the foundation gifted the 63-work collection to the Brooklyn Museum, MoMA, and LACMA.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Brooklyn Museum",
+        "MoMA",
+        "LACMA",
+        "The Art Newspaper"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "kinsey",
+      "publicDepth": "expanded",
+      "name": "The Kinsey African American Art & History Collection",
+      "founder": "Bernard and Shirley Kinsey",
+      "location": "Los Angeles, California (national tour)",
+      "profile": {
+        "founded": 2006,
+        "structure": "Traveling exhibition; family foundation as educational arm",
+        "publicAccess": "Shown at host institutions on tour",
+        "currentState": "Touring nationally since 2006.",
+        "size": "~700 objects"
+      },
+      "composition": {
+        "focus": "African American art, history, and artifacts",
+        "period": "1595–present",
+        "media": [
+          "painting",
+          "sculpture",
+          "manuscripts",
+          "photography"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The collection begins touring, opening at the California African American Museum, Los Angeles",
+            "year": 2006,
+            "familyId": "build-institution",
+            "codedPathway": "traveling-program"
+          },
+          {
+            "event": "The Bernard and Shirley Kinsey Foundation for Arts and Education is established",
+            "year": 2009,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Bernard and Shirley Kinsey assembled one of the largest private collections of African American art, documents, and artifacts. Rather than build a museum, they chose to circulate it as a traveling exhibition, touring since 2006, with a family foundation as its educational arm.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "thekinseycollection.com",
+        "Smithsonian",
+        "Tacoma Art Museum"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "klesch-collection-birkbeck",
       "publicDepth": "expanded",
       "name": "The Klesch Collection",
@@ -862,6 +3827,539 @@
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
+    },
+    {
+      "slug": "kreeger-museum",
+      "publicDepth": "expanded",
+      "name": "The Kreeger Museum",
+      "founder": "David Lloyd and Carmen Kreeger",
+      "location": "Washington, D.C.",
+      "profile": {
+        "founded": 1994,
+        "structure": "Private nonprofit museum (family board)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Washington, D.C. since 1994.",
+        "size": "5.5-acre wooded site"
+      },
+      "composition": {
+        "focus": "19th- and 20th-century European and American painting and sculpture",
+        "movements": [
+          "Impressionism",
+          "Post-Impressionism",
+          "Modernism"
+        ],
+        "period": "19th–20th century",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Monet",
+          "van Gogh",
+          "Picasso",
+          "Cézanne",
+          "Renoir",
+          "Chagall",
+          "Rodin",
+          "Miró",
+          "Henry Moore",
+          "Kandinsky",
+          "Gene Davis",
+          "Sam Gilliam"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The Philip Johnson-designed house is completed, built to convert into a museum",
+            "year": 1968
+          },
+          {
+            "event": "David Lloyd Kreeger dies",
+            "year": 1990
+          },
+          {
+            "event": "The house opens to the public as the Kreeger Museum",
+            "year": 1994,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          }
+        ]
+      },
+      "origin": "David Lloyd Kreeger and his wife Carmen commissioned Philip Johnson to design a house that would serve as their home and later convert into a public museum. It opened as the Kreeger Museum in 1994 and is governed by a small board anchored by the founders' family.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "kreegermuseum.org",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "menil-collection",
+      "publicDepth": "expanded",
+      "name": "The Menil Collection",
+      "founder": "John and Dominique de Menil",
+      "location": "Houston, Texas",
+      "profile": {
+        "founded": 1987,
+        "structure": "Independent nonprofit museum",
+        "publicAccess": "Open to the public; free admission",
+        "currentState": "Open in Houston since 1987; free admission.",
+        "size": "17,000+ works; ~30-acre campus"
+      },
+      "composition": {
+        "focus": "Antiquities, Byzantine and medieval, the arts of Africa and Oceania, and 20th-century modern and contemporary art",
+        "period": "antiquity to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The Menil Collection opens in a purpose-built Renzo Piano museum, with free admission",
+            "year": 1987,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "John and Dominique de Menil assembled a wide-ranging collection spanning antiquity to the twentieth century and established a museum in Houston's Montrose neighborhood. It opened in 1987 in a purpose-built Renzo Piano building with free admission, anchors a campus of galleries and green space, and has continued to operate since both founders' deaths.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "menil.org",
+        "Renzo Piano Building Workshop",
+        "SAH Archipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "moma",
+      "publicDepth": "expanded",
+      "name": "The Museum of Modern Art",
+      "founder": "Lillie P. Bliss, Mary Quinn Sullivan, and Abby Aldrich Rockefeller (founding trustees)",
+      "location": "New York, New York",
+      "profile": {
+        "founded": 1929,
+        "structure": "Independent nonprofit museum",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in New York since 1929.",
+        "size": "~200,000 works"
+      },
+      "composition": {
+        "focus": "Modern and contemporary art",
+        "movements": [
+          "Post-Impressionism",
+          "Cubism",
+          "Surrealism",
+          "Abstract Expressionism"
+        ],
+        "period": "late 19th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "drawings",
+          "prints",
+          "photography",
+          "film",
+          "design"
+        ],
+        "selectedArtists": [
+          "Vincent van Gogh",
+          "Paul Cézanne",
+          "Pablo Picasso",
+          "Henri Matisse",
+          "Andy Warhol"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Founded by three collectors as a museum devoted to modern art",
+            "year": 1929,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Lillie P. Bliss bequeaths her collection, the museum's founding core",
+            "year": 1931,
+            "familyId": "give-institution"
+          }
+        ]
+      },
+      "origin": "Three collectors - Lillie P. Bliss, Mary Quinn Sullivan, and Abby Aldrich Rockefeller - founded the Museum of Modern Art in New York in 1929 to champion modern art. Lillie Bliss's 1931 bequest formed the founding collection, and her will permitted the museum to sell works to strengthen its holdings. It has grown into one of the world's foremost museums of modern and contemporary art.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "moma.org",
+        "Britannica",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "phillips-collection",
+      "publicDepth": "expanded",
+      "name": "The Phillips Collection",
+      "founder": "Duncan Phillips",
+      "location": "Washington, D.C.",
+      "profile": {
+        "founded": 1921,
+        "structure": "Independent nonprofit museum",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Washington, D.C. since 1921."
+      },
+      "composition": {
+        "focus": "Modern art, with Impressionist and Post-Impressionist holdings",
+        "movements": [
+          "Impressionism",
+          "Post-Impressionism",
+          "Modernism"
+        ],
+        "period": "19th century to present",
+        "media": [
+          "painting",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Pierre-Auguste Renoir",
+          "Pierre Bonnard",
+          "Paul Klee",
+          "Mark Rothko"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Duncan Phillips and his mother establish the collection as a memorial",
+            "year": 1918
+          },
+          {
+            "event": "Opens to the public as the Phillips Memorial Art Gallery, widely called America's first museum of modern art",
+            "year": 1921,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Duncan Phillips opened his collection to the public in 1921 in the family's Dupont Circle home as a memorial to his father and brother, creating what is widely described as America's first museum of modern art. It has operated continuously since, passing to family and then independent leadership after his death.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "phillipscollection.org"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "progressive-art-collection",
+      "publicDepth": "expanded",
+      "name": "The Progressive Art Collection",
+      "founder": "Peter B. Lewis",
+      "location": "Mayfield Village, Ohio",
+      "profile": {
+        "collectingBegan": "1974",
+        "structure": "Corporate collection (The Progressive Corporation)",
+        "publicAccess": "Displayed in company offices; limited public access via docent-led tours",
+        "currentState": "Active corporate collection, displayed across Progressive's offices since the 1970s.",
+        "size": "several thousand works (reported 7,500–10,000+)"
+      },
+      "composition": {
+        "focus": "Contemporary art",
+        "period": "1960s to present",
+        "media": [
+          "painting",
+          "photography",
+          "sculpture",
+          "new media"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Peter B. Lewis begins the collection with Andy Warhol's Mao series, retained as a corporate collection",
+            "year": 1974,
+            "familyId": "keep-family",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "Art first displayed at Progressive's Ohio headquarters",
+            "year": 1979
+          }
+        ]
+      },
+      "origin": "The Progressive Corporation's collection began in 1974 when chairman Peter B. Lewis bought Andy Warhol's Mao series for the company's Ohio headquarters. It has grown into a large contemporary-art collection displayed across Progressive's offices and has continued acquiring after Lewis's death in 2013.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "progressive.com",
+        "Crain's Cleveland Business"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "readers-digest-wallace-collection",
+      "publicDepth": "expanded",
+      "name": "The Reader's Digest (Wallace) Collection",
+      "founder": "Lila Acheson Wallace (with DeWitt Wallace, co-founders of Reader's Digest)",
+      "location": "Chappaqua / Pleasantville, New York",
+      "profile": {
+        "structure": "Corporate collection (The Reader's Digest Association)",
+        "publicAccess": "Historically displayed at the company's Pleasantville headquarters (not a public venue)",
+        "currentState": "Corporate collection; 37 major works sold at Sotheby's in 1998 for $86.6M."
+      },
+      "composition": {
+        "focus": "Impressionist, Modern, and contemporary art",
+        "movements": [
+          "Impressionism",
+          "Modernism"
+        ],
+        "period": "late 19th–20th century",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Amedeo Modigliani",
+          "Vincent van Gogh",
+          "Alberto Giacometti",
+          "Henri Matisse"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "37 major works sold at Sotheby's New York for $86.6 million",
+            "year": 1998,
+            "familyId": "sell",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Lila Acheson Wallace, who co-founded Reader's Digest with her husband DeWitt Wallace, assembled a museum-quality art collection that lined the company's Pleasantville, New York headquarters. In 1998 the company sold 37 of its major works at Sotheby's for $86.6 million.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper (1998)",
+        "Sotheby's",
+        "AP"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "tselinny-center",
+      "publicDepth": "record",
+      "name": "Tselinny Center of Contemporary Culture",
+      "founder": "Kairat Boranbayev",
+      "location": "Almaty, Kazakhstan",
+      "profile": {
+        "founded": 2018,
+        "structure": "Private cultural institution (non-collecting)",
+        "publicAccess": "Open to the public",
+        "currentState": "Permanent venue opened in Almaty in September 2025."
+      },
+      "composition": {
+        "focus": "Contemporary culture and art of Kazakhstan and Central Asia"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Kairat Boranbayev founds Tselinny as a non-collecting cultural center",
+            "year": 2018,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Permanent venue opens in a converted 1964 Soviet cinema, redesigned by Asif Khan",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Kairat Boranbayev founded Tselinny in 2018 as Kazakhstan's first independent, non-collecting center of contemporary culture. Its permanent home, a 1964 Soviet-era cinema in Almaty reworked by architect Asif Khan, opened to the public in September 2025.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "CIMAM",
+        "ArtNews",
+        "Dezeen",
+        "archpaper.com"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "ubs-art-collection",
+      "publicDepth": "expanded",
+      "name": "UBS Art Collection",
+      "location": "Zürich, Switzerland / global",
+      "profile": {
+        "collectingBegan": "1960s",
+        "structure": "Corporate art collection",
+        "publicAccess": "Displayed across UBS offices worldwide; UBS Art Gallery in New York open to the public; works lent to museums",
+        "currentState": "Actively collected and exhibited; public gallery in New York since 2019.",
+        "size": "30,000+ works"
+      },
+      "composition": {
+        "focus": "Contemporary art",
+        "period": "20th–21st century",
+        "media": [
+          "painting",
+          "works on paper",
+          "photography",
+          "sculpture",
+          "video",
+          "installation"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "UBS begins collecting contemporary art",
+            "year": "1960s",
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The UBS Art Gallery opens to the public at the firm's New York headquarters",
+            "year": 2019,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "UBS has collected contemporary art since the 1960s, building one of the largest corporate collections in the world. Most works hang in UBS offices worldwide; a dedicated public gallery opened at the firm's New York headquarters in 2019, and works are regularly lent to museums.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ubs.com",
+        "MoMA",
+        "PR Newswire"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "yuz-museum",
+      "publicDepth": "expanded",
+      "name": "Yuz Museum Shanghai",
+      "founder": "Budi Tek",
+      "location": "Shanghai, China",
+      "profile": {
+        "founded": 2014,
+        "structure": "Private museum (Yuz Foundation)",
+        "publicAccess": "Open to the public",
+        "currentState": "Operating in Shanghai; relocated to a new venue in 2023.",
+        "size": "~1,500 works"
+      },
+      "composition": {
+        "focus": "Contemporary Chinese and international art",
+        "period": "contemporary",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Budi Tek establishes the Yuz Foundation",
+            "year": 2007
+          },
+          {
+            "event": "Yuz Museum Shanghai opens",
+            "year": 2014,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Budi Tek dies; his daughter Justine Tek becomes director",
+            "year": 2022
+          },
+          {
+            "event": "Museum relocates to a new venue in Shanghai's Panlong Tiandi district",
+            "year": 2023
+          }
+        ]
+      },
+      "origin": "The Chinese-Indonesian entrepreneur Budi Tek founded the Yuz Foundation in 2007 and opened Yuz Museum Shanghai in 2014 to house his collection of contemporary Chinese and international art. After his death in 2022 his daughter, Justine Tek, took over as director, and in 2023 the museum relocated to a new venue in the city's Panlong Tiandi district.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "yuzmshanghai.org",
+        "artnet News",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "di-rosa",
+      "publicDepth": "expanded",
+      "name": "di Rosa Center for Contemporary Art",
+      "founder": "Rene di Rosa; Veronica di Rosa",
+      "location": "Napa (Carneros), California",
+      "profile": {
+        "founded": 1997,
+        "collectingBegan": "1960s",
+        "structure": "Independent nonprofit foundation (Rene & Veronica di Rosa Foundation)",
+        "publicAccess": "Open to the public (reservation-based since 2025)",
+        "currentState": "Operating in Napa; the 217-acre campus was listed for sale in 2026 amid financial strain, though the collection is retained by its foundation.",
+        "size": "~1,600 works; 217-acre campus"
+      },
+      "composition": {
+        "focus": "Contemporary art of Northern California / the San Francisco Bay Area",
+        "period": "Mid-20th century onward"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Rene di Rosa buys land in the Carneros region",
+            "year": 1960
+          },
+          {
+            "event": "The collection opens to the public as an art park",
+            "year": 1997,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Becomes an independent 501(c)(3) nonprofit",
+            "year": 2000
+          },
+          {
+            "event": "Financial strain prompts staff cuts and reservation-based access",
+            "year": 2025
+          },
+          {
+            "event": "The 217-acre campus is listed for sale (collection retained by the foundation)",
+            "year": 2026
+          }
+        ]
+      },
+      "origin": "Rene and Veronica di Rosa turned their Napa vineyard estate and collection of Northern California art into a public art park, opened in 1997 on 217 acres. Facing operating costs that outpaced its endowment, the center began deaccessioning and listed its campus for sale in the 2020s while keeping the collection in its foundation.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "dirosaart.org",
+        "ARTnews",
+        "The Art Newspaper",
+        "San Francisco Chronicle"
+      ],
+      "lastReviewed": "2026-08"
     }
   ],
   "decisions": [

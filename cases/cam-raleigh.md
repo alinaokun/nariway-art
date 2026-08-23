@@ -9,6 +9,22 @@ founder_status: n/a
 geography: Raleigh, NC
 outcome: distressed
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Temporarily closed since 2025; downtown Raleigh building listed for sale in 2026."
+public_name: CAM Raleigh (Contemporary Art Museum)
+public_location: Raleigh, North Carolina
+public_founded: 2011
+public_structure: Independent nonprofit (Contemporary Art Foundation)
+public_access: Temporarily closed (as of 2025)
+public_focus: Contemporary art — kunsthalle model, rotating exhibitions with no permanent collection
+public_pathway_timeline: 2011|||CAM Raleigh opens in its downtown building ;; 2025|||Museum temporarily closes citing financial strain ;; 2026|sell|hybrid|Downtown building listed for sale; a smaller or itinerant future planned
+public_origin: "CAM Raleigh, a contemporary art museum with no permanent collection, opened in its downtown Raleigh building in 2011. After revenue declined over several years, it closed temporarily in 2025 and listed the building for sale in 2026, planning to continue in a smaller or itinerant form."
+public_sources: WUNC; Axios Raleigh; WRAL
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # CAM Raleigh — the sample's clearest distressed "sell the building, keep the mission" case

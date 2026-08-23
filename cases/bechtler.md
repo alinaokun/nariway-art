@@ -12,6 +12,28 @@ verification: spot-verified
 decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H3, H5, H8]
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Charlotte since 2010."
+public_name: Bechtler Museum of Modern Art
+public_founder: Andreas Bechtler
+public_location: Charlotte, North Carolina
+public_founded: 2010
+public_structure: Nonprofit foundation (Andreas H. Bechtler Arts Foundation), in a civic public-private partnership
+public_access: Open to the public
+public_size: 1,400+ works; ~36,500 sq ft
+public_focus: Mid-20th-century European modernism
+public_movements: Modernism
+public_period: 20th century
+public_media: painting; sculpture; works on paper
+public_selected_artists: Alberto Giacometti; Joan Miró; Alexander Calder; Andy Warhol; Jean Tinguely; Le Corbusier; Max Ernst; Barbara Hepworth; Paul Klee
+public_pathway_timeline: 2006|give-institution|found-standalone-museum|Andreas Bechtler commits the collection to the City of Charlotte ;; 2010|build-institution|found-standalone-museum|Bechtler Museum of Modern Art opens
+public_origin: "Andreas Bechtler inherited part of a modern-art collection assembled by his parents Hans and Bessie Bechtler and expanded it. In 2006 he committed the collection to the City of Charlotte, and in 2010 the Bechtler Museum of Modern Art opened in a purpose-built Mario Botta building, operated by a family foundation through a public-private partnership."
+public_sources: bechtler.org; Wikipedia
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Bechtler Museum of Modern Art

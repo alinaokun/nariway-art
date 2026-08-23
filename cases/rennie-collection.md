@@ -11,6 +11,28 @@ geography: Vancouver, BC, Canada
 outcome: pivoted
 verification: spot-verified
 origin: private-individual
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Private Vancouver collection being gifted in stages to the National Gallery of Canada."
+public_name: Rennie Collection
+public_founder: Bob Rennie
+public_location: Vancouver, British Columbia, Canada
+public_collecting_began: 1980s
+public_structure: Private collection; formerly shown at the appointment-only Rennie Museum (2009–2022)
+public_access: The Rennie Museum operated by appointment (2009–2022); works being transferred to the National Gallery of Canada
+public_size: ~4,000 works
+public_focus: Contemporary art engaging identity and social justice
+public_period: contemporary
+public_media: painting; photography; sculpture; installation
+public_selected_artists: John Baldessari; Mike Kelley; Lynette Yiadom-Boakye; Kerry James Marshall; Brian Jungen
+public_recipients: National Gallery of Canada
+public_pathway_timeline: 2009|build-institution|found-house-museum|Opens the appointment-only Rennie Museum in Vancouver's Wing Sang Building ;; 2012|give-institution|donate-existing-museum-intact|Begins staged gifts of works to the National Gallery of Canada (280+ works by 2026) ;; 2022|give-institution|donate-existing-museum-intact|Donates the Wing Sang Building toward the new Chinese Canadian Museum
+public_origin: Bob Rennie, a Vancouver real-estate marketer, built a contemporary-art collection from the 1980s and opened it to the public by appointment in his Wing Sang Building in 2009. Since 2012 he and his family have gifted works in stages to the National Gallery of Canada, and in 2022 he donated the building itself toward Vancouver's Chinese Canadian Museum.
+public_sources: National Gallery of Canada; The Art Newspaper; The Globe and Mail; BCBusiness
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # The Rennie Collection / Rennie Museum — Vancouver, BC, Canada

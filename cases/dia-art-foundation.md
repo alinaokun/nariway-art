@@ -10,6 +10,27 @@ founder_status: deceased
 geography: Beacon, NY (+ multi-site: NYC, New Mexico, Utah, Germany)
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Operating across multiple U.S. and German sites; flagship Dia Beacon open since 2003."
+public_name: Dia Art Foundation
+public_founder: Heiner Friedrich; Philippa de Menil; Helen Winkler
+public_location: New York and Beacon, New York (plus sites in the western U.S. and Germany)
+public_founded: 1974
+public_structure: Independent nonprofit foundation
+public_access: Open to the public
+public_focus: Permanent, large-scale installation of Minimalist and Land art
+public_movements: Minimalism; Land art
+public_period: 1960s–1970s onward
+public_media: installation; sculpture; light; earthworks
+public_selected_artists: Donald Judd; Dan Flavin; Walter De Maria; Richard Serra; Michael Heizer; Robert Smithson; Nancy Holt; John Chamberlain; Andy Warhol; Joseph Beuys
+public_pathway_timeline: 1974|build-institution|found-foundation|Dia is founded in New York ;; 1985|||Governance crisis: co-founder Heiner Friedrich ousted, board expanded, works sold to cover debt ;; 2003|build-institution|found-standalone-museum|Dia Beacon opens in a former factory on the Hudson
+public_origin: "Dia was founded in 1974 by Heiner Friedrich, Philippa de Menil, and Helen Winkler to help artists realize large-scale, permanent projects. After a 1985 funding crisis forced a governance overhaul, an independent board rebuilt the foundation, which opened its flagship Dia Beacon in 2003 and now spans multiple sites."
+public_sources: diaart.org; Britannica; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Dia Art Foundation — the sample's clearest near-death-then-recovery test of the permanence-doctrine foundation model

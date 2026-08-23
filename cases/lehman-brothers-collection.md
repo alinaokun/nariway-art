@@ -10,6 +10,24 @@ founder_status: n/a
 geography: New York, NY, USA
 outcome: dissolved
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: record
+public_status_text: "Dispersed at auction in 2010 following the parent company's 2008 bankruptcy."
+public_name: Lehman Brothers Art Collection
+public_location: New York, New York
+public_structure: Corporate collection (liquidated in bankruptcy)
+public_focus: Modern and contemporary art
+public_period: late 20th–early 21st century
+public_media: painting; works on paper
+public_selected_artists: Damien Hirst; Gerhard Richter; Julie Mehretu; Neo Rauch; Liu Ye
+public_recipients: Sotheby's (New York); Christie's (London); Freeman's (Philadelphia)
+public_pathway_timeline: 2003|||Lehman Brothers acquires Neuberger Berman, whose collection it takes on ;; 2008|||Lehman Brothers Holdings files for bankruptcy ;; 2010|disperse|sell-auction|The collection is liquidated across three auctions
+public_origin: The collection, largely assembled for the asset manager Neuberger Berman and acquired by Lehman Brothers in 2003, hung in the bank's corporate offices. After Lehman's 2008 bankruptcy it was liquidated across three auctions in 2010.
+public_sources: Sotheby's; Art Observed; PBS NewsHour
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Lehman Brothers Art Collection — the corporate-bankruptcy dispersal, in clean detail

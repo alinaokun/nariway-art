@@ -9,6 +9,26 @@ founder_status: deceased
 geography: Shanghai, China
 outcome: stable
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Operating in Shanghai; relocated to a new venue in 2023."
+public_name: Yuz Museum Shanghai
+public_founder: Budi Tek
+public_location: Shanghai, China
+public_founded: 2014
+public_structure: Private museum (Yuz Foundation)
+public_access: Open to the public
+public_size: ~1,500 works
+public_focus: Contemporary Chinese and international art
+public_period: contemporary
+public_media: painting; sculpture; installation
+public_pathway_timeline: 2007|||Budi Tek establishes the Yuz Foundation ;; 2014|build-institution|found-standalone-museum|Yuz Museum Shanghai opens ;; 2022|||Budi Tek dies; his daughter Justine Tek becomes director ;; 2023|||Museum relocates to a new venue in Shanghai's Panlong Tiandi district
+public_origin: The Chinese-Indonesian entrepreneur Budi Tek founded the Yuz Foundation in 2007 and opened Yuz Museum Shanghai in 2014 to house his collection of contemporary Chinese and international art. After his death in 2022 his daughter, Justine Tek, took over as director, and in 2023 the museum relocated to a new venue in the city's Panlong Tiandi district.
+public_sources: yuzmshanghai.org; artnet News; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Yuz Museum Shanghai — succession by a daughter, after an attempted museum-to-museum lock-in failed to close before the founder's death

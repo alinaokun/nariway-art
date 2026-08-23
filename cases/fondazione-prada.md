@@ -10,6 +10,24 @@ founder_status: living
 geography: Milan, Italy (+ Venice)
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Operating in Milan (since 2015) and Venice (since 2011)."
+public_name: Fondazione Prada
+public_founder: Miuccia Prada; Patrizio Bertelli
+public_location: Milan and Venice, Italy
+public_founded: 1993
+public_structure: Corporate/cultural foundation (funded by Prada Group)
+public_access: Open to the public
+public_focus: Contemporary art, architecture, cinema, and philosophy (multidisciplinary)
+public_period: Contemporary
+public_pathway_timeline: 1993|build-institution|found-foundation|Miuccia Prada and Patrizio Bertelli establish the foundation ;; 2011|build-institution|found-standalone-museum|The Venice venue opens at Ca' Corner della Regina ;; 2015|build-institution|found-standalone-museum|The OMA-designed Milan campus opens in a former distillery
+public_origin: "Miuccia Prada and Patrizio Bertelli founded Fondazione Prada in 1993 as a multidisciplinary cultural institution. It opened a Venice venue in 2011 and a Rem Koolhaas/OMA-designed campus in Milan in 2015, funded on an ongoing basis by Prada Group."
+public_sources: fondazioneprada.org; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Fondazione Prada — the corporate-foundation-to-public-museum model, funded by a living fashion house rather than a bank

@@ -9,6 +9,26 @@ founder_status: living
 geography: Potomac, MD
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open to the public in Potomac, Maryland since 2006."
+public_name: Glenstone Museum
+public_founder: Mitchell Rales; Emily Wei Rales
+public_location: Potomac, Maryland
+public_founded: 2006
+public_structure: Private operating foundation
+public_access: Open to the public, free timed admission (visitation capped)
+public_size: ~1,300 works; ~300-acre campus
+public_focus: Post-WWII and contemporary art shown in dialogue with landscape and architecture
+public_period: Post-1945 onward
+public_selected_artists: Henri Matisse; Jackson Pollock; Willem de Kooning; Jasper Johns; Jean-Michel Basquiat; Felix Gonzalez-Torres
+public_pathway_timeline: 2006|build-institution|found-standalone-museum|Glenstone opens with the Charles Gwathmey-designed Gallery ;; 2018|build-institution|found-art-park|The Thomas Phifer-designed Pavilions open, expanding the campus
+public_origin: "Mitchell Rales, co-founder of the Danaher conglomerate, and his wife Emily Wei Rales, a former art dealer, built Glenstone on their Potomac estate as a private operating foundation joining art, architecture, and landscape. It opened in 2006 and expanded substantially with the 2018 Pavilions."
+public_sources: glenstone.org; The Art Newspaper; Wikipedia
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 # Glenstone Museum — the mega-endowed founder-run art park
 

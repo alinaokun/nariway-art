@@ -12,6 +12,26 @@ verification: spot-verified
 decision_owner: unknown
 interview_status: not-contacted
 hypotheses: [H3, H6]
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Operating in Napa; the 217-acre campus was listed for sale in 2026 amid financial strain, though the collection is retained by its foundation."
+public_name: di Rosa Center for Contemporary Art
+public_founder: Rene di Rosa; Veronica di Rosa
+public_location: Napa (Carneros), California
+public_founded: 1997
+public_collecting_began: 1960s
+public_structure: Independent nonprofit foundation (Rene & Veronica di Rosa Foundation)
+public_access: Open to the public (reservation-based since 2025)
+public_size: ~1,600 works; 217-acre campus
+public_focus: Contemporary art of Northern California / the San Francisco Bay Area
+public_period: Mid-20th century onward
+public_pathway_timeline: 1960|||Rene di Rosa buys land in the Carneros region ;; 1997|build-institution|found-art-park|The collection opens to the public as an art park ;; 2000|||Becomes an independent 501(c)(3) nonprofit ;; 2025|||Financial strain prompts staff cuts and reservation-based access ;; 2026|||The 217-acre campus is listed for sale (collection retained by the foundation)
+public_origin: "Rene and Veronica di Rosa turned their Napa vineyard estate and collection of Northern California art into a public art park, opened in 1997 on 217 acres. Facing operating costs that outpaced its endowment, the center began deaccessioning and listed its campus for sale in the 2020s while keeping the collection in its foundation."
+public_sources: dirosaart.org; ARTnews; The Art Newspaper; San Francisco Chronicle
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # di Rosa Center for Contemporary Art

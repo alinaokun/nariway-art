@@ -9,6 +9,28 @@ founder_status: deceased
 geography: Fort Worth, TX, USA
 outcome: stable
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in downtown Fort Worth since 1982; free admission."
+public_name: Sid Richardson Museum
+public_founder: Sid W. Richardson
+public_location: Fort Worth, Texas
+public_founded: 1982
+public_collecting_began: 1942
+public_structure: Program of the Sid W. Richardson Foundation
+public_access: Open to the public; free admission
+public_size: ~56 works on permanent display
+public_focus: Western American art
+public_period: late 19th–early 20th century
+public_media: painting
+public_selected_artists: Frederic Remington; Charles M. Russell
+public_pathway_timeline: 1942|||Sid Richardson begins collecting Western American art ;; 1959|||Sid Richardson dies; his estate passes to the Sid W. Richardson Foundation ;; 1982|build-institution|found-foundation|The collection opens as a free public museum in Fort Worth's Sundance Square
+public_origin: Texas oilman Sid W. Richardson assembled a collection of Western American art, concentrated on Frederic Remington and Charles M. Russell, beginning in 1942. After his death in 1959 the collection passed to the foundation he had chartered, which opened it as a free public museum in downtown Fort Worth in 1982.
+public_sources: sidrichardsonmuseum.org; Texas State Historical Association; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Sid Richardson Museum — a small single-thesis collection kept alive inside a grantmaking foundation

@@ -12,6 +12,27 @@ verification: spot-verified
 decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H3, H4, H7A]
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open near New Windsor, New York, since 1960."
+public_name: Storm King Art Center
+public_founder: Ralph E. Ogden & H. Peter Stern
+public_location: New Windsor (Mountainville), New York
+public_founded: 1960
+public_structure: Independent nonprofit art center
+public_access: Open to the public (seasonal)
+public_size: ~500 acres; 100+ sculptures
+public_focus: Monumental modern and contemporary sculpture in the landscape
+public_period: 1960s onward
+public_media: sculpture
+public_selected_artists: David Smith; Alexander Calder; Mark di Suvero; Isamu Noguchi; Louise Nevelson; Maya Lin; Richard Serra; Andy Goldsworthy; Ursula von Rydingsvard
+public_pathway_timeline: 1960|build-institution|found-art-park|Ralph Ogden and H. Peter Stern found Storm King Art Center ;; 1967|||Acquisition of 13 David Smith works establishes the sculpture-in-landscape model ;; 1974|||Ralph Ogden dies ;; 2016|||H. Peter Stern dies
+public_origin: Star Expansion Company owners Ralph E. Ogden and his son-in-law H. Peter Stern founded Storm King in 1960, initially envisioning a Hudson River School painting museum. The 1967 purchase of thirteen David Smith sculptures redirected it toward monumental modern sculpture sited across an open landscape, and it now spans roughly 500 acres.
+public_sources: stormking.org; ARTnews; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Storm King Art Center

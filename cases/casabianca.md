@@ -10,6 +10,29 @@ founder_status: living
 geography: Lake Como, Italy
 outcome: emerging
 verification: provisional
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open on Lake Como since May 2026."
+public_name: Casabianca
+public_founder: Paolo and Antonella De Santis
+public_location: Lake Como (Tremezzina), Italy
+public_founded: 2026
+public_collecting_began: 1980s
+public_structure: Private collection, opened as a wing of a family hospitality business (no foundation)
+public_access: Open to paying visitors (€15)
+public_size: ~50 works on view; a restored 1930s villa across three floors
+public_focus: Post-war Italian art and Arte Povera
+public_movements: Arte Povera
+public_period: post-war 20th century onward
+public_media: painting; sculpture; installation
+public_selected_artists: Jannis Kounellis; Anselm Kiefer; Emilio Vedova; Michelangelo Pistoletto; William Kentridge; Giulio Paolini; Alighiero Boetti; Mario Merz; Pier Paolo Calzolari; Gilberto Zorio
+public_pathway_timeline: 2026|keep-family|hybrid|Casabianca opens to paying visitors as an art villa within the family hotel business
+public_origin: "Paolo and Antonella De Santis, owners of the Grand Hotel Tremezzo on Lake Como, assembled a four-decade collection of post-war Italian art and Arte Povera. In May 2026 they opened Casabianca, a restored 1930s villa shown to paying visitors as a wing of the family hospitality business, with no separate museum or foundation."
+public_sources: The Art Newspaper; grandhoteltremezzo.com
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Casabianca — a private collection run as a paying wing of a hospitality business, with no foundation at all

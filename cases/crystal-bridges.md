@@ -9,6 +9,27 @@ founder_status: living
 geography: Bentonville, AR
 outcome: thriving
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Bentonville, Arkansas since 2011."
+public_name: Crystal Bridges Museum of American Art
+public_founder: Alice Walton
+public_location: Bentonville, Arkansas
+public_founded: 2011
+public_structure: Independent nonprofit museum (family-controlled board), endowed by the Walton Family Foundation
+public_access: Open to the public (free admission)
+public_size: ~4,100 works; ~120-acre campus
+public_focus: American art from the colonial era to the present
+public_period: 18th century onward
+public_media: painting; sculpture; works on paper
+public_selected_artists: Asher B. Durand; Gilbert Stuart; Norman Rockwell
+public_pathway_timeline: 2011|build-institution|found-standalone-museum|Crystal Bridges opens in Bentonville with an $800M Walton Family Foundation endowment
+public_origin: "Alice Walton, daughter of Walmart founder Sam Walton, assembled a survey collection of American art and in 2011 opened Crystal Bridges in her hometown of Bentonville, Arkansas — a purpose-built Moshe Safdie complex set in about 120 acres of Ozark landscape, with free admission and an $800M founding endowment from the Walton Family Foundation."
+public_sources: crystalbridges.org; Encyclopedia of Arkansas
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 # Crystal Bridges Museum of American Art — the endowed-in-perpetuity founder museum
 

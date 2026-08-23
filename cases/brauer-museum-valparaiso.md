@@ -9,6 +9,26 @@ founder_status: n/a
 geography: Valparaiso, IN
 outcome: distressed
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Reopened on reduced public hours in November 2024 after a closure amid a deaccessioning controversy."
+public_name: Brauer Museum of Art (Valparaiso University)
+public_location: Valparaiso, Indiana
+public_founded: 1953
+public_structure: University art museum (Valparaiso University)
+public_access: Open on reduced public hours (as of 2024)
+public_focus: American art teaching collection, 19th–20th century
+public_movements: Hudson River School; American Impressionism; American Modernism
+public_period: 19th–20th century
+public_media: painting
+public_selected_artists: Frederic Edwin Church; Childe Hassam; Georgia O'Keeffe
+public_pathway_timeline: 1953|||Valparaiso University art collection established ;; 1982|||Current Brauer Museum building opens ;; 2023|sell|sell-private|University announces sale of three major paintings to fund dormitory renovations ;; 2024|||Museum closed, then reopened on reduced hours
+public_origin: "The Brauer Museum of Art grew from Valparaiso University's teaching collection, assembled over decades under founding director Richard Brauer and housed in its current building since 1982. In 2023 the university moved to sell three major American paintings — by Church, Hassam, and O'Keeffe — to fund dormitory renovations, over its founding director's objection; the museum closed in 2024 and reopened on reduced hours."
+public_sources: The Art Newspaper; ARTnews; Wikipedia
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Brauer Museum of Art — Valparaiso University, IN

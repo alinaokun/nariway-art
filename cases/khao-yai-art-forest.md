@@ -10,6 +10,27 @@ founder_status: living
 geography: Pong Ta Long, Nakhon Ratchasima, Thailand
 outcome: emerging
 verification: spot-verified
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open near Khao Yai National Park, Thailand since 2025."
+public_name: Khao Yai Art Forest
+public_founder: Marisa Chearavanont
+public_location: Nakhon Ratchasima, Thailand
+public_founded: 2025
+public_structure: Privately owned open-air museum
+public_access: Open to the public
+public_size: 161 acres
+public_focus: Land art and large-scale sculpture in a reforested landscape
+public_period: 21st century
+public_media: sculpture; installation; land art
+public_selected_artists: Louise Bourgeois; Richard Long; Elmgreen & Dragset
+public_pathway_timeline: 2022|||Marisa Chearavanont purchases the land ;; 2025|build-institution|found-art-park|Khao Yai Art Forest opens to the public
+public_origin: Marisa Chearavanont bought land near Khao Yai National Park in 2022 and, reforesting a former plantation, opened Khao Yai Art Forest in February 2025. The open-air site presents large-scale land art and sculpture within the landscape.
+public_sources: Wikipedia; ARTnews; Artnet
+hero_image_status: no_usable_image
+living_collector: true
+last_reviewed: 2026-08
 ---
 
 # Khao Yai Art Forest — the sample's first Southeast Asian case, and a genuinely new land-art variant funded from family wealth rather than an independent endowment

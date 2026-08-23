@@ -12,6 +12,27 @@ verification: spot-verified
 decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H3, H4, H8]
+public_page_eligible: true
+public_verified: true
+public_depth: expanded
+public_status_text: "Open in Hamilton, New Jersey since 1992."
+public_name: Grounds For Sculpture
+public_founder: J. Seward Johnson
+public_location: Hamilton, New Jersey
+public_founded: 1992
+public_structure: Independent nonprofit
+public_access: Open to the public
+public_size: 42 acres; 300+ outdoor sculptures
+public_focus: Contemporary sculpture
+public_period: 20th–21st century
+public_media: sculpture
+public_selected_artists: J. Seward Johnson; George Segal; Kiki Smith; Magdalena Abakanowicz; Beverly Pepper; Anthony Caro; Clement Meadmore; Boaz Vaadia
+public_pathway_timeline: 1992|build-institution|found-art-park|Grounds For Sculpture opens on the former New Jersey State Fairgrounds ;; 2000|build-institution|found-foundation|Converted to an independent nonprofit with its own board, two decades before the founder's death ;; 2020|||J. Seward Johnson dies
+public_origin: J. Seward Johnson, a Johnson & Johnson heir and figurative sculptor, opened Grounds For Sculpture on the former New Jersey State Fairgrounds in 1992 to make contemporary sculpture accessible to a general public. In 2000 he converted it into an independent nonprofit with its own board, twenty years before his death.
+public_sources: groundsforsculpture.org; Wikipedia; VisitNJ
+hero_image_status: no_usable_image
+living_collector: false
+last_reviewed: 2026-08
 ---
 
 # Grounds For Sculpture
