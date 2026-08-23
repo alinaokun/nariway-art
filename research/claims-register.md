@@ -273,6 +273,16 @@
 **Source:** [[market-intelligence]] #9 addendum (Chubb, 2026-07-16).
 **Use:** pairs with [[market-intelligence]] #10's wealth-manager finding (79% consensus art belongs in wealth management vs. 63%→51% actual offering) — a recurring demand/supply gap shape across two independent ecosystem domains (insurance, advisory), suggestive but not proof for H7B.
 
+### C50 · Art Fiduciary Advisors: first disclosed revenue figure for a boutique "independent collection legacy strategy" entrant — [DOC-secondary]
+**Canonical:** Art Fiduciary Advisors (Doug Woodham, ex-President of Christie's Americas, ex-McKinsey partner), a New York boutique explicitly positioned as a fiduciary "working in partnership with" a collector's existing attorney/tax team rather than earning transaction commission, reported **$2 million in revenue for 2026** [secondary, business-data aggregator (RocketReach/Adapt.io/Cience) via search synthesis, not a direct fetch of any filed financial statement — the firm is privately held and not required to disclose].
+**Source:** [[market-intelligence]] #10 addendum (2026-08-23).
+**Use:** the first real, if modest and unaudited, dollar figure attached to any of the boutique firms [[what-we-now-believe]] H7A flagged (2026-08-22) as independently testing paid demand for the pre-decision coordinator role. Not proof of H7B (willingness to pay at scale) — a single small firm's aggregator-reported revenue is directional at best — but the first time this evidence base has a number rather than only a name for that market signal. Treat as `secondary`/low-confidence; the founding date and client count remain unknown.
+
+### C51 · Family offices' art allocation and ownership interest — [DOC-secondary]
+**Canonical:** Per the Deloitte/ArtTactic Art & Finance Report 2023 (cited via trade-press synthesis, not a direct fetch), **87%** of family offices report interest in physical ownership of art, and high-net-worth collectors surveyed allocated an average of **20%** of total wealth to art, up from **15%** the year before.
+**Source:** [[market-intelligence]] #10 addendum (2026-08-23), citing Deloitte/ArtTactic Art & Finance Report 2023 via secondary trade coverage.
+**Use:** a demand-side family-office figure to weigh against the same domain's supply-side finding (wealth-manager art-service offering fell 63%→51%, C10 revised) — family-office *interest* in art ownership looks high and possibly rising, even as the *advisory service* wrapped around it recently retreated, sharpening rather than resolving the demand/supply gap this domain keeps surfacing.
+
 ---
 
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*

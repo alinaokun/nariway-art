@@ -60,6 +60,73 @@
   },
   "collections": [
     {
+      "slug": "0xcollection",
+      "publicDepth": "expanded",
+      "name": "0xCollection",
+      "founder": "Karel Komárek",
+      "location": "Basel, Switzerland (headquarters); international touring program",
+      "profile": {
+        "founded": 2023,
+        "structure": "Private contemporary art institution, philanthropically backed; no dedicated public venue",
+        "publicAccess": "Public via touring exhibitions and institutional partnerships (no permanent gallery)",
+        "currentState": "Active since 2023; a touring digital/new-media art institution with no fixed public venue.",
+        "size": "Unknown — collection scope not publicly disclosed"
+      },
+      "composition": {
+        "focus": "New media, digital, and time-based art",
+        "movements": [
+          "Digital art",
+          "new media art",
+          "AI-generated art",
+          "time-based media"
+        ],
+        "period": "1960–present",
+        "media": [
+          "digital art",
+          "video",
+          "installation",
+          "AI-generated art"
+        ],
+        "selectedArtists": [
+          "Refik Anadol"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "0xCollection founded in Basel with Karel Komárek's backing, under curator/director Elle Anastasiou",
+            "year": 2023,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Inaugural public exhibition in Prague, featuring a commissioned Refik Anadol work",
+            "year": 2023,
+            "familyId": "build-institution",
+            "codedPathway": "traveling-program"
+          },
+          {
+            "event": "Partnership exhibition at the Kennedy Center, Washington, D.C. — the federal institution's first digital-art exhibition",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "traveling-program"
+          }
+        ]
+      },
+      "origin": "Backed by Czech entrepreneur and philanthropist Karel Komárek, 0xCollection launched in Basel in 2023 as a new institution dedicated to developing and preserving new-media and digital art from 1960 to the present. Rather than building a museum, it operates as a touring, partnership-based platform, working with institutions such as the Kennedy Center to bring digital art into public exhibition spaces it does not own.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wikipedia",
+        "ARTnews",
+        "Outland Art",
+        "Kennedy Center"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "almaty-museum-of-arts",
       "publicDepth": "expanded",
       "name": "Almaty Museum of Arts (ALMA)",
@@ -1575,6 +1642,57 @@
       "livingCollector": true
     },
     {
+      "slug": "goodwood-art-foundation",
+      "publicDepth": "expanded",
+      "name": "Goodwood Art Foundation",
+      "founder": "Charles Gordon-Lennox, 11th Duke of Richmond",
+      "location": "Goodwood Estate, near Chichester, West Sussex, England",
+      "profile": {
+        "founded": 2025,
+        "structure": "UK non-profit foundation (charitable status unconfirmed)",
+        "publicAccess": "Open to the public, seasonal/ticketed on the estate",
+        "currentState": "Opened May 2025 on the Goodwood Estate; a new non-collecting contemporary-art foundation, separate from the family's centuries-old private collection.",
+        "size": "70-acre woodland site; no permanent collection (commissioned/rotating exhibitions)"
+      },
+      "composition": {
+        "focus": "Contemporary art, environment, and education",
+        "movements": [
+          "Contemporary sculpture and site-specific installation"
+        ],
+        "period": "2025–present",
+        "media": [
+          "sculpture",
+          "site-specific installation",
+          "land art"
+        ],
+        "selectedArtists": [
+          "Rachel Whiteread"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Goodwood Art Foundation opens on 70 acres of the estate with an inaugural Rachel Whiteread exhibition",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "The Dukes of Richmond have held a private Old Master collection (Canaletto, Reynolds, Romney, Stubbs, Van Dyck) at Goodwood for over 300 years. In 2025 the 11th Duke launched a separate, new non-profit foundation on the estate's woodland — not a display of the family's own historic holdings, but a public contemporary-art and education venue with no permanent collection of its own.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Sotheby's",
+        "Apollo Magazine",
+        "Historic Houses"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "grounds-for-sculpture",
       "publicDepth": "expanded",
       "name": "Grounds For Sculpture",
@@ -1632,6 +1750,72 @@
         "groundsforsculpture.org",
         "Wikipedia",
         "VisitNJ"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "herbert-lust-collection",
+      "publicDepth": "expanded",
+      "name": "Herbert Lust Collection",
+      "founder": "Herbert Lust",
+      "location": "Greenwich, Connecticut, USA",
+      "profile": {
+        "founded": "n/a",
+        "collectingBegan": "mid-20th century (multi-decade, exact start year unknown)",
+        "structure": "Personal collection, no institutional or foundation vehicle",
+        "publicAccess": "Not public during his lifetime (private collection); dispersing via museum gifts and estate auction",
+        "currentState": "Herbert Lust died May 2026, age 99; his estate's remaining ~300 works are being shopped between Christie's and Sotheby's for a 2026 sale.",
+        "size": "Estate remainder of approximately 300 works (~$60M estimated); thousands of works collected over his lifetime, with hundreds already given to museums before his death"
+      },
+      "composition": {
+        "focus": "Postwar and contemporary art, with concentrations in sculpture and photography",
+        "movements": [
+          "Postwar sculpture",
+          "modern photography"
+        ],
+        "period": "20th century",
+        "media": [
+          "sculpture",
+          "photography",
+          "painting"
+        ],
+        "selectedArtists": [
+          "Alberto Giacometti",
+          "Alexander Calder",
+          "Robert Indiana",
+          "Berenice Abbott",
+          "Henri Cartier-Bresson",
+          "Eugène Atget"
+        ],
+        "recipients": [
+          "Hirshhorn Museum and Sculpture Garden",
+          "Tel Aviv Museum of Art"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Lust donates 200+ photographs (Abbott, Cartier-Bresson, Atget and others) to the Hirshhorn Museum, and over 200 Giacometti works to the Tel Aviv Museum of Art, during his lifetime",
+            "year": "pre-2026",
+            "familyId": "disperse",
+            "codedPathway": "donate-existing-museum-scattered"
+          },
+          {
+            "event": "Following his May 2026 death, his estate's remaining ~300 works (~$60M estimated) are consigned for sale, contested between Christie's and Sotheby's",
+            "year": 2026,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Herbert Lust spent most of a century assembling a personal collection built on relationships with artists he knew directly, including Alberto Giacometti, Alexander Calder, and Robert Indiana, alongside deep photography holdings. Well before his 2026 death at 99, he had already given hundreds of works to museums, including the Hirshhorn and the Tel Aviv Museum of Art; the remainder of his estate is now being sold at auction.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ARTnews",
+        "Robb Report",
+        "Sotheby's"
       ],
       "lastReviewed": "2026-08"
     },
