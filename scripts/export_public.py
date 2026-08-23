@@ -136,7 +136,9 @@ def main():
         "generated": today,
         "taxonomy": TAXONOMY,
         "collections": collections,
-        "decisions": content.get("decisions", []),
+        # Decisions are not published (removed from the live site 2026-08-23); the
+        # authored data stays in content.json but is intentionally not exported.
+        "decisions": [],
         "topics": content.get("topics", []),
         "conversations": content.get("conversations", []),
     }
