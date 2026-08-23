@@ -62,6 +62,16 @@ def parse_timeline(v):
         events.append(ev)
     return events
 
+def parse_sections(v):
+    out = []
+    if not v:
+        return out
+    for chunk in v.split(" ;; "):
+        if " :: " in chunk:
+            h, b = chunk.split(" :: ", 1)
+            out.append({"heading": h.strip(), "body": b.strip()})
+    return out
+
 def project(path):
     fm = parse_frontmatter(open(path, encoding="utf-8").read())
     if not (truthy(fm.get("public_page_eligible")) and truthy(fm.get("public_verified"))):
@@ -90,6 +100,7 @@ def project(path):
     tl = parse_timeline(fm.get("public_pathway_timeline", ""))
     if tl: rec["classification"] = {"pathwayTimeline": tl}
     if fm.get("public_origin"): rec["origin"] = fm["public_origin"]
+    if fm.get("public_sections"): rec["sections"] = parse_sections(fm["public_sections"])
     rec["image"] = {"status": fm.get("hero_image_status", "no_usable_image")}
     if fm.get("public_sources"): rec["sources"] = as_list(fm["public_sources"])
     if fm.get("last_reviewed"): rec["lastReviewed"] = fm["last_reviewed"]

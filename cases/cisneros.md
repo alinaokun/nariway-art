@@ -27,7 +27,7 @@ public_media: painting; sculpture; works on paper
 public_selected_artists: Lygia Clark; Jesús Rafael Soto; Gego; Carlos Cruz-Diez; Hélio Oiticica; Alejandro Otero
 public_recipients: MoMA; Museo Nacional Centro de Arte Reina Sofía; Blanton Museum of Art (UT Austin); Museo de Arte Moderno de Buenos Aires; Museo de Arte de Lima; Bronx Museum of the Arts
 public_pathway_timeline: 1970s|||Collecting begins ;; 2016|give-institution|donate-existing-museum-scattered|~102 works gifted to MoMA, founding the Cisneros Institute for the Study of Art from Latin America ;; 2018|disperse|intentional-dispersal|200+ works by 91 artists gifted to six museums across the Americas and Europe
-public_origin: Patricia and Gustavo Cisneros began collecting Latin American art in the 1970s, building one of the world's foremost holdings, with a core in mid-century geometric abstraction. Rather than found a museum, Patricia Phelps de Cisneros chose deliberate dispersal, gifting works into the permanent collections of major existing institutions so that Latin American art enters the global canon. Gustavo Cisneros died in 2023; she remains an active collector.
+public_origin: Patricia and Gustavo Cisneros began collecting Latin American art in the 1970s, building one of the world's foremost holdings, with a core in mid-century geometric abstraction. Rather than found a museum, Patricia Phelps de Cisneros chose deliberate dispersal, gifting works into the permanent collections of major existing institutions so that Latin American art enters the global canon.
 public_sources: MoMA; The Art Newspaper
 hero_image_status: no_usable_image
 living_collector: true

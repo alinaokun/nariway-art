@@ -25,7 +25,7 @@ public_period: mid-20th century onward
 public_media: painting; sculpture
 public_selected_artists: Jean-Michel Basquiat; Jeff Koons; Cindy Sherman; Ed Ruscha; Roy Lichtenstein; Andy Warhol
 public_pathway_timeline: 1984|partner-institution|long-term-loan|Broad Art Foundation founded as a lending library ;; 2015|build-institution|found-standalone-museum|The Broad museum opens (free) in downtown Los Angeles
-public_origin: Eli and Edythe Broad built a large postwar and contemporary collection and, in 1984, created the Broad Art Foundation as a lending library, a deliberate alternative to warehousing art, lending thousands of works to museums worldwide. In 2015 they added their own free museum, The Broad, in downtown Los Angeles. The model has continued since Eli Broad's death in 2021.
+public_origin: Eli and Edythe Broad built a large postwar and contemporary collection and made it public chiefly through a lending library, a deliberate alternative to warehousing art, lending thousands of works to museums worldwide, alongside a free museum of their own. The model has continued since Eli Broad's death in 2021.
 public_sources: thebroad.org; ARTnews
 hero_image_status: no_usable_image
 living_collector: true

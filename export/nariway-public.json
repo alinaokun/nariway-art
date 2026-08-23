@@ -112,7 +112,7 @@
           }
         ]
       },
-      "origin": "The Andersons, a Bay Area family, built one of the foremost private collections of 20th-century American art over nearly 50 years. In 2011 they pledged 121 works to Stanford, and a purpose-built museum opened on campus in 2014, keeping the collection together and publicly accessible as a university gift rather than a standalone family museum.",
+      "origin": "The Andersons, a Bay Area family, built one of the foremost private collections of 20th-century American art over nearly 50 years, and gave it to Stanford as a university partnership rather than founding a standalone family museum.",
       "image": {
         "status": "no_usable_image"
       },
@@ -184,7 +184,7 @@
           }
         ]
       },
-      "origin": "Patricia and Gustavo Cisneros began collecting Latin American art in the 1970s, building one of the world's foremost holdings, with a core in mid-century geometric abstraction. Rather than found a museum, Patricia Phelps de Cisneros chose deliberate dispersal, gifting works into the permanent collections of major existing institutions so that Latin American art enters the global canon. Gustavo Cisneros died in 2023; she remains an active collector.",
+      "origin": "Patricia and Gustavo Cisneros began collecting Latin American art in the 1970s, building one of the world's foremost holdings, with a core in mid-century geometric abstraction. Rather than found a museum, Patricia Phelps de Cisneros chose deliberate dispersal, gifting works into the permanent collections of major existing institutions so that Latin American art enters the global canon.",
       "image": {
         "status": "no_usable_image"
       },
@@ -276,7 +276,7 @@
           }
         ]
       },
-      "origin": "Rosa and Carlos de la Cruz opened a free 30,000-square-foot private museum in Miami's Design District in 2009 to show their contemporary collection and support local artists. Rosa de la Cruz died in February 2024; the museum did not reopen, and the collection was consigned to auction, a first Christie's sale in May 2024 realizing about $34 million.",
+      "origin": "Rosa and Carlos de la Cruz built a contemporary art collection in Miami and opened it to the public as a free private museum in the Design District, a space also meant to support local artists.",
       "image": {
         "status": "no_usable_image"
       },
@@ -350,7 +350,7 @@
           }
         ]
       },
-      "origin": "Gap Inc. co-founders Donald and Doris Fisher built one of the largest US private collections of modern and contemporary art. A plan to open a standalone museum in San Francisco's Presidio met community opposition and was abandoned; in 2009 the family instead placed the collection on a long-term (later 100-year) renewable loan to SFMOMA, keeping ownership. Donald Fisher died weeks after the agreement; the collection has anchored SFMOMA's expanded galleries since 2016.",
+      "origin": "Gap Inc. co-founders Donald and Doris Fisher built one of the largest US private collections of modern and contemporary art, and chose to place it on long-term loan to a public museum rather than open a museum of their own.",
       "image": {
         "status": "no_usable_image"
       },
@@ -459,7 +459,7 @@
           }
         ]
       },
-      "origin": "Albert C. Barnes assembled his collection in the early twentieth century, with deep holdings of Impressionist, Post-Impressionist, and early Modern painting. In 1922 he chartered the Barnes Foundation as an educational institution and installed the works in fixed ensembles of his own arrangement in Merion. His trust set strict terms after his death, restricting whether works could be moved or loaned, how they were hung, and who could see them.",
+      "origin": "Albert C. Barnes assembled deep holdings of Impressionist, Post-Impressionist, and early Modern painting in the early twentieth century, and established an educational foundation, installing the works in fixed ensembles of his own arrangement. His trust set strict terms after his death, restricting whether works could be moved or loaned, how they were hung, and who could see them.",
       "image": {
         "status": "no_usable_image"
       },
@@ -514,7 +514,7 @@
           }
         ]
       },
-      "origin": "Eli and Edythe Broad built a large postwar and contemporary collection and, in 1984, created the Broad Art Foundation as a lending library, a deliberate alternative to warehousing art, lending thousands of works to museums worldwide. In 2015 they added their own free museum, The Broad, in downtown Los Angeles. The model has continued since Eli Broad's death in 2021.",
+      "origin": "Eli and Edythe Broad built a large postwar and contemporary collection and made it public chiefly through a lending library, a deliberate alternative to warehousing art, lending thousands of works to museums worldwide, alongside a free museum of their own. The model has continued since Eli Broad's death in 2021.",
       "image": {
         "status": "no_usable_image"
       },
@@ -567,14 +567,32 @@
       "classification": {
         "pathwayTimeline": [
           {
-            "event": "Chinati Foundation opens",
+            "event": "Begins renovating the former Fort D.A. Russell, with Dia Art Foundation support",
+            "year": "1978–79"
+          },
+          {
+            "event": "The Chinati Foundation is established",
             "year": 1986,
             "familyId": "build-institution",
             "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Donald Judd dies",
+            "year": 1994
           }
         ]
       },
-      "origin": "Donald Judd, dissatisfied with how museums rotated art in and out of view, wanted permanent installation. In the 1970s he moved to Marfa and, with Dia Art Foundation support, acquired the former Fort D.A. Russell, opening it in 1986 as the Chinati Foundation to hold a small number of works permanently.",
+      "origin": "Donald Judd, dissatisfied with how museums rotated art in and out of view, wanted permanent installation. In the 1970s he moved to Marfa and, with Dia Art Foundation support, made a permanent home for a small number of works on the site of a former army fort.",
+      "sections": [
+        {
+          "heading": "The installations",
+          "body": "Chinati holds large-scale work as permanent, unmovable ensembles rather than a rotating collection: Judd's own 100 works in mill aluminum and 15 in concrete, Dan Flavin's fluorescent installation across six former barracks, and John Chamberlain's sculptures downtown. Each work is installed in fixed relation to the buildings and the site."
+        },
+        {
+          "heading": "After the founder",
+          "body": "Judd was the sole decision-maker, acquiring the land, siting every work, and setting the foundation's mission before his death in February 1994. It has operated in substantially its founded form since, through successive directors."
+        }
+      ],
       "image": {
         "status": "no_usable_image"
       },

@@ -25,7 +25,7 @@ public_period: contemporary
 public_media: painting; sculpture; installation
 public_selected_artists: Ana Mendieta; Félix González-Torres; Jim Hodges
 public_pathway_timeline: 2009|build-institution|found-standalone-museum|Free 30,000-sq-ft private museum opens in Miami's Design District ;; 2024|sell|sell-auction|Founder Rosa de la Cruz dies; museum closed and the collection consigned to Christie's (May 2024 sale, 25 works, ~$34M)
-public_origin: Rosa and Carlos de la Cruz opened a free 30,000-square-foot private museum in Miami's Design District in 2009 to show their contemporary collection and support local artists. Rosa de la Cruz died in February 2024; the museum did not reopen, and the collection was consigned to auction, a first Christie's sale in May 2024 realizing about $34 million.
+public_origin: Rosa and Carlos de la Cruz built a contemporary art collection in Miami and opened it to the public as a free private museum in the Design District, a space also meant to support local artists.
 public_sources: WLRN; ARTnews; Christie's
 hero_image_status: no_usable_image
 living_collector: true

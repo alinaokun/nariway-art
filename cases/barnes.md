@@ -26,7 +26,7 @@ public_period: late 19th–early 20th century
 public_media: painting
 public_selected_artists: Renoir (179); Cézanne (69); Matisse (59); Picasso (46)
 public_pathway_timeline: 1922|build-institution|found-foundation|Chartered as an educational foundation in Merion ;; 2012|build-institution|found-standalone-museum|Relocated to Philadelphia by court order under cy pres
-public_origin: Albert C. Barnes assembled his collection in the early twentieth century, with deep holdings of Impressionist, Post-Impressionist, and early Modern painting. In 1922 he chartered the Barnes Foundation as an educational institution and installed the works in fixed ensembles of his own arrangement in Merion. His trust set strict terms after his death, restricting whether works could be moved or loaned, how they were hung, and who could see them.
+public_origin: Albert C. Barnes assembled deep holdings of Impressionist, Post-Impressionist, and early Modern painting in the early twentieth century, and established an educational foundation, installing the works in fixed ensembles of his own arrangement. His trust set strict terms after his death, restricting whether works could be moved or loaned, how they were hung, and who could see them.
 public_sources: barnesfoundation.org; Montgomery County Orphans' Court opinions
 hero_image_status: no_usable_image
 living_collector: false

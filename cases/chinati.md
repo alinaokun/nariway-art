@@ -28,8 +28,9 @@ public_movements: Minimalism
 public_period: 1960s onward
 public_media: sculpture; installation; light
 public_selected_artists: Donald Judd; Dan Flavin; John Chamberlain; Carl Andre; Ingólfur Arnarsson; Roni Horn; Robert Irwin; Ilya Kabakov; Richard Long; Claes Oldenburg & Coosje van Bruggen; David Rabinowitch; John Wesley
-public_pathway_timeline: 1986|build-institution|found-art-park|Chinati Foundation opens
-public_origin: Donald Judd, dissatisfied with how museums rotated art in and out of view, wanted permanent installation. In the 1970s he moved to Marfa and, with Dia Art Foundation support, acquired the former Fort D.A. Russell, opening it in 1986 as the Chinati Foundation to hold a small number of works permanently.
+public_pathway_timeline: 1978–79|||Begins renovating the former Fort D.A. Russell, with Dia Art Foundation support ;; 1986|build-institution|found-art-park|The Chinati Foundation is established ;; 1994|||Donald Judd dies
+public_origin: Donald Judd, dissatisfied with how museums rotated art in and out of view, wanted permanent installation. In the 1970s he moved to Marfa and, with Dia Art Foundation support, made a permanent home for a small number of works on the site of a former army fort.
+public_sections: The installations :: Chinati holds large-scale work as permanent, unmovable ensembles rather than a rotating collection: Judd's own 100 works in mill aluminum and 15 in concrete, Dan Flavin's fluorescent installation across six former barracks, and John Chamberlain's sculptures downtown. Each work is installed in fixed relation to the buildings and the site. ;; After the founder :: Judd was the sole decision-maker, acquiring the land, siting every work, and setting the foundation's mission before his death in February 1994. It has operated in substantially its founded form since, through successive directors.
 public_sources: chinati.org; Dia Art Foundation
 hero_image_status: no_usable_image
 living_collector: false
