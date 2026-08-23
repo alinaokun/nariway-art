@@ -31,6 +31,28 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-23 — Cloud run
+
+**Orientation:** heaviest today on institutions renegotiating their own ambitions against the money and politics actually available — a national museum quietly trading a purpose-built home for one it already owns, a tech fortune buying a shuttered art school back to life, and a shared campus letting several collectors each keep control of their own legacy pavilion — with the season's sharpest critique of the last big "museum for the people" experiment landing right as it prepares to open.
+
+**Lead**
+
+- **The Smithsonian's Latino museum may end up in a building it already owns, not the one Congress refused to fund.** After the House voted down the bill for a purpose-built site on the Mall in May, the Smithsonian is now weighing the 1881 Arts and Industries Building — sited between the Castle and the Hirshhorn — as the National Museum of the American Latino's home instead, sidestepping a fresh congressional fight but abandoning the board's own prior resolution to build new. A board decision is expected at the Aug 31 meeting. It's a federal-scale version of the exact tension every founder-museum in this universe eventually hits: the plan a founder (or, here, a board) first commits to is rarely the plan that survives contact with what actually gets funded. [ARTnews](https://www.artnews.com/art-news/news/smithsonian-latino-museum-arts-and-industries-building-1234795523/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/08/21/smithsonian-institution-latino-museum-arts-industries-building-washington)
+
+**What's happening**
+
+- **Art Omi is building a campus where 12 to 18 collectors and artists each get to design their own legacy pavilion.** The 190-acre Chatham, NY site — Susan and Michael Hort are among the first collectors participating — is a genuinely new pathway: not one founder's museum and not a dispersal, but shared land and infrastructure with each participant controlling their own structure, in collaboration with an architect of their choosing. Phase One opens June 2027. A multi-collector answer to the single-founder-museum model this brief tracks daily. → filed [[candidate-universe]]. [Art Omi Pavilions](https://artomipavilions.org/) · [archpaper](https://www.archpaper.com/2024/07/art-omi-debuts-new-architect-and-artist-designed-pavilions-in-chatham-new-york/)
+- **Catching up: Nvidia's Jensen Huang and his wife Lori gave $75M, their largest educational gift ever, to revive the shuttered California College of the Arts as a Vanderbilt-run art school.** Announced July 21 and caught late here, it's a different shape of tech wealth entering the art world than anything else in this universe — not a personal collection's museum or foundation, but money aimed at the pipeline that trains the next generation of artists and, eventually, collectors. Opens November 2027 as the Jen-Hsun and Lori Huang College of Art, Architecture and Design. → filed [[candidate-universe]]. [Vanderbilt](https://news.vanderbilt.edu/2026/07/21/vanderbilt-to-establish-the-jen-hsun-and-lori-huang-college-of-art-architecture-and-design-in-san-francisco/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/07/21/vanderbilt-university-california-college-arts-jensen-huang-gift)
+
+**Worth reading**
+
+- **"What happened to George Lucas's vision of a museum for 'the people'?" (The Art Newspaper, comment, Aug 10).** A pointed critique landing five weeks before the Lucas Museum's now-firm Sept 22 opening (this brief's lead two days ago): the museum's tiered membership and admission pricing, up to $600/year, sit uneasily against Lucas's own framing of narrative art as belonging to everyone. Worth holding against the opening-date excitement — the sharpest available counter-read on whether the museum will actually be the "people's" institution its founder describes. [The Art Newspaper](https://www.theartnewspaper.com/2026/08/10/comment-george-lucas-vision-lucas-museum-narrative-art-fundraising)
+
+**To see (escalating)**
+
+- **Phoenix Art Museum's *The Way We Came: A Century of Indigenous Art* opens Aug 26** — three days out. It's built around the William P. Healey Collection's 185-work gift, the largest gift of Native American art in the museum's 65-year history (99 artists, 44 tribal nations), assembled over a decade with Diné artist Tony Abeyta advising. A living collector's collection entering public life in real time — the exhibition runs through July 11, 2027. → filed [[to-see]]. [Phoenix Art Museum](https://phxart.org/phoenix-art-museum-receives-major-gift-indigenous-artworks/)
+- **Christie's Alan Medaugh Hiroshige preview is now 19 days out** (public preview Sept 11–14, sale Sept 15, 20 Rockefeller Plaza) — already on Alina's calendar for the Sept 12 preview; the continuing countdown. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+
 ### 2026-08-22 — Cloud run
 
 **Orientation:** heaviest today on collector-museums hitting their own milestones — a firm opening date for the year's biggest private museum, a founder-anniversary expansion in Buenos Aires, and a founder-era museum's timeline slipping after its founder's death — with Tim Schneider's best essay in weeks taking a hammer to the "great wealth transfer" story this whole beat has been leaning on.
