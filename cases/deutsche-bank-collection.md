@@ -14,8 +14,23 @@ interview_status: not-contacted
 hypotheses: [H3, H4, H7A]
 origin: corporate
 public_page_eligible: true
+public_verified: true
 public_depth: expanded
 public_status_text: "Closing its Berlin exhibition venue at the end of 2026; the collection continues on rotating loan to partner venues from 2027."
+public_name: Deutsche Bank Collection / PalaisPopulaire
+public_founder: Deutsche Bank AG (corporate collection; initiated by executive board member Herbert Zapp)
+public_location: Frankfurt (HQ) / Berlin (PalaisPopulaire), Germany
+public_collecting_began: 1979
+public_structure: Internal corporate art program (Deutsche Bank AG "Art & Culture" division)
+public_access: PalaisPopulaire open to the public in central Berlin through end of 2026, then rotating exhibitions at partner venues from 2027
+public_size: ~55,000–57,000 works on paper and photographs (figure contested across sources)
+public_focus: Contemporary drawings, prints and photography, principally post-1945
+public_period: 1945–present
+public_media: drawing; print; photography
+public_selected_artists: Joseph Beuys; Lucia Tallová (Artist of the Year, 2026)
+public_pathway_timeline: 1979|build-institution|hybrid|Deutsche Bank board member Herbert Zapp begins buying works on paper, seeded by 57 Beuys drawings ;; 1980|build-institution|hybrid|Collection formally established, anchored to the bank's 150th-anniversary narrative ;; 2018|build-institution|found-standalone-museum|PalaisPopulaire opens in the historic Prinzessinnenpalais, Unter den Linden, Berlin ;; 2020|pivot|hybrid|~200 modern works sold to fund new acquisitions ;; 2026|dispersal|hybrid|PalaisPopulaire closure announced; lease not renewed; closing festival Nov 19-22, 2026 ;; 2027|pivot|traveling-program|Collection continues via rotating exhibitions at partner venues; Artist of the Year award continues in a new roving format
+public_origin: In the late 1970s, Deutsche Bank executive Herbert Zapp began buying art for the bank, starting with 57 early drawings by Joseph Beuys. The collection grew into one of the largest corporate art collections in the world. In 2018 the bank opened PalaisPopulaire, a dedicated public exhibition venue in Berlin; in 2026 it announced the venue's closure at the end of the year, shifting from a fixed public building to a rotating-partnership model while keeping the collection intact.
+public_sources: Kunstforum International; Frieze; The Art Newspaper; Tagesspiegel; db.com
 hero_image_status: no_usable_image
 living_collector: false
 last_reviewed: 2026-08
@@ -25,18 +40,7 @@ last_reviewed: 2026-08
 
 *Coded to [[case-template]], adapted for `origin: corporate`. WebFetch was attempted once this session (art.db.com) and returned `EGRESS_BLOCKED`, consistent with every other corporate case in the sample; all figures below are WebSearch-snippet synthesis of trade press (Kunstforum International, Frieze, artnet, Tagesspiegel, The Art Newspaper), the bank's own public marketing pages (art.db.com, palaispopulaire.db.com), and one obituary trail (Handelsblatt, Monopol), tagged `secondary` throughout. Re-researched and rewritten 2026-08-22 to bring the file to full [[case-template]] compliance (public projection layer added) and to correct/sharpen the prior draft's closure rationale, governance detail, and founding-date claim against fresh search results. Distinctive for the report: this is a **live, in-progress transition** (the closure completes end of 2026) and, at ~55,000–57,000 works, the largest-scale instance yet of the "was it the building or the collection that stopped paying for itself" question this dataset already tracks through [[rubin-museum]], [[cam-raleigh]] and [[rauschenberg-foundation-hq]] — a corporate, leased-building version of a pattern so far seen only in US nonprofits that owned their real estate outright.*
 
-## Public profile
-*(export layer, per [[case-template]]; figures verify-to-grade before live export)*
-- **Public facts:** collecting began **1979**, collection formally established **1980** · Frankfurt (bank HQ) / Berlin (PalaisPopulaire) · structure: internal corporate art program (Deutsche Bank AG "Art & Culture" division) · public access: PalaisPopulaire open to the public in central Berlin through end of 2026, then rotating exhibitions at partner venues from 2027; the wider collection is otherwise displayed inside bank offices worldwide, not generally open to the public · size: **~55,000–57,000 works on paper and photographs** (figure contested across sources, see Gaps)
-- **Composition:** focus *contemporary drawings, prints and photography, principally post-1945* · period *1945–present* · media *drawing · print · photography* · selected_artists *Joseph Beuys (57 early drawings, the seed acquisition) · Lucia Tallová (Artist of the Year, 2026)* · recipients *(none — no dispersal)*
-- **Pathway timeline:**
-  - 1979–1980 — *Begin collecting* (n/a, pre-institutional) — Deutsche Bank board member Herbert Zapp begins buying works on paper, formally launching the collection in 1980
-  - 1997 — *Build public presence* (`found-standalone-museum`, informal) — an earlier Berlin exhibition concept for showing the collection publicly, predating PalaisPopulaire
-  - 2018 — *Build public presence* (`found-standalone-museum`) — PalaisPopulaire opens in the historic Prinzessinnenpalais, Unter den Linden, Berlin
-  - 2020 — *Refocus* (`hybrid`) — roughly 200 modern works sold to fund new acquisitions, described as refocusing, not retreat
-  - 2026 — *Divest the building* (`hybrid`) — PalaisPopulaire closure announced mid-2026; lease with the building's owner not renewed; closing festival Nov 19–22, 2026; venue closes end of 2026
-  - 2027 — *Continue via partners* (`traveling-program` / `long-term-loan`) — rotating exhibitions at partner venues; "Artist of the Year" award continues in a new roving format
-- **Origin:** In the late 1970s, Deutsche Bank executive board member Herbert Zapp — together with fellow board member Hermann J. Abs — began buying art for the bank, starting with 57 early drawings by Joseph Beuys. Zapp's guiding idea was unusual for a corporate collection at the time: works on paper could be hung throughout the bank's own offices, visible to staff and visitors, rather than locked away in storage or a single executive suite. The collection was formally established in 1980, a date the bank's own materials tie to the 150th anniversary of Deutsche Bank's 1870 founding in Berlin — itself a curated, PR-shaped founding date rather than a purely organic one. It grew from a German-focused program into a global one after 1990, eventually becoming one of the largest corporate art collections in the world, with a particular depth in works on paper and photography. In 2018 the bank opened PalaisPopulaire, a dedicated public exhibition venue in central Berlin, its first purpose-built public face for the collection; in 2026 it announced that venue's closure, framing the move as a shift from a fixed public building to a rotating-partnership model rather than a retreat from collecting or public exhibition altogether.
+*(Public projection fields are in the frontmatter above, per [[case-template]] — the single machine source the export reads.)*
 
 **Why in the sample:** the corporate, largest-scale test of the "building vs. collection" question this dataset has coded three non-corporate versions of already ([[rubin-museum]] strategic/well-capitalized, [[cam-raleigh]] distressed, [[rauschenberg-foundation-hq]] real-estate divestment) — arguably a genuine fifth point on that spectrum, distinguished by scale (a global bank, not a US nonprofit), by structure (PalaisPopulaire was leased from a third-party landlord, not owned — the closure follows a lease non-renewal, not a sale), and by the fact that the "collection" itself, unlike any of the other three, has no legal existence separate from its corporate owner to begin with. Tests H3 (does a large, well-resourced steward still find a dedicated standalone venue unsustainable?), H4 (a stated works-on-paper/photography thesis inside an otherwise broad-survey corporate holding), and H7A (the recurring corporate-case schema gap: no coded `decision_owner` value cleanly names "a healthy company's internal art-program leadership acting inside ordinary corporate discretion").
 

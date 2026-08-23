@@ -2,7 +2,7 @@
 
 Your brief with Toi. Always the current picture. Your daily check-in email is the debrief now; this page is the always-current dashboard, refreshed each morning.
 
-22 August 2026
+23 August 2026
 
 **The goal that governs everything: one million a year, minimum. The only unanswered question is whether anyone will pay. Every move below is measured against that.**
 
@@ -10,11 +10,9 @@ Your brief with Toi. Always the current picture. Your daily check-in email is th
 
 ## Your move
 
-The few things only you can do, ordered by how directly they move toward the goal. Each says why now and what to say, so nothing here is vague.
+The one thing the trigger-scan flagged today, why now, and what to say.
 
-1. **Delete one sentence the QA audit has now flagged five times running.** `marketing/what-becomes-of-great-art-collections.md` line 68 still says art-services adoption has "roughly doubled since 2011" — the exact causal reading the claims register forbids, since the real 2023→2025 trend reversed (63%→51%). The line just below it already has the correct framing; this is a two-minute copy-paste fix, not new research. → `company/qa-report.md` #1
-2. **Decide what "the conversation model is settled" means — the pause's own trigger passed two days ago and nothing has moved since.** Substack Notes were paused 8/17 until "3 to 5 conversations prove the spine." That count reached 6 on 8/21 (three published, three in motion) and both the CFO and CMO stewards have now flagged the undefined trigger four days running. → [[cmo-brief]] 8/21
-3. **The case dataset is now 73 of ~75**, up from 68 four days ago, closing in fast on the near-term target. Today's research also ran a fourth deliberate attempt to disconfirm "public ownership is not public access" — it narrowed the finding rather than broke it (Souls Grown Deep's curated placements sustain visibility where Vogel's blanket distribution didn't) — nothing needed from you, just flagging the shift. → [[what-we-now-believe]]
+1. **Send Leslie Anderson the two bridge questions today — the last recoverable window.** Her Conversation questions went out 2026-08-20; she is still drafting. The CFO steward asked three days running (8/20, 8/21, 8/22) for one short follow-up before her draft closes, and it still hasn't gone out. Matthew Erskine's equivalent window already closed unrecovered — Leslie is the only live conversation left that can carry this. Send via PR contact Jo Marie Hebeler: *"In your practice, how often does a family reach the point of deciding what happens to a significant collection — is this a recurring situation or a rare one?"* and *"Is there a family you're working with now where this is live?"* → `finance/cfo-brief.md` 2026-08-22
 
 *([[work-log]] is a location-only tax record, default Montvale, no action needed unless you work out of state.)*
 
