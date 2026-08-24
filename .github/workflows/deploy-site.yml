@@ -1,0 +1,57 @@
+name: Deploy site on export change
+
+# Fires whenever export/nariway-public.json changes on main (the cloud research
+# agents regenerate it each run) and pings the nariway-rebuild site's deploy hook,
+# which re-pulls the JSON and rebuilds. Closes the vault -> site publish gap so the
+# live Collection Index tracks the export automatically. See collection-index-build-brief.md §9.
+#
+# ONE-TIME SETUP (done in the host + GitHub, not in this repo):
+#   1. In the host where nariway-rebuild deploys (Vercel / Netlify / Cloudflare Pages),
+#      create a "deploy hook" for the production build and copy its URL.
+#   2. In THIS repo: Settings -> Secrets and variables -> Actions -> New repository secret
+#      named SITE_DEPLOY_HOOK, pasted with that URL.
+# Until the secret exists the workflow runs but safely skips (no failure).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'export/nariway-public.json'
+  workflow_dispatch: {}   # manual "Run workflow" button for an on-demand deploy
+
+concurrency:
+  group: site-deploy
+  cancel-in-progress: true   # if several exports land close together, only the newest deploys
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate export before deploying
+        run: |
+          python3 - <<'PY'
+          import json
+          d = json.load(open('export/nariway-public.json', encoding='utf-8'))
+          n = len(d.get('collections', []))
+          assert n > 0, "export has zero collections — refusing to deploy a broken site"
+          print(f"export OK: {n} collections, generated {d.get('generated')}")
+          PY
+
+      - name: Trigger site rebuild
+        env:
+          HOOK: ${{ secrets.SITE_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "SITE_DEPLOY_HOOK is not set yet — skipping deploy (workflow is wired, secret is pending)."
+            echo "Add it under Settings -> Secrets and variables -> Actions to turn auto-deploy on."
+            exit 0
+          fi
+          echo "Triggering nariway-rebuild deploy..."
+          code=$(curl -sS -X POST -o /dev/null -w "%{http_code}" "$HOOK")
+          echo "Deploy hook responded: HTTP $code"
+          case "$code" in
+            2*) echo "Deploy triggered — the site will rebuild from the latest export." ;;
+            *)  echo "Deploy hook returned non-2xx ($code) — check the hook URL."; exit 1 ;;
+          esac
