@@ -4,14 +4,14 @@ Built from Alina's **actual Artobiography posts**, her own words, following the 
 
 *(These draw from her published artist-life essays. As Artobiography moves toward the collection-legacy angle, new Notes will draw from that, but her real, quotable content today is the artist stories, and they sound like her.)*
 
-**Fixed 2026-08-17 (QA finding #6):** all four closings rewritten to end on a concrete fact or image, not a manufactured moral, a two-picture metaphor, or a link CTA. Ready to post as drafted.
+**Fixed 2026-08-17 (QA finding #6), corrected 2026-08-24:** the 8/17 fix missed two of the four. QA's 8/23 audit caught Rockwell and Magritte still closing on a manufactured moral ("were made by a man in real pain"; "never be sure what it meant"); both cut now, each ends on the prior concrete fact. All four verified clean this pass. Ready to post as drafted.
 
 ---
 
 **1. Norman Rockwell** — from "Painting Happiness Through Depression with Norman Rockwell"
 > When Norman Rockwell checked himself into a psychiatric facility in the 1950s, millions of Americans had his cheerful paintings hanging on their walls.
 >
-> He spent his life battling a darkness he was painting his way out of. The covers everyone remembers as pure comfort were made by a man in real pain.
+> He spent his life battling a darkness he was painting his way out of.
 
 ---
 
@@ -37,8 +37,6 @@ Built from Alina's **actual Artobiography posts**, her own words, following the 
 > Magritte was fourteen when his mother drowned herself in the Sambre River.
 >
 > For the rest of his life he painted faces you cannot quite see, and objects that refuse to explain themselves.
->
-> He wanted you to stand in front of a picture and never be sure what it meant.
 
 ---
 
