@@ -15,7 +15,7 @@ Each: value · exact claim it supports · governing source · confidence · word
 
 | # | Data point | Exact claim it supports | Governing source | Confidence | Wording limitation |
 |---|---|---|---|---|---|
-| DP1 | **~$992B** of art **and collectibles** could change ownership globally over ~a decade | The scale of the art-and-collectibles transition; computed 5% × $19.84T (UHNW share of a ~$31T transfer) | Deloitte Private/ArtTactic Art & Finance Report 2025 ([[claims-register]] C1) | **DOC-primary** | NOT "$992B of art will be sold"; NOT "$992B of fine art"; no regional split; not "scales by value band". It is rotation by inheritance, not art coming to market. |
+| DP1 | **~$992B** of art **and collectibles** could change ownership globally over ~a decade | The scale of the art-and-collectibles transition; computed 5% × $19.84T (UHNW share of a ~$31T transfer) | Deloitte Private/ArtTactic Art & Finance Report 2025 ([[claims-register]] C1) | **DOC-primary** ✓ | NOT "$992B of art will be sold"; NOT "$992B of fine art"; no regional split; not "scales by value band". Say **"largely ownership rotation by inheritance, not necessarily art coming to market"** — Deloitte's own phrase is the neutral "change hands," so "NOT coming to market" is an interpretation, not a verbatim claim. |
 | DP2 | **Three non-comparable totals** (Deloitte ~$31T global/decade · Cerulli $124T US/through 2048 · UBS ~$83T global/20–25yr) | There is no single "wealth transfer" figure | Deloitte; Cerulli; UBS ([[claims-register]] C36) | **FINDING** | Must NOT be summed, rounded into one another, or called convergent. This is the integrity centerpiece. |
 | DP3 | UHNW art & collectibles holdings **≈$2.56T (2024) → ≈$3.47T (2030)** | The size and growth of the at-risk stock of art | Deloitte ([[claims-register]] C9) | DOC-secondary | Holdings, not a market or transaction figure. |
 | DP4 | **~$54T** passes first between spouses, **>95% to women** (US) | The first post-inheritance decision-maker is frequently a surviving wife, not a younger heir | Cerulli ([[claims-register]] C8) | DOC-secondary | US-specific; the $124T US total (through 2048) is a separate figure. |
@@ -63,13 +63,15 @@ Deloitte Private/ArtTactic *Art & Finance Report 2025* (DP1, DP3) · Cerulli Ass
 ## Living-reference update triggers (the maintainable dimension)
 Refresh when a new edition lands of: Deloitte/ArtTactic Art & Finance Report · Art Basel/UBS Survey of Global Collecting · Knight Frank Wealth Report · UBS Global Wealth / Next Generation Report · Cerulli transfer estimates. These are already on the [[nariway-signals]] watch, so the page has a built-in update feed. Each refresh re-checks the wording limitations, not just the numbers.
 
-## Verification checklist (gates publish; being confirmed now)
-- [ ] DP1 / C1 — confirm $992B, the 5%×$19.84T computation, and the transfer-not-sale framing (already DOC-primary; re-confirm edition).
-- [ ] DP2 / C36 — confirm the three totals and their incompatibility.
-- [ ] DP3 / C9 — confirm $2.56T→$3.47T.
-- [ ] DP4 / C8 — confirm $54T spousal and >95%-to-women.
-- [ ] DP5 / C34 — **elevate toward primary** (Knight Frank, UBS); confirm the two populations.
-- [ ] DP6 / C35 — **elevate toward primary** (Art Basel/UBS); confirm the adjacent-categories caveat.
-- [ ] DP7 / C3, C12 — confirm retention ~72% and intent ~80%.
+## Verification checklist — COMPLETE (GWT anchor refresh, 2026-08-24)
+- [x] DP1 / C1 — confirmed; $992B, the 64%/$19.8T/$31T breakdown corroborates the 5%×$19.84T derivation; "5%" is a derived ratio, not a quoted Deloitte statistic. Wording softened (above).
+- [x] DP2 / C36 — confirmed; three incompatible totals (Deloitte $31T / Cerulli $124T / UBS $83T). **Guard added:** keep the UBS $83T family (and stray $84.4T / $35.8T figures) distinct from Deloitte's $31T — they are conflated in some art-market commentary.
+- [x] DP3 / C9 — confirmed ($2.174T 2022 → $2.564T 2024 → ~$3.473T 2030).
+- [x] DP4 / C8 — confirmed to **primary** (Cerulli reached directly): $54T inter-spousal to widows, >95% to women; $124T US total through 2048.
+- [x] DP5 / C34 — confirmed (Knight Frank 713,626 UHNWIs/US 35%; UBS ~57.5M millionaires/US >40%); two different populations, do not sum. (Secondary; primary PDFs consistent across outlets.)
+- [x] DP6 / C35 — confirmed (74% Millennial/Gen Z; women +46% 2024; younger buy adjacent categories — Art Basel editorial reached directly).
+- [x] DP7 / C3, C12 — retention ~72% / intent ~80% stand (register, unchanged).
+
+**Publish status:** all seven data points verified. DP5/DP6 remain DOC-secondary (their primary PDFs were consistent across outlets but not text-extracted); editorial decision needed on whether to publish them as survey-secondary or hold — everything else is primary or near-primary.
 
 *Stops before visual design (no layout, palette, typography, or drawn charts). For review before the page is designed or written.*

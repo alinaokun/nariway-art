@@ -138,13 +138,13 @@ Chosen so that each demonstrates a **different form of Nariway research** — th
 ## Part 4 — Prioritized research queue (what to assign agents next)
 Ordered so launch entries unblock first, then positioning-critical holes, then the long front-end investment. **Egress note:** several P1 items need *primary* documents (statutes, IRS PDFs, the FAJ paper); cloud WebFetch is blocked, so assign these to a local session or WebSearch-confirmable secondary until a primary fetch is possible.
 
-**P1 — unblocks the launch set (do first):**
-1. **Verify the 2026 tax provisions against primary text** — OBBBA estate/gift exemption (C23), 0.5% AGI charitable floor (C24), fractional-gift clawback (C25). Currently advisory-firm interpretation. *Serves: Estate Planning.*
-2. **Read the FAJ "emotional yields" paper directly** (Dimson/Pukthuanthong/Vorsatz) to upgrade C16 to primary and fix the return-drag-vs-cash framing. *Serves: Cost of Keeping.*
-3. **Pull the latest IRS Art Advisory Panel Federal Register report** to confirm C31 and get current-year adjustment figures; verify USPAP percentage-fee language (C30). *Serves: Valuing.*
-4. **Verify Partner-pathway deal terms** for Fisher/SFMOMA, Anderson/Stanford, Broad, Thoma, Ogden, Weisman against primary/press for the comparison table. *Serves: Partnering.*
-5. **Confirm governance/990 figures** for Terra, Corcoran, Dia, Barnes, McNay, Poldi Pezzoli, Gardner, Norton Simon (independent-board status; net-assets-to-opex; pull Schedule D endowment where possible). *Serves: Governance.*
-6. **Verify the Souls Grown Deep exhibition record** and re-confirm the Vogel "no follow-up audit identified" status. *Serves: Ownership Is Not Access.*
+**P1 — COMPLETE (verified 2026-08-24; results in [[claims-register]]):**
+1. ✓ **2026 tax provisions** — confirmed to **primary** statute (C23 §2010(c)(3)/OBBBA; C24 §170(b)(1)(I); C25 §170(o)). Corrections folded in: 2026 exemption is a flat $15M (indexing starts 2027, prefer "no scheduled sunset"); the 0.5% floor is on "contribution base" and the 60% ceiling is **cash-only, not art**; §170(o) requires "substantial physical possession," not "proportional to share." *Estate Planning.*
+2. ✓ **FAJ emotional-yields paper** — confirmed to **primary** (C16 upgraded). **Key correction:** 2.6% is the all-collectibles average; **fine art specifically is ~2.28%** — the entry must not attribute 2.6% to art. *Cost of Keeping.*
+3. ✓ **IRS Art Advisory Panel + USPAP** — **C31 had a year error** (its "FY2023" figures were FY2018); corrected to real FY2023 (195 items, 37 cases, $795.5M, 47% adjusted, −$16.9M; 89 FR 82303). C30 confirmed to primary (Treas. Reg. §1.170A-17). *Valuing.*
+4. ✓ **Partner deal terms** — verified; the Fisher 720-vs-1,100 discrepancy resolved (720+ on loan / ~1,100 full collection); three archetypes recorded as new claim **C53**. *Partnering.*
+5. ✓ **Governance/990 figures** — verified from Form 990s; **C4 (McNay 9.3×) holds** and its endowment is now separable ($68.9M, ~6.4× endowment-only); durability ratios + governance recorded as new claim **C54**. *Governance.*
+6. ✓ **Souls Grown Deep / Vogel** — verified; **one correction:** SGD program began **~2010 (first gifts 2014/2017), not "since 2016."** Vogel structure confirmed; audit gap held as "no audit identified in our research." *Ownership Is Not Access.*
 
 **P2 — positioning-critical holes that also strengthen the launch set's cross-links:**
 7. **Receiving-side evidence ("will a museum take it?")** — quantify the real decline rate and drivers for *arm's-length* collectors (H2 currently rests on the 90–95% quote, C17); incorporate Leslie Anderson; diary the Penn Cultural Heritage Center National Survey (results 2027). *Unblocks a strong 8th entry.*
