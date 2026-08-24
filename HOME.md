@@ -2,7 +2,7 @@
 
 Your brief with Toi. Always the current picture. Your daily check-in email is the debrief now; this page is the always-current dashboard, refreshed each morning.
 
-23 August 2026
+24 August 2026
 
 **The goal that governs everything: one million a year, minimum. The only unanswered question is whether anyone will pay. Every move below is measured against that.**
 
@@ -10,9 +10,9 @@ Your brief with Toi. Always the current picture. Your daily check-in email is th
 
 ## Your move
 
-The one thing the trigger-scan flagged today, why now, and what to say.
+This week's one move (from the Monday Nariway Weekly advisor run).
 
-1. **Send Leslie Anderson the two bridge questions today — the last recoverable window.** Her Conversation questions went out 2026-08-20; she is still drafting. The CFO steward asked three days running (8/20, 8/21, 8/22) for one short follow-up before her draft closes, and it still hasn't gone out. Matthew Erskine's equivalent window already closed unrecovered — Leslie is the only live conversation left that can carry this. Send via PR contact Jo Marie Hebeler: *"In your practice, how often does a family reach the point of deciding what happens to a significant collection — is this a recurring situation or a rare one?"* and *"Is there a family you're working with now where this is live?"* → `finance/cfo-brief.md` 2026-08-22
+1. **Send Leslie Anderson the two bridge questions today — the last recoverable window.** Her Conversation questions went out 2026-08-20; she is still drafting. The CFO steward asked three days running (8/20, 8/21, 8/22) for one short follow-up before her draft closes, and it still hasn't gone out. Matthew Erskine's equivalent window already closed unrecovered — Leslie is the only live conversation left that can carry this. Send via PR contact Jo Marie Hebeler: *"In your practice, how often does a family reach the point of deciding what happens to a significant collection — is this a recurring situation or a rare one?"* and *"Is there a family you're working with now where this is live?"* → [[weekly-brief]] 2026-08-24
 
 *([[work-log]] is a location-only tax record, default Montvale, no action needed unless you work out of state.)*
 

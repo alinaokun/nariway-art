@@ -7,4 +7,4 @@
 ## Log (newest first — the Monday run prepends here)
 <!-- The weekly-advisor routine prepends: "- **YYYY-MM-DD — This week's move:** <the one action most likely to move toward a first client>." -->
 
-(No entries yet. The first Monday run has no prior move to check and will say so.)
+- **2026-08-24 — This week's move:** Send Leslie Anderson the two bridge questions today, via PR contact Jo Marie Hebeler, before her draft closes for good (drafting since 2026-08-20, three straight CFO-steward nudges unactioned).
