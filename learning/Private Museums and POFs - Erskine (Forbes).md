@@ -1,4 +1,5 @@
 ---
+type: reading
 kind: resource
 topic: structure / control / private museums / tax
 priority: important
