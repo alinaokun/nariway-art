@@ -31,6 +31,34 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-24 — Cloud run
+
+**Orientation:** heaviest today on the difference between institutions with someone actually driving stewardship and institutions with no one accountable at all — a federal Indigenous art collection that has quietly lost track of 111 works, set against an artist foundation opening its archive right on schedule and a market quietly normalizing shared ownership as the answer to prices no single museum can meet alone.
+
+**Lead**
+
+- **Canada's federal Indigenous Art Centre still can't find 111 works, two years after the audit that first flagged them missing.** The collection — 5,000+ pieces by First Nations, Métis, and Inuit artists including Norval Morrisseau, Christi Belcourt, and Kent Monkman, valued around C$14.4M — was audited in 2024 and found to be missing 132 works; 17 have since been resolved (six located in storage, 11 revealed as duplicate database entries), leaving 111 genuinely unaccounted for, most apparently loaned to government offices in the 1980s and never tracked back. No evidence of wrongdoing, just decades of nobody owning the file. It's the negative case for everything else this brief tracks: every collector-museum and foundation here has a living founder or a board fighting to keep the story straight; a collection with no single accountable steward just quietly loses track of itself. [CBC News](https://www.cbc.ca/news/indigenous/federal-indigenous-art-collection-has-over-100-artworks-not-accounted-for-9.6991022) · [The Art Newspaper](https://www.theartnewspaper.com/2026/08/21/canada-federal-indigenous-art-collection-111-works-unaccounted-for)
+
+**What's happening**
+
+- **The Wolf Kahn Foundation opens a permanent public archive today, a year ahead of the painter's centennial.** By appointment at 134 West 26th Street, it's the first designated scholarship center for Kahn's work — early studies, letters, lectures, and photographs, run by his longtime friend Ellen McCulloch-Lovell. Small next to the museums this brief usually leads with, but the same mechanics in miniature: an artist foundation converting a private archive into standing public infrastructure, timed deliberately to an anniversary. → filed [[candidate-universe]]. [Hyperallergic](https://hyperallergic.com/wolf-kahn-foundation-opens-new-space-in-nyc/) · [Wolf Kahn Foundation](https://wolfkahnfoundation.org/archives/)
+- **Museums are increasingly buying expensive art jointly rather than competing for it.** The Met and the Cleveland Museum split a cache of 18th-century Chinese prints; London's National Portrait Gallery shared a $3.2M William Dobson portrait with Tate; the Frans Hals Museum and the Mauritshuis jointly acquired two Frans Hals paintings — *Boy Playing the Violin* and *Girl Singing* — out of the Jordan and Thomas A. Saunders private collection. Rising prices and tighter acquisition budgets are quietly normalizing shared ownership as the default for trophy material, a real shift from a century of museums competing head-to-head for the same objects, and a new answer to where a dispersing private collection's best pieces actually land. [Artnet](https://news.artnet.com/art-world/why-museums-are-teaming-up-to-buy-art-2790092)
+
+**Worth reading**
+
+- **Roland-Philippe Kretzschmar, "Prestige Machines" (The Art Bystander, Aug 22).** The fourth in a five-part series on cultural capital, arguing that fairs, biennials, prizes, and rankings don't just recognize prestige, they manufacture it — infrastructure worth understanding before taking any institution's stated ambitions (a Smithsonian board vote, a fair's new acquisition prize) at face value. [The Art Bystander](https://theartbystander.substack.com/p/prestige-machines-art-fairs-biennials)
+- **Center for Art Law's August *Term of Art*.** This month's roundup flags that the Institute of American Indian Arts — the only four-year school dedicated to contemporary Indigenous art, ~$13M in federal funding over two years — could lose all of it if the FY2026 budget passes as proposed; also notes the MFA Boston's continuing handback of Benin material to Nigeria. Useful company for today's lead: two more data points on how thin institutional stewardship of Indigenous and non-Western collections can get without a dedicated funder behind it. [Center for Art Law](https://itsartlaw.org/newsletters/term-of-art-august/)
+
+**To see (escalating)**
+
+- **Phoenix Art Museum's *The Way We Came: A Century of Indigenous Art* opens in two days, Aug 26** — built around the William P. Healey Collection's 185-work gift, the largest gift of Native American art in the museum's 65-year history. → [[to-see]]. [Phoenix Art Museum](https://phxart.org/phoenix-art-museum-receives-major-gift-indigenous-artworks/)
+- **Christie's Alan Medaugh Hiroshige preview is now 18 days out** (public preview Sept 11–14, sale Sept 15, 20 Rockefeller Plaza) — already on Alina's calendar for the Sept 12 preview. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+
+**For the record**
+
+- **The Art Newspaper has a new global editor-in-chief: Benjamin Sutton**, promoted from Americas editor to oversee the paper's worldwide editorial strategy, effective Aug 20. Worth a note given how much of this brief's daily sourcing runs through that paper. [The Art Newspaper](https://www.theartnewspaper.com/2026/08/21/amtd-appoints-benjamin-sutton-global-editor-chief-the-art-newspaper)
+- **Powerhouse Parramatta, Sydney's A$915M new museum, has a firm opening date: Nov 7.** Billed as Australia's biggest cultural project since the Opera House, it includes an A$75M philanthropic contribution and a new dedicated collection-storage facility at Castle Hill — a public-museum build at a scale and funding mix worth keeping in view alongside this brief's private-collector museums. [ABC News](https://www.abc.net.au/news/2026-08-15/nsw-powerhouse-parramatta-to-open-november-7/107041612)
+
 ### 2026-08-23 — Cloud run
 
 **Orientation:** heaviest today on institutions renegotiating their own ambitions against the money and politics actually available — a national museum quietly trading a purpose-built home for one it already owns, a tech fortune buying a shuttered art school back to life, and a shared campus letting several collectors each keep control of their own legacy pavilion — with the season's sharpest critique of the last big "museum for the people" experiment landing right as it prepares to open.
