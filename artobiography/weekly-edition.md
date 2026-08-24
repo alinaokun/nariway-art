@@ -17,25 +17,32 @@ The interview engine does not scale to a weekly cadence, and it leans on the one
 ## The format (an intelligence brief, not a creator newsletter)
 Borrow the weekly-digest *structure* (habit without an essay), not the substance. More restrained and sophisticated than a typical Substack roundup. It should read like a brief from an elegant research institution.
 
-**Hierarchy, not a template (the correction that matters most).** Do NOT run the same story → explanation → interpretation block three-to-five times. Repetition is what makes a newsletter read as machine-generated even when every sentence is fine. Write it the way an editor would, deciding what is most important this week, what else the reader should know, and whether a pattern is worth naming. That produces three tiers of weight:
+**Numbered hierarchy, not a template (the correction that matters most).** Do NOT run the same story → explanation → interpretation block three-to-five times. Repetition is what makes a newsletter read as machine-generated even when every sentence is fine. Model it on an elegant intelligence letter, not an art-news roundup (the Art Newspaper email was the reference for the *logic*, not the look — Artobiography cannot lean on photography, so hierarchy comes from scale, spacing, numbering, and restrained rules). Three weight bands, numbered so the reader feels the progression:
 
 ```
-Artobiography
+ARTOBIOGRAPHY
 The changing lives of remarkable art collections
-No. 01 · August 28, 2026
+[date]
 
-[Lead headline]
-The one development that most deserves attention. ~200–300 words: facts,
+01
+[Lead headline — large]
+The one development that most deserves attention. ~200–250 words: facts,
 context, at most one restrained observation. A link to the Collection record.
 
-Elsewhere
-[Sub-headline]  A second-tier item, ~75–150 words, mostly factual.
-[Sub-headline]  Another, ~75–150 words.
-[Sub-headline]  A shorter one, ~75–100 words.
+THIS WEEK
+02  [Sub-headline — smaller]   ~100–150 words, mostly factual.
+03  [Sub-headline]             ~100–150 words.
+04  [Sub-headline]             ~100–150 words.
 
-In brief
-[Bold lead-in.] One to three sentences. The developments that deserve a
-mention, not an entry.
+IN BRIEF
+[Bold lead-in]  Two or three sentences. Developments that deserve a mention,
+[Bold lead-in]  not an entry.
+[Bold lead-in]
+
+FROM THE NARIWAY INDEX
+[One collection — name, place, one descriptor line, "View collection →"]
+Understated, not necessarily tied to the week's news. The standing bridge to
+the permanent research. Rotate the pick weekly; dozens of live records exist.
 
 —
 Artobiography is published by Nariway.
@@ -43,6 +50,10 @@ Collections · Nariway · About
 ```
 
 No "Happy Friday." No personal warm-up. No five lessons. No inspirational close. No manufactured theme stitching unrelated events together. **No mandatory "why this matters" paragraph after every item** — most items carry their own weight as facts, and only the lead earns a restrained observation. If a significance line feels constructed, cut it; let the fact stand.
+
+**No artificial categories.** THIS WEEK and IN BRIEF are weight bands, not topics. Do NOT force items into Museums / Succession / Giving / Sales — some weeks a category would be empty. The editorial selection decides the issue's shape.
+
+**Substack-email-native, not a web layout.** The issue must render unchanged in Gmail, Apple Mail, mobile clients, the Substack app, and the web. Use only Substack's native elements: its two heading sizes (large for the lead, smaller for 02–04 and the section labels), bold, italics, horizontal rules, links. No custom HTML, no cards, no colored backgrounds, no multi-column layouts. The numerals render plain (no small-caps or letter-spacing); proportion and white space carry the hierarchy. The test: **the reader can understand the whole issue by scrolling.**
 
 **The footer is editorial only, no advisory pitch (changed 2026-08-24).** The earlier "For collectors considering what comes next … Learn about our work" bridge is removed. It is premature to make every editorial product sell the unvalidated advisory, and editorial independence is worth more commercially than the bridge — it builds authority without reminding the reader you want their business. If the publication starts attracting attorneys, family-office people, collectors, and journalists, their behavior teaches us; the commercial bridge can become explicit later, once earned.
 
@@ -52,10 +63,11 @@ Signals is an **internal research input.** It uses absolute internal cadence tha
 - "the sharpest form-level answer in the universe right now"
 Those are useful private observations and exactly the [[ai-tells|AI-absolute cadence]] we strip from anything public. The reader does not need to be told something is profound. **The reader can see why it is interesting.** All the standing voice rules apply (no em dashes, no colons in prose, no *And/But* sentence starts, no hedging, no cheap intensifiers, no emojis).
 
-**Worked example — Canyon, as an "Elsewhere" item (Signals input → published):**
+**Worked example — Canyon, as a "This Week" item (Signals input → published):**
 
-> **A museum designed for slow art**
-> Canyon opens this fall on Manhattan's Lower East Side, a space the collector Robert Rosenkranz has built for video, sound, and performance, work that asks for more time than a painting does. Joseph Thompson, the founding director of MASS MoCA, will run it as something between a museum, a performance venue, and a place to spend an evening, with late hours and real hospitality. Rosenkranz already shows work of this kind inside his own home, and Canyon extends that into a public building shaped around how the art wants to be seen.
+> **02**
+> **A museum designed around time**
+> Canyon opens this fall on Manhattan's Lower East Side, a space the collector Robert Rosenkranz has built for video, sound, and performance, the kind of work that asks for more time than a painting does. Joseph Thompson, the founding director of MASS MoCA, will run it as something between a museum, a performance venue, and a place to spend an evening, with late hours and real hospitality. Rosenkranz already shows work of this kind inside his own home, and Canyon extends that into a public building shaped around how the art wants to be seen.
 
 Note the discipline: the item explains itself through facts and stops. It does not append a paragraph announcing why it matters. The earlier draft's "the institution is being shaped around the way the collection needs to be experienced" was a constructed significance line of exactly the kind to cut.
 
