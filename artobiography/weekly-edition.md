@@ -91,6 +91,8 @@ The agents do not write the newsletter. They prepare an **editorial docket**, an
 3. **Claude drafts only the selected items**, in the hierarchy above (lead / Elsewhere / In brief), and stages the edition for her review.
 
 - **Production stays in this vault** (the docket needs the corpus and the feedback loop). Presentation is elsewhere.
+
+**Live routine (created 2026-08-24).** The Thursday docket runs as cloud routine `trig_01TAVXaSwci5XMzoBhtxZQ9g` ("Artobiography weekly docket (Thursdays)"), cron `0 11 * * 4` (7am ET; 6am in winter, the UTC hour is fixed). It emails ~12 candidates to alina@nariway.com via the `.mail/outbox/docket.json` pipeline and commits the docket to `artobiography/dockets/<date>.md`. It does not draft or send the newsletter. For every docket item to link back to a Nariway collection, the database has to be broad, which is what the founder-driven [[intake-queue]] feeds.
 - **Presentation uses existing surfaces.** Substack already hosts Artobiography; a Newsletter section on nariway.com is owned by the separate **nariway-rebuild** project. Both are presentation layers, not new production projects.
 - **Publishing to the list is always the founder's explicit action.** The routine drafts and stages; it never sends to subscribers or posts publicly on its own (send-on-behalf / publish-public discipline).
 - **No separate Claude Code project.** The edition's whole advantage is its live connection to the corpus and the feedback loop; a separate repo severs exactly that, and the vaults do not share memory. nariway-rebuild (the site) and Substack (hosting) are the only separate surfaces, and both are presentation.
