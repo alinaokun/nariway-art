@@ -1,111 +1,97 @@
-# QA Report — 2026-08-23
+# QA Report — 2026-08-24
 
-**Verdict:** Not clean. Four of last run's five CRITICALs are now genuinely fixed (verified independently, not just trusted from the commit message), but three new CRITICALs surfaced in work committed since, one of them inside the live public export itself. Case-level sourcing discipline is mostly holding across the new India/corporate/bulk-verify batch, with a handful of controlled-vocabulary breaches and two cases where `public_verified: true` was set on admittedly-unresearched stubs.
+**Verdict:** Not clean. All three CRITICALs from the last audit remain unfixed, and one MINOR-adjacent finding is escalated to CRITICAL this run because the vault's own export now confirms it reached the live public site, not just a draft file. One genuine fix landed (the Substack Notes closings). Case-level sourcing discipline across the three newest batches (Julia Stoschek, Art Bridges, AMOCA Cardiff) remains strong, and the new GWT (Great Wealth Transfer) content-architecture work in progress shows real rigor — it is, in effect, the correct design for fixing CRITICAL #1 below, just not yet applied to the live export.
 
 ---
 
 ## CRITICAL
 
-### 1. NEW — `export/nariway-public.json:4374-4376` and `content/content.json:54` misattribute the $31T Deloitte figure to Cerulli/UBS/Knight Frank and blend three non-comparable wealth-transfer totals into one number, in the live public export.
-The fact tile reads: `{"value": "~$31T+", "label": "Projected global wealth transfer over the coming decade (order of magnitude; sources and window vary)", "source": "wealth-research (Cerulli / UBS / Knight Frank)"}`. Claims-register C36 exists specifically to stop this: Deloitte/ArtTactic's ~$31T (C1's underlying input, a decade horizon) is a different figure from Cerulli's $124T (US-only, through 2048, C8) and UBS's ~$83T (global, 20-25 years); C36 states they "must not be added together, rounded into one another, or cited as convergent evidence for a single figure." This tile takes the $31T number, attributes it to sources that didn't produce it (Knight Frank doesn't even publish a wealth-transfer total, only UHNWI population counts per C34), appends a "+" implying it as a floor toward the larger figures, and hedges with "sources and window vary" instead of separating them. This is the most severe finding in this run because `export/nariway-public.json` is what the live site actually consumes, not a draft.
-**Fix:** change the fact to Deloitte/ArtTactic's ~$31T specifically, sourced to Deloitte/ArtTactic and labeled as C1's underlying input. If Cerulli's $124T or UBS's ~$83T are wanted as public facts, add them as separate, correctly-sourced tiles rather than one merged number.
+### 1. CARRIED, unfixed — `export/nariway-public.json` and `content/content.json` still misattribute the $31T figure and blend three non-comparable wealth-transfer totals into one number, live on the public site.
+The fact tile (`export/nariway-public.json:4729-4731`, `content/content.json:54`) still reads `"value": "~$31T+"`, `"source": "wealth-research (Cerulli / UBS / Knight Frank)"`. `research/claims-register.md` C36 exists specifically to stop this: Deloitte/ArtTactic's ~$31T (C1's input, decade horizon) is a different figure from Cerulli's $124T (US-only, through 2048, C8) and UBS's ~$83T (global, 20-25 years); C36 says they "must not be added together, rounded into one another, or cited as convergent evidence for a single figure." Knight Frank doesn't publish a wealth-transfer total at all (only UHNWI population counts, C34). Unchanged since the last audit.
+**Note (mitigating, not a fix):** `marketing/kb-gwt-content-architecture.md`, drafted this run, designs this exact fact correctly — DP1 ($992B, cited to Deloitte alone) and DP2 (the three-estimate comparison table, explicitly "must NOT be summed") are built to C36's discipline and are marked "for review," not yet live. The correct design exists; it just hasn't replaced the bad tile in the actual export.
+**Fix:** replace the export/content.json tile with DP1/DP2 as designed in the new architecture doc, or at minimum correct the $31T tile to cite Deloitte/ArtTactic alone.
 
-### 2. NEW — `cases/terra.md` and `cases/di-rosa.md` carry `public_verified: true` while each file's own body says the facts are still unverified.
-Both files set `public_verified: true` in frontmatter, the accuracy gate case-template.md defines as "the public-facing claims... confirmed against the institution's own site or reputable sources." Neither file contains a single `[source:]` tag. `terra.md`'s own body reads "**Verify first:** dates, the nature of the litigation, and where works ultimately went." `di-rosa.md`'s own body reads "**Verify first:** the 'campus for sale' and deaccessioning claims are provisional, confirm against primary sources before drawing lessons" — yet its `public_status_text` and `public_origin` frontmatter assert the campus-for-sale/deaccessioning narrative as settled fact. Standard violated: case-template.md's public-projection accuracy gate, and quality-assurance.md's sourcing rule (no bare claim presented as fact with no source).
-**Fix:** revert `public_verified` to `false` on both files until the verification the files themselves call for is actually done.
+### 2. CARRIED, unfixed — `cases/terra.md` and `cases/di-rosa.md` still carry `public_verified: true` while each file's own body says the facts are unverified.
+`terra.md`: "**Verify first:** dates, the nature of the litigation, and where works ultimately went." `di-rosa.md`: "**Verify first:** the 'campus for sale' and deaccessioning claims are provisional, confirm against primary sources before drawing lessons." Both still set `public_verified: true` in frontmatter. Standard violated: `case-template.md`'s public-projection accuracy gate; `quality-assurance.md`'s sourcing rule.
+**Fix:** revert `public_verified` to `false` on both until the verification each file itself calls for is done.
 
-### 3. NEW — `finance/collection-futures-study.md:28` presents a fabricated line as a real buyer's words.
-Quote: *"In the buyer's words, 'I understand my options and I am making this decision on purpose.'"* No buyer said this. `finance/problem-discovery.md`'s conversation log shows no completed discovery conversation about this offer, and H7B (willingness to pay) is explicitly "Untested" per research-program.md. The sentence sits inside a section labeled as hypotheses to be tested, but the quotation-mark framing ("in the buyer's words") reads as captured testimony, not an authored hypothesis, and risks being cited downstream as if it were evidence a real prospect said this.
-**Fix:** reword without quotation marks, e.g. "the ideal outcome, in the buyer's terms, would sound like..." so it can't be mistaken for a real quote.
+### 3. CARRIED, unfixed — `finance/collection-futures-study.md:28` still presents a fabricated line as a real buyer's words.
+*"In the buyer's words, 'I understand my options and I am making this decision on purpose.'"* No buyer said this — H7B (willingness to pay) is explicitly "Untested" per `research-program.md`, and no completed discovery conversation about this offer exists in `finance/problem-discovery.md`'s log. Unchanged since the last audit.
+**Fix:** reword without quotation marks so it reads as an authored hypothesis, not captured testimony.
+
+### 4. ESCALATED from should-fix/minor — em dashes in `public_*` fields are confirmed live in `export/nariway-public.json`, a direct breach of `voice.md`/`ai-tells.md` in public-facing copy.
+The last audit flagged 8 case files with em dashes in export-bound `public_*` frontmatter as a should-fix. This run confirms the mechanism actually fires: `export/nariway-public.json` contains the em dashes verbatim, e.g. line 420 `"focus": "Broad survey — painting, prints, photography, sculpture"` (Bank of America Collection), line 991 `"origin": "...Bentonville, Arkansas — a purpose-built Moshe Safdie complex..."` (Crystal Bridges), line 3842 `"currentState": "Sold at Christie's, New York, in 1997 for $206.5M — then a record for a single-owner auction."` (Ganz Collection), plus Lucas Museum and CAM Raleigh's `focus` fields. All eight source cases carry `public_page_eligible: true` AND `public_verified: true`, so this is not a hypothetical export, it is the actual live public payload. `voice.md`: "No em dashes. Use commas or restructure." This is exactly the category the vault's own quality-assurance.md names as critical: "a voice break in live public copy."
+**Fix:** rewrite all eight `public_*` fields (`bank-of-america-collection.md`, `ganz-collection.md`, `crystal-bridges.md`, `klesch-collection-birkbeck.md`, `las-vegas-museum-of-art.md`, `lucas-museum.md`, `cam-raleigh.md`, `brauer-museum-valparaiso.md`) with commas or restructured sentences, then regenerate the export.
 
 ---
 
 ## SHOULD-FIX
 
-### 4. NEW — `finance/problem-discovery.md:92` and `finance/business-model-ledger.md:19` still instruct a tiered paid "Orientation" front door that commit 50cb4cd explicitly killed the same day.
-`problem-discovery.md:92`: *"The first paid engagement is now designed in full: [[collection-futures-study]] (a tiered Orientation → full Collection Futures Study)... the Orientation tier is what gets named first."* `business-model-ledger.md:19`: *"Now designed in full: [[collection-futures-study]] (tiered Orientation → full study, the prop for discovery)."* Commit 50cb4cd ("Offer design v0.2") dropped the paid tier in favor of a free scoping conversation; these two files, which double as the actual playbook for running a real discovery conversation, were never updated. Standard violated: single source of truth (quality-assurance.md #4) — both paraphrase `collection-futures-study.md`'s structure instead of linking to it, and the paraphrase is now wrong. This is the one with real-world bite: followed as written, Alina would misstate Nariway's own offer to a live prospect.
-**Fix:** update both to the v0.2 structure (free scoping conversation, single-tier study fee named only once a real situation surfaces), or drop the parenthetical description and just link.
-
-### 5. STILL BROKEN (carried) — `marketing/what-becomes-of-great-art-collections.md:173` still cites "Table 1" for two figures Table 1 doesn't contain.
-*"...alongside the ~$31T (Deloitte, Table 1) and $124T (Cerulli, Table 1) figures already used here."* Table 1 (lines 59-66) holds $992B, $2.56T→$3.47T, $54T, 72%, 80%, 51% — neither $31T nor $124T. The surrounding prose now correctly explains the C1/C8 mapping, but the wrong parenthetical tags were left standing next to the correction.
-**Fix:** delete "(Deloitte, Table 1)" and "(Cerulli, Table 1)"; keep only the correct C1/C8 framing already present nearby.
-
-### 6. STILL BROKEN (carried, now worse) — the primary-verification backlog is still growing unbounded, `Spot-verified` is still undefined, and `case-template.md` now contradicts itself on the export gate.
-`report-dataset.md:7`: the backlog is now **51 items**, up from 47/41/38/35/27 across prior runs, with no ceiling or pace. `case-template.md:9` still lists `Spot-verified` as an allowed `verification_status` value with no definition anywhere in the file, even though 69 of 79 case files carry it. New this run: `case-template.md:34` states the export gate is `public_page_eligible` AND `public_verified`, explicitly **not** the internal `verification` tag, while `case-template.md:50` still says a case is "held from the live export until its figures reach `verification: primary-verified`" — directly contradicting its own line 34, and no case file carries `primary-verified` (0 of 79).
+### 5. CARRIED, unchanged — the primary-verification backlog keeps growing unbounded (57 items now, up from 51/47/41/38/35/27), and `case-template.md` still contradicts itself on the export gate.
+`case-template.md:9` still lists `Spot-verified` as an allowed `verification_status` value with no definition anywhere in the file. `case-template.md:34` states the export gate is `public_page_eligible` AND `public_verified` — explicitly not the internal `verification` tag — while line 50 still says a case is "held from the live export until its figures reach `verification: primary-verified`," directly contradicting line 34 (no case file carries `primary-verified`; 0 of 83).
 **Fix:** define `Spot-verified`; delete or rewrite line 50 to match line 34's actual gate.
 
-### 7. STILL BROKEN (carried) — `marketing/website.md` still asserts the canonical Bio is live with wording that doesn't match, and still instructs overwriting canonical copy.
-Line 21 quotes the live bio as *"In recent years, research and writing have become a greater focus of my work"*; `positioning.md:22`'s canonical Bio reads *"Over time, research and writing became an increasingly important part of my work."* Line 16 still reads *"Align positioning to the live copy when convenient"* — but positioning.md's own hero/section capture already matches the live site elsewhere, so following this note would overwrite canonical copy with stale text.
-**Fix:** reconcile the Bio wording against the actual live page; delete or narrow line 16's instruction to the one real open item (replacing the third-person site bio with the canonical first-person one, already tracked at positioning.md:39).
+### 6. CARRIED and worse — out-of-vocabulary coded values keep spreading, now with three mutually inconsistent invented terms for the same corporate-origin exception.
+`fisher-landau.md:45` (`founder_status_at_transition: mixed`), `rubin-museum.md:44` (`building_type: purpose-acquired-existing`, self-noting the real fallback is `adapted-other`), `rauschenberg-foundation-hq.md:41` (`primary_friction: funding-optimization`, self-noting the fallback is `none-documented`) are all unchanged from the last audit. New this run: `enron-art-collection.md:38` recodes `survived_founder` as **`parent-entity-survival`** — a third distinct invented term, different from `deutsche-bank-collection.md` and `bank-of-america-collection.md`'s own `parent-entity-continuity`. The corporate-origin convention is not converging on one authorized value, it is fragmenting further with each new corporate case.
+**Fix:** for the first three, use the fallback each file already names in its own prose. For the corporate cases, amend `case-template.md` to add one authorized value for this pattern before the next corporate case invents a fourth term.
 
-### 8. STILL BROKEN (carried) — `market-intelligence.md` regressed: a new passage restates the superseded 65% IRS rate five lines before the correct figure.
-Lines 190 and market-intelligence's other original instance are correctly fixed and cite C31 (63%, FY2023). But `market-intelligence.md:232`, added in the 2026-08-23 insurance-domain addendum, reads *"...the IRS Art Advisory Panel's **65% adjustment rate**..."* with no supersession note, contradicting the correct 63% figure at line 237 of the same file.
-**Fix:** add the same "superseded, see C31" flag used at line 190.
-
-### 9. STILL BROKEN (carried) — `marketing/substack-notes-queue.md` still ends two Notes on a manufactured conclusion, and `ai-tells.md` incorrectly claims this is fixed.
-Line 14 (Rockwell): *"The covers everyone remembers as pure comfort were made by a man in real pain."* Line 41 (Magritte): *"He wanted you to stand in front of a picture and never be sure what it meant."* Both restate the antithesis-kicker pattern `voice.md` bans ("if a closing line explains what the story means, cut it and let the last fact land"). `ai-tells.md:14` says *"already fixed in the Notes"* — that claim is inaccurate for at least Rockwell.
-**Fix:** cut both closing sentences, end on the prior concrete fact; correct ai-tells.md's claim once actually fixed.
-
-### 10. NEW — five case files assert coded values outside case-template.md's controlled vocabulary, in some cases naming the invented term explicitly before falling back.
-- `cases/fisher-landau.md:45` — `founder_status_at_transition: mixed` (only `living`/`deceased` are allowed; the file itself narrates living-at-2010-gift, deceased-at-2023-auction).
-- `cases/rubin-museum.md:44` — `building_type: purpose-acquired-existing`, with the file's own text noting "coded closest to `adapted-other`" — i.e. it names the fallback and then doesn't use it.
-- `cases/rauschenberg-foundation-hq.md:41` — `primary_friction: funding-optimization`, same pattern, self-noting the real fallback is `none-documented`.
-- `cases/deutsche-bank-collection.md:52`, `cases/bank-of-america-collection.md:39`, `cases/enron-art-collection.md:38` — `founder_status_at_transition: n/a` / `survived_founder: n/a`, with Deutsche Bank additionally inventing `parent-entity-continuity: yes`. This is a pre-existing convention for corporate-origin cases, but case-template.md has never been amended to authorize it, and three more corporate cases landed on it this run.
-**Fix:** for the first three, use the coded fallback the file already names in prose. For the corporate cases, either amend case-template.md to add an authorized corporate exception, or code `unknown` rather than an invented term.
-
-### 11. NEW — `cases/hedreen-seattle-university.md` and `cases/jaipur-centre-for-art.md` still use the deprecated prose `## Public profile` body block and set no `public_verified` value, so they're silently excluded from export despite the commit that added them claiming "full public-projection layers."
-case-template.md's current schema (added the same window, commit 6f76566) requires flat `public_*` frontmatter, calls the prose-block format "fragile," and `scripts/export_public.py` parses frontmatter only. Neither file sets `public_verified` at all.
+### 7. CARRIED, unchanged — `cases/hedreen-seattle-university.md` and `cases/jaipur-centre-for-art.md` still use the deprecated prose `## Public profile` block and set no `public_verified` value, silently excluding them from export.
+`case-template.md`'s schema requires flat `public_*` frontmatter and calls the prose-block format "fragile"; `scripts/export_public.py` parses frontmatter only.
 **Fix:** migrate both to flat `public_*` frontmatter and set `public_verified` explicitly.
 
-### 12. NEW — eight `public_*` frontmatter fields (export-bound content) contain em dashes, against the standing no-em-dash rule.
-`bank-of-america-collection.md:23`, `ganz-collection.md:17`, `crystal-bridges.md:28`, `klesch-collection-birkbeck.md:33`, `las-vegas-museum-of-art.md:26`, `lucas-museum.md:22` (carried from last audit), `cam-raleigh.md:21`, `brauer-museum-valparaiso.md:27`.
-**Fix:** rewrite each with a comma or period; en dashes for date/number ranges are fine and not flagged.
+### 8. CARRIED, unchanged — `marketing/website.md` still quotes the live Bio with wording that doesn't match the canonical text, and still instructs overwriting canonical copy.
+`website.md:21` quotes: *"In recent years, research and writing have become a greater focus of my work."* `positioning.md`'s canonical Bio reads: *"Over time, research and writing became an increasingly important part of my work."* `website.md`'s line "Align positioning to the live copy when convenient" still stands, which would overwrite the canonical text with this mismatched quote if followed literally.
+**Fix:** reconcile the Bio wording against the actual live page; narrow the instruction to the one real open item already tracked (`positioning.md:39`, the third-person site bio still needing the canonical first-person swap).
 
-### 13. NEW — `institution-building/institution-building.md:31` uses the exact "endowment coverage" phrase claims-register C4 names as the thing not to say about McNay.
-Quote: *"McNay already fed it (endowment coverage, self-perpetuating board, adaptive-reuse conversion)..."* C4: *"Do NOT say: 'McNay has 9.3× endowment coverage' (it's net assets, not endowment)."* Every case file checked correctly labels the ratio `[UPPER BOUND]` and disclaims "not endowment coverage" — this is the one place in the vault still using the forbidden phrase.
+### 9. CARRIED, unchanged — `research/market-intelligence.md:232` still restates the superseded 65% IRS Art Advisory Panel rate with no supersession flag, in a passage added after the correct 63%/C31 figure was already established elsewhere in the same file.
+Line 232: *"...the IRS Art Advisory Panel's 65% adjustment rate)..."* with no "superseded, see C31" note, while lines 190, 237, and 283 of the same file all correctly cite 63%/C31.
+**Fix:** add the same "superseded, see [[claims-register]] C31" flag used at line 190.
+
+### 10. CARRIED, unchanged — `marketing/what-becomes-of-great-art-collections.md`'s C36 discussion still cites "(Deloitte, Table 1)" and "(Cerulli, Table 1)" for two figures Table 1 doesn't contain.
+*"...alongside the ~$31T (Deloitte, Table 1) and $124T (Cerulli, Table 1) figures already used here."* Table 1 holds $992B, $2.56T→$3.47T, $54T, 72%, 80%, 51% — neither raw $31T nor $124T appears there (those are the underlying inputs behind C1's $992B and C8's $54T respectively). The surrounding C36 discussion is otherwise correctly built.
+**Fix:** delete the two wrong parenthetical tags; the correct C1/C8 framing already stated nearby doesn't need them.
+
+### 11. CARRIED, unchanged — `crm/partners/Dawn Mari La Monica.md:36` still conflates C1 and C8 into a claim neither source makes.
+*"the ~$1T art transfer is happening now, mostly to surviving spouses"* fuses C1's decade-horizon art-and-collectibles figure with C8's US spousal-wealth figure, in a file marked CLOSED.
+**Fix:** correct or delete the line.
+
+### 12. CARRIED, unchanged — `finance/problem-discovery.md:92` still instructs the old tiered paid "Orientation" front door that the offer redesign (v0.2) dropped.
+*"...the Orientation tier is what gets named first."* `finance/business-model-ledger.md:19` was correctly updated this run to the v0.2 structure (free scoping conversation, single priced engagement named only once a real situation surfaces) — but `problem-discovery.md`, the file that actually scripts a live discovery conversation, was not. This is the one with real-world bite: followed as written, Alina would misstate Nariway's own offer to a live prospect.
+**Fix:** update `problem-discovery.md:92` to the v0.2 structure, or drop the parenthetical and link to `collection-futures-study.md` instead.
+
+### 13. CARRIED, unchanged — `institution-building/institution-building.md:31` still uses the exact "endowment coverage" phrase `claims-register.md` C4 names as the thing not to say about McNay.
+*"McNay already fed it (endowment coverage, self-perpetuating board, adaptive-reuse conversion)..."* C4: "Do NOT say: 'McNay has 9.3× endowment coverage' (it's net assets, not endowment)."
 **Fix:** replace with "net-assets ratio (upper bound)."
-
-### 14. STILL BROKEN (carried) — `crm/partners/Dawn Mari La Monica.md:36` still conflates C1 and C8, and `finance/cfo-brief.md:44` still watches a Table-1/C10 problem that's already fixed elsewhere.
-Dawn La Monica line 36: *"the ~$1T art transfer is happening now, mostly to surviving spouses"* — fuses C1's decade-horizon art-and-collectibles figure with C8's US spousal-wealth figure into a claim neither source makes, despite the file being marked CLOSED. cfo-brief.md line 44's watch item describes the C10/Table-1 problem CRITICAL #4 already fixed in the prior audit round, so it's now pointing at a resolved issue.
-**Fix:** correct or delete the La Monica line; update or retire the stale cfo-brief watch item.
-
-### 15. NEW — `cases/report-dataset.md:298` states a percentage with a "holds" verdict, under-caveated relative to the file's own no-rates-off-this-set rule.
-*"the governance-beats-endowment claim, counted for the first time, holds — 13/13 non-founder-sole cases survived their founder vs. 10/13 founder-sole cases (77%), n=26 testable."* The fuller write-up elsewhere in the same file (Batch 9) carries the required "not a population rate" caveat; this summary bullet doesn't.
-**Fix:** either drop the "(77%)" and keep the raw counts, or append the same caveat inline.
 
 ---
 
 ## MINOR
 
-### 16. CARRIED — `cases/mcnay.md` (`status: founder-review`, outside the numbered dataset) is still cited as a supporting example in `report-dataset.md` Pattern 1 ("McNay's self-perpetuating board").
-**Fix:** fold McNay into the numbered dataset once it clears founder-review, or drop it from Pattern 1 until then.
+### 14. CARRIED — `cases/report-dataset.md` Pattern 1's original prose still cites McNay ("McNay's self-perpetuating board") as supporting evidence, while `cases/mcnay.md` remains `status: founder-review`, outside the numbered dataset. The newer, fully-tabulated Pattern 14 (the file's own designated authoritative version) correctly excludes McNay already.
+**Fix:** fold McNay into the numbered dataset once its research clears the bar, or strike it from Pattern 1's prose list until then.
 
-### 17. CARRIED — `cases/moma.md` still carries two out-of-vocabulary values: `collection_coherence: absorbed`, `decision_owner: collective-founders-trustees`.
-**Fix:** amend case-template.md to admit these, or remap with a flagged caveat.
+### 15. CARRIED — `cases/moma.md` still carries two out-of-vocabulary values: `collection_coherence: absorbed`, `decision_owner: collective-founders-trustees`.
+**Fix:** amend `case-template.md` to admit these, or remap with a flagged caveat.
 
-### 18. CARRIED — the `origin` frontmatter field is still split three ways: `corporate` (11), `private` (8), `private-individual` (9), still undefined in case-template.md.
-**Fix:** pick one value for the private side, normalize, and document the vocabulary.
+### 16. CARRIED, growing — the `origin` frontmatter field is now split three ways across the case set (`corporate`: 11, `private`: 14, `private-individual`: 9), still undefined anywhere in `case-template.md`.
+**Fix:** pick one value for the private side, normalize, and document it.
 
-### 19. LARGELY DEFUSED — `marketing/website.md`'s "(ready to publish)" interim-page section and its "Next step" (swap nariway.com to the interim page) are still literally present, but the file's line-28 blanket historical disclaimer now sits above both, warning a reader not to act on them.
+### 17. CARRIED — `marketing/website.md`'s "(ready to publish)" interim-page section and its "Next step" instruction are still literally present, though the file's own historical disclaimer sits above both.
 **Fix:** low priority; strike the stale labels next time the file is touched.
 
-### 20. NEW, worth a maintainer's eye — `cases/report-dataset.md` lines 181, 275, 305 describe Corcoran's ratio as "endowment coverage ~0.45x/0.5x." This is drawn from Corcoran's own disclosed endowment line (not its net-assets total), so it isn't the same error as finding #13, but it uses the same forbidden-sounding phrase and is worth confirming it isn't read as a C4-style violation by a future pass.
+### 18. CARRIED — `cases/report-dataset.md` (Corcoran, "endowment coverage fell below ~0.5x") uses the same forbidden-sounding phrase as finding #13, but is drawn from Corcoran's own disclosed endowment line rather than a net-assets total, so it isn't the same error. Worth a maintainer's eye, not a fix.
 
 ---
 
-## Clean this run (checked, no findings)
+## Resolved since the last audit (noted, no action needed)
 
-- **CRITICAL #1-4 from the 2026-08-22 report** (hand-selected-sample rates, the transfer-scope-note 2.4x market-size error, the H1 "almost always" overclaim, the C10 "roughly doubled since 2011" restatement) — all four independently reverified as genuinely fixed, with the corrected text now consistent everywhere else those figures appear (Table 1, market-intelligence.md, positioning.md).
-- **SHOULD-FIX #6 from the prior report** — `lucas-museum.md`'s `verification` value is now `provisional`, within vocabulary.
-- **First paid engagement decision** (`0b0d554`/`50cb4cd`, `collection-futures-study.md`'s open-decisions section) — correctly marked open, explicitly states "H7B unproven, do not quote until discovery," no overclaim of proven demand or a client roster.
-- **Every hypothesis restatement checked against research-program.md's H1-H8 status labels** (including the 2026-08-23 cloud-research H1 disconfirmation pass) — none stated more settled than its labeled status.
-- **`net_assets_to_opex_ratio` across all 79 case files** — every instance labeled `[UPPER BOUND]`, `not computable`, or explicit `unknown`/`n/a` with a reason.
-- **`verification_status` values across all sampled files** — Provisional/Spot-verified/Primary-verified only (the undefined-Spot-verified problem is a documentation gap, not a stray value — see finding 6).
-- **report-dataset.md's case count** — 77 numbered entries (1-77, no gaps or duplicates), reconciled correctly against 79 total status-bearing files (77 coded + lucas-museum seed + mcnay founder-review).
-- **C1, C6, C10, C23, C31 restated elsewhere in the vault** (positioning.md, pitch-deck.md, market-intelligence.md, the manuscript, content.json, export/nariway-public.json outside finding 1) — consistent with their claims-register canon.
-- **company/decisions/** — no settled decision still marked open; the 2026-08-22 daily-check-in decision's open "Outcome (to fill in later)" is legitimate.
-- **marketing/linkedin.md and marketing/substack.md** — still hold no local copy of live public text, point to positioning.md throughout.
+- **`marketing/substack-notes-queue.md`'s Rockwell and Magritte Notes are now genuinely fixed** — both closings were cut and now end on a concrete fact, matching `voice.md`'s no-manufactured-conclusion rule. The file's own note documents the fix landing 2026-08-24 in direct response to the last audit's finding, and `ai-tells.md`'s "already fixed in the Notes" claim is now accurate.
+- **`finance/business-model-ledger.md`'s Collection Futures Study entry is now correctly updated to the v0.2 offer** (free scoping conversation, single priced engagement, "do not sell" discipline stated explicitly) — only its sibling file (`problem-discovery.md`, finding #12 above) still needs the same update.
+- **The three newest case files** (`julia-stoschek-foundation.md`, `art-bridges-foundation.md`, `amoca-cardiff.md`) show clean sourcing: every quantitative field carries a source/confidence tag or explicit `unknown`, and each names a distinct, specific re-fetch target in the backlog rather than a vague placeholder.
+- **`marketing/kb-gwt-content-architecture.md`** (new this run, "for review") independently reasons through the exact C1/C36 discipline CRITICAL #1 needs — a genuinely well-built draft, just not yet applied to the live export.
+- **No settled decision found still marked open**, and no new claims-register drift found beyond the items already carried above.
+- **`finance/cfo-brief.md`'s older C10/Table-1 "watch" entries (2026-08-19, 2026-08-20)** are dated rolling-journal entries from when that issue was genuinely open, not live stale watch items — correctly left as historical record now that C10 is fixed. Retracting the prior audit's characterization of this as a should-fix.
 
 ---
 
-**Counts:** 3 critical (all new) / 12 should-fix (4 carried, 8 new) / 5 minor (4 carried, 1 new note).
+**Counts:** 4 critical (3 carried unfixed, 1 escalated from should-fix) / 9 should-fix (all carried) / 5 minor (all carried).
