@@ -1,0 +1,234 @@
+<title>The Great Wealth Transfer and Art</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Manrope:wght@400;500;600&family=Schibsted+Grotesk:wght@500;600&display=swap">
+<style>
+  :root{
+    --bg:#FFFFFF; --surface-2:#F7F6F3;
+    --ink:#1A1A17; --ink-body:#0A0A0A; --ink-2:#3A3A34; --muted:#6B6B62;
+    --line:#E7E5DF; --line-2:#D4D2CA;
+    --serif:"Newsreader",Georgia,"Times New Roman",serif;
+    --sans:"Manrope",system-ui,-apple-system,sans-serif;
+    --label:"Schibsted Grotesk","Manrope",system-ui,sans-serif;
+    --measure:66ch;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#141412; --surface-2:#201F1C;
+      --ink:#F2F1EC; --ink-body:#EDEBE4; --ink-2:#C7C5BC; --muted:#918E84;
+      --line:#2A2925; --line-2:#3A3833;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#141412; --surface-2:#201F1C;
+    --ink:#F2F1EC; --ink-body:#EDEBE4; --ink-2:#C7C5BC; --muted:#918E84;
+    --line:#2A2925; --line-2:#3A3833;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--bg); color:var(--ink-body);
+    font-family:var(--sans); font-weight:400; line-height:1.6;
+    font-size:clamp(15px,1vw+13px,17px);
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:760px; margin:0 auto; padding:clamp(28px,6vw,72px) clamp(20px,5vw,40px) 96px}
+  .eyebrow{
+    font-family:var(--label); text-transform:uppercase; letter-spacing:.15em;
+    font-size:.72rem; font-weight:600; color:var(--muted); margin:0 0 1.4rem;
+  }
+  h1{
+    font-family:var(--serif); font-weight:500; color:var(--ink);
+    font-size:clamp(2.1rem,4.4vw,3.1rem); line-height:1.08;
+    letter-spacing:-.018em; text-wrap:balance; margin:0 0 1.1rem;
+  }
+  .standfirst{
+    font-family:var(--serif); font-weight:400; font-size:clamp(1.12rem,1.6vw,1.3rem);
+    line-height:1.5; color:var(--ink-2); max-width:var(--measure); margin:0;
+  }
+  .rule{height:1px; background:var(--line); border:0; margin:clamp(40px,6vw,60px) 0}
+  section{margin:0}
+  p{max-width:var(--measure); margin:0 0 1.1rem}
+  .num{font-variant-numeric:tabular-nums}
+
+  /* Hero statistic */
+  .hero-figure{
+    font-family:var(--serif); font-weight:500; color:var(--ink);
+    font-size:clamp(3.4rem,10vw,6rem); line-height:.95; letter-spacing:-.03em;
+    font-variant-numeric:tabular-nums; margin:0 0 1.2rem;
+  }
+  .hero-lead{
+    font-family:var(--serif); font-size:clamp(1.15rem,1.7vw,1.4rem); line-height:1.5;
+    color:var(--ink-2); max-width:var(--measure); margin:0 0 2rem;
+  }
+  .split{display:grid; grid-template-columns:1fr; gap:1.4rem 3rem}
+  @media(min-width:620px){.split{grid-template-columns:1fr 1fr}}
+  .note-label{
+    font-family:var(--label); text-transform:uppercase; letter-spacing:.14em;
+    font-size:.68rem; font-weight:600; color:var(--muted); display:block; margin:0 0 .35rem;
+  }
+  .note-body{font-size:.95rem; color:var(--ink-2); margin:0}
+  .derivation{
+    font-size:.9rem; color:var(--muted); max-width:var(--measure);
+    padding-top:1.4rem; margin-top:1.8rem; border-top:1px solid var(--line);
+  }
+
+  h2{
+    font-family:var(--serif); font-weight:500; color:var(--ink);
+    font-size:clamp(1.5rem,2.6vw,1.9rem); line-height:1.2; letter-spacing:-.012em;
+    text-wrap:balance; margin:0 0 .5rem;
+  }
+  .kicker{
+    font-family:var(--label); text-transform:uppercase; letter-spacing:.15em;
+    font-size:.7rem; font-weight:600; color:var(--muted); margin:0 0 .9rem;
+  }
+  .lede{color:var(--ink-2); max-width:var(--measure); margin:0 0 1.6rem}
+
+  /* Table */
+  .table-scroll{overflow-x:auto; margin:0 0 1rem}
+  table{border-collapse:collapse; width:100%; font-variant-numeric:tabular-nums; min-width:520px}
+  caption{caption-side:bottom; text-align:left; font-size:.86rem; color:var(--muted);
+    line-height:1.5; padding-top:1rem; max-width:var(--measure)}
+  th,td{text-align:left; padding:.85rem 1.1rem .85rem 0; border-bottom:1px solid var(--line); vertical-align:top}
+  thead th{
+    font-family:var(--label); text-transform:uppercase; letter-spacing:.1em;
+    font-size:.68rem; font-weight:600; color:var(--muted); border-bottom:1px solid var(--line-2);
+  }
+  tbody td:first-child{font-family:var(--serif); font-size:1.15rem; color:var(--ink); font-weight:500; white-space:nowrap}
+  tbody td{font-size:.92rem; color:var(--ink-2)}
+  tbody tr:last-child td{border-bottom:0}
+
+  /* Holdings figure */
+  figure{margin:0}
+  .chart{display:flex; align-items:flex-end; gap:clamp(28px,8vw,64px); height:190px;
+    padding:0 4px; border-bottom:1px solid var(--line-2); max-width:420px}
+  .bar-col{display:flex; flex-direction:column; align-items:center; justify-content:flex-end; height:100%; flex:1}
+  .bar-val{font-family:var(--serif); font-weight:500; color:var(--ink); font-size:1.35rem;
+    font-variant-numeric:tabular-nums; margin:0 0 .5rem}
+  .bar{width:100%; max-width:74px; background:var(--ink-2)}
+  .bar.projected{background:var(--line-2)}
+  .bar-labels{display:flex; gap:clamp(28px,8vw,64px); max-width:420px; padding:0 4px; margin:.6rem 0 0}
+  .bar-labels span{flex:1; text-align:center; font-family:var(--label); text-transform:uppercase;
+    letter-spacing:.12em; font-size:.68rem; font-weight:600; color:var(--muted)}
+  figcaption{font-size:.86rem; color:var(--muted); max-width:var(--measure); margin:1.2rem 0 0; line-height:1.5}
+
+  /* Callouts */
+  .callouts{display:grid; grid-template-columns:1fr; gap:1px; background:var(--line); border:1px solid var(--line)}
+  @media(min-width:620px){.callouts{grid-template-columns:1fr 1fr}}
+  .callout{background:var(--bg); padding:clamp(22px,3vw,30px)}
+  .callout .kicker{margin-bottom:.7rem}
+  .callout p{font-size:.95rem; color:var(--ink-2); margin:0}
+  .callout strong{color:var(--ink); font-weight:600}
+
+  /* Related + sources */
+  .related{font-size:.95rem; color:var(--ink-2)}
+  .related a{color:var(--ink); text-decoration:none; border-bottom:1px solid var(--line-2)}
+  .related a:hover{border-bottom-color:var(--muted)}
+  .sources{font-size:.82rem; color:var(--muted); line-height:1.65; max-width:var(--measure)}
+  .sources .note-label{margin-bottom:.5rem}
+  a:focus-visible{outline:2px solid var(--muted); outline-offset:3px; border-radius:1px}
+  @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">The Landscape</p>
+    <h1>The Great Wealth Transfer and Art</h1>
+    <p class="standfirst">Over the coming decade a large share of the world's privately held art will pass to new hands. Most of it will move by inheritance rather than sale, which is why the question of what becomes of a collection is arriving now, for a great many families at once.</p>
+  </header>
+
+  <hr class="rule">
+
+  <section aria-label="Headline figure">
+    <p class="hero-figure num">$992B</p>
+    <p class="hero-lead">An estimated $992 billion in art and collectibles could change ownership over the coming decade, much of it through inheritance rather than sale.</p>
+    <div class="split">
+      <div>
+        <span class="note-label">What it measures</span>
+        <p class="note-body">The value of art and collectibles expected to change ownership globally as wealth passes between generations.</p>
+      </div>
+      <div>
+        <span class="note-label">What it is not</span>
+        <p class="note-body">A forecast of art coming to market. Most of it stays with heirs rather than being sold.</p>
+      </div>
+    </div>
+    <p class="derivation">Derived from Deloitte's model. Ultra-high-net-worth individuals hold roughly 64 percent of a projected $31 trillion transfer, about $19.8 trillion, of which close to 5 percent is art and collectibles. The figure is a model of ownership changing hands, not a sales estimate.</p>
+  </section>
+
+  <hr class="rule">
+
+  <section aria-labelledby="t-h">
+    <p class="kicker">The size of the transfer</p>
+    <h2 id="t-h">There is no single wealth-transfer number</h2>
+    <p class="lede">Three institutions publish very large estimates. They are all legitimate, and they measure different things.</p>
+    <div class="table-scroll">
+      <table>
+        <caption>These estimates differ in geography, population, and time horizon. They cannot be added together or treated as one figure. Nariway cites the art-specific $992 billion from Deloitte, and keeps the total-transfer numbers separate.</caption>
+        <thead>
+          <tr><th scope="col">Estimate</th><th scope="col">Source</th><th scope="col">Geography</th><th scope="col">Scope</th><th scope="col">Time horizon</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="num">~$31T</td><td>Deloitte and ArtTactic</td><td>Global</td><td>All wealth. The basis for the $992B art figure</td><td>About 10 years</td></tr>
+          <tr><td class="num">$124T</td><td>Cerulli Associates</td><td>United States</td><td>All wealth</td><td>Through 2048</td></tr>
+          <tr><td class="num">~$83T</td><td>UBS</td><td>Global</td><td>All wealth</td><td>20 to 25 years</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <section aria-labelledby="h-h">
+    <p class="kicker">What is held</p>
+    <h2 id="h-h">Art and collectibles held within UHNW wealth</h2>
+    <p class="lede">The stock of art and collectibles held by ultra-high-net-worth individuals is projected to keep growing through the decade.</p>
+    <figure>
+      <div class="chart" role="img" aria-label="UHNW art and collectibles holdings rise from about 2.56 trillion dollars in 2024 to a projected 3.47 trillion dollars in 2030.">
+        <div class="bar-col"><span class="bar-val num">$2.56T</span><span class="bar" style="height:74%"></span></div>
+        <div class="bar-col"><span class="bar-val num">$3.47T</span><span class="bar projected" style="height:100%"></span></div>
+      </div>
+      <div class="bar-labels"><span>2024</span><span>2030 projected</span></div>
+      <figcaption>These are holdings, not transactions. Much of this art may remain exactly where it is for years. Source, Deloitte.</figcaption>
+    </figure>
+  </section>
+
+  <hr class="rule">
+
+  <section aria-labelledby="w-h">
+    <p class="kicker">Where the wealth sits, and who holds it next</p>
+    <h2 id="w-h">The picture behind the number</h2>
+    <p>Private wealth is concentrated in the United States. Knight Frank counts about 713,600 individuals worth $30 million or more, roughly 35 percent of them in the United States. UBS, counting the broader population worth $1 million or more, puts it near 57.5 million people, with more than 40 percent in the United States. The two figures measure different groups and are read separately, not summed.</p>
+    <p>The next generation may collect differently. In the Art Basel and UBS survey of global collecting, about 74 percent of respondents were Millennials or Gen Z, and younger collectors were active well beyond fine art, from design to collectibles. What that means for the fine-art collections now approaching a transfer is an open question, not a settled conclusion.</p>
+  </section>
+
+  <hr class="rule">
+
+  <section aria-label="Two findings">
+    <div class="callouts">
+      <div class="callout">
+        <p class="kicker">Who inherits first</p>
+        <p>In the United States, an estimated <strong>$54 trillion</strong> is expected to pass first between spouses, and more than <strong>95 percent</strong> of it to women. The first person to decide a collection's future is often a surviving wife, not a younger heir.</p>
+      </div>
+      <div class="callout">
+        <p class="kicker">The decision is not whether to sell</p>
+        <p>Most inherited art is kept. About <strong>72 percent</strong> of inheritors retain at least some of what they receive, and around <strong>80 percent</strong> of collectors intend to pass their collections to family. The real question is what happens when control of a collection changes hands.</p>
+      </div>
+    </div>
+  </section>
+
+  <hr class="rule">
+
+  <section class="related" aria-label="Related">
+    <p class="kicker">Continue</p>
+    <p><a href="#">Estate Planning for Art Collections</a> &nbsp;·&nbsp; <a href="#">The Cost of Keeping a Collection</a> &nbsp;·&nbsp; <a href="#">Ownership Is Not Access</a></p>
+  </section>
+
+  <hr class="rule">
+
+  <footer class="sources">
+    <span class="note-label">Sources</span>
+    Deloitte Private and ArtTactic, Art &amp; Finance Report 2025. Cerulli Associates, U.S. High-Net-Worth and Ultra-High-Net-Worth Markets 2024. UBS, Global Wealth Report 2026. Knight Frank, The Wealth Report 2026. Art Basel and UBS, Survey of Global Collecting 2025.
+    <br><br>
+    Nariway prioritizes primary sources and also draws on authoritative institutional surveys and reports where appropriate. Figures are reviewed against their original publications before use.
+  </footer>
+</div>
