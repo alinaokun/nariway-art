@@ -126,6 +126,11 @@
   .related a:hover{border-bottom-color:var(--muted)}
   .sources{font-size:.82rem; color:var(--muted); line-height:1.65; max-width:var(--measure)}
   .sources .note-label{margin-bottom:.5rem}
+  .source-list{list-style:none; margin:.2rem 0 1.4rem; padding:0}
+  .source-list li{position:relative; padding:.45rem 0 .45rem 1.2rem; border-bottom:1px solid var(--line)}
+  .source-list li:last-child{border-bottom:0}
+  .source-list li::before{content:"•"; position:absolute; left:.2rem; color:var(--line-2)}
+  .source-note{margin:0}
   a:focus-visible{outline:2px solid var(--muted); outline-offset:3px; border-radius:1px}
   @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
@@ -134,7 +139,7 @@
   <header>
     <p class="eyebrow">The Landscape</p>
     <h1>The Great Wealth Transfer and Art</h1>
-    <p class="standfirst">Over the coming decade a large share of the world's privately held art will pass to new hands. Most of it will move by inheritance rather than sale, which is why the question of what becomes of a collection is arriving now, for a great many families at once.</p>
+    <p class="standfirst">Over the coming decade a large share of the world's privately held art will pass to new hands. Most of it will move by inheritance rather than sale, which is why the question of what becomes of a collection is now reaching so many families at the same time.</p>
   </header>
 
   <hr class="rule">
@@ -152,7 +157,7 @@
         <p class="note-body">A forecast of art coming to market. Most of it stays with heirs rather than being sold.</p>
       </div>
     </div>
-    <p class="derivation">Derived from Deloitte's model. Ultra-high-net-worth individuals hold roughly 64 percent of a projected $31 trillion transfer, about $19.8 trillion, of which close to 5 percent is art and collectibles. The figure is a model of ownership changing hands, not a sales estimate.</p>
+    <p class="derivation">Derived from Deloitte's model. Ultra-high-net-worth individuals hold roughly 64% of a projected $31 trillion transfer, about $19.8 trillion, of which close to 5% is art and collectibles.</p>
   </section>
 
   <hr class="rule">
@@ -197,8 +202,8 @@
   <section aria-labelledby="w-h">
     <p class="kicker">Where the wealth sits, and who holds it next</p>
     <h2 id="w-h">The picture behind the number</h2>
-    <p>Private wealth is concentrated in the United States. Knight Frank counts about 713,600 individuals worth $30 million or more, roughly 35 percent of them in the United States. UBS, counting the broader population worth $1 million or more, puts it near 57.5 million people, with more than 40 percent in the United States. The two figures measure different groups and are read separately, not summed.</p>
-    <p>The next generation may collect differently. In the Art Basel and UBS survey of global collecting, about 74 percent of respondents were Millennials or Gen Z, and younger collectors were active well beyond fine art, from design to collectibles. What that means for the fine-art collections now approaching a transfer is an open question, not a settled conclusion.</p>
+    <p>Private wealth is concentrated in the United States. Knight Frank counts about 713,600 individuals worth $30 million or more, roughly 35% of them in the United States. UBS, counting the broader population worth $1 million or more, puts it near 57.5 million people, with more than 40% in the United States. The two figures measure different groups, so they belong side by side rather than added together.</p>
+    <p>The next generation may collect differently. In the Art Basel and UBS survey of global collecting, about 74% of respondents were Millennials or Gen Z, and younger collectors were active well beyond fine art, from design to collectibles. Whether those same collectors will want the fine-art collections now approaching a transfer is a genuine open question.</p>
   </section>
 
   <hr class="rule">
@@ -207,11 +212,11 @@
     <div class="callouts">
       <div class="callout">
         <p class="kicker">Who inherits first</p>
-        <p>In the United States, an estimated <strong>$54 trillion</strong> is expected to pass first between spouses, and more than <strong>95 percent</strong> of it to women. The first person to decide a collection's future is often a surviving wife, not a younger heir.</p>
+        <p>In the United States, an estimated <strong>$54 trillion</strong> is expected to pass first between spouses, and more than <strong>95%</strong> of it to women. The first person to decide a collection's future is often a surviving wife, not a younger heir.</p>
       </div>
       <div class="callout">
         <p class="kicker">The decision is not whether to sell</p>
-        <p>Most inherited art is kept. About <strong>72 percent</strong> of inheritors retain at least some of what they receive, and around <strong>80 percent</strong> of collectors intend to pass their collections to family. The real question is what happens when control of a collection changes hands.</p>
+        <p>Most inherited art is kept. About <strong>72%</strong> of inheritors retain at least some of what they receive, and around <strong>80%</strong> of collectors intend to pass their collections to family. The real question is what happens when control of a collection changes hands.</p>
       </div>
     </div>
   </section>
@@ -227,8 +232,13 @@
 
   <footer class="sources">
     <span class="note-label">Sources</span>
-    Deloitte Private and ArtTactic, Art &amp; Finance Report 2025. Cerulli Associates, U.S. High-Net-Worth and Ultra-High-Net-Worth Markets 2024. UBS, Global Wealth Report 2026. Knight Frank, The Wealth Report 2026. Art Basel and UBS, Survey of Global Collecting 2025.
-    <br><br>
-    Nariway prioritizes primary sources and also draws on authoritative institutional surveys and reports where appropriate. Figures are reviewed against their original publications before use.
+    <ul class="source-list">
+      <li>Deloitte Private and ArtTactic, Art &amp; Finance Report 2025</li>
+      <li>Cerulli Associates, U.S. High-Net-Worth and Ultra-High-Net-Worth Markets 2024</li>
+      <li>UBS, Global Wealth Report 2026</li>
+      <li>Knight Frank, The Wealth Report 2026</li>
+      <li>Art Basel and UBS, Survey of Global Collecting 2025</li>
+    </ul>
+    <p class="source-note">Nariway prioritizes primary sources and also draws on authoritative institutional surveys and reports where appropriate. Figures are reviewed against their original publications before use.</p>
   </footer>
 </div>
