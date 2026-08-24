@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23",
+  "generated": "2026-08-24",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -127,6 +127,58 @@
       "livingCollector": true
     },
     {
+      "slug": "amoca-cardiff",
+      "publicDepth": "expanded",
+      "name": "AMOCA — Artistic Museum of Contemporary Art",
+      "founder": "Anders Hedlund",
+      "location": "Cardiff, Wales, UK",
+      "profile": {
+        "founded": 2025,
+        "structure": "Registered UK charity (Charity Commission no. 1214619), not-for-profit",
+        "publicAccess": "Pop-up exhibitions pre-opening; permanent public museum planned 2026",
+        "currentState": "Registered as a UK charity in August 2025; running pop-up exhibitions ahead of a planned permanent home in central Cardiff, expected in 2026.",
+        "size": "~1,000 works from the founder's private collection, plus other exhibiting artists"
+      },
+      "composition": {
+        "focus": "Contemporary art, minorities and subcultures, Welsh artists",
+        "movements": [
+          "Contemporary art (broad, cross-medium)"
+        ],
+        "period": "contemporary",
+        "media": [
+          "(medium breakdown not itemized in sources this run)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "AMOCA registers as a UK charity and holds its first pop-up exhibition at Cardiff's Temple of Peace",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Permanent museum home planned to open in central Cardiff (exact date not yet announced)",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Cardiff-based, Swedish-born entrepreneur Anders Hedlund founded AMOCA to give Wales its first dedicated contemporary art museum, planning to show roughly 1,000 works from his own private collection alongside other artists, with a stated focus on minorities, subcultures, and platforming Welsh talent.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Museums Association",
+        "Time Out",
+        "Welsh Centre for International Affairs",
+        "UK Charity Commission register"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "almaty-museum-of-arts",
       "publicDepth": "expanded",
       "name": "Almaty Museum of Arts (ALMA)",
@@ -245,6 +297,60 @@
         "Stanford Report"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "art-bridges-foundation",
+      "publicDepth": "expanded",
+      "name": "Art Bridges Foundation",
+      "founder": "Alice Walton",
+      "location": "Bentonville, Arkansas, USA (partner museums nationwide)",
+      "profile": {
+        "founded": 2017,
+        "structure": "501(c)(3) nonprofit foundation, independent board",
+        "publicAccess": "Public via 250+ partner museums nationwide; no public venue of its own",
+        "currentState": "Active national loan and grantmaking foundation; partners with 250+ U.S. museums to share American art, including the 2026 'Art Bridges x Hirshhorn 50 for 50' national loan initiative.",
+        "size": "$904M total assets; 250+ partner museums"
+      },
+      "composition": {
+        "focus": "American art, loans and grants to expand regional access",
+        "movements": [
+          "American art, broad survey (colonial to contemporary)"
+        ],
+        "period": "colonial era–present",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper (broad survey)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Alice Walton founds Art Bridges as a separate grantmaking/lending vehicle from Crystal Bridges",
+            "year": 2017,
+            "familyId": "dispersal",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Art Bridges x Hirshhorn \"50 for 50\" national loan program launches, placing 200+ works in one museum per U.S. state and Puerto Rico through 2029",
+            "year": 2026,
+            "familyId": "dispersal",
+            "codedPathway": "long-term-loan"
+          }
+        ]
+      },
+      "origin": "Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle — not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 250+ partner institutions and over 20 million people.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wikipedia",
+        "Art Bridges Foundation",
+        "Smithsonian Institution",
+        "Inside Philanthropy"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "audain",
@@ -2020,6 +2126,71 @@
         "Visit Philadelphia"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "julia-stoschek-foundation",
+      "publicDepth": "expanded",
+      "name": "Julia Stoschek Foundation",
+      "founder": "Julia Stoschek",
+      "location": "Düsseldorf, Germany (Berlin venue open 2016–Oct 2026)",
+      "profile": {
+        "founded": 2007,
+        "structure": "Private collector foundation, non-profit exhibition venue(s)",
+        "publicAccess": "Open to the public (Düsseldorf continuing; Berlin closing Oct 2026)",
+        "currentState": "Closing its Berlin venue at the end of October 2026 after 10 years; retaining its original Düsseldorf home and shifting toward international loans and touring presentations.",
+        "size": "900+ works by 300+ artists"
+      },
+      "composition": {
+        "focus": "Time-based media art — video, film, multimedia installation, net art, performance",
+        "movements": [
+          "Time-based/media art, 1960s–present"
+        ],
+        "period": "2007–present",
+        "media": [
+          "video",
+          "film",
+          "multimedia installation",
+          "net/computer-based art",
+          "performance"
+        ],
+        "selectedArtists": [
+          "(catalogue not itemized in this run's sources)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Julia Stoschek opens her first exhibition space in Düsseldorf",
+            "year": 2007,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "A second venue opens in a former Czech Cultural Center in Berlin",
+            "year": 2016,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Berlin venue announced closing end of October 2026 in a stated \"strategic realignment\" toward international projects, Düsseldorf retained",
+            "year": 2026,
+            "familyId": "pivot",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "Julia Stoschek began collecting time-based media art and opened a private foundation and exhibition space in Düsseldorf in 2007, adding a second, larger Berlin venue in 2016. In 2026 the foundation announced it will close the Berlin space after a decade and roughly 450,000 visitors, keeping Düsseldorf and shifting emphasis toward touring international presentations of the collection.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ARTnews",
+        "Ocula",
+        "ArtReview",
+        "Artforum"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "khao-yai-art-forest",
