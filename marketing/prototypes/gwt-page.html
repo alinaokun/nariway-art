@@ -126,11 +126,10 @@
   .related a:hover{border-bottom-color:var(--muted)}
   .sources{font-size:.82rem; color:var(--muted); line-height:1.65; max-width:var(--measure)}
   .sources .note-label{margin-bottom:.5rem}
-  .source-list{list-style:none; margin:.2rem 0 1.4rem; padding:0}
-  .source-list li{position:relative; padding:.45rem 0 .45rem 1.2rem; border-bottom:1px solid var(--line)}
-  .source-list li:last-child{border-bottom:0}
+  .source-list{list-style:none; margin:.2rem 0 0; padding:0}
+  .source-list li{position:relative; padding:.28rem 0 .28rem 1.2rem}
   .source-list li::before{content:"•"; position:absolute; left:.2rem; color:var(--line-2)}
-  .source-note{margin:0}
+  .gap-top{margin-top:clamp(48px,8vw,84px)}
   a:focus-visible{outline:2px solid var(--muted); outline-offset:3px; border-radius:1px}
   @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
@@ -206,9 +205,7 @@
     <p>The next generation may collect differently. In the Art Basel and UBS survey of global collecting, about 74% of respondents were Millennials or Gen Z, and younger collectors were active well beyond fine art, from design to collectibles. Whether those same collectors will want the fine-art collections now approaching a transfer is a genuine open question.</p>
   </section>
 
-  <hr class="rule">
-
-  <section aria-label="Two findings">
+  <section aria-label="Two findings" class="gap-top">
     <div class="callouts">
       <div class="callout">
         <p class="kicker">Who inherits first</p>
@@ -221,16 +218,12 @@
     </div>
   </section>
 
-  <hr class="rule">
-
-  <section class="related" aria-label="Related">
+  <section class="related gap-top" aria-label="Related">
     <p class="kicker">Continue</p>
     <p><a href="#">Estate Planning for Art Collections</a> &nbsp;·&nbsp; <a href="#">The Cost of Keeping a Collection</a> &nbsp;·&nbsp; <a href="#">Ownership Is Not Access</a></p>
   </section>
 
-  <hr class="rule">
-
-  <footer class="sources">
+  <footer class="sources gap-top">
     <span class="note-label">Sources</span>
     <ul class="source-list">
       <li>Deloitte Private and ArtTactic, Art &amp; Finance Report 2025</li>
@@ -239,6 +232,5 @@
       <li>Knight Frank, The Wealth Report 2026</li>
       <li>Art Basel and UBS, Survey of Global Collecting 2025</li>
     </ul>
-    <p class="source-note">Nariway prioritizes primary sources and also draws on authoritative institutional surveys and reports where appropriate. Figures are reviewed against their original publications before use.</p>
   </footer>
 </div>
