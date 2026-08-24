@@ -17,29 +17,34 @@ The interview engine does not scale to a weekly cadence, and it leans on the one
 ## The format (an intelligence brief, not a creator newsletter)
 Borrow the weekly-digest *structure* (habit without an essay), not the substance. More restrained and sophisticated than a typical Substack roundup. It should read like a brief from an elegant research institution.
 
+**Hierarchy, not a template (the correction that matters most).** Do NOT run the same story → explanation → interpretation block three-to-five times. Repetition is what makes a newsletter read as machine-generated even when every sentence is fine. Write it the way an editor would, deciding what is most important this week, what else the reader should know, and whether a pattern is worth naming. That produces three tiers of weight:
+
 ```
 Artobiography
-No. 01 · September 4, 2026
+The changing lives of remarkable art collections
+No. 01 · August 28, 2026
 
-This week in private collections
+[Lead headline]
+The one development that most deserves attention. ~200–300 words: facts,
+context, at most one restrained observation. A link to the Collection record.
 
-[Headline — calm, factual]
-One paragraph: what happened.
-One short paragraph: why this belongs in Nariway's field — context, not a grand conclusion.
-Related collection → [name]        (a quiet link into the Collection Index, where one exists)
+Elsewhere
+[Sub-headline]  A second-tier item, ~75–150 words, mostly factual.
+[Sub-headline]  Another, ~75–150 words.
+[Sub-headline]  A shorter one, ~75–100 words.
 
-[Next item] ...   (3 to 5 items total)
-
-Also worth noting
-Two or three developments that deserve one sentence rather than a full entry.
+In brief
+[Bold lead-in.] One to three sentences. The developments that deserve a
+mention, not an entry.
 
 —
-For collectors considering what comes next
-Nariway works with owners and families facing decisions about the long-term
-future of significant art collections.  Learn about our work →
+Artobiography is published by Nariway.
+Collections · Nariway · About
 ```
 
-No "Happy Friday." No personal warm-up. No five lessons. No inspirational close. No manufactured theme stitching unrelated events together. The advisory footer is the quiet commercial bridge — honest-to-stage per [[positioning]] (framed around the decision, no client roster, no fixed price), and it is what shortens the distance between audience and customer.
+No "Happy Friday." No personal warm-up. No five lessons. No inspirational close. No manufactured theme stitching unrelated events together. **No mandatory "why this matters" paragraph after every item** — most items carry their own weight as facts, and only the lead earns a restrained observation. If a significance line feels constructed, cut it; let the fact stand.
+
+**The footer is editorial only, no advisory pitch (changed 2026-08-24).** The earlier "For collectors considering what comes next … Learn about our work" bridge is removed. It is premature to make every editorial product sell the unvalidated advisory, and editorial independence is worth more commercially than the bridge — it builds authority without reminding the reader you want their business. If the publication starts attracting attorneys, family-office people, collectors, and journalists, their behavior teaches us; the commercial bridge can become explicit later, once earned.
 
 ## Voice — calmer than Signals (the one correction that matters)
 Signals is an **internal research input.** It uses absolute internal cadence that must not be published unchanged. Real examples from this week's digests:
@@ -47,18 +52,15 @@ Signals is an **internal research input.** It uses absolute internal cadence tha
 - "the sharpest form-level answer in the universe right now"
 Those are useful private observations and exactly the [[ai-tells|AI-absolute cadence]] we strip from anything public. The reader does not need to be told something is profound. **The reader can see why it is interesting.** All the standing voice rules apply (no em dashes, no colons in prose, no *And/But* sentence starts, no hedging, no cheap intensifiers, no emojis).
 
-**Worked example — Canyon (Signals input → published Artobiography item):**
+**Worked example — Canyon, as an "Elsewhere" item (Signals input → published):**
 
-> **Robert Rosenkranz is opening a museum designed around time-based art**
->
-> Canyon, scheduled to open this fall on Manhattan's Lower East Side, is being developed by collector Robert Rosenkranz for video, sound, performance, and other time-based work. Founding MASS MoCA director Joseph Thompson will lead the institution, conceived as part museum, part performance venue, and part gathering place.
->
-> The format is notable because the institution is being shaped around the way the collection needs to be experienced. Rather than adapting Rosenkranz's holdings to a conventional museum model, Canyon offers another example of how the character of a collection can influence the form of the institution built around it.
->
-> Related collection → Canyon
+> **A museum designed for slow art**
+> Canyon opens this fall on Manhattan's Lower East Side, a space the collector Robert Rosenkranz has built for video, sound, and performance, work that asks for more time than a painting does. Joseph Thompson, the founding director of MASS MoCA, will run it as something between a museum, a performance venue, and a place to spend an evening, with late hours and real hospitality. Rosenkranz already shows work of this kind inside his own home, and Canyon extends that into a public building shaped around how the art wants to be seen.
+
+Note the discipline: the item explains itself through facts and stops. It does not append a paragraph announcing why it matters. The earlier draft's "the institution is being shaped around the way the collection needs to be experienced" was a constructed significance line of exactly the kind to cut.
 
 ## The selection test
-Choose the three to five that are genuinely **developments in the life of a collection** — built, changed, transferred, opened, closed, contested, given, sold, moved, reinterpreted. The question for each candidate is "what does this tell us about what happens to a private collection," never "here are five art-world stories you may have missed." A general market or museum-leadership item belongs only when it bears on the life of a collection.
+Choose the four to six that are genuinely **developments in the life of a collection** — built, changed, transferred, opened, closed, contested, given, sold, moved, reinterpreted. The question for each candidate is "what does this tell us about what happens to a private collection," never "here are five art-world stories you may have missed." A general market or museum-leadership item belongs only when it bears on the life of a collection.
 
 ## The feedback loop (why this is a business asset, not a content treadmill)
 Every selected item is run back through the corpus, so the edition improves the proprietary research rather than sitting on top of it:
@@ -68,10 +70,27 @@ Every selected item is run back through the corpus, so the edition improves the 
 One research process, several outputs — the newsletter, the database, the research, and the marketing are the same engine, not four obligations. This is the discipline that keeps the incremental workload small and the corpus compounding.
 
 ## The commercial mechanism (the answer to "how do the right people encounter Nariway")
-This is the research-led acquisition channel made concrete (see [[collection-futures-study]] "how a buyer reaches this"). An estate attorney or family-office adviser is forwarded one issue because a story is relevant to a client. They subscribe. Every week Nariway quietly demonstrates that it watches what happens to significant collections everywhere. Months later a client says "my mother collected for forty years and none of us knows what to do with all of it," and Nariway is who comes to mind. The signal that this is working is not subscriber count — it is **the right intermediaries subscribing and, eventually, referring** (the [[problem-discovery]] signal ladder).
+This is the research-led acquisition channel made concrete (see [[collection-futures-study]] "how a buyer reaches this"). An estate attorney or family-office adviser is forwarded one issue because a story is relevant to a client. They subscribe. Every week Nariway quietly demonstrates that it watches what happens to significant collections everywhere. Months later a client says "my mother collected for forty years and none of us knows what to do with all of it," and Nariway is who comes to mind. The signal that this is working is not subscriber count — it is **the right intermediaries subscribing and, eventually, referring** (the [[problem-discovery]] signal ladder). Crucially this works **without a sales footer** — the authority does the work, and pitching in every issue would weaken it. The bridge stays implicit until reader behavior earns making it explicit.
 
-## Operations — production here, presentation elsewhere (the separate-project answer)
-- **Production stays in this vault.** The weekly edition is drafted from the week's [[nariway-signals]] digests, by the existing Signals cloud routine extended with a Friday step, or a sibling weekly routine. Output is a **draft** for the founder's review — not an auto-send. The founder is the editor: she picks the final three to five and approves. That is the part she wants to do for years.
+## The research compass (what to deepen next)
+Artobiography is also the instrument that tells Nariway **what to research**. Which stories readers open and click (collectors dying, museums closing, university partnerships, heirs selling, tax changes, new access models) is real market information about which Landscape subjects the audience actually cares about. So the discipline is **publish first, watch behavior, deepen where interest is genuine** — not to send agents out now to fill every gap in the [[landscape-subject-inventory|subject inventory]]. The audience shows us the priority the architecture cannot.
+
+## The launch as the first market test (2026-08-24)
+Reviving Artobiography is not restarting an old newsletter. **Issue No. 01 is the first live test of the new Nariway publishing model**, and the dormant list is the test bed, not a liability: ~436 subscribers, almost all free, ~73% of them subscribed before 2025 (so most predate the publishing gap) and a meaningfully international spread (US majority, plus UK, Canada, Australia, Brazil, France, Italy, Germany). The clean experiment: **does an audience that first subscribed for stories about artists care about Nariway's new focus on the lives and futures of collections?** Expect unsubscribes; a substantial change in the proposition should produce them, and that is not failure by itself. After 3–4 issues, watch: unsubscribe rate · open rate · **clicks through to Collection pages** · new subscriptions and who the new subscribers are · replies and forwards. The metric that matters most over time is **subscriber replacement** — whether readers who leave are replaced by people closer to Nariway's world. This is signal a month of further architecture work cannot buy.
+
+## Production — docket first, then draft (do NOT auto-draft the whole edition)
+The agents do not write the newsletter. They prepare an **editorial docket**, and the founder selects from it. This is the guard against five AI-selected stories written in five identical AI-shaped blocks — the failure mode of an auto-drafted edition.
+
+1. **The weekly docket (agents, ~Thursday).** From the week's [[nariway-signals]] digests, produce ~12 candidate developments. For each, a structured row:
+   - what happened · date · **primary source** · secondary confirmation
+   - related Nariway Collection record (or "none yet" → a case page to build)
+   - relevant Landscape/knowledge subject
+   - one line on why it may matter
+   - confidence / verification status
+2. **The founder selects 4–6.** She is the editor. This is the seat the whole product is designed to keep her in.
+3. **Claude drafts only the selected items**, in the hierarchy above (lead / Elsewhere / In brief), and stages the edition for her review.
+
+- **Production stays in this vault** (the docket needs the corpus and the feedback loop). Presentation is elsewhere.
 - **Presentation uses existing surfaces.** Substack already hosts Artobiography; a Newsletter section on nariway.com is owned by the separate **nariway-rebuild** project. Both are presentation layers, not new production projects.
 - **Publishing to the list is always the founder's explicit action.** The routine drafts and stages; it never sends to subscribers or posts publicly on its own (send-on-behalf / publish-public discipline).
 - **No separate Claude Code project.** The edition's whole advantage is its live connection to the corpus and the feedback loop; a separate repo severs exactly that, and the vaults do not share memory. nariway-rebuild (the site) and Substack (hosting) are the only separate surfaces, and both are presentation.
