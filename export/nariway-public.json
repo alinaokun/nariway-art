@@ -674,6 +674,50 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "canyon-nyc",
+      "publicDepth": "record",
+      "name": "Canyon",
+      "founder": "Robert Rosenkranz",
+      "location": "New York, NY",
+      "profile": {
+        "founded": 2027,
+        "structure": "Nonprofit standalone venue",
+        "publicAccess": "Opening to the public, 2027",
+        "currentState": "Under construction; opening on New York's Lower East Side, 2027.",
+        "size": "40,000 sq ft"
+      },
+      "composition": {
+        "focus": "Durational art — video, sound, and performance",
+        "period": "Contemporary (as documented, 2026)",
+        "media": [
+          "video",
+          "sound",
+          "performance"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Venue opens on the Lower East Side, Manhattan",
+            "year": 2027,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Robert Rosenkranz, a collector who has long shown time-based work inside his own home, is funding a purpose-built public venue for video, sound, and performance art in Manhattan, led by former MASS MoCA director Joe Thompson.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "canyon.org",
+        "The Art Newspaper",
+        "Artnet"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "thoma",
       "publicDepth": "expanded",
       "name": "Carl & Marilynn Thoma Art Foundation",
@@ -2427,6 +2471,7 @@
       "founder": "George Lucas & Mellody Hobson",
       "location": "Los Angeles, CA",
       "profile": {
+        "founded": 2026,
         "structure": "Standalone museum",
         "publicAccess": "Opening to the public September 2026",
         "currentState": "Opening September 22, 2026.",
@@ -3999,6 +4044,53 @@
         "Wikipedia"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "feuerle-collection",
+      "publicDepth": "expanded",
+      "name": "The Feuerle Collection",
+      "founder": "Désiré Feuerle",
+      "location": "Berlin, Germany",
+      "profile": {
+        "founded": 2016,
+        "structure": "Private nonprofit museum, appointment-only",
+        "publicAccess": "Open by appointment only",
+        "currentState": "Open by appointment in Berlin since 2016."
+      },
+      "composition": {
+        "focus": "Early Imperial Chinese furniture, Khmer sculpture, and contemporary art in dialogue",
+        "period": "200 BC–17th century (antiquities); contemporary (as documented, 2026)",
+        "media": [
+          "furniture",
+          "sculpture",
+          "contemporary art"
+        ],
+        "selectedArtists": [
+          "(antiquities collection",
+          "no single-artist roster)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Museum opens in a converted WWII telecommunications bunker, Berlin",
+            "year": 2016,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Désiré Feuerle, a former Cologne gallerist who built a career pairing ancient and contemporary art, converted a pair of WWII telecommunications bunkers in Berlin into a private museum with architect John Pawson, opening to the public by appointment in 2016.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "thefeuerlecollection.org",
+        "Dezeen",
+        "Apollo Magazine"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "pearlman-foundation",

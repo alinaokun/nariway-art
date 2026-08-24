@@ -45,8 +45,8 @@
 **Source:** Cerulli Associates, via [[market-intelligence]] #1.
 
 ### C9 · UHNW art holdings — [DOC-secondary]
-**Canonical:** UHNW individuals held ≈ **$2.56T** in art and collectibles in 2024, projected to ≈ **$3.47T by 2030** (Deloitte).
-**Source:** Deloitte, via [[market-intelligence]] #1.
+**Canonical:** UHNW individuals held ≈ **$2.56T** in art and collectibles in 2024, projected to ≈ **$3.47T by 2030** (Deloitte). **Growth rate added 2026-08-24:** the same $2.56T (2024) figure follows from **$2.17T in 2022**, per the 8th Deloitte Private & ArtTactic Art & Finance Report (2025 edition) — an **~18% two-year increase**, the first time this claim carries a rate rather than two disconnected snapshots.
+**Source:** Deloitte, via [[market-intelligence]] #1; growth-rate addendum via [[market-intelligence]] #1 2026-08-24 addendum, Deloitte Private & ArtTactic Art & Finance Report 2025 (WebSearch-synthesized, not directly fetched).
 
 ---
 
@@ -57,8 +57,8 @@
 **Use:** landscape/why-now and the professional-ecosystem services-gap finding, not a Nariway market size.
 
 ### C11 · Art as a share of collector wealth — [DOC-secondary]
-**Canonical:** among surveyed HNW collectors, art averaged ~**20%** of wealth, rising to ~**28%** for those with >$50M, and ~**24%** for those collecting 20+ years (Art Basel/UBS Survey of Global Collecting 2025, ~3,100 collectors across 10 markets; avg 2024 spend ~$439K across ~14 works).
-**Source:** Art Basel/UBS 2025 (via the review; confirm before public citation).
+**Canonical:** among surveyed HNW collectors, art averaged ~**20%** of wealth, rising to ~**28%** for those with >$50M, and ~**24%** for those collecting 20+ years (Art Basel/UBS Survey of Global Collecting 2025, ~3,100 collectors across 10 markets; avg 2024 spend ~$439K across ~14 works). **Divergent-methodology caution added 2026-08-24:** the 8th Deloitte Private & ArtTactic Art & Finance Report (2025 edition) states UHNW collectors allocate an average of only **10.4%** of total wealth to art/collectibles — roughly half the Art Basel/UBS figure for a similarly-worded question. Neither figure supersedes the other; different surveys, samples, and wording produce non-comparable numbers for "share of wealth in art," the same source-genealogy caution this register already applies to the transfer-size figures (C1, C36). **Do not average or reconcile the two into one number.**
+**Source:** Art Basel/UBS 2025 (via the review; confirm before public citation); Deloitte Private & ArtTactic Art & Finance Report 2025 via [[market-intelligence]] #1 2026-08-24 addendum (WebSearch-synthesized, not directly fetched).
 **Use:** the conditions under which a collection becomes a management/succession problem; not a market size.
 
 ### C12 · Intent to pass to heirs — [DOC-secondary]
@@ -309,6 +309,18 @@
 **Canonical:** Terra Foundation **26.9×** ($614.5M / $22.9M, FY2025; grantmaking, museum closed 2004) · Norton Simon Museum **17.0×** ($149.6M / $8.8M — operating entity only; collection sits in two sibling foundations, so this understates backing) · Isabella Stewart Gardner **12.9×** ($369.5M / $28.7M) · Dia **9.8×** ($271.1M / $27.5M) · **McNay 9.3×** (see C4) · Barnes **8.2×** ($245.0M / $30.1M). Poldi Pezzoli — non-US, no Form 990. Corcoran — dissolved 2014, no ongoing financials.
 **Governance (verified):** Corcoran ran on an independent self-perpetuating board yet still dissolved (2014, cy pres) on money — the H6/H8 disconfirming case holds. Dia founder-sole **1974–~1985** (1985 handoff date approximate/secondary), then independent board. Barnes control judicially rewritten (Lincoln-majority 5-seat board → 15-seat board, Lincoln now ~4/15). Gardner self-perpetuating board from her 1924 will (will text not directly quoted — secondary if load-bearing). Norton Simon family/self-perpetuating board, collection in two sibling foundations. Poldi Pezzoli mixed public-private foundation board, ~145 years.
 **Use:** the Governance/Durability entry (Wave 2); pairs with C4, C37. **Wording:** these are **net-assets** ratios (include land/buildings), not endowment coverage; net assets ≠ endowment (see C4). **Jurisdiction:** US (except Poldi Pezzoli).
+
+---
+
+### C55 · The advisory demand/supply gap is widening, not just present — [DOC-secondary]
+**Canonical:** The 8th Deloitte Private & ArtTactic Art & Finance Report (2025 edition) finds **65%** of surveyed wealth managers report rising client demand for art advisory services, up sharply from **44% in 2023** — the demand-perception half of a gap whose supply half is already registered at C10 (the share of firms actually *offering* art services falling from 63% to 51% over the same window). Read together, this is not a static gap; it is **widening on both sides at once** — perceived demand climbing roughly 21 points while actual supply retreats 12 points, a two-year window in which the market signal Nariway would want to see (a coordinator role going unfilled while demand for one visibly grows) sharpened rather than stayed flat.
+**Source:** [[market-intelligence]] #1 2026-08-24 addendum, Deloitte Private & ArtTactic Art & Finance Report 2025 (arttactic.com, deloitte.com/lu — WebSearch-synthesized, not directly fetched).
+**Use:** the single strongest macro-level supporting data point yet for H7A/H7B's "unowned pre-decision, real but unproven willingness-to-pay" framing — a widening gap is a better market signal than a static one, though it remains a survey of wealth-manager *perception*, not a count of actual unmet engagements, and does not itself prove H7B.
+
+### C56 · 2024 auction sales shifted toward smaller lots, consistent with an estate-driven (not blockbuster-driven) supply pattern — [DOC-secondary]
+**Canonical:** In 2024, fine-art auction sales **above $1M declined by roughly one-third** year over year, while sales **below $50,000 increased by about 8%** (Artnet's annual auction data-dive). The market's center of gravity moved toward smaller, more numerous lots rather than fewer, larger ones.
+**Source:** [[market-intelligence]] #1 2026-08-24 addendum, news.artnet.com/market/data-dive-fine-art-auction-2625475 (WebSearch-synthesized, not directly fetched).
+**Use:** a structural corroboration, not proof, of the "estate rush" thesis (C2, C6): a supply-side shift toward smaller/more-numerous lots is the pattern a rising volume of ordinary (not trophy) inherited collections reaching the market would produce. **Do NOT claim this figure is caused by estates specifically** — the source attributes the shift to broader market conditions, not to inheritance; it is consistent with, not evidence for, the estate-rush mechanism specifically.
 
 ---
 
