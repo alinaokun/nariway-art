@@ -9,4 +9,4 @@ decision: maybe
 deadline: ""
 link: https://www.appraisersassociation.org
 ---
-Appraisers, advisors, attorneys. Anchor of the dense early-November NYC referral week.
+Appraisers, advisors, attorneys. Anchor of the dense early-November NYC referral week. Rebranded "Of Value: National Conference" (confirmed 2026-08-24 network-research scan); dates and NYAC venue unchanged.
