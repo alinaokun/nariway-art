@@ -9,12 +9,10 @@
 **Title:** The Great Wealth Transfer and Art
 **Dek:** Over the next decade a large amount of privately held art will be inherited, and most collectors have not made a plan for what happens to it.
 
-### Block 2 — The scale  *(display statistic + brief orientation)*
+### Block 2 — The scale  *(display statistic)*
 **Display figure:** $992 billion
 
 Deloitte estimates that roughly $992 billion of art and collectibles will change ownership over the coming decade, most of it through inheritance rather than sale.
-
-Inheriting a collection is not like inheriting cash or shares. Someone has to take on the practical work of looking after the art, which means storage, insurance and records, and at some point a decision about what should happen to it. That person might be a spouse, a child, a trustee, an executor or a foundation. In the United States the first to inherit is most often a surviving spouse, and more than 95% of the time a woman.
 
 ### Block 3 — The estimates  *(comparison table)*
 **Lead-in:** The $992 billion is Deloitte's figure for art specifically. It sits inside a much larger transfer of overall wealth, which is itself measured in several ways that do not describe the same thing.
@@ -27,26 +25,20 @@ Inheriting a collection is not like inheriting cash or shares. Someone has to ta
 
 **Caption:** These figures cover different countries, populations and time frames, so they cannot be added together or compared directly. Nariway cites the art-specific figure from Deloitte and keeps the totals separate.
 
-### Block 4 — Art within the transfer  *(short prose + one data point)*
-Art is one of the harder parts of an estate to deal with. It is slow to sell, its value is a matter of opinion, and it usually carries an attachment that cash and shares do not.
+**Supporting note (quiet):** Ultra-high-net-worth holdings of art and collectibles were about $2.56 trillion in 2024, projected to reach $3.47 trillion by 2030 (Deloitte). For many collectors, art is around a fifth of their wealth (Art Basel and UBS).
 
-**Data point:** Ultra-high-net-worth holdings of art and collectibles reached about $2.56 trillion in 2024 and are projected to reach $3.47 trillion by 2030 (Deloitte). For collectors, art is often around a fifth of total wealth (Art Basel and UBS).
+### Block 4 — Art within the transfer  *(short prose)*
+Art is one of the harder parts of an estate to deal with. It is slow to sell, and it usually carries an attachment that cash and shares do not.
 
-### Block 5 — A transfer is not a sale  *(short prose + data strip + two precedents)*
+### Block 5 — A transfer is not a sale  *(short prose + data strip)*
 A transfer is not the same as a sale. Most art that is inherited is kept, at least at first.
 
 **Data strip:**
 - About 72% of people who inherit art keep at least some of it (Art Basel and UBS).
 - About 80% of collectors intend to leave their collections to family (Art Basel and UBS).
 
-**Precedents:**
-- **[[storm-king|Storm King Art Center]].** The founding family has kept it together for sixty-six years, across three generations.
-- **[[de-la-cruz-collection|The de la Cruz collection]].** Sold at auction within months of the founder's death, for about $34 million.
-
-When a collection comes to market soon after a death, it is often because no other route was planned.
-
 ### Block 6 — Keeping is not deciding  *(typographic data treatment)*
-**Orientation:** Keeping a collection and deciding its future are not the same thing, and the survey evidence on planning is thin.
+**Orientation:** Keeping a collection and planning its future are not the same thing.
 
 **Data treatment (two figures, precise populations):**
 - **Just over one in ten** collectors have put a written plan for their art in place with an advisor (Deloitte, 2021).
@@ -55,14 +47,14 @@ When a collection comes to market soon after a death, it is often because no oth
 ### Block 7 — What transfers, and what may not  *(wide two-column editorial comparison)*
 **The turn:** Ownership of a collection transfers far more easily than the things that made it worth having.
 
-| Transfers cleanly | Often does not |
+| What can transfer | What may not |
 |---|---|
 | Legal ownership of the works | The knowledge of what each work is and why it was acquired |
-| Their market value | The relationships with artists, dealers and institutions |
+| The objects themselves | The relationships with artists, dealers and institutions |
 | | The money and effort needed to store, insure and care for it |
 | | The collector's intent for what it should become |
 
-A new owner inherits the art and its price. Whether they also inherit the understanding, the resources and the intention behind it is a separate question, and the answer decides what the collection can realistically become.
+A new owner inherits the works. Whether they also inherit the understanding, the resources and the intention behind them is a separate question, and the answer decides what the collection can realistically become.
 
 **Precedent:** **[[barnes|The Barnes Foundation]].** Albert Barnes wrote detailed instructions for his collection into a legal deed. Decades later a court set aside parts of it so the foundation could survive, moving the collection to Philadelphia against his stated wishes. Intent does not always transfer, even in writing.
 
@@ -75,7 +67,7 @@ The routes a collection can take are not all available to every collection. They
 - **Hillwood.** Marjorie Merriweather Post left her estate to the Smithsonian, which returned it because it could not afford to run it as she intended.
 - **[[fisher-sfmoma|The Fisher collection]].** A plan for a family museum in San Francisco proved unworkable, so the collection went to SFMOMA on a hundred-year loan, with ownership retained.
 
-Building an institution is expensive to sustain, and whether one lasts depends more on its governance than on its size, a pattern that runs through Nariway's own case research.
+Building an institution is expensive to sustain, and Nariway's case research repeatedly points to governance as a major factor in whether collector-founded institutions endure.
 
 ### Block 9 — The available futures, with real precedents  *(pathways × Collection Index table)*
 **Lead-in:** In practice a collection tends to follow one of a handful of routes, and each has real examples in the Collection Index.
@@ -85,14 +77,14 @@ Building an institution is expensive to sustain, and whether one lasts depends m
 | Keep it in the family | Held and cared for across generations | [[storm-king|Storm King]] |
 | Give it to an institution | Donated outright, where one will accept it | [[anderson-collection-stanford|Anderson / Stanford]] |
 | Partner with an institution | Long-term loan or shared, ownership kept | [[fisher-sfmoma|Fisher / SFMOMA]] |
-| Build a new institution | A museum or foundation of the collector's own | [[barnes|Barnes]], [[chinati|Chinati]] |
+| Build a new institution | Create a museum, foundation or other public institution | [[barnes|Barnes]], [[chinati|Chinati]] |
 | Disperse deliberately | Placed piece by piece across many museums | [[vogel-fifty-states-afterlife|the Vogels]], [[souls-grown-deep|Souls Grown Deep]] |
 | Sell | Auction or private sale | [[de-la-cruz-collection|de la Cruz]] |
 
 **Caption:** Many collections move through more than one of these over time. Each name links to its full record in the Collection Index.
 
 ### Block 10 — What the transfer really moves  *(prose conclusion)*
-The Great Wealth Transfer will move a great deal of art and a great deal of money. It will also transfer the responsibility for deciding what each collection becomes, and most of the people taking on that responsibility have not decided yet.
+The Great Wealth Transfer will move a great deal of art and a great deal of money. Responsibility for deciding what each collection becomes passes along with it.
 
 ### Block 11 — Sources and related  *(meta; one hairline before)*
 **Sources**
@@ -107,8 +99,9 @@ The Great Wealth Transfer will move a great deal of art and a great deal of mone
 ---
 
 ## Evidence-discipline notes (for the record, not the page)
-- "Most collectors have not made a plan" is tied to the survey population: just over 1 in 10 have a written plan with an advisor (Deloitte 2021); the ~31% discussed figure is specifically among those who intend to leave art to family. Both stated in Block 6 with their populations.
+- "Most collectors have not made a plan" (dek / Block 6) rests on the survey populations: just over 1 in 10 collectors have a written plan with an advisor (Deloitte 2021); the ~31% discussed figure is specifically among those who intend to leave art to family.
 - No population count is stated ("thousands of collections" removed) — the register's sizing note holds.
-- Block 5's "no other route was planned" is offered as a general pattern, not a claim about de la Cruz's private arrangements.
-- Block 7 uses C8 (first recipient often a surviving spouse, >95% women) as a plain fact in Block 2, without inferring anything about who built the collection.
-- The 90–95% museum-decline is trade-press-sourced (Bank of America); labeled as an estimate.
+- The 72%/80% figures carry the retention finding on their own (Block 5); Storm King and de la Cruz now appear only in the Block 9 futures table, not as anecdotal proof of the population finding.
+- Block 7's left column lists only what genuinely transfers (title and the objects); market value is not treated as something inherited.
+- Block 8's governance line is stated as "a major factor," not a comparative causal claim; the 90–95% museum-decline is trade-press-sourced (Bank of America), labeled an estimate.
+- Block 10 no longer claims recipients "have not decided"; it states only that responsibility passes with the collection.
