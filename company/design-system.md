@@ -33,6 +33,14 @@ Both daily emails render in this brand with **email-safe** technique (set in the
 
 **Mobile-first column (required, fixed 2026-08-23 — the emails were unreadable on phones):** the centered content table must be **fluid** — `width="100%"` with an inline `style="max-width:620px"` — and NEVER a fixed `width="620"` / `width:620px`. A fixed pixel width forces a phone's layout viewport to ~620px, so the whole email zooms out and every line is clipped (confirmed: at a 375px viewport the fixed version reports an innerWidth of 620 and scrolls, the fluid version fits at 375 with no overflow). Inline `max-width` is the guarantee: it is fully email-safe (needs no `<style>`, which clients drop) and shrinks to fit any phone. Keep cell side-padding small (~8px) so text is not crowded when the column narrows. A `<style>` media query may progressively tune padding/size on clients that keep `<head>`, but must never be the ONLY thing making the email responsive.
 
+## Knowledge Base pages (the research-publishing register)
+A KB entry is *visual research publishing*, enjoyable to read and to scan. Argument headlines carry the thinking, structured objects (matrices, data fields, pathways) carry the proof, prose explains only what neither can show. Specifics for these pages:
+- **Section headlines run the full content width**, set in Newsreader, never constrained to a data column. The material beneath them (tables, columns, figures) breaks into its own narrower structure.
+- **Vary the treatment; do not repeat one template.** A comparison table, a data field, a staggered pair, and a pathways list should each look different so no two evidence blocks read the same. Two statistics in a row must not sit in identical layouts.
+- **Do not use a horizontal rule when hierarchy or whitespace already communicates the transition.** A new headline plus generous space is the transition. Rules should be rare enough that when one appears, it means something (a table's own structure, or the single hairline before Sources where the information type genuinely changes). This is a house rule, not only a KB rule.
+- **No standalone precedent inserts.** Collection Index examples belong inside the argument (subordinate to a pathway or a claim), not as a boxed interruption in the reading flow.
+- Reading/body type on KB pages follows the *measured live-site tokens* (see [[gwt-vs-production-tokens]]): Schibsted Grotesk 17px/1.7 for reading, Newsreader 500 for headlines and figures. Prototype: [[prototypes/gwt-page|The Great Wealth Transfer and Art]].
+
 ## Live examples
 - [The Digital Workforce](https://claude.ai/code/artifact/477c16e5-0cd8-4558-ba79-adb8ea33b216) (org chart)
 - [What Becomes of Great Art Collections](https://claude.ai/code/artifact/6c3dde4f-bfc0-4b43-876c-ede2633907f6) (report visual)

@@ -3,138 +3,189 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Schibsted+Grotesk:wght@400;500;600&display=swap">
 <style>
-  /* Tokens taken directly from live nariway.com (measured 2026-08-25). Same DNA
-     as the Collection pages and Index; editorial single-column composition. */
+  /* The Great Wealth Transfer and Art. DNA from nariway.com. Headlines carry the
+     argument, data carries the proof, prose explains only what neither can show.
+     A rule appears only where the information type changes (before Sources). */
   :root{
-    --bg:#FFFFFF;
-    --ink:#1A1A17; --ink-body:#191712; --ink-2:#3A3A34; --muted:#6B6B62;
-    --line:#E7E5DF; --line-2:#D4D2CA;
+    --bg:#FFFFFF; --surface:#F6F5F1;
+    --ink:#1A1A17; --ink-body:#191712; --ink-2:#3A3A34; --muted:#6B6B62; --faint:#8A877D;
+    --line:#E7E5DF; --line-2:#D2D0C8;
     --serif:"Newsreader",Georgia,"Times New Roman",serif;
     --sans:"Schibsted Grotesk",system-ui,-apple-system,Helvetica,Arial,sans-serif;
-    --measure:42rem;                         /* ~672px reading column */
-    --pad:clamp(24px,5vw,64px);              /* 64 / 38 / 24 desktop-tablet-mobile */
-    --gap-para:1.15em;                       /* live-site paragraph rhythm */
-    --gap-section:clamp(61px,7vw,90px);      /* ~90 desktop / ~61 mobile */
-    --t-title:clamp(2.35rem, 1.4rem + 2.6vw, 2.85rem);   /* 37.6–45.6 */
-    --t-dek:19px;                            /* Schibsted Grotesk 19 */
-    --t-arg:clamp(1.35rem, 1.15rem + 0.7vw, 1.45rem);    /* ~22–23 */
-    --t-body:17px;                           /* Schibsted Grotesk 17 */
-    --t-meta:11.5px;
-    --t-fig:clamp(2.15rem, 1.55rem + 1.4vw, 2.5rem);     /* $992B, restrained: below the title, never dominant */
+    --pad:clamp(24px,5vw,64px);
+    --sec:clamp(70px,10vw,120px);           /* space above a new argument section */
+    --t-title:clamp(2.5rem, 1.9rem + 2.8vw, 3.2rem);
+    --t-head:clamp(2rem, 1.5rem + 2.2vw, 2.5rem);   /* section headline, full width */
+    --t-fig:clamp(3rem, 2.1rem + 3.4vw, 4.2rem);    /* big proof figures + $992B */
   }
   @media (prefers-color-scheme:dark){
     :root:not([data-theme="light"]){
-      --bg:#141412;
-      --ink:#F2F1EC; --ink-body:#E9E7DF; --ink-2:#C7C5BC; --muted:#928F85;
-      --line:#2A2925; --line-2:#3A3833;
+      --bg:#141412; --surface:#1D1C19;
+      --ink:#F2F1EC; --ink-body:#E9E7DF; --ink-2:#C7C5BC; --muted:#928F85; --faint:#7E7B72;
+      --line:#2A2925; --line-2:#3C3A34;
     }
   }
   :root[data-theme="dark"]{
-    --bg:#141412;
-    --ink:#F2F1EC; --ink-body:#E9E7DF; --ink-2:#C7C5BC; --muted:#928F85;
-    --line:#2A2925; --line-2:#3A3833;
+    --bg:#141412; --surface:#1D1C19;
+    --ink:#F2F1EC; --ink-body:#E9E7DF; --ink-2:#C7C5BC; --muted:#928F85; --faint:#7E7B72;
+    --line:#2A2925; --line-2:#3C3A34;
   }
   *{box-sizing:border-box}
   html{-webkit-text-size-adjust:100%}
-  body{
-    margin:0; background:var(--bg); color:var(--ink-body);
-    font-family:var(--sans); font-weight:400; font-size:var(--t-body); line-height:1.7;
-    -webkit-font-smoothing:antialiased;
-  }
-  .col{max-width:calc(var(--measure) + 2*var(--pad)); margin:0 auto; padding:clamp(40px,7vw,88px) var(--pad) 104px}
+  body{margin:0; background:var(--bg); color:var(--ink-body);
+    font-family:var(--sans); font-size:17px; line-height:1.7; -webkit-font-smoothing:antialiased}
+  .page{max-width:60rem; margin:0 auto; padding:clamp(40px,7vw,88px) var(--pad) 120px}
+  .num{font-variant-numeric:tabular-nums}
+  a{color:var(--ink)}
 
-  /* meta / labels */
-  .eyebrow{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.11em;
-    font-size:var(--t-meta); color:var(--muted); margin:0 0 1.6rem}
-  /* title */
   h1{font-family:var(--serif); font-weight:500; color:var(--ink);
-    font-size:var(--t-title); line-height:1.1; letter-spacing:-.012em; text-wrap:balance; margin:0 0 1.2rem}
-  /* dek */
-  .dek{font-family:var(--sans); font-weight:400; color:var(--ink-2);
-    font-size:var(--t-dek); line-height:1.6; margin:0; max-width:34rem}
-  /* body */
-  p{margin:0 0 var(--gap-para); color:var(--ink-body)}
-  a{color:inherit}
-  a.ref{text-decoration:none; border-bottom:1px solid var(--line-2); padding-bottom:.5px; color:var(--ink)}
-  a.ref:hover{border-bottom-color:var(--muted)}
+    font-size:var(--t-title); line-height:1.06; letter-spacing:-.018em; text-wrap:balance; margin:0 0 1.3rem}
+  .dek{font-family:var(--sans); font-weight:400; color:var(--ink-2); font-size:19px; line-height:1.55;
+    max-width:36rem; margin:0}
 
-  /* $992B — a display figure, but not the loudest thing on the page */
-  .figure{font-family:var(--serif); font-weight:500; color:var(--ink);
-    font-size:var(--t-fig); line-height:1.05; letter-spacing:-.02em; font-variant-numeric:tabular-nums;
-    margin:0 0 .7rem}
+  /* section headline — full content width, never column-width */
+  .sec-h{font-family:var(--serif); font-weight:500; color:var(--ink);
+    font-size:var(--t-head); line-height:1.14; letter-spacing:-.012em; text-wrap:balance;
+    margin:var(--sec) 0 2rem}
+  .prose{max-width:36rem}
+  .prose p{margin:0 0 1.2rem}
+  .caption{font-size:14.5px; color:var(--muted); line-height:1.55; max-width:40rem; margin:1.2rem 0 0}
+  .src{font-family:var(--sans); font-weight:500; text-transform:uppercase; letter-spacing:.09em; font-size:10.5px; color:var(--faint); margin:.45rem 0 0}
 
-  /* major argument statements (Move 5, Move 8): the site's h2 scale */
-  .arg{font-family:var(--serif); font-weight:500; color:var(--ink);
-    font-size:var(--t-arg); line-height:1.25; letter-spacing:-.006em; text-wrap:balance;
-    margin:0 0 var(--gap-para); max-width:32rem}
+  /* $992B — the scale, the first thing the reader meets */
+  .hero-fig{font-family:var(--serif); font-weight:500; color:var(--ink);
+    font-size:var(--t-fig); line-height:1; letter-spacing:-.02em; font-variant-numeric:tabular-nums;
+    margin:var(--sec) 0 1rem}
+  .hero-fig .u{font-family:var(--sans); font-weight:500; font-size:.34em; color:var(--ink-2); margin-left:.28rem; letter-spacing:.01em}
 
-  /* three estimates: quiet supporting evidence, not headlines */
-  .estimates{display:grid; grid-template-columns:1fr; gap:1.3rem; margin:1.5rem 0 0}
-  @media(min-width:560px){.estimates{grid-template-columns:repeat(3,1fr); gap:1.6rem}}
-  .est b{display:block; font-family:var(--serif); font-weight:500; color:var(--ink);
-    font-size:1.25rem; line-height:1.1; font-variant-numeric:tabular-nums; margin:0 0 .35rem}
-  .est span{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.07em;
-    font-size:var(--t-meta); color:var(--muted); line-height:1.55}
+  /* estimates — a real research matrix; the point is why they differ, not their size */
+  .tbl-wrap{overflow-x:auto}
+  table.est{border-collapse:collapse; width:100%; min-width:34rem; font-size:14.5px}
+  table.est th, table.est td{text-align:left; padding:.7rem 1.3rem .7rem 0; border-bottom:1px solid var(--line); vertical-align:baseline}
+  table.est thead th{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.09em;
+    font-size:11px; color:var(--ink); border-bottom:1px solid var(--line-2); padding-bottom:.6rem}
+  table.est thead th:first-child{width:8rem}
+  table.est tbody th{font-family:var(--sans); font-weight:500; text-transform:uppercase; letter-spacing:.08em;
+    font-size:10.5px; color:var(--muted)}
+  table.est tbody td{color:var(--ink-body); line-height:1.4}
+  table.est tr.estimate td{font-family:var(--serif); font-weight:500; font-size:1.25rem; color:var(--ink); padding-top:.5rem; padding-bottom:.9rem}
+  table.est tbody tr:last-child th, table.est tbody tr:last-child td{border-bottom:0}
 
-  /* spacing utilities — the argument, not uniform sections */
-  .lead{margin-top:2rem}
-  .move{margin-top:var(--gap-section)}      /* a genuine turn in the argument */
-  .cont{margin-top:2rem}                     /* continues the same thought at a small remove */
-  .tight{margin-top:.7rem}
+  /* retention — the two figures given a visual home on a warm field */
+  .field{background:var(--surface); margin:0 calc(-1 * var(--pad)); padding:clamp(30px,4vw,44px) var(--pad)}
+  .pair{display:flex; flex-wrap:wrap; gap:clamp(30px,7vw,84px)}
+  .stat .big{font-family:var(--serif); font-weight:500; color:var(--ink); line-height:.92; margin:0; font-size:var(--t-fig)}
+  .stat .big .pct{font-size:.4em; margin-left:.02em}
+  .stat .big .sm{font-size:.3em; font-family:var(--sans); font-weight:500; color:var(--ink-2)}
+  .stat .cap{font-size:17px; color:var(--ink-body); line-height:1.45; max-width:15rem; margin:.6rem 0 0}
 
-  /* Sources — the one place the information type changes */
-  footer{margin-top:var(--gap-section); padding-top:1.5rem; border-top:1px solid var(--line)}
-  .flabel{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.13em;
-    font-size:var(--t-meta); color:var(--muted); margin:0 0 .8rem}
-  .sources{list-style:none; margin:0 0 1.9rem; padding:0; font-size:13px; color:var(--muted); line-height:1.55}
+  /* planning — deliberately different: two findings, staggered, no field */
+  .stagger .stat{max-width:20rem}
+  .stagger .stat.b{margin-top:clamp(28px,4vw,44px); margin-left:auto; text-align:left}
+  @media(min-width:620px){.stagger{max-width:44rem} .stagger .stat.b{margin-right:2rem}}
+  .stagger .cap{max-width:20rem}
+
+  /* a collection transfers / everything around it may not — the imbalance is the finding, no rule */
+  .split{display:grid; grid-template-columns:1fr; gap:2rem}
+  @media(min-width:660px){.split{grid-template-columns:0.72fr 1.28fr; gap:clamp(34px,6vw,72px)}
+    .split .may{border-left:1px solid var(--line-2); padding-left:clamp(34px,6vw,72px)}}
+  .col-h{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.1em; font-size:11px; margin:0 0 1rem}
+  .can .col-h{color:var(--muted)} .may .col-h{color:var(--ink)}
+  .split ul{list-style:none; margin:0; padding:0; display:grid; gap:.9rem}
+  .can li{font-size:17px; line-height:1.35; color:var(--muted)}
+  .may li{font-size:clamp(19px,17px + 0.4vw,22px); line-height:1.3; color:var(--ink)}
+
+  /* pathways — verbs are the scan layer, precedent subordinate; rows separate the six routes */
+  .path{display:grid; grid-template-columns:1fr; gap:.3rem; padding:1.15rem 0; border-bottom:1px solid var(--line); align-items:baseline}
+  .path:first-child{border-top:1px solid var(--line)}
+  .path:last-child{border-bottom:0}
+  @media(min-width:620px){.path{grid-template-columns:9.5rem 1fr; gap:1.6rem; padding:1.25rem 0}}
+  .verb{font-family:var(--serif); font-weight:500; color:var(--ink); font-size:clamp(1.6rem,1.3rem + 1.1vw,2rem); line-height:1; margin:0}
+  .path-body .d{margin:0; font-size:16px; line-height:1.4; color:var(--ink-body)}
+  .path-body .eg{margin:.35rem 0 0; font-size:12px; font-family:var(--sans); text-transform:uppercase; letter-spacing:.07em; color:var(--faint)}
+  .path-body .eg a{color:var(--muted); text-decoration:none; border-bottom:1px solid var(--line-2)}
+  .path-body .eg a:hover{border-bottom-color:var(--muted)}
+
+  /* conclusion + sources */
+  .close{font-family:var(--serif); font-weight:400; color:var(--ink); font-size:clamp(1.3rem,1.1rem + 0.7vw,1.55rem);
+    line-height:1.4; max-width:34rem; margin:var(--sec) 0 0}
+  footer{margin-top:var(--sec); padding-top:1.4rem; border-top:1px solid var(--line)}
+  .flabel{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.14em; font-size:11px; color:var(--muted); margin:0 0 .8rem}
+  .sources{list-style:none; margin:0 0 1.8rem; padding:0; font-size:13px; color:var(--muted); line-height:1.55; max-width:40rem}
   .sources li{position:relative; padding:.22rem 0 .22rem 1.05rem}
   .sources li::before{content:"•"; position:absolute; left:.1rem; color:var(--line-2)}
   .related{font-size:13px; color:var(--ink-2)}
   .related a{color:var(--ink); text-decoration:none; border-bottom:1px solid var(--line-2)}
-  .related a:hover{border-bottom-color:var(--muted)}
-  a:focus-visible{outline:2px solid var(--muted); outline-offset:3px; border-radius:1px}
+  a:focus-visible{outline:2px solid var(--muted); outline-offset:3px}
   @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 
-<article class="col">
-  <p class="eyebrow">The Landscape</p>
+<article class="page">
   <h1>The Great Wealth Transfer and Art</h1>
-  <p class="dek">A great deal of art is changing hands as wealth passes between generations, and much of it stays within families. What passes with a collection is not only the objects and their value. It is the responsibility for deciding what the collection becomes.</p>
+  <p class="dek">Over the next decade a large amount of privately held art will be inherited, and most collectors have not made a plan for what happens to it.</p>
 
-  <p class="lead">Over the coming decade a large share of the world's private wealth will move to a new generation, and a great deal of privately held art will move with it.</p>
+  <p class="hero-fig num">$992<span class="u">billion</span></p>
+  <div class="prose"><p>Deloitte estimates that roughly $992 billion of art and collectibles will change ownership over the coming decade, most of it through inheritance rather than sale.</p></div>
 
-  <p class="figure num">$992&#8202;billion</p>
-  <p class="tight">An estimated $992 billion in art and collectibles could change ownership over the coming decade, part of a broader transfer of wealth between generations.</p>
-
-  <p class="cont">The size of that broader transfer is not a settled number. Three respected estimates circulate, and they measure different things.</p>
-  <div class="estimates">
-    <div class="est"><b class="num">$31&#8202;trillion</b><span>Deloitte and ArtTactic · global · about a decade · the basis for the art figure</span></div>
-    <div class="est"><b class="num">$124&#8202;trillion</b><span>Cerulli · United States · through 2048</span></div>
-    <div class="est"><b class="num">$83&#8202;trillion</b><span>UBS · global · 20 to 25 years</span></div>
+  <h2 class="sec-h">Three estimates of the Great Wealth Transfer</h2>
+  <div class="tbl-wrap">
+    <table class="est">
+      <thead><tr><th scope="col"></th><th scope="col">Deloitte</th><th scope="col">Cerulli</th><th scope="col">UBS</th></tr></thead>
+      <tbody>
+        <tr class="estimate"><th scope="row">Estimate</th><td class="num">$31 trillion</td><td class="num">$124 trillion</td><td class="num">$83 trillion</td></tr>
+        <tr><th scope="row">Geography</th><td>Global</td><td>United States</td><td>Global</td></tr>
+        <tr><th scope="row">Period</th><td>About a decade</td><td>Through 2048</td><td>20 to 25 years</td></tr>
+        <tr><th scope="row">Measures</th><td>Wealth passing between individuals</td><td>All household wealth</td><td>All wealth</td></tr>
+      </tbody>
+    </table>
   </div>
-  <p class="cont">They cannot be added together or read as a single figure. Nariway uses the art-specific number from Deloitte and keeps the totals apart.</p>
+  <p class="caption">These estimates sound contradictory until you see what each one measures. Nariway cites the art-specific figure from Deloitte, roughly $992 billion, and keeps these totals apart.</p>
 
-  <p class="move">Art is a material part of what is moving. Holdings of art and collectibles among the wealthiest families were about $2.56 trillion in 2024 and are projected to reach $3.47 trillion by 2030. For many collectors art is a fifth or more of their wealth, and it is the part least like cash. It is concentrated, hard to value, slow to sell, and personal.</p>
+  <h2 class="sec-h">Most inherited art stays in the family</h2>
+  <div class="field">
+    <div class="pair">
+      <div class="stat"><p class="big num">72<span class="pct">%</span></p><p class="cap">of people who inherit art keep at least some of it.</p><p class="src">Art Basel and UBS</p></div>
+      <div class="stat"><p class="big num">80<span class="pct">%</span></p><p class="cap">of collectors intend to leave their collections to family.</p><p class="src">Art Basel and UBS</p></div>
+    </div>
+  </div>
 
-  <p class="move">A transfer is not the same as a sale. When a collection passes between generations, most inherited art is kept. About 72% of inheritors hold on to at least some of what they receive, and roughly 80% of collectors intend to pass their collections to family. <a class="ref" href="#">Storm King</a> has stayed with one family across three generations and sixty-six years. When a collection does reach the market soon after a death, it is usually because no one arranged anything else, as happened when the <a class="ref" href="#">de la Cruz collection</a> was auctioned within months of its founder's death.</p>
-  <p>Keeping a collection is not the same as deciding its future. Just over one in ten collectors have formalized a plan with an advisor, and only about a third of those who intend to leave art to their families have discussed what they will leave or provided for its care. More often, holding the collection postpones the decision rather than settling it.</p>
+  <h2 class="sec-h">But keeping it is not the same as planning for it</h2>
+  <div class="stagger">
+    <div class="stat a"><p class="big num">1<span class="sm">&nbsp;in&nbsp;</span>10</p><p class="cap">collectors have a written plan for their art, made with an advisor.</p><p class="src">Deloitte, 2021</p></div>
+    <div class="stat b"><p class="big num">31<span class="pct">%</span></p><p class="cap">of those who mean to leave art to family have discussed it or arranged its care.</p><p class="src">Deloitte, 2021</p></div>
+  </div>
 
-  <p class="arg move">Ownership can transfer more easily than the things that make a collection what it is.</p>
-  <p>The objects move, and their financial value moves with them. The knowledge of why each work was acquired, the relationships with artists and institutions, the resources to store and insure and care for the work, and the intent behind the whole, do not move on their own. The first person to inherit is often a surviving spouse. The next generation may collect in ways the founder never did. A collection also asks for money and attention simply to be held, and someone has to be willing and able to give it.</p>
-  <p>Where that knowledge and intent carry across a generation, a collection can hold together. Where they do not, its future is settled by default, or by a plan the founder would not have recognized. Albert Barnes wrote his intentions into an ironclad deed, and a court still rewrote them so <a class="ref" href="#">the Barnes Foundation</a> could survive.</p>
+  <h2 class="sec-h">A collection transfers. Everything around it may not.</h2>
+  <div class="split">
+    <div class="can"><p class="col-h">What transfers</p><ul>
+      <li>Legal ownership of the works</li>
+      <li>The objects themselves</li></ul></div>
+    <div class="may"><p class="col-h">What may not</p><ul>
+      <li>The knowledge of what each work is and why it was acquired</li>
+      <li>The relationships with artists, dealers and institutions</li>
+      <li>The money and effort needed to store, insure and care for it</li>
+      <li>The collector's intent for what it should become</li></ul></div>
+  </div>
 
-  <p class="move">What a collection needs, and what a family can bring to it, decide which futures are actually open. Giving it away is not a reliable default. An estimated 90% to 95% of art offered to museums is declined, and the door is hardest for collectors with no prior tie to the institution. When Marjorie Merriweather Post left her estate to the Smithsonian, it was handed back because the museum could not afford to run it. Founding an institution is costly to sustain, and whether one lasts turns more on its governance than on its endowment. The <a class="ref" href="#">Fisher collection</a> shows the pattern: a plan for the family's own museum proved unworkable, and the works went to the San Francisco Museum of Modern Art on a hundred-year loan instead.</p>
-  <p>In the end a collection can be kept, divided, sold, given, lent, partnered with an institution, or made public through a new one, and many move through several of these over time. Some become museums, as <a class="ref" href="#">the Barnes</a> and <a class="ref" href="#">Chinati</a> did. Some are placed with an existing institution, as the <a class="ref" href="#">Anderson</a> collection was. Some are given across many museums, as <a class="ref" href="#">the Vogels'</a> was. Some are dispersed deliberately, as <a class="ref" href="#">Souls Grown Deep</a> has done. Each is a different answer, and none of them is automatic.</p>
+  <h2 class="sec-h">What can happen to a collection?</h2>
+  <div class="paths">
+    <div class="path"><p class="verb">Keep</p><div class="path-body"><p class="d">Held in the family across generations.</p><p class="eg">Collection Index · <a href="#">Storm King</a></p></div></div>
+    <div class="path"><p class="verb">Give</p><div class="path-body"><p class="d">Donated outright, where an institution will accept it.</p><p class="eg">Collection Index · <a href="#">Anderson / Stanford</a></p></div></div>
+    <div class="path"><p class="verb">Partner</p><div class="path-body"><p class="d">Placed on long-term loan or shared, ownership kept.</p><p class="eg">Collection Index · <a href="#">Fisher / SFMOMA</a></p></div></div>
+    <div class="path"><p class="verb">Build</p><div class="path-body"><p class="d">A museum, foundation or other public institution.</p><p class="eg">Collection Index · <a href="#">Barnes</a>, <a href="#">Chinati</a></p></div></div>
+    <div class="path"><p class="verb">Disperse</p><div class="path-body"><p class="d">Placed piece by piece across many museums.</p><p class="eg">Collection Index · <a href="#">the Vogels</a>, <a href="#">Souls Grown Deep</a></p></div></div>
+    <div class="path"><p class="verb">Sell</p><div class="path-body"><p class="d">Auction or private sale.</p><p class="eg">Collection Index · <a href="#">de la Cruz</a></p></div></div>
+  </div>
 
-  <p class="arg move">The Great Wealth Transfer moves more than objects and financial value. It transfers the responsibility for deciding what happens next.</p>
+  <p class="close">The Great Wealth Transfer will move a great deal of art and a great deal of money. Responsibility for deciding what each collection becomes passes along with it.</p>
 
   <footer>
     <p class="flabel">Sources</p>
     <ul class="sources">
-      <li>Deloitte Private and ArtTactic, Art &amp; Finance Report 2025 (and 2021 for planning rates)</li>
+      <li>Deloitte Private and ArtTactic, Art &amp; Finance Report 2025 (the $992 billion figure) and 2021 (planning rates)</li>
       <li>Cerulli Associates, U.S. High-Net-Worth and Ultra-High-Net-Worth Markets 2024</li>
       <li>UBS, Global Wealth Report 2026</li>
-      <li>Art Basel and UBS, Survey of Global Collecting 2025</li>
+      <li>Art Basel and UBS, Survey of Global Collecting 2025 (retention and intention)</li>
     </ul>
     <p class="related"><a href="#">Estate Planning for Art Collections</a> &nbsp; <a href="#">The Cost of Keeping a Collection</a> &nbsp; <a href="#">Ownership Is Not Access</a></p>
   </footer>
