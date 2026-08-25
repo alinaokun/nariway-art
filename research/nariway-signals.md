@@ -31,6 +31,33 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-25 — Cloud run
+
+**Orientation:** heaviest today on the gap between the "great wealth transfer" story the trade tells itself and what the market can actually absorb, with a Bloomberg newsletter bluntly naming that gap right as a Tampa developer's $28M gift and a wave of museum-leadership churn show individual institutions still growing to meet exactly the moment the wealth-transfer skeptics say the field as a whole isn't ready for.
+
+**Lead**
+
+- **Bloomberg: "No one is ready for the great boomer art dump."** The newsletter's Aug 1 piece, following its July 31 feature putting the coming art-and-collectibles transfer at roughly $1 trillion, argues plainly that there aren't enough buyers or museums to absorb what boomer collectors are about to pass on — the mainstream-press version of the exact tension [[claims-register|C1]] tracks (ownership rotation, not a sale wave) and the direct counterpart to Tim Schneider's "reddest herring" pushback logged here Aug 22. Read the two together: Schneider says the trade has mythologized the transfer as a rescue story; Bloomberg says even taken at face value, the absorption capacity isn't there. Neither is obviously wrong, and the daylight between them is the more interesting story than either piece alone. [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-08-01/no-one-is-ready-for-the-great-boomer-art-dump) · [Bloomberg, "$1 Trillion in Art"](https://www.bloomberg.com/news/features/2026-07-31/the-great-wealth-transfer-includes-1-trillion-in-art)
+
+**What's happening**
+
+- **A Tampa developer just made the largest private gift to a public art museum in Florida history.** Dick and Cornelia Corbett's $28M lead gift anchors the Tampa Museum of Art's Centennial Campaign (over $100M raised toward more than doubling the building, 69,000 to 120,000 sq ft) and directly unlocked TMA's first full-scale ancient Egypt show. A clean instance of a pattern this brief keeps seeing at every scale, from Lucas to Malba to here: a living patron using a capital campaign, not a personal-collection gift, as the legacy vehicle. → filed [[prospects]]. [Tampa Museum of Art](https://tampamuseum.org/tma-opens-first-ancient-egyptian-exhibition-in-the-city-of-tampa/) · [PR Newswire](https://www.prnewswire.com/news-releases/tampa-museum-of-art-kicks-off-expansion-project-302518911.html)
+- **Museum leadership is still reshuffling at the top, a week after the last round.** Zeitz MOCAA in Cape Town has finally named who succeeds the late Koyo Kouoh (d. May 2025): Elvira Dyangani Ose, most recently director of MACBA Barcelona, starts Oct 1. Separately, the Portland Art Museum has named Michael J. Anderson, president of the Oklahoma City Museum of Art, as its new director from Oct 12. Neither is a collector-founded institution, but the same bench that will run the field's biggest openings keeps turning over in real time. [The Art Newspaper on Zeitz MOCAA](https://www.theartnewspaper.com/2026/08/13/elvira-dyangani-ose-appointed-artistic-director-of-cape-towns-zeitz-mocaa) · [OPB on Portland Art Museum](https://www.opb.org/article/2026/08/11/portland-art-museum-michael-j-anderson-oregon/)
+- **A forgotten Bernini turned up in a Vienna storeroom.** *Portrait of an Old Man* sat misattributed and in storage at the Kunsthistorisches Museum since 1989 for lack of a firm attribution; curators now date it to around 1670 on costume grounds, making it one of fewer than 20 accepted Bernini paintings anywhere. It anchors *Bernini: Painter and Sculptor* at Palais Lobkowitz, Dec 2 to Apr 4, 2027 — a small, cheering counter-note to Monday's story about a federal collection that has permanently lost track of 111 works: sometimes the institution finds the thing instead. [The Art Newspaper](https://www.theartnewspaper.com/2026/08/20/newly-discovered-bernini-painting-to-be-unveiled-at-vienna-museum) · [ARTnews](https://www.artnews.com/art-news/news/rare-portrait-bernini-newly-attributed-baroque-master-vienna-december-1234795503/)
+
+**Worth reading**
+
+- **Daniel Grant, "Behind Every Museum Gift Is a Negotiation Both Sides Are Trying to Win" (Observer).** What collectors are actually bargaining for in a gift negotiation isn't the wall label, it's control over their own legacy — the unglamorous mechanics underneath every promised-gift case this brief logs, made explicit. Flagged in Art Spell's Aug 11 roundup. [Art Spell roundup](https://www.artspell.media/p/august-11-2026)
+
+**To see (escalating)**
+
+- **Phoenix Art Museum's *The Way We Came: A Century of Indigenous Art* opens tomorrow, Aug 26** — built around the William P. Healey Collection's 185-work gift, the largest gift of Native American art in the museum's 65-year history. → [[to-see]]. [Phoenix Art Museum](https://phxart.org/phoenix-art-museum-receives-major-gift-indigenous-artworks/)
+- **Christie's Alan Medaugh Hiroshige preview is now 17 days out** (public preview Sept 11–14, sale Sept 15, 20 Rockefeller Plaza) — already on Alina's calendar for the Sept 12 preview. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+
+**For the record**
+
+- **Europol: museum heists across Europe are turning more violent.** A new Europol report finds thieves increasingly using sledgehammers, explosives, and firearms, sometimes hired via social media, with precious metals and Chinese cultural artifacts now frequent targets alongside paintings — a shift from the largely non-violent property-crime pattern the field is used to. Relevant background for anyone thinking about the insurance and security side of stewarding a collection. [Europol](https://www.europol.europa.eu/media-press/newsroom/news/museum-heists-turn-violent-new-europol-report-cultural-property-theft-tactics)
+
 ### 2026-08-24 — Cloud run
 
 **Orientation:** heaviest today on the difference between institutions with someone actually driving stewardship and institutions with no one accountable at all — a federal Indigenous art collection that has quietly lost track of 111 works, set against an artist foundation opening its archive right on schedule and a market quietly normalizing shared ownership as the answer to prices no single museum can meet alone.

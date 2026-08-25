@@ -277,3 +277,10 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | Name | Founder / party | Pathway | Founder | Geography | Thesis / why it matters |
 |---|---|---|---|---|---|
 | **Wolf Kahn Foundation & Archives** | Wolf Kahn (artist, d. 2020) / Ellen McCulloch-Lovell | artist foundation opens permanent public-facing archive | Dec. | New York, NY | Opens today, by appointment, at 134 West 26th Street — the first designated scholarship center for the painter, a year ahead of his October 2027 centennial. Small in scale next to the museums this brief usually tracks, but a clean instance of the same mechanics: an artist foundation converting a private archive (letters, early studies, lectures, photographs) into standing public infrastructure, timed deliberately to an anniversary. [Hyperallergic](https://hyperallergic.com/wolf-kahn-foundation-opens-new-space-in-nyc/) · [Wolf Kahn Foundation](https://wolfkahnfoundation.org/archives/) |
+
+## Signals daily — 2026-08-25
+*From the daily [[nariway-signals|Signals]] scan. Provisional; each carries its source.*
+
+| Name | Founder / party | Pathway | Founder | Geography | Thesis / why it matters |
+|---|---|---|---|---|---|
+| **Tampa Museum of Art — Corbett centennial gift** | Dick & Cornelia Corbett | major capital gift, building-expansion, not a personal-collection gift | Living | Tampa, FL | A $28M lead gift from a Tampa real estate developer anchors TMA's Centennial Campaign (>$100M raised, expanding 69,000 to 120,000 sq ft) and unlocked the museum's first full-scale ancient Egypt exhibition — the single largest private gift to a public art museum in Florida history. → filed [[prospects]] (Dick & Cornelia Corbett, fit: medium — capital philanthropy, not yet a personal-collection legacy signal). [Tampa Museum of Art](https://tampamuseum.org/tma-opens-first-ancient-egyptian-exhibition-in-the-city-of-tampa/) · [PR Newswire](https://www.prnewswire.com/news-releases/tampa-museum-of-art-kicks-off-expansion-project-302518911.html) |
