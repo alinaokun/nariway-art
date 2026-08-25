@@ -62,9 +62,14 @@ Does the article provide evidence for each? (Bloomberg secondary; strength noted
 4. **Not every future is available to every collection.** **Yes, strong**, and extended below Nariway's usual tier. Museums decline (avalanche, ask for cash, LACMA refusal); mid-tier work has no dealer and no buyer; the auction houses serve only the 0.1%. Available futures are tier-dependent and constrained.
 All four hold, with the article strongest on 2 and 3, and most *extending* on 4 (into the mid-market).
 
-## Verification status (gates any register entry)
-- Tracing agent dispatched 2026-08-25 for the freeport (Helgadóttir), Artnet artist counts, McKinsey spending, the Hoffman population estimate, and the Met/Lauder cost figure, plus confirmation of Museum Exchange, Fine Art Group, Ringwald, and the Sotheby's division.
-- **Nothing from this article enters [[claims-register]] until traced.** The Deloitte $1T is already C1. Hoffman's population estimate, even if it traces only to Hoffman, enters (if at all) as a labeled practitioner estimate against the sizing note, never as a hard figure.
+## Verification status — tracing COMPLETE (2026-08-25)
+Primary-source tracing done. Register outcomes recorded in [[claims-register]]:
+- **Added, traced to primary:** **C58** luxury-freeport growth (Oddný Helgadóttir, *Environment and Planning A* 2020/2023 — 46,722 m² in 2010 → 178,800+ m²; store the m² values, not Salmon's "2M sq ft / 15 yrs" gloss); **C60** Met/Neue Galerie ~$200M cost-of-acceptance (Met press release May 2026).
+- **Added, self-reported primary:** **C59** Artnet artist counts 8,300 → 90,275 (Artnet News 2019, self-reported database).
+- **Corroboration only:** the Deloitte "$1T" is the same figure as C1 ($992B) — annotated on C1, no new number.
+- **Kept as a labeled practitioner estimate (NOT a statistic):** Hoffman's collector-population figures traced to Hoffman only, no corroborating source; recorded against the register's sizing note.
+- **Secondary-only, not added:** McKinsey boomer-spending $7T/$3T — a real McKinsey MGI report exists ("Talkin' 'bout my generation," 2008) but the exact dual figure could not be confirmed, and "$7T in 2026 dollars" is Salmon's own inflation adjustment. Hold.
+- **Organizations/people verified real** (for the ecosystem, not the register): Museum Exchange (art-donation-matching platform, founded 2020; Michael Darling co-founder/CGO), Fine Art Group (Philip Hoffman founder-chairman; self-reported ~350 family-office collections, 28 countries, ~$20B stewarded), Rosemary Ringwald (National Head of Art Planning, BofA Private Bank), Madeline Lissner (EVP, Global Fine Art & Major Collections, Sotheby's).
 
 ## What does NOT change
 The eight-move argument and the GWT page are unchanged. This article is corroboration and enrichment, not a reason to redesign. Its main additions to Nariway are (a) strong practitioner and ecosystem corroboration of Moves 4–6, (b) the mid-market population that sharpens the ICP boundary, and (c) named organizations worth tracking.

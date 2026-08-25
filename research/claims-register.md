@@ -10,7 +10,7 @@
 **Canonical:** ~$992B of *art **and collectibles*** could **change ownership** globally over ~a decade (Deloitte 2025) — computed as **5% × $19.84T** (the UHNW share of a projected $31T transfer). It is **ownership rotation, largely by inheritance — not art coming to market.**
 **Source:** [[transfer-scope-note]] (Deloitte Private/ArtTactic Art & Finance Report 2025).
 **Do NOT say:** "$992B of art will be sold" · "$992B of fine art" · a regional split · that succession scales by value band.
-**Corroboration:** independently used and framed the same way (transfer, not sale) in [[market-intelligence]] #1 (The Art Bystander, 2026).
+**Corroboration:** independently used and framed the same way (transfer, not sale) in [[market-intelligence]] #1 (The Art Bystander, 2026); and independently cited by Bloomberg (Felix Salmon, "Boomers Are Leaving Behind More Art Than Anyone Wants," 2026-07-31) as "nearly $1 trillion" — the same Deloitte figure, framed as a disposition problem (traced 2026-08-25, see [[gwt-bloomberg-source-analysis]]).
 
 ### C2 · Donation intentions — [DOC-secondary]
 **Canonical:** Donation intentions are **widespread but soft, partial, and long-horizon** (Art Basel/UBS: ~49% have museum-gift plans; ~70% hope to donate some works eventually). What is genuinely **rare is founding a *new institution*.** Deloitte's "6% plan museum donations" is a *near-term, single-primary-intent* measure — different question, not proof of rarity.
@@ -329,7 +329,25 @@
 
 ---
 
-*Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic.*
+### C58 · Luxury-freeport growth — [DOC-primary]
+**Canonical:** The global "luxury freeport" sector (Geneva, plus post-2010 openings in Singapore, Monaco, Luxembourg, Beijing, Delaware, and New York) grew from **46,722 m² of dedicated storage in 2010 to over 178,800 m² (~1.92M sq ft) by ~2019**, roughly a **3.8× increase**.
+**Source:** Oddný Helgadóttir, "The new luxury freeports: Offshore storage, tax avoidance, and 'invisible' art," *Environment and Planning A: Economy and Space* 55(4):1020–1040 (online 2020, print 2023) — primary; surfaced via Bloomberg (Salmon 2026).
+**Do NOT say:** "2 million sq ft, tripled in 15 years" as if from the paper — that is Salmon's rounded gloss (the paper's baseline is 2010, 46,722 m²). Store the primary m² values.
+**Use:** the freeport paradox and cost-of-keeping, alongside the Geneva-specific C15 — great art held tax-suspended and unseen, and a sector still growing. **Jurisdiction:** global (named luxury freeports).
+
+### C59 · Proliferation of auctioned artists — [DOC-secondary, self-reported database]
+**Canonical:** The Artnet Price Database tracked ~**8,300 artists across 18 auction houses in 1988**, rising to **90,275 artists across 632 auction houses by 2012** (~10.9× more artists in 24 years).
+**Source:** Artnet News / Artnet Intelligence Report (Tim Schneider, 2019), Artnet reporting its own database; via Bloomberg (Salmon 2026). Self-reported, not independently audited.
+**Use:** the supply-of-art context behind the transfer glut — why there is so much mid-tier art, and why most artists fade from attention. **Jurisdiction:** global auction market.
+
+### C60 · The cost of accepting a gift (Met / Neue Galerie endowment) — [DOC-primary]
+**Canonical:** For the Metropolitan Museum's 2026 planned merger with Ronald Lauder's **Neue Galerie**, the Met is raising an endowment of about **$200 million** (more than two dozen named trustees plus anonymous donors) **specifically to fund the long-term care and preservation of the incoming collection**; the merger is to complete in 2028.
+**Source:** The Metropolitan Museum of Art press release, May 2026 (corroborated via Artnet); surfaced via Bloomberg (Salmon 2026, who tallies "27 donors" against the Met's own "more than two dozen").
+**Use:** the sharpest concrete evidence that accepting a major gift now requires funding its ongoing cost — the demand-side of **C17 / H2** (the receiving end is closing; museums increasingly ask for money to accompany art), alongside the museum-finance findings (C19/C39). **Jurisdiction:** US.
+
+---
+
+*Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic. **The one figure that circulates is a practitioner estimate (Philip Hoffman, Fine Art Group, via Bloomberg 2026, uncorroborated): ~1,000 collectors with $1B of art, 3,000+ with $100M, ~100 inheritances/year (two per week). Traced 2026-08-25 to Hoffman only, no independent source. Directional only; never present as a statistic.***
 
 ## The convention
 - Add a claim here the first time a number matters enough to be repeated.
