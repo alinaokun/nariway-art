@@ -23,7 +23,7 @@ If the answer is no, defer it.
 The flywheel: a development enters Signals → may become an Artobiography item → creates/updates a Collection Index record → feeds the Knowledge Base → may become a Briefing → improves the precedent base used in advisory work.
 
 ## Advisory offer (hypothesis to test, not a finished product)
-- **Collection Futures Orientation** — a bounded, lower-risk front door (previously ~$5–10K, ~2–3 weeks; **pricing is a test variable**). Clarifies the situation, identifies the decisions and specialist questions, and determines whether a full study is warranted.
+- **Collection Futures Orientation** — a bounded front door recorded as the *earlier* offer hypothesis (previously ~$5–10K, ~2–3 weeks; pricing was always a test variable). **This is history, not the current design.** The current offer in [[collection-futures-study]] uses a **free scoping conversation** as the front door; do not treat the Orientation as reinstated.
 - **Collection Futures Study** — the deeper engagement (~$25–50K, ~8–12 weeks): compare precedent and pathways, organize decision factors, map tax/legal/appraisal/institutional dependencies, deliver a written study and a working session.
 - **No commission tied to the route chosen.** Independence is part of the value. Details in [[collection-futures-study]].
 
@@ -43,15 +43,17 @@ Now: keep the Collection Index live; continue Wave 1 KB entries to publication g
 
 ## Positioning & language rules (§23–§24)
 - **"Private art collections," not "significant private collections."** Drop "significant" as a default qualifier. *(New rule — supersedes prior copy.)*
-- The long-term future of private art collections; independent, owner-side; precedent from what other collections have actually done; works alongside specialists, does not replace them; no transaction commission tied to the route; public research demonstrates capability, paid work applies it.
+- The long-term future of private art collections; independent; precedent from what other collections have actually done; works alongside specialists, does not replace them; no transaction commission tied to the route; public research demonstrates capability, paid work applies it.
+- **The public proposition stays broad: "Nariway is a research and advisory firm focused on the long-term future of private art collections."** "Owner-side" independence is an important *internal* strategic concept, not yet a public definition — we have not validated who actually engages Nariway. Do not define Nariway publicly as "the owner-side party" yet.
 - No em dashes. Simple, precise, restrained, sophisticated; not marketing copy, no jargon, no clever phrasing. Distinguish **sourced fact / Nariway classification / cross-case finding / professional advice** — never imply legal, tax, appraisal, investment, or museum expertise beyond what Nariway owns.
 
 ## Success over 6–12 months (§21) — evidence, not seven figures
 The goal is evidence that a seven-figure business *can* exist: professionals forward the research; advisers ask to receive briefings; Nariway is invited to contribute/sponsor/participate; someone says "I have a family you should talk to"; a real collection situation arrives; the first bounded paid engagement occurs; the offer sharpens from real work. Only then optimize pricing, staffing, recurring revenue, sponsorship, scale.
 
 ## Supersedes / reconciles (what changes in the vault)
-- **Drop "significant" as a default qualifier** across [[positioning]] and public copy (site included). Language change, cascades to nariway.com via `nariway-rebuild`.
-- **The paid Collection Futures Orientation is reinstated as a front-door hypothesis** (with pricing open). This reverses the offer-design v0.2 move in [[collection-futures-study]] that had replaced the paid Orientation with a free scoping conversation. Both remain hypotheses; the brief prefers the bounded paid front door. *(Flag: a genuine reversal — confirm before rewriting the offer doc.)*
+> The brief is a strategic **filter and synthesis**, not a change-control order to mechanically reconcile every prior document. Historical research docs stay historically accurate; only current positioning and public copy change, and only when deliberately revised.
+- **"Private art collections," not "significant private collections"** is the settled word preference. **Do NOT run a vault-wide sweep** — historical documents keep their language. Update current positioning and public-facing copy only when we revise those pages on purpose.
+- **The Collection Futures Orientation is offer-design HISTORY, not a reversal.** The brief mentions it to record the earlier offer hypothesis and explicitly frames pricing as a test variable. It is NOT an instruction to reinstate a paid front door. The current offer stands as in [[collection-futures-study]] (a free scoping conversation, no paid Orientation). Structure and pricing of the first engagement remain hypotheses to test.
 - **Openness is sharpened (§7):** share substantial research publicly; the moat is the corpus structure, verification, taxonomy, cross-case comparison, accumulated precedent, and judgment — not hoarding facts. This clarifies the earlier "protect the proprietary asset" stance in [[editorial-direction]]/[[flagship-report]]: general knowledge and precedent are public; collection-specific synthesis and coordination stay paid. No contradiction once split that way.
 - **Artobiography weekly is now decided, not "under reconsideration"** — lock [[weekly-edition]] as the relaunch format; retire the "under reconsideration" flag on [[editorial-direction]].
 - **A "Work with Nariway" advisory page is now in scope** as a clear explanation of the problem and role (not a service menu), sequenced after the homepage narrative (§8, §26).
