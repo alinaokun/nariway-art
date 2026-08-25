@@ -5,7 +5,7 @@
 > Modes: **Evidence** (external data/law/research, via [[claims-register]]) · **Precedent** (real Collection Index cases) · **Interpretation** (what Nariway can conclude from evidence and precedent together, and no further). Precision is built into the wording of each move, not confined to a separate section.
 
 ## Central thesis
-The Great Wealth Transfer is usually told as a wealth story. For private art collections it is a story about **responsibility**. A great deal of art is changing hands, mostly by inheritance and mostly within families, and what passes with it is the responsibility for deciding what the collection becomes. *(Nariway's relevance follows from making that argument well; the page does not assert it.)*
+The Great Wealth Transfer is usually told as a wealth story. For private art collections it is a story about **responsibility**. A great deal of art is changing hands as wealth passes between generations, and much of it stays within families, and what passes with it is the responsibility for deciding what the collection becomes. *(Nariway's relevance follows from making that argument well; the page does not assert it.)*
 
 ## The argument — eight moves
 The proposed tighter spine holds and is stronger than the earlier nine; it collapses the steward pivot into one honest move and ends without sales copy. Each move carries only its strongest evidence and one or two precedents, not every verified claim.
@@ -19,7 +19,7 @@ The proposed tighter spine holds and is stronger than the earlier nine; it colla
 - *Interpretation:* art is a material part of what is moving, and an unusually concentrated, illiquid, and personal part, which is what makes it harder to plan for than cash or securities.
 
 **3. Transfer does not necessarily mean sale; much inherited art remains within families.**
-- *Evidence:* the $992B is ownership rotation, largely by inheritance, not a sales forecast (C1); most inherited art is retained (C3, about 72% keep at least some; around 90% of Gen Z kept inherited works), and roughly 80% of collectors intend to pass their collections to family (C12).
+- *Evidence:* the $992B is a transfer of ownership as wealth passes between generations, not a sales forecast (C1; Deloitte's phrase is the neutral "change hands"); most inherited art is then retained rather than sold (C3, about 72% keep at least some; around 90% of Gen Z kept inherited works), and roughly 80% of collectors intend to pass their collections to family (C12).
 - *Precedent:* [[storm-king]] (three generations of family stewardship). Sale is one real outcome when the transition is uncoordinated ([[de-la-cruz-collection]]), not the default meaning of "change hands."
 - *Interpretation:* inheritance is the dominant mode; a sale is one possible outcome, not the story of the transfer.
 
@@ -54,6 +54,7 @@ These are the honesty rules baked into how each move is worded. They govern the 
 - **Moves 1–2:** the $992B is art *and collectibles* and rests on a derived 5% ratio, a model, not a census; never imply it is all fine art, and never sum the Knight Frank ($30M+) and UBS ($1M+) populations.
 - **Sizing:** there is no published count of families facing this, so the page never quantifies the affected population.
 - **Move 8:** the conclusion stops at "responsibility for deciding what happens next." No "the question Nariway exists to answer," no service framing.
+- **Sourcing of "inheritance" (2026-08-25 evidence check):** "mostly by inheritance" is NOT a verbatim Deloitte claim; Deloitte's phrase is the neutral "change hands / pass between generations." The retention reading (art stays with families) comes from Art Basel/UBS (C3, C12). Attribute the intergenerational transfer to Deloitte and the retention to Art Basel/UBS; never blend them into one Deloitte "inheritance" claim. Thesis softened accordingly.
 
 ## What this changes vs the content architecture
 Verified research fully preserved; the spine changes. The page becomes an eight-move argument ending on responsibility, not a data exhibit. The three-estimates integrity table serves Move 1 (scale, honestly). Retention (C3/C12) and the planning-rate figures rise into the spine (Moves 3–4). The former closing "why it matters" module is gone; the whole page is the argument. DP5/DP6 stay woven into prose and held to the precision constraints above.
