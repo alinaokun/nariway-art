@@ -1,0 +1,240 @@
+<title>Nariway Research Objects</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Schibsted+Grotesk:wght@400;500;600&display=swap">
+<style>
+  /* Specimen sheet — six research objects from the approved GWT content.
+     Foundation is nariway.com's DNA (Newsreader / Schibsted Grotesk, warm mono,
+     hairlines, restraint); treatment follows each object's information function. */
+  :root{
+    --bg:#FFFFFF; --surface:#F7F6F3;
+    --ink:#1A1A17; --ink-body:#191712; --ink-2:#3A3A34; --muted:#6B6B62;
+    --line:#E7E5DF; --line-2:#D2D0C8;
+    --serif:"Newsreader",Georgia,"Times New Roman",serif;
+    --sans:"Schibsted Grotesk",system-ui,-apple-system,Helvetica,Arial,sans-serif;
+    --body:17px; --data:14.5px; --label:11.5px;
+    --pad:clamp(24px,5vw,64px);
+    --field:min(58rem, 100%);
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#141412; --surface:#1C1B18;
+      --ink:#F2F1EC; --ink-body:#E9E7DF; --ink-2:#C7C5BC; --muted:#928F85;
+      --line:#2A2925; --line-2:#3C3A34;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#141412; --surface:#1C1B18;
+    --ink:#F2F1EC; --ink-body:#E9E7DF; --ink-2:#C7C5BC; --muted:#928F85;
+    --line:#2A2925; --line-2:#3C3A34;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0; background:var(--bg); color:var(--ink-body);
+    font-family:var(--sans); font-size:var(--body); line-height:1.7; -webkit-font-smoothing:antialiased}
+  .sheet{max-width:64rem; margin:0 auto; padding:clamp(36px,6vw,80px) var(--pad) 120px}
+  .num{font-variant-numeric:tabular-nums}
+  a{color:var(--ink); text-underline-offset:3px; text-decoration-color:var(--line-2)}
+
+  /* shared registers */
+  .label{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.1em;
+    font-size:var(--label); color:var(--muted)}
+  .src{font-family:var(--sans); font-weight:500; text-transform:uppercase; letter-spacing:.09em;
+    font-size:10.5px; color:var(--muted); margin:.5rem 0 0}
+  .measure{max-width:38rem}
+
+  /* sheet header + specimen framing */
+  .sheet-h{font-family:var(--serif); font-weight:500; color:var(--ink); font-size:1.5rem; letter-spacing:-.01em; margin:0 0 .4rem}
+  .sheet-note{color:var(--muted); font-size:var(--data); max-width:34rem; margin:0 0 1rem}
+  .spec{margin-top:clamp(58px,8vw,92px); padding-top:1rem; border-top:1px solid var(--line)}
+  .spec-tag{font-family:var(--sans); text-transform:uppercase; letter-spacing:.16em; font-size:12px; color:var(--muted); margin:0 0 1.8rem}
+  .spec-tag b{color:var(--ink-2); font-weight:600; margin-right:.5em}
+
+  /* 01 — comparison table: estimates as self-contained columns, compared across a rule */
+  .estimates{display:grid; grid-template-columns:1fr; gap:0; border-top:1.5px solid var(--ink-2)}
+  @media(min-width:640px){.estimates{grid-template-columns:repeat(3,1fr)}}
+  .est{padding:1.4rem 0 1.5rem; border-bottom:1px solid var(--line)}
+  @media(min-width:640px){.est{padding:1.6rem 1.6rem 1.7rem; border-bottom:0}
+    .est + .est{border-left:1px solid var(--line)}
+    .est:first-child{padding-left:0} .est:last-child{padding-right:0}}
+  .est-fig{font-family:var(--serif); font-weight:500; color:var(--ink); font-size:1.9rem; line-height:1; margin:0 0 1.1rem}
+  .est-fig .u{font-family:var(--sans); font-weight:500; font-size:.9rem; letter-spacing:.02em; color:var(--ink-2); margin-left:.25rem}
+  .est dl{margin:0; display:grid; grid-template-columns:1fr; gap:.7rem}
+  .est dt{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.09em; font-size:10px; color:var(--muted); margin-bottom:.15rem}
+  .est dd{margin:0; font-size:var(--data); line-height:1.4; color:var(--ink-body)}
+  .caption{font-size:var(--data); color:var(--muted); line-height:1.55; max-width:40rem; margin:1.3rem 0 0}
+
+  /* 02 + 03 — evidence treatments: one finding vocabulary, two compositions */
+  .findings-row{display:grid; grid-template-columns:1fr; gap:2rem}
+  @media(min-width:560px){.findings-row{grid-template-columns:1fr 1fr; gap:0}
+    .findings-row .finding + .finding{border-left:1px solid var(--line); padding-left:2.2rem}}
+  .findings-stack{display:grid; grid-template-columns:1fr; gap:0; max-width:40rem}
+  .findings-stack .finding{padding:1.5rem 0; border-top:1px solid var(--line)}
+  .findings-stack .finding:first-child{border-top:0; padding-top:0}
+  .finding .f-fig{font-family:var(--serif); font-weight:500; color:var(--ink); line-height:.95; margin:0}
+  .findings-row .f-fig{font-size:clamp(3rem,2rem+3.4vw,4rem)}
+  .findings-stack .f-fig{font-size:clamp(2.1rem,1.6rem+1.6vw,2.6rem)}
+  .f-fig .pct{font-size:.55em; margin-left:.04em}
+  .f-fig .sm{font-size:.42em; font-family:var(--sans); font-weight:500; color:var(--ink-2); letter-spacing:.02em}
+  .f-pre{font-family:var(--sans); font-weight:500; text-transform:uppercase; letter-spacing:.1em; font-size:10.5px; color:var(--muted); margin:0 0 .35rem}
+  .f-label{font-size:var(--body); color:var(--ink-body); line-height:1.5; margin:.7rem 0 0; max-width:18rem}
+  .findings-stack .f-label{max-width:26rem}
+
+  /* 04 — analytical comparison: a wide two-sided object, deliberately asymmetric */
+  .turn{font-family:var(--serif); font-weight:500; color:var(--ink); font-size:clamp(1.3rem,1.1rem+0.7vw,1.55rem);
+    line-height:1.28; letter-spacing:-.006em; max-width:30rem; margin:0 0 1.9rem}
+  .compare{background:var(--surface); margin:0 calc(-1 * var(--pad)); padding:clamp(26px,4vw,40px) var(--pad);
+    display:grid; grid-template-columns:1fr; gap:2rem}
+  @media(min-width:680px){.compare{grid-template-columns:1fr 1.15fr; gap:clamp(32px,5vw,64px); align-items:start}}
+  .side-h{font-family:var(--serif); font-weight:500; color:var(--ink); font-size:1.15rem; margin:0 0 1rem; padding-bottom:.6rem; border-bottom:1px solid var(--line-2)}
+  .side ul{list-style:none; margin:0; padding:0}
+  .side li{font-size:var(--body); line-height:1.4; color:var(--ink-body); padding:.7rem 0; border-bottom:1px solid var(--line)}
+  .side li:last-child{border-bottom:0}
+  .side.may li{color:var(--ink-2)}
+
+  /* 05 — pathways table: route-anchored rows, precedent as the payoff */
+  .futures{border-top:1px solid var(--line-2)}
+  .route{display:grid; grid-template-columns:1fr; gap:.15rem; padding:1rem 0; border-bottom:1px solid var(--line)}
+  @media(min-width:640px){.route{grid-template-columns:12rem 1fr 12rem; gap:1.5rem; align-items:baseline; padding:1.05rem 0}}
+  .r-name{font-family:var(--serif); font-weight:500; color:var(--ink); font-size:1.1rem; margin:0}
+  .r-desc{font-size:var(--data); color:var(--ink-body); line-height:1.45; margin:0}
+  .r-eg{margin:0; font-size:var(--data)}
+  @media(min-width:640px){.r-eg{text-align:right}}
+  .r-eg a{font-family:var(--serif); font-style:italic; font-size:1rem; color:var(--ink); text-decoration:none; border-bottom:1px solid var(--line-2)}
+  .r-eg a:hover{border-bottom-color:var(--muted)}
+
+  /* 06 — precedent annotation: an in-flow reference, no box, no margin */
+  .prose{max-width:38rem}
+  .prose p{margin:0 0 1.2rem}
+  .precedent{max-width:38rem}
+  .precedent .p-name{font-family:var(--sans); font-weight:600; text-transform:uppercase; letter-spacing:.08em;
+    font-size:12.5px; color:var(--ink); text-decoration:none; border-bottom:1px solid var(--line-2)}
+  .precedent .p-name:hover{border-bottom-color:var(--muted)}
+
+  a:focus-visible{outline:2px solid var(--muted); outline-offset:3px}
+  @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<main class="sheet">
+  <p class="sheet-h">Nariway research objects</p>
+  <p class="sheet-note">Six editorial objects built from the approved Great Wealth Transfer content, to find Nariway's visual language for research publishing before an article is composed around it. The grey labels are review metadata, not page copy.</p>
+
+  <!-- 01 -->
+  <section class="spec">
+    <p class="spec-tag"><b>01</b> Transfer-estimates comparison table</p>
+    <div class="estimates">
+      <div class="est">
+        <p class="est-fig num">$31<span class="u">trillion</span></p>
+        <dl>
+          <dt>Source</dt><dd>Deloitte and ArtTactic</dd>
+          <dt>Covers</dt><dd>Global</dd>
+          <dt>What it counts</dt><dd>Wealth passing between individuals; the basis for the art figure</dd>
+          <dt>Time frame</dt><dd>About a decade</dd>
+        </dl>
+      </div>
+      <div class="est">
+        <p class="est-fig num">$124<span class="u">trillion</span></p>
+        <dl>
+          <dt>Source</dt><dd>Cerulli Associates</dd>
+          <dt>Covers</dt><dd>United States</dd>
+          <dt>What it counts</dt><dd>All household wealth</dd>
+          <dt>Time frame</dt><dd>Through 2048</dd>
+        </dl>
+      </div>
+      <div class="est">
+        <p class="est-fig num">$83<span class="u">trillion</span></p>
+        <dl>
+          <dt>Source</dt><dd>UBS</dd>
+          <dt>Covers</dt><dd>Global</dd>
+          <dt>What it counts</dt><dd>All wealth</dd>
+          <dt>Time frame</dt><dd>20 to 25 years</dd>
+        </dl>
+      </div>
+    </div>
+    <p class="caption">These figures cover different countries, populations and time frames, so they cannot be added together or compared directly. Nariway cites the art-specific figure from Deloitte and keeps the totals separate.</p>
+  </section>
+
+  <!-- 02 -->
+  <section class="spec">
+    <p class="spec-tag"><b>02</b> Evidence treatment · retention</p>
+    <div class="findings-row">
+      <div class="finding">
+        <p class="f-fig num">72<span class="pct">%</span></p>
+        <p class="f-label">of people who inherit art keep at least some of it.</p>
+        <p class="src">Art Basel and UBS</p>
+      </div>
+      <div class="finding">
+        <p class="f-fig num">80<span class="pct">%</span></p>
+        <p class="f-label">of collectors intend to leave their collections to family.</p>
+        <p class="src">Art Basel and UBS</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 03 -->
+  <section class="spec">
+    <p class="spec-tag"><b>03</b> Evidence treatment · planning</p>
+    <div class="findings-stack">
+      <div class="finding">
+        <p class="f-pre">Just over</p>
+        <p class="f-fig num">1<span class="sm">&nbsp;in&nbsp;</span>10</p>
+        <p class="f-label">collectors have put a written plan for their art in place with an advisor.</p>
+        <p class="src">Deloitte, 2021</p>
+      </div>
+      <div class="finding">
+        <p class="f-fig num">31<span class="pct">%</span></p>
+        <p class="f-label">of the collectors who intend to leave art to their families have discussed what they will leave, or arranged for its care.</p>
+        <p class="src">Deloitte, 2021</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 04 -->
+  <section class="spec">
+    <p class="spec-tag"><b>04</b> Analytical comparison · what can transfer / what may not</p>
+    <p class="turn">Ownership of a collection transfers far more easily than the things that made it worth having.</p>
+    <div class="compare">
+      <div class="side can">
+        <p class="side-h">What can transfer</p>
+        <ul>
+          <li>Legal ownership of the works</li>
+          <li>The objects themselves</li>
+        </ul>
+      </div>
+      <div class="side may">
+        <p class="side-h">What may not</p>
+        <ul>
+          <li>The knowledge of what each work is and why it was acquired</li>
+          <li>The relationships with artists, dealers and institutions</li>
+          <li>The money and effort needed to store, insure and care for it</li>
+          <li>The collector's intent for what it should become</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 05 -->
+  <section class="spec">
+    <p class="spec-tag"><b>05</b> Pathways and precedents</p>
+    <div class="futures">
+      <div class="route"><p class="r-name">Keep it in the family</p><p class="r-desc">Held and cared for across generations</p><p class="r-eg"><a href="#">Storm King</a></p></div>
+      <div class="route"><p class="r-name">Give it to an institution</p><p class="r-desc">Donated outright, where one will accept it</p><p class="r-eg"><a href="#">Anderson / Stanford</a></p></div>
+      <div class="route"><p class="r-name">Partner with an institution</p><p class="r-desc">Long-term loan or shared, ownership kept</p><p class="r-eg"><a href="#">Fisher / SFMOMA</a></p></div>
+      <div class="route"><p class="r-name">Build a new institution</p><p class="r-desc">Create a museum, foundation or other public institution</p><p class="r-eg"><a href="#">Barnes</a>, <a href="#">Chinati</a></p></div>
+      <div class="route"><p class="r-name">Disperse deliberately</p><p class="r-desc">Placed piece by piece across many museums</p><p class="r-eg"><a href="#">the Vogels</a>, <a href="#">Souls Grown Deep</a></p></div>
+      <div class="route"><p class="r-name">Sell</p><p class="r-desc">Auction or private sale</p><p class="r-eg"><a href="#">de la Cruz</a></p></div>
+    </div>
+    <p class="caption">Many collections move through more than one of these over time. Each name links to its full record in the Collection Index.</p>
+  </section>
+
+  <!-- 06 -->
+  <section class="spec">
+    <p class="spec-tag"><b>06</b> Collection precedent annotation · in prose</p>
+    <div class="prose">
+      <p>A new owner inherits the works. Whether they also inherit the understanding, the resources and the intention behind them is a separate question, and the answer decides what the collection can realistically become.</p>
+      <p class="precedent"><a class="p-name" href="#">The Barnes Foundation</a>&ensp;Albert Barnes wrote detailed instructions for his collection into a legal deed. Decades later a court set aside parts of it so the foundation could survive, moving the collection to Philadelphia against his stated wishes.</p>
+      <p>Intent does not always transfer, even in writing. The same gap appears on the receiving side.</p>
+      <p class="precedent"><a class="p-name" href="#">Hillwood</a>&ensp;Marjorie Merriweather Post left her estate to the Smithsonian, which returned it because it could not afford to run it as she intended.</p>
+    </div>
+  </section>
+</main>
