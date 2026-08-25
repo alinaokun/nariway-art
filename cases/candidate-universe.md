@@ -23,7 +23,7 @@
 | ✓ Michener Art Museum — CODED [[michener-art-museum]] | James Michener | Dec. | Doylestown, PA | Pennsylvania Impressionists / Bucks County school | Stable | regional |
 | Shelburne Museum | Electra Havemeyer Webb | Dec. | Shelburne, VT | Americana/folk at architectural scale (39 buildings, a steamboat) | Thriving (survived founder) | ~150,000 obj |
 | American Visionary Art Museum | Rebecca Hoffberger | Living (retired) | Baltimore, MD | Outsider/"visionary" art; Congressionally-designated repository | Stable; succession underway | 7 bldgs |
-| Wolfsonian–FIU | Mitchell Wolfson Jr. | Living | Miami Beach, FL | "Design as persuasion" 1885–1945; gifted to a public university | Stable | ~180,000 obj |
+| ✓ Wolfsonian–FIU — CODED [[wolfsonian-fiu]] | Mitchell Wolfson Jr. | Living | Miami Beach, FL | "Design as persuasion" 1850–1950; gifted to a public university | Stable | 200,000+ obj |
 | Mennello Museum | Mennellos | Living | Orlando, FL | Rescued self-taught folk painter Earl Cunningham; city-partnered | Stable | folk |
 | Rubin Museum | Donald & Shelley Rubin | Living | New York, NY | Himalayan/Tibetan Buddhist art | **Closed bldg 2024** → "museum without walls" | ~4,000 |
 | **Art Omi Pavilions — NEW MODEL** | Art Omi (Susan & Michael Hort among first participating collectors) | Living / emerging | Chatham, NY | **Shared-land legacy campus: 12–18 collectors & artists each design and control their own pavilion on shared 190-acre land + infrastructure, each with an architect of their choosing — a MULTI-COLLECTOR answer to the single-founder museum. A genuinely new pathway that STRESSES THE TAXONOMY (neither found-standalone-museum nor dispersal; a shared-infrastructure / consortium build). Exactly the "invent a model that doesn't exist yet" case [[field-definition]] hunts for. From Nariway Signals, 2026-08-23.** | Emerging — Phase One opens June 2027 | 190 acres |
@@ -38,7 +38,7 @@
 | Fisher Landau Center | Emily Fisher Landau | Dec. (2023) | Long Island City, NY | Postwar/contemporary American | **Closed 2017**; ~1,200 works → Whitney (orderly wind-down) | ~1,200 |
 | ✓ de la Cruz Collection — CODED [[de-la-cruz-collection]] | de la Cruzes | Dec. (2024) | Miami, FL | Free contemporary + artist mentorship | **Dispersed** — auctioned ~$34M after founder death | ~$34M |
 | Corcoran Gallery | W.W. Corcoran | Dec. | Washington, DC | Oldest US private-collection museum; American art | **Dissolved 2014** → split to NGA + Smithsonian | ~17,000 |
-| Pier 24 Photography | Pilara family | Living | San Francisco, CA | Largest US space for photography only | **Closing** (real estate, not taste) → grants | 28,000 sq ft |
+| ✓ Pier 24 Photography — CODED [[pier24-photography]] | Pilara family | Living | San Francisco, CA | Largest US space for photography only | **Closed 2025** (real estate, not taste) → auction + grantmaking pivot | 28,000 sq ft |
 
 ## 3 · Intentional dispersal & long-term loans (public life without a building)
 
@@ -65,7 +65,7 @@
 | The Bunker Artspace | Beth Rudin DeWoody | Living | West Palm Beach, FL | Anti-blue-chip; champions emerging/overlooked voices | Thriving | ~10,000 |
 | The Warehouse (Wieland) | John & Sue Wieland | Living | Atlanta, GA | Broad contemporary; Westside Atlanta civic access | Stable | 400+ |
 | Weisman Art Foundation | Frederick Weisman | Dec. | Los Angeles, CA | 20th-c. art in domestic hang, kept as founder left it | Stable | 400+ |
-| Hall Art Foundation | Andrew & Christine Hall | Living | Reading, VT + Germany | Postwar/contemporary; seasonal weekends + museum-loan partner | Stable | 5,000+ |
+| ✓ Hall Art Foundation — CODED [[hall-art-foundation]] | Andrew & Christine Hall | Living | Reading, VT + Germany | Postwar/contemporary; seasonal weekends + museum-loan partner | Stable | 5,000+ |
 
 ## 5 · Art parks & landscape
 

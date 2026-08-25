@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24",
+  "generated": "2026-08-25",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -1904,6 +1904,68 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "hall-art-foundation",
+      "publicDepth": "expanded",
+      "name": "Hall Art Foundation",
+      "founder": "Andrew and Christine Hall",
+      "location": "Reading, VT, USA and Derneburg, Germany",
+      "profile": {
+        "founded": 2007,
+        "structure": "Private nonprofit foundation, dual-site (US 501(c)(3) plus a German gGmbH)",
+        "publicAccess": "Free, guided tours by appointment (seasonal, weekends)",
+        "currentState": "Open by appointment at two sites, Vermont and Germany, since 2007 and 2010.",
+        "size": "5,000+ works"
+      },
+      "composition": {
+        "focus": "Postwar and contemporary art",
+        "movements": [
+          "Neo-Expressionism",
+          "Contemporary"
+        ],
+        "period": "postwar to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Hall Art Foundation established; Vermont site opens on a former dairy farm",
+            "year": 2007,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Georg Baselitz sells Schloss Derneburg, his home and studio since 1976",
+            "year": 2006
+          },
+          {
+            "event": "Kunstmuseum Schloss Derneburg opens as the Foundation's German site",
+            "year": 2010,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Vermont campus expands with a new reception center",
+            "year": 2017
+          }
+        ]
+      },
+      "origin": "Commodities trader Andrew Hall and his wife Christine built a major postwar and contemporary art collection, then in 2007 founded a nonprofit to show it seasonally on a former Vermont dairy farm; a chance studio visit to painter Georg Baselitz's castle home in Germany led them to buy and convert Schloss Derneburg into a second, appointment-only museum site in 2010.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "hallartfoundation.org",
+        "Wikipedia",
+        "independent-collectors.com"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "herbert-lust-collection",
       "publicDepth": "expanded",
       "name": "Herbert Lust Collection",
@@ -3115,6 +3177,59 @@
         "onerafoundation.org",
         "The Art Newspaper",
         "The Architect's Newspaper"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "pier24-photography",
+      "publicDepth": "expanded",
+      "name": "Pier 24 Photography",
+      "founder": "Andrew and Mary Pilara",
+      "location": "San Francisco, CA",
+      "profile": {
+        "founded": 2010,
+        "structure": "Private nonprofit foundation (Pilara Foundation), free exhibition space",
+        "publicAccess": "Free, by appointment only (until closure, July 2025)",
+        "currentState": "Closed July 2025; collection auctioned to fund a new health, education and arts grantmaking foundation.",
+        "size": "28,000 sq ft; 4,000+ photographic works"
+      },
+      "composition": {
+        "focus": "20th-century and postwar photography",
+        "period": "20th century to present",
+        "media": [
+          "photography"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Pier 24 Photography opens on the San Francisco waterfront",
+            "year": 2010,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Closure announced after a five-year lease dispute with the Port of San Francisco",
+            "year": 2023
+          },
+          {
+            "event": "Pier 24 closes; the Pilara Foundation auctions the collection and becomes a health/education/arts grantmaking foundation",
+            "year": 2025,
+            "familyId": "other",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Former investment banker Andrew Pilara, inspired by a 2003 Diane Arbus retrospective, built one of the world's largest dedicated photography collections and opened it free to the public on San Francisco's Embarcadero in 2010; after a multi-year rent dispute with the Port of San Francisco, he closed it in 2025 and chose to auction the collection to fund a new grantmaking mission in health care, education and the arts.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "pier24.org",
+        "San Francisco Chronicle",
+        "SF Standard",
+        "Wikipedia"
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
@@ -4601,6 +4716,69 @@
         "AP"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "wolfsonian-fiu",
+      "publicDepth": "expanded",
+      "name": "The Wolfsonian–FIU",
+      "founder": "Mitchell \"Micky\" Wolfson Jr.",
+      "location": "Miami Beach, FL",
+      "profile": {
+        "founded": 1995,
+        "structure": "Museum, library and research center within a public university (Florida International University)",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Miami Beach since 1995, a Florida International University museum since 1997.",
+        "size": "200,000+ objects; 56,000 sq ft building"
+      },
+      "composition": {
+        "focus": "Design, decorative arts and propaganda as persuasion, 1850–1950",
+        "movements": [
+          "Art Deco",
+          "Modernism",
+          "Industrial design"
+        ],
+        "period": "1850–1950",
+        "media": [
+          "furniture",
+          "industrial design",
+          "propaganda posters",
+          "decorative arts",
+          "rare books"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Mitchell Wolfson Jr. opens a private research library and study collection in the building",
+            "year": 1986
+          },
+          {
+            "event": "Building enlarged and converted into a museum",
+            "year": 1992
+          },
+          {
+            "event": "The Wolfsonian opens to the public",
+            "year": 1995
+          },
+          {
+            "event": "Wolfson donates the collection and buildings to the State of Florida; the museum becomes a Florida International University unit",
+            "year": 1997,
+            "familyId": "partner-institution",
+            "codedPathway": "university-partnership"
+          }
+        ]
+      },
+      "origin": "Mitchell \"Micky\" Wolfson Jr. spent decades collecting design objects, propaganda, and decorative arts from 1850–1950 to study how design shapes belief and persuasion, then in 1997 gave his entire collection and three historic buildings to the State of Florida, making it Florida International University's museum and the single largest gift to the state at the time.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "wolfsonian.org",
+        "FIU News",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "tselinny-center",
