@@ -347,6 +347,18 @@
 
 ---
 
+### C61 · Named private-bank art-loan books are growing double-digit, and a second market-size estimate diverges from the first — [DOC-secondary, self-reported]
+**Canonical:** Bank of America's art-loan commitments grew **14% year over year in the first half of 2025**, and its art loan book grew **10%** in the most recently reported year; Citi Private Bank's art-finance portfolio has **nearly doubled over the last decade** (per its head of art finance, Fotini Xydas). Separately, one aggregator estimates the global art-secured-loan book at **$28.7-33.3 billion in 2025**, forecasting **$33.9-40.0 billion in 2026** and **$42.0-50.1 billion by 2027** — a lower 2025 floor than the $34-40B/2025 and $38-45B/2026 ranges already registered (C7, C41).
+**Source:** [[market-intelligence]] #7 2026-08-25 addendum; ARTnews reporting on Bank of America and Citi Private Bank disclosures (WebSearch-synthesized, not directly fetched).
+**Use:** strengthens the art-finance-as-postponement-mechanism thesis with named-institution growth, not just sector aggregates. **Do NOT average or reconcile this estimate with C7/C41** — different vendor, different methodology, kept side by side per standing practice.
+
+### C62 · Collector estate-planning formalization rate (Deloitte Art & Finance Report 2021) — [DOC-secondary]
+**Canonical:** **Just over 1 in 10** collectors have formalized their estate documents with an advisor, and only **31%** of collectors who intend to leave art to family have actually discussed what they will bequeath and resourced its care.
+**Source:** Deloitte Private & ArtTactic, Art & Finance Report 2021, as first used in [[what-we-now-believe]]'s H1 entry (2026-08-23 disconfirmation pass); formalized here 2026-08-25 per the 2026-08-25 QA audit finding that this figure, already load-bearing in the evidence base and cited in draft manuscript copy, had no claims-register entry. A fresh 2026-08-25 search could not independently re-surface the exact figures from Deloitte's own report page (WebFetch blocked); the original sourcing is carried forward, not re-derived.
+**Use:** H1's strongest hard number for "unadvised is the statistical norm." Any manuscript or marketing copy repeating "1 in 10" / "31%" should cite this entry, not restate the figure independently.
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic. **The one figure that circulates is a practitioner estimate (Philip Hoffman, Fine Art Group, via Bloomberg 2026, uncorroborated): ~1,000 collectors with $1B of art, 3,000+ with $100M, ~100 inheritances/year (two per week). Traced 2026-08-25 to Hoffman only, no independent source. Directional only; never present as a statistic.***
 
 ## The convention

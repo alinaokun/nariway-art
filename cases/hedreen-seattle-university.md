@@ -13,8 +13,23 @@ decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H4, H6, H8]
 public_page_eligible: true
+public_verified: true
 public_depth: expanded
 public_status_text: "Museum under construction at Seattle University; collection transfers on completion, planned fall 2028."
+public_name: The Hedreen Collection at Seattle University (SUMA)
+public_founder: Richard C. Hedreen and the late Betty Hedreen
+public_location: Seattle, WA
+public_collecting_began: 1964
+public_structure: Planned Seattle University institutional unit (no separate incorporation announced)
+public_access: Not yet open; planned fall 2028, on completion of the building and legal transfer of the collection
+public_size: 200+ works; publicly valued ~$300M
+public_focus: Old Master through contemporary Western art
+public_period: 15th century-21st century
+public_media: painting; sculpture; photography; etching; pottery
+public_selected_artists: Titian; Jacopo da Pontormo; Jan Lievens; Élisabeth Vigée Le Brun; Thomas Gainsborough; Luis Egidio Meléndez; Willem de Kooning; Robert Rauschenberg; Roy Lichtenstein; Robert Indiana; Pablo Picasso; Jasper Johns; Andy Warhol; Anselm Kiefer; Cecily Brown; Rashid Johnson; Amy Sherald
+public_pathway_timeline: 1964|keep-family|retain-family|Richard and Betty Hedreen begin collecting art ;; 1997|give-institution|donate-existing-museum-intact|The Hedreens are lead donors of the Chapel of St. Ignatius at Seattle University ;; 2022|||Betty Hedreen dies ;; 2024|give-institution|university-partnership|Richard Hedreen pledges the collection plus $25M to Seattle University to build a museum (SUMA) ;; 2025|||Architect Olson Kundig selected, renderings released ;; 2028|give-institution|university-partnership|Museum planned to open; collection legally transfers to the university on completion
+public_origin: Seattle real-estate developer Richard Hedreen and his late wife Betty spent six decades assembling a 200-plus-work collection spanning five centuries, then in 2024 pledged the entire collection plus $25M in construction funding to Seattle University to build a new teaching museum, planned to open in 2028.
+public_sources: Seattle Times; The Art Newspaper; ARTnews; Archpaper; Capitol Hill Seattle News
 hero_image_status: no_usable_image
 living_collector: true
 last_reviewed: 2026-08

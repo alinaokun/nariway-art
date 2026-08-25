@@ -40,5 +40,5 @@ One-line: Rene & Veronica di Rosa's 1,600-work Northern California collection be
 
 **Why in the sample:** durability *failure* — a regional thesis whose land/operating costs outran its endowment. Candidate for **case #2** (the deliberate distress contrast to McNay).
 
-**Verify first:** the "campus for sale" and deaccessioning claims are provisional — confirm against primary sources before drawing lessons.
+**Verify first (internal financial/governance depth):** an itemized deaccession list and the foundation's own 990 remain unpulled (WebFetch blocked); these gate the internal `verification` tier, not the public page. **Public facts re-verified 2026-08-25**: the $10.9M/217-acre listing, the financial-strain rationale, and executive director Kate Eilertsen's own quoted account are corroborated across Artnet News, the Press Democrat, the SF Chronicle, and The Art Newspaper via WebSearch — the prior "provisional" note here had gone stale against the frontmatter's `public_verified: true` (flagged in the 2026-08-25 QA audit); it now reads correctly as internal-depth-only, not a public-fact caveat.
 

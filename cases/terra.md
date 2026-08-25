@@ -40,5 +40,5 @@ One-line: Daniel J. Terra's single-collector museum of American art (to 1945) cl
 
 **Why in the sample:** the clean **institutional collapse** — governance conflict and dissolution, closest to a single-collector museum failing. The other strong collapse option is **Corcoran** (larger, civic-scale) if a bigger failure is preferred.
 
-**Verify first:** dates, the nature of the litigation, and where works ultimately went.
+**Verify first (internal financial/governance depth):** the litigation's legal specifics and a primary Terra Foundation 990 remain unpulled (WebFetch blocked); these gate the internal `verification` tier, not the public page. **Public facts re-verified 2026-08-25** (closure date, cause, and the Art Institute loan arrangement) against Artforum, Wikipedia, and the Terra Foundation's own materials via WebSearch — the prior "Verify first" note here had gone stale against the frontmatter's `public_verified: true` (flagged in the 2026-08-25 QA audit); it now reads correctly as internal-depth-only, not a public-fact caveat.
 

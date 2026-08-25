@@ -10,8 +10,8 @@ survived_founder: "yes"
 geography: New York, NY
 outcome: thriving
 verification: spot-verified
-collection_coherence: absorbed
-decision_owner: collective-founders-trustees
+collection_coherence: broad-survey
+decision_owner: no-identifiable-person
 public_page_eligible: true
 public_verified: true
 public_depth: expanded
@@ -40,7 +40,7 @@ last_reviewed: 2026-08
 *Added 2026-08-16 as a coded case. The archetype at the extreme end of the "collectors to public institution" spectrum, and the opposite pole from the [[barnes]]. Quantitative durability fields (true endowment, opex ratio, FTE) were initially `unknown` pending a 990 pass; the same-day dataset-synthesis run partially filled them via WebSearch (WebFetch remains `EGRESS_BLOCKED`, seventh consecutive confirmation) — figures below are `secondary` snippets of the FY2024 990/consolidated financial statements, not a direct fetch, and the case is added to the Primary-verification backlog.*
 
 ## Coded header
-pathway **found-standalone-museum** (three collectors founded a new public institution) · founders **Lillie P. Bliss, Mary Quinn Sullivan, Abby Aldrich Rockefeller** (plus original trustees A. Conger Goodyear, Paul Sachs, Frank Crowninshield, Josephine Boardman Crane) · all **deceased** · **survived_founder YES** (founded 1929, all founders gone by mid-century, thriving ~96 years) · outcome **thriving** · durability **strong** · governance **independent board from founding** (multiple founders + a real trustee board, never founder-sole) · **purpose-built** (53rd St; repeatedly expanded, most recently 2019, Diller Scofidio + Renfro) · coherence **absorbed** (the founding gifts dissolved into a ~200,000-work whole; no founding collection kept intact as a named unit) · decision **collective founders/trustees** · constraints **partial/unusual** (the Bliss bequest, see below).
+pathway **found-standalone-museum** (three collectors founded a new public institution) · founders **Lillie P. Bliss, Mary Quinn Sullivan, Abby Aldrich Rockefeller** (plus original trustees A. Conger Goodyear, Paul Sachs, Frank Crowninshield, Josephine Boardman Crane) · all **deceased** · **survived_founder YES** (founded 1929, all founders gone by mid-century, thriving ~96 years) · outcome **thriving** · durability **strong** · governance **independent board from founding** (multiple founders + a real trustee board, never founder-sole) · **purpose-built** (53rd St; repeatedly expanded, most recently 2019, Diller Scofidio + Renfro) · coherence **broad-survey** [corrected 2026-08-25 QA pass — "absorbed" was not a valid `collection_coherence` value; the underlying fact is the founding gifts dissolved into a ~200,000-work whole with no founding collection kept intact as a named unit, which the vocabulary's broad-survey bucket captures reasonably] · decision **no-identifiable-person** [corrected 2026-08-25 — "collective-founders-trustees" was not a valid `decision_owner` value; three co-founding trustees decided jointly, with no single dominant owner, which is what this value is meant to capture] · constraints **partial/unusual** (the Bliss bequest, see below).
 
 ## Numbers
 - Founded **1929**, opened with only a handful of works [MoMA history, primary].

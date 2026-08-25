@@ -60,6 +60,73 @@
   },
   "collections": [
     {
+      "slug": "paz-museum-brumadinho",
+      "publicDepth": "expanded",
+      "name": "(untitled — working reference \"Museu Bernardo Paz\")",
+      "founder": "Bernardo Paz",
+      "location": "Brumadinho, Minas Gerais, Brazil (adjacent to Inhotim)",
+      "profile": {
+        "founded": 2026,
+        "structure": "Not yet publicly named; no foundation or governing entity identified in coverage",
+        "publicAccess": "Not yet open; first pavilions September 2027",
+        "currentState": "Under construction; first pavilions scheduled to open September 2027.",
+        "size": "311-acre site; ~40 planned gallery/pavilion spaces; collection of ~3,000 works"
+      },
+      "composition": {
+        "focus": "South American and international contemporary art",
+        "movements": [
+          "Contemporary"
+        ],
+        "selectedArtists": [
+          "Michael Heizer",
+          "Anna Maria Maiolino",
+          "Sonia Gomes (first-phase pavilion artists)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "",
+            "year": 2015,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "Bernardo Paz begins losing operational control of Inhotim amid a financial and governance crisis (see [[inhotim]])"
+          },
+          {
+            "event": "",
+            "year": 2020,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "Instituto Inhotim is restructured with Paz voluntarily relinquishing personal control"
+          },
+          {
+            "event": "Paz announces a new, wholly separate museum and botanical garden on an adjacent 311-acre site, reviving the Inhotim model under his own renewed control",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "First pavilions scheduled to open",
+            "year": 2027,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          }
+        ]
+      },
+      "origin": "Bernardo Paz, who founded and later lost personal control of Inhotim, Brazil's landmark private art park, is building a second, separate museum and botanical garden of pavilions on an adjacent 311-acre site in Brumadinho for his own art collection, with first pavilions scheduled to open in 2027.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Artforum",
+        "ARTnews",
+        "Wallpaper",
+        "Newcity Brazil",
+        "Rio Times"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "0xcollection",
       "publicDepth": "expanded",
       "name": "0xCollection",
@@ -2186,6 +2253,64 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "jaipur-centre-for-art",
+      "publicDepth": "expanded",
+      "name": "Jaipur Centre for Art",
+      "founder": "Sawai Padmanabh Singh and Noelle Kadar",
+      "location": "Jaipur, Rajasthan, India (City Palace complex)",
+      "profile": {
+        "founded": 2024,
+        "structure": "Privately founded exhibition space and residency program; legal form unconfirmed",
+        "publicAccess": "Ticketed (~₹100; free Tuesdays/Thursdays per one source), separate from City Palace Museum admission",
+        "currentState": "Open in Jaipur's City Palace since November 2024.",
+        "size": "2,600 sq. ft"
+      },
+      "composition": {
+        "focus": "Contemporary art in dialogue with Jaipur's craft and architectural heritage",
+        "period": "2020s, ongoing rotating program (not a fixed collection)",
+        "media": [
+          "painting",
+          "sculpture",
+          "photography",
+          "installation",
+          "film/moving image"
+        ],
+        "selectedArtists": [
+          "Anish Kapoor",
+          "Hiroshi Sugimoto",
+          "Sean Scully",
+          "Alicja Kwade",
+          "Dayanita Singh",
+          "L.N. Tallur",
+          "Tanya Goel",
+          "Manjunath Kamath"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Royal patron and outside art advisor co-found a new contemporary-art exhibition space inside the family's palace; Jaipur Centre for Art opens 22 Nov 2024",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Padmanabh Singh, the informally recognized head of the former Jaipur royal family, partnered with art advisor Noelle Kadar to open a contemporary-art exhibition space inside a wing of the City Palace, the family's centuries-old residence — the first venue of its kind in Jaipur, running rotating exhibitions, a residency program, and a free public film series rather than a permanent collection.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Wallpaper*",
+        "Whitewall",
+        "Harper's Bazaar India",
+        "Serenade"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "michener-art-museum",
       "publicDepth": "expanded",
       "name": "James A. Michener Art Museum",
@@ -3177,6 +3302,60 @@
         "onerafoundation.org",
         "The Art Newspaper",
         "The Architect's Newspaper"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "petrucci-family-foundation",
+      "publicDepth": "expanded",
+      "name": "Petrucci Family Foundation Collection of African American Art",
+      "founder": "The Petrucci family (New Jersey)",
+      "location": "Asbury, NJ (foundation office; the collection has no public venue of its own)",
+      "profile": {
+        "collectingBegan": "2012",
+        "structure": "Private family foundation",
+        "publicAccess": "No dedicated gallery; works circulate on loan to partner museums nationally",
+        "currentState": "Active; the collection has no home gallery and circulates entirely through loans to other museums.",
+        "size": "500+ works"
+      },
+      "composition": {
+        "focus": "African American art",
+        "period": "20th–21st century",
+        "selectedArtists": [
+          "exhibited via partner venues including the Hunterdon Art Museum, the Allentown Art Museum, and the David C. Driskell Center"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The Petrucci Family Foundation is established as a general education-and-opportunity philanthropy",
+            "year": 2004
+          },
+          {
+            "event": "The Foundation begins collecting African American art specifically, for the explicit purpose of lending it to museums",
+            "year": 2012,
+            "familyId": "give-institution",
+            "codedPathway": "traveling-program"
+          },
+          {
+            "event": "Collection continues circulating via rotating loan exhibitions (e.g. Hunterdon Art Museum, Allentown Art Museum)",
+            "year": 2026,
+            "familyId": "give-institution",
+            "codedPathway": "traveling-program"
+          }
+        ]
+      },
+      "origin": "A New Jersey family foundation, established in the mid-2000s for general educational philanthropy, began collecting African American art in 2012 specifically to lend it out — building a 500-plus-work collection with no gallery of its own, circulating instead through partner museums to help expand the canon of American art history taught and shown nationally.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "petruccifamilyfoundation.org",
+        "Hunterdon Art Museum",
+        "Allentown Art Museum",
+        "David C. Driskell Center",
+        "ProPublica Nonprofit Explorer"
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
@@ -4208,6 +4387,99 @@
       "livingCollector": true
     },
     {
+      "slug": "hedreen-seattle-university",
+      "publicDepth": "expanded",
+      "name": "The Hedreen Collection at Seattle University (SUMA)",
+      "founder": "Richard C. Hedreen and the late Betty Hedreen",
+      "location": "Seattle, WA",
+      "profile": {
+        "collectingBegan": "1964",
+        "structure": "Planned Seattle University institutional unit (no separate incorporation announced)",
+        "publicAccess": "Not yet open; planned fall 2028, on completion of the building and legal transfer of the collection",
+        "currentState": "Museum under construction at Seattle University; collection transfers on completion, planned fall 2028.",
+        "size": "200+ works; publicly valued ~$300M"
+      },
+      "composition": {
+        "focus": "Old Master through contemporary Western art",
+        "period": "15th century-21st century",
+        "media": [
+          "painting",
+          "sculpture",
+          "photography",
+          "etching",
+          "pottery"
+        ],
+        "selectedArtists": [
+          "Titian",
+          "Jacopo da Pontormo",
+          "Jan Lievens",
+          "Élisabeth Vigée Le Brun",
+          "Thomas Gainsborough",
+          "Luis Egidio Meléndez",
+          "Willem de Kooning",
+          "Robert Rauschenberg",
+          "Roy Lichtenstein",
+          "Robert Indiana",
+          "Pablo Picasso",
+          "Jasper Johns",
+          "Andy Warhol",
+          "Anselm Kiefer",
+          "Cecily Brown",
+          "Rashid Johnson",
+          "Amy Sherald"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Richard and Betty Hedreen begin collecting art",
+            "year": 1964,
+            "familyId": "keep-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "The Hedreens are lead donors of the Chapel of St. Ignatius at Seattle University",
+            "year": 1997,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Betty Hedreen dies",
+            "year": 2022
+          },
+          {
+            "event": "Richard Hedreen pledges the collection plus $25M to Seattle University to build a museum (SUMA)",
+            "year": 2024,
+            "familyId": "give-institution",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "Architect Olson Kundig selected, renderings released",
+            "year": 2025
+          },
+          {
+            "event": "Museum planned to open; collection legally transfers to the university on completion",
+            "year": 2028,
+            "familyId": "give-institution",
+            "codedPathway": "university-partnership"
+          }
+        ]
+      },
+      "origin": "Seattle real-estate developer Richard Hedreen and his late wife Betty spent six decades assembling a 200-plus-work collection spanning five centuries, then in 2024 pledged the entire collection plus $25M in construction funding to Seattle University to build a new teaching museum, planned to open in 2028.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Seattle Times",
+        "The Art Newspaper",
+        "ARTnews",
+        "Archpaper",
+        "Capitol Hill Seattle News"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "pearlman-foundation",
       "publicDepth": "expanded",
       "name": "The Henry and Rose Pearlman Foundation Collection",
@@ -4872,6 +5144,67 @@
         "ubs.com",
         "MoMA",
         "PR Newswire"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "wolf-kahn-foundation",
+      "publicDepth": "expanded",
+      "name": "Wolf Kahn Foundation & Archives",
+      "founder": "Wolf Kahn and Emily Mason",
+      "location": "New York, NY (archive); West Brattleboro, VT (historic studio)",
+      "profile": {
+        "founded": 1998,
+        "structure": "Private nonprofit foundation (501(c)(3)), split in 2022 from a joint entity into two family-line foundations",
+        "publicAccess": "Archive open by appointment; foundation-supported grants and exhibitions ongoing",
+        "currentState": "Operating continuously since 1998; a dedicated archive and research space opened in Manhattan in August 2026."
+      },
+      "composition": {
+        "focus": "Wolf Kahn's life, career, and artistic process",
+        "period": "20th century onward",
+        "media": [
+          "painting"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Wolf Kahn and Emily Mason establish a joint philanthropic foundation while both are living",
+            "year": 1998,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Emily Mason dies",
+            "year": 2019
+          },
+          {
+            "event": "Wolf Kahn dies",
+            "year": 2020
+          },
+          {
+            "event": "The joint foundation splits into the Wolf Kahn Foundation and the Emily Mason \\",
+            "year": 2022,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Wolf Kahn Foundation & Archives opens a dedicated Manhattan research space, one year ahead of Kahn's October 2027 centennial",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Painters Wolf Kahn and Emily Mason, married since 1957, established a joint foundation in 1998 to manage their philanthropic activities while both were still living. After both died (Mason in 2019, Kahn in 2020), the foundation split in 2022 into two separate entities along family lines, and in 2026 the Wolf Kahn side opened its first dedicated public archive and research space in Manhattan, timed to precede Kahn's 2027 centennial.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "wolfkahnfoundation.org",
+        "Artforum",
+        "Hyperallergic",
+        "propublica.org Nonprofit Explorer"
       ],
       "lastReviewed": "2026-08"
     },
