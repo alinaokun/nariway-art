@@ -28,6 +28,9 @@ The narrator is a witness and an analyst, never a victim, never an advocate. Pre
 - No staccato sequences. Never three or more short sentences in a row.
 - No hedging. No perhaps, somewhat, it seems, I think, I believe.
 - No cheap intensifiers. No changed everything, transformed, revolutionized.
+- **Trust the material; do not manufacture importance around it (standing principle, 2026-08-25).** Use concrete facts, examples, and consequences. Let an interesting fact be interesting without a rhetorical flourish, and let the reader think about the subject rather than notice the writing. Avoid polished constructions that call attention to themselves (e.g. "the more useful observation is quieter," "something harder to price," "sounds like the problem taking care of itself," "for the first time").
+- **No prestige adjectives for collections.** Do not use "significant" or "serious" as a default qualifier. Prefer "private art collections," "a collection," or "collectors" when the art context is already clear.
+- **Evidence discipline over narrative.** Do not upgrade a careful finding into a stronger claim to make the prose more human. State only what the evidence supports. Do not assert that inheritors did not build the collection, did not expect it, or what "kept" usually means, unless a source says so.
 - No forbidden phrases. No "here's the thing," "at the end of the day," "let that sink in," "in other words."
 - No word repetition in adjacent sentences or paragraphs.
 - No telling the reader how to feel. No "the contrast is striking," no adjective doing the work the evidence should do.

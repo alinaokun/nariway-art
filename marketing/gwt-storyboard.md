@@ -41,16 +41,24 @@
 
 *(This is the corpus doing real work: every option carries a linked precedent a reader can go verify.)*
 
-## Rewritten opening (voice calibration — the human researcher register)
-Written to read as one intelligent person explaining something genuinely interesting to another. Concrete, varied sentence length, specific, natural transitions. No "not only X but Y," no stacked dramatic fragments, no symmetrical rhetoric, no announcing significance.
+## Visual variety within one design language (clarification, approved 2026-08-25)
+"Structured object" does not mean "conventional table." The page should vary the treatment:
+- **Block 3** — a real comparison table.
+- **Block 6** — a typographic data treatment (not a table).
+- **Block 7** — a wide two-column *editorial* comparison (its own treatment, occupying more width).
+- **Block 9** — a precedent/pathways table with its own treatment.
+Different objects, one design language. Block architecture is otherwise locked.
 
-**Dek.** For the first time, a very large number of families are about to inherit serious art collections at once, and most of them have not decided what to do with the art, or even talked about it.
+## Rewritten opening (voice calibration, v2 — simpler, evidence-disciplined)
+Per [[voice]]'s standing principle: trust the material, do not manufacture importance around it. Concrete, evidence-only, no rhetorical flourish, no prestige adjective. Removed the flagged phrases ("for the first time," "quiet pressure," "the more useful observation is quieter," "something harder to price," "the job of deciding what the collection should now become," "sounds like the problem taking care of itself") and the unsupported claims (that heirs did not build or did not expect the collection; that we know what "kept" means).
 
-**1.** When a serious collector dies, their art does not pass to the next generation the way money does. Someone inherits a house full of objects, along with the storage bills, the insurance, and the quiet pressure of not wanting to waste what a parent spent decades putting together. Over the coming decade this is going to happen to a great many families in a short span of time. Deloitte puts the amount of art and collectibles changing hands at roughly $992 billion, and most of it will move by inheritance rather than through a sale.
+**Dek.** Over the next decade a large amount of privately held art will be inherited, and most owners, by their own account, have not made a plan for what will happen to it.
 
-**2.** The number is what gets quoted, and it needs handling with care, because the wider wealth transfer it belongs to is measured in several ways that do not describe the same thing. The more useful observation is quieter. When a collection is inherited, the art and its market value change hands, but so does something harder to price: the job of deciding what the collection should now become. That job tends to land on people who did not build the collection, often did not expect it, and usually have no plan for it.
+**1.** Deloitte estimates that roughly $992 billion of art and collectibles will change ownership over the coming decade, most of it through inheritance rather than sale. Behind that number are thousands of individual collections, each passing to someone new.
 
-**3.** It would be reasonable to assume all this art ends up on the market. Mostly it doesn't. Most inherited art is kept, at least at first, which sounds like the problem taking care of itself, until you look at what "kept" usually turns out to mean.
+**2.** Inheriting a collection is different from inheriting cash or shares. The heir takes on the physical work of looking after the art (storage, insurance, records) and, eventually, a decision about what should happen to it. Surveys of collectors suggest that most have not made that decision, and many have not discussed it with their families.
+
+**3.** It is easy to assume this art mostly comes up for sale, but most of it does not. Most people who inherit art keep at least some of what they receive. Keeping it, though, is a different thing from deciding what happens to it in the long run.
 
 ## What I need approved before building
 1. The storyboard structure (which blocks become tables / data / precedent vs prose).
