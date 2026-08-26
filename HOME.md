@@ -2,7 +2,7 @@
 
 Your brief with Toi. Always the current picture. The weekly Nariway advisor email is the debrief now (replaced the daily check-in, 2026-08-22 — see [[weekly-brief]]); this page is the always-current dashboard, refreshed each morning.
 
-26 August 2026
+26 August 2026 (trigger alert sent)
 
 **The goal that governs everything: one million a year, minimum. The only unanswered question is whether anyone will pay. Every move below is measured against that.**
 
@@ -10,9 +10,10 @@ Your brief with Toi. Always the current picture. The weekly Nariway advisor emai
 
 ## Your move
 
-This week's one move (from the Monday Nariway Weekly advisor run).
+This week's one move (from the Monday Nariway Weekly advisor run), plus today's trigger alert.
 
 1. **Send Leslie Anderson the two bridge questions today. This is the last recoverable window.** Her Conversation questions went out 2026-08-20; she is still drafting. The CFO steward asked for this same follow-up on 8/20, 8/21, 8/22, and again on 8/24, five straight days unactioned as of the last steward run. Matthew Erskine's equivalent window already closed unrecovered. Leslie is the only live conversation left that can carry this. Send via PR contact Jo Marie Hebeler. The questions are 'In your practice, how often does a family reach the point of deciding what happens to a significant collection, is this a recurring situation or a rare one?' and 'Is there a family you're working with now where this is live?' → [[weekly-brief]] 2026-08-24
+2. **Today's trigger: two scheduled first-outreach contacts came due today.** [[Judith Prowda]] (high priority, art-law faculty, Sotheby's Institute) and [[Rebecca L. Fine]] (medium priority, Metis Fine Art Finance) were both flagged 2026-08-24 for first contact today. Send short, warm reconnect notes through each of their existing course links, no pitch on either.
 
 *([[work-log]] is a location-only tax record, default Montvale, no action needed unless you work out of state.)*
 
