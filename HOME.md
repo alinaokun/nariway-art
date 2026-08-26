@@ -2,7 +2,7 @@
 
 Your brief with Toi. Always the current picture. The weekly Nariway advisor email is the debrief now (replaced the daily check-in, 2026-08-22 — see [[weekly-brief]]); this page is the always-current dashboard, refreshed each morning.
 
-25 August 2026
+26 August 2026
 
 **The goal that governs everything: one million a year, minimum. The only unanswered question is whether anyone will pay. Every move below is measured against that.**
 
