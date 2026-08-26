@@ -359,6 +359,18 @@
 
 ---
 
+### C63 · True auction acquisition cost runs 30-40% above the hammer price — [secondary, single-source]
+**Canonical:** Layering shipping, storage, insurance, and currency-conversion costs on top of the buyer's premium already reflected in a published "sale price," a specialist fine-art-services source estimates the **true cost of an auction acquisition at 30% to 40% above the hammer price**; separately, shipping alone is reported to consume **up to 15% of gallery expenditures** for dealers.
+**Source:** [[market-intelligence]] #5 2026-08-26 addendum; Renwick Fine Art Services (specialist industry content, not independently corroborated by a second source) and a fine-art-logistics market report (vendor-published, methodology undisclosed).
+**Use:** sharpens the "carrying cost is a hidden clock" thesis (C13-C16) into a concrete pre-ownership figure — the sticker price is not the cost, before any annual carrying cost even begins. **Do not present as a precise or audited figure**; single-source, lower confidence than the UOVO/Crozier facility-scale figures in the same entry. **Jurisdiction:** primarily US auction/gallery market.
+
+### C64 · Why insured-collection rates stay low despite stated demand (Chubb 2026, barrier breakdown) — [secondary, self-reported survey]
+**Canonical:** Among affluent US collectors who do NOT insure their collections, **46%** mistakenly believe ordinary homeowners insurance already covers it, **38%** say they simply have not gotten around to purchasing a policy, and **34%** do not believe their items are actually at risk of loss or damage.
+**Source:** Chubb, July 2026 survey of affluent US collectors (via Chubb press release and Insurance Business coverage); the same instrument already anchoring C48-C49.
+**Use:** completes C48-C49 (fewer than half of collectors who treat collecting as investment insure it; only 14% cite cost as the barrier) with the *why* — misplaced confidence, inertia, and risk denial, not price resistance. **Jurisdiction:** US, affluent/luxury collector segment specifically, not the general population.
+
+---
+
 *Sizing note (NOT a claim): there is no published count of collectors whose collections are substantial enough that continuity/governance/access/dispersal is material. The Nariway market is triangulated bottom-up from interviews (see [[problem-discovery]] Collection Transition Market Map), not from these figures. Do not present any collector-household number as a statistic. **The one figure that circulates is a practitioner estimate (Philip Hoffman, Fine Art Group, via Bloomberg 2026, uncorroborated): ~1,000 collectors with $1B of art, 3,000+ with $100M, ~100 inheritances/year (two per week). Traced 2026-08-25 to Hoffman only, no independent source. Directional only; never present as a statistic.***
 
 ## The convention

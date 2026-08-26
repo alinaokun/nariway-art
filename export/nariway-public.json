@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25",
+  "generated": "2026-08-26",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -2825,6 +2825,58 @@
       "livingCollector": true
     },
     {
+      "slug": "microsoft-art-collection",
+      "publicDepth": "record",
+      "name": "Microsoft Art Collection",
+      "founder": "Microsoft Corporation (initiated by a group of employees)",
+      "location": "Redmond, WA (headquarters); works installed across 180+ buildings globally",
+      "profile": {
+        "collectingBegan": "1987",
+        "structure": "In-house corporate collection (not a separate legal entity)",
+        "publicAccess": "Displayed in Microsoft workplaces; viewed primarily by employees, guests and customers, not the general public",
+        "currentState": "Active corporate collection, ongoing since 1987.",
+        "size": "~5,000 works"
+      },
+      "composition": {
+        "focus": "Contemporary art, employee-facing workplace collection",
+        "period": "1980s–present",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper",
+          "photography",
+          "ceramics",
+          "glass",
+          "multimedia"
+        ],
+        "selectedArtists": [
+          "Takashi Murakami",
+          "Cindy Sherman",
+          "Chuck Close"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "A group of Microsoft employees begins buying art to fill office walls, the origin of the corporate collection",
+            "year": 1987,
+            "familyId": "keep-family",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "A group of Microsoft employees started buying art for the walls of the company's Redmond offices in 1987. Nearly four decades later the holding has grown to roughly 5,000 works across more than 180 buildings worldwide, run as an ongoing employee-facing workplace program rather than a public museum.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Microsoft Art Collection (25 Years of Celebrating Creativity, 2012)",
+        "Widewalls",
+        "DailyArt Magazine"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "benini",
       "publicDepth": "expanded",
       "name": "Museo Benini (formerly Benini Sculpture Ranch)",
@@ -4092,6 +4144,45 @@
       "livingCollector": true
     },
     {
+      "slug": "bunker-artspace",
+      "publicDepth": "expanded",
+      "name": "The Bunker Artspace",
+      "founder": "Beth Rudin DeWoody",
+      "location": "West Palm Beach, Florida",
+      "profile": {
+        "founded": 2017,
+        "structure": "Private exhibition space for a personal collection; no confirmed nonprofit or foundation wrapper",
+        "publicAccess": "By invitation and pre-scheduled private tour only, not zoned as a public museum",
+        "currentState": "Open by invitation and scheduled private tours since December 2017.",
+        "size": "500 works on view at a time, drawn from a personal collection reported at 10,000+ works"
+      },
+      "composition": {
+        "focus": "Contemporary and modern art, deliberately anti-blue-chip and cross-generational",
+        "period": "20th–21st century"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The Bunker Artspace opens in a converted 1920s Art Deco former toy factory and WWII armory",
+            "year": 2017,
+            "familyId": "build-institution",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "A New York real-estate heiress and lifelong collector converted a Depression-era Art Deco building in West Palm Beach — once a toy factory, later a wartime armory — into a private exhibition space for her own collection, showing roughly 500 works at a time on a rotating, season-by-season basis, by invitation and scheduled tour rather than as a public museum.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "thebunkerartspace.com",
+        "Galerie Magazine",
+        "Cultured Magazine"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "chinati",
       "publicDepth": "expanded",
       "name": "The Chinati Foundation",
@@ -4548,6 +4639,68 @@
         "MoMA",
         "LACMA",
         "The Art Newspaper"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "museum-of-russian-icons",
+      "publicDepth": "expanded",
+      "name": "The Icon Museum and Study Center (founded as the Museum of Russian Icons)",
+      "founder": "Gordon B. Lankton",
+      "location": "Clinton, Massachusetts",
+      "profile": {
+        "founded": 2006,
+        "structure": "Independent nonprofit museum, AAM-accredited",
+        "publicAccess": "Open to the public year-round",
+        "currentState": "Open in Clinton, MA since 2006; renamed the Icon Museum and Study Center in 2023.",
+        "size": "1,000+ icons and related artifacts"
+      },
+      "composition": {
+        "focus": "Russian and other Eastern Christian sacred icons",
+        "period": "Byzantine era to the 20th century",
+        "media": [
+          "icon painting",
+          "metalwork"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Gordon Lankton buys his first icon on a business trip to Russia",
+            "year": 1989
+          },
+          {
+            "event": "The Museum of Russian Icons opens to the public in Clinton, MA",
+            "year": 2006,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The Center for Icon Studies is founded within the museum",
+            "year": 2012
+          },
+          {
+            "event": "Accredited by the American Alliance of Museums",
+            "year": 2016
+          },
+          {
+            "event": "Founder Gordon B. Lankton dies; the museum continues under its board of trustees",
+            "year": 2021
+          },
+          {
+            "event": "Renamed the Icon Museum and Study Center to reflect an expanded scholarly mission",
+            "year": 2023
+          }
+        ]
+      },
+      "origin": "A plastics-company executive bought his first Russian icon at a Moscow open-air market on a 1989 business trip and kept collecting until the holding, one of the largest of its kind outside Russia, became a public museum in his Massachusetts hometown in 2006. It has continued under a board of trustees since his 2021 death, renamed in 2023 to reflect a broadened scholarly mission.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "iconmuseum.org",
+        "American Alliance of Museums",
+        "Worcester Business Journal"
       ],
       "lastReviewed": "2026-08"
     },
