@@ -84,8 +84,8 @@
 |---|---|---|---|---|---|---|
 | ✓ Fisher Collection → SFMOMA | Doris & Donald Fisher | Mixed | San Francisco, CA | Postwar blue-chip; Presidio museum blocked → **100-yr loan** (w/ extensions) | Stable | ~1,100 |
 | ✓ Neue Galerie → The Met | Lauder | Living | New York, NY | German/Austrian modernism; **merge for perpetuity** vs. going alone | Pivot (merger 2028) | named + endowment |
-| Rachofsky "The Warehouse" | Howard Rachofsky | Living | Dallas, TX | Arte Povera / Gutai; collect privately, **will it** to Dallas MoA | Founder-open | shared venue |
-| Stieglitz (Fisk × Crystal Bridges) | O'Keeffe bequest | Dec. | Nashville / Bentonville | Modernist trove; **50/50 shared custody** between two institutions | Dispersed (shared) | 101 obj |
+| ✓ Rachofsky "The Warehouse" — CODED [[rachofsky-warehouse-dallas]] | Howard Rachofsky | Living | Dallas, TX | Arte Povera / Gutai; collect privately, **will it** to Dallas MoA | Founder-open | shared venue |
+| ✓ Stieglitz (Fisk × Crystal Bridges) — CODED [[stieglitz-collection-fisk-crystal-bridges]] | O'Keeffe bequest | Dec. | Nashville / Bentonville | Modernist trove; **50/50 shared custody** between two institutions | Dispersed (shared) | 101 obj |
 | ✓ Ganz Collection — CODED [[ganz-collection]] | Victor & Sally Ganz | Dec. | New York, NY | Deepest private Picasso + postwar; chose the **auction block** | Dispersed ($206.5M, 1997) | 58 works |
 
 ## 7 · University partnerships & international benchmarks
@@ -192,7 +192,7 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | **Enron Art Collection** | Enron (defunct) | **bankruptcy dispersal** | Houston | Sold off after the 2001–02 collapse; an early marker of the corporate-failure pathway. |
 | ✓ **Fondation Cartier** — CODED [[fondation-cartier]] / Fondation Louis Vuitton / Fondazione Prada | Cartier · LVMH · Prada | corporate foundation → public museum | Paris · Paris · Milan | The corporate-foundation-to-public-museum model at scale (Fondazione Prada already in the private universe above; Fondation Cartier now coded as the oldest of the three, 1984). The bridge between the corporate category and collector foundations. |
 
-*Verify-first leads (lower confidence): Microsoft, Fidelity (Devonshire), Capital Group, Bloomberg, Société Générale and BNP Paribas (large European bank collections, some partly sold in restructurings), WestLB / ABN AMRO / RBS / Commerzbank dispersals. The European bank-collection dispersals are a rich, underexamined vein of M&A-and-restructuring transitions.*
+*Verify-first leads (lower confidence): Fidelity (Devonshire), Capital Group, Bloomberg, and BNP Paribas (a corporate art-patronage/restoration program, not a clean owned-collection case on this run's research — its Italian subsidiary BNL reportedly holds ~5,000 works, unverified), plus WestLB / ABN AMRO / RBS / Commerzbank dispersals. The European bank-collection dispersals are a rich, underexamined vein of M&A-and-restructuring transitions. ✓ **Société Générale — CODED [[societe-generale-collection]]** (2026-08-26): the sample's first French corporate case, ~1,200-1,800 works, active since 1995. ✓ **Microsoft — CODED [[microsoft-art-collection]]** (2026-08-25, see Batch 27).*
 
 ## Signals daily — 2026-08-13
 *From the daily [[nariway-signals|Signals]] scan and the forwarded-email intake. Provisional; each carries its source.*

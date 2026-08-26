@@ -965,6 +965,60 @@
       "livingCollector": true
     },
     {
+      "slug": "societe-generale-collection",
+      "publicDepth": "expanded",
+      "name": "Collection Société Générale",
+      "founder": "Société Générale (initiated under chairman Marc Viénot)",
+      "location": "Paris (La Défense) and Val-de-Fontenay, France",
+      "profile": {
+        "collectingBegan": "1995",
+        "structure": "Corporate collection, owned directly by Société Générale (a publicly listed bank), not a separate foundation",
+        "publicAccess": "On view at company headquarters; shared via loans, off-site exhibitions, and public-facing partnerships (e.g. Musée des Beaux-Arts de Lyon)",
+        "currentState": "Active corporate collection, on view at Société Générale's Paris-area offices and shared through loans and exhibitions since 1995.",
+        "size": "1,200-1,800 works (contested across sources)"
+      },
+      "composition": {
+        "focus": "French and international contemporary art",
+        "movements": [
+          "Contemporary",
+          "Post-war French abstraction"
+        ],
+        "period": "mid-20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "photography"
+        ],
+        "selectedArtists": [
+          "Pierre Soulages",
+          "Pierre Alechinsky",
+          "Olivier Debré",
+          "Zao Wou-Ki",
+          "Jean-Michel Othoniel"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Société Générale establishes a corporate art collection under chairman Marc Viénot, coinciding with the bank's move to its La Défense headquarters",
+            "year": 1995,
+            "familyId": "keep-family",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "Société Générale began collecting contemporary art in 1995 when the bank relocated to its La Défense headquarters, under chairman Marc Viénot, aiming to bring \"a little soul\" and a forward-looking cultural presence to the workplace; the collection has grown to more than a thousand works and is shared through office display, loans, and public exhibitions.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Société Générale (collection.societegenerale.com)",
+        "Musée des Beaux-Arts de Lyon",
+        "Artsper"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "corcoran-gallery",
       "publicDepth": "record",
       "name": "Corcoran Gallery of Art",
@@ -3985,6 +4039,76 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "stieglitz-collection-fisk-crystal-bridges",
+      "publicDepth": "expanded",
+      "name": "The Alfred Stieglitz Collection",
+      "founder": "Georgia O'Keeffe (gift of Alfred Stieglitz's estate collection)",
+      "location": "Nashville, TN, USA and Bentonville, AR, USA",
+      "profile": {
+        "founded": 1949,
+        "structure": "Co-owned 50/50 by Fisk University and Crystal Bridges Museum of American Art under a 2012 court-approved settlement",
+        "publicAccess": "Free; on public view on a rotating biennial basis at whichever institution holds the collection",
+        "currentState": "Co-owned 50/50 by Fisk University and Crystal Bridges since 2012; the works rotate between Nashville and Bentonville every two years.",
+        "size": "101 works"
+      },
+      "composition": {
+        "focus": "American modernism and the circle around photographer and gallerist Alfred Stieglitz",
+        "movements": [
+          "American Modernism",
+          "European Modernism"
+        ],
+        "period": "early-to-mid 20th century",
+        "media": [
+          "painting",
+          "photography",
+          "sculpture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Georgia O'Keeffe",
+          "Pablo Picasso",
+          "Pierre-Auguste Renoir",
+          "Marsden Hartley",
+          "John Marin",
+          "Charles Demuth"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Georgia O'Keeffe gives 101 works from Alfred Stieglitz's estate (97 pieces) and her own holdings (4 pieces) to Fisk University, a historically Black university in Nashville",
+            "year": 1949,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Financially distressed Fisk moves to sell a half-interest for $30M, drawing a lawsuit from the Georgia O'Keeffe Museum in Santa Fe",
+            "year": 2005,
+            "familyId": "sell",
+            "codedPathway": "sell-private"
+          },
+          {
+            "event": "Tennessee court approves a settlement: Fisk sells a 50% ownership interest to Crystal Bridges for $30M, and the collection begins rotating on a two-year cycle between Nashville and Bentonville",
+            "year": 2012,
+            "familyId": "sell",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "Georgia O'Keeffe gave 101 works from her late husband Alfred Stieglitz's collection to Fisk University in 1949, a landmark gift to a Black college during segregation; six decades later, Fisk's financial crisis forced a court-supervised sale of a 50% interest to Crystal Bridges, and since 2012 the collection has been shared, alternating between the two campuses every two years.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Crystal Bridges Museum",
+        "ARTnews",
+        "Hyperallergic",
+        "NPR",
+        "AFRO American Newspapers"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "kohler-art-preserve",
       "publicDepth": "expanded",
       "name": "The Art Preserve of the John Michael Kohler Arts Center",
@@ -5091,6 +5215,69 @@
         "Crain's Cleveland Business"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "rachofsky-warehouse-dallas",
+      "publicDepth": "expanded",
+      "name": "The Rachofsky Collection / The Warehouse",
+      "founder": "Cindy and Howard Rachofsky (with Thomas Hartland-Mackie, from 2024)",
+      "location": "Dallas, TX, USA",
+      "profile": {
+        "founded": 2005,
+        "structure": "A promised, irrevocable bequest to the Dallas Museum of Art (a public nonprofit museum) plus a separately governed private exhibition nonprofit, The Warehouse Dallas Art Foundation",
+        "publicAccess": "The Warehouse: free, by appointment, seasonal exhibitions; the collection itself is private during the founders' lifetimes",
+        "currentState": "An irrevocable future gift to the Dallas Museum of Art, paired with a live, jointly-run private exhibition space open since 2012.",
+        "size": "900+ works pledged to DMA"
+      },
+      "composition": {
+        "focus": "Postwar and contemporary art",
+        "movements": [
+          "Minimalism",
+          "Post-Minimalism",
+          "Contemporary"
+        ],
+        "period": "mid-20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Cindy and Howard Rachofsky, with Rusty and Deedie Rose and Robert and Marguerite Hoffman, pledge their collections as an irrevocable bequest to the Dallas Museum of Art",
+            "year": 2005,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Rachofsky and fellow collector Vernon Faulconer open The Warehouse, a shared private exhibition space in Dallas",
+            "year": 2012,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The Warehouse formalizes into a joint nonprofit, The Warehouse Dallas Art Foundation, with collector Thomas Hartland-Mackie",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Dallas collectors Cindy and Howard Rachofsky pledged their postwar and contemporary art collection as an irrevocable future gift to the Dallas Museum of Art in 2005, while continuing to build, edit, and privately show the collection during their lifetimes, first informally at The Warehouse (opened 2012) and, since 2024, through a formal nonprofit foundation jointly run with a second collecting family.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ARTnews",
+        "Glasstire",
+        "Dallas Morning News",
+        "Artnet News",
+        "The Warehouse Dallas"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "readers-digest-wallace-collection",
