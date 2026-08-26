@@ -1,6 +1,6 @@
 # Nariway — Home
 
-Your brief with Toi. Always the current picture. Your daily check-in email is the debrief now; this page is the always-current dashboard, refreshed each morning.
+Your brief with Toi. Always the current picture. The weekly Nariway advisor email is the debrief now (replaced the daily check-in, 2026-08-22 — see [[weekly-brief]]); this page is the always-current dashboard, refreshed each morning.
 
 25 August 2026
 
