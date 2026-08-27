@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26",
+  "generated": "2026-08-27",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -1017,6 +1017,47 @@
         "Artsper"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "cookie-factory-denver",
+      "publicDepth": "expanded",
+      "name": "Cookie Factory",
+      "founder": "Amanda Precourt",
+      "location": "Denver, CO, USA (Baker neighborhood)",
+      "profile": {
+        "founded": 2025,
+        "structure": "Privately owned and privately funded; deliberately not a 501(c)(3) nonprofit — no board, no fundraising, no donor competition",
+        "publicAccess": "Free; open to the public Wednesdays 4-7pm and by appointment",
+        "currentState": "Open to the public, free, since May 2025.",
+        "size": "~5,000-5,700 sq ft gallery, plus a sculpture garden and video-screening rooms, inside a converted former fortune-cookie factory"
+      },
+      "composition": {
+        "focus": "Contemporary art; commissioned and exhibited works under artistic director Jérôme Sans",
+        "period": "contemporary"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Amanda Precourt opens Cookie Factory in a converted, once-condemned fortune-cookie factory in Denver's Baker neighborhood, free to the public and deliberately structured outside the nonprofit model",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "A Denver real-estate developer and collector converted a condemned fortune-cookie factory into a free, noncommercial contemporary art space, keeping full private ownership and funding rather than forming a nonprofit. It opened to the public in May 2025 under artistic director Jérôme Sans, with no board and no art for sale through the space.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "5280",
+        "Frieze",
+        "The Colorado Sun",
+        "Cultured",
+        "Denver7"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "corcoran-gallery",
@@ -2413,6 +2454,70 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "ashbery-collection-flow-chart",
+      "publicDepth": "expanded",
+      "name": "John Ashbery Collection & Archive",
+      "founder": "John Ashbery (with David Kermani)",
+      "location": "Hudson, NY (house/foundation); New York, NY; New Haven, CT; Cambridge, MA",
+      "profile": {
+        "collectingBegan": "1949",
+        "structure": "Dispersed across a living founder-established nonprofit (Flow Chart Foundation, 1998) and three university/museum collections, via gifts made by the poet's surviving husband and literary executor",
+        "publicAccess": "The Morgan and Yale exhibitions/collections are publicly accessible by standard museum/library terms; the Hudson house is documented online (virtual-tour project) rather than open to in-person visits",
+        "currentState": "Ongoing; works and archives now held across four institutions, with public exhibitions continuing through 2026."
+      },
+      "composition": {
+        "focus": "Works on paper by artist friends of poet John Ashbery, plus his own papers, reading library, and personal art/object collection",
+        "period": "1945-2007 (bulk 1960s)",
+        "selectedArtists": [
+          "James Bishop",
+          "Joe Brainard",
+          "Jane Freilicher",
+          "Jean Hélion",
+          "Fairfield Porter",
+          "Larry Rivers"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "John Ashbery, David Kermani, and fellow poets establish the Flow Chart Foundation, nineteen years before Ashbery's death",
+            "year": 1998,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "John Ashbery dies; his husband David Kermani becomes literary executor and decision-maker for the collection, papers, and house",
+            "year": 2017,
+            "familyId": "keep-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Ashbery's papers and reading library are acquired by Harvard University; the same year, ~25 works on paper are gifted to the Morgan Library & Museum, and his broader art/object collection opens for research at Yale's Beinecke Library",
+            "year": 2019,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The Morgan mounts \"Friends Who Came to See Me,\" an exhibition of the gifted drawings, May-October 2026",
+            "year": 2026,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Poet John Ashbery and his husband David Kermani set up a joint foundation in 1998, nineteen years before Ashbery's 2017 death. After his death, Kermani distributed Ashbery's papers, reading library, and personal art collection, largely gifts from artist friends rather than purchases, across Harvard, the Morgan Library, and Yale's Beinecke Library, while the Flow Chart Foundation continues to steward the couple's Hudson, NY house and its legacy.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Morgan Library & Museum",
+        "Beinecke Rare Book & Manuscript Library, Yale",
+        "Harvard Library",
+        "The Flow Chart Foundation"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "julia-stoschek-foundation",
       "publicDepth": "expanded",
       "name": "Julia Stoschek Foundation",
@@ -3515,6 +3620,72 @@
         "San Francisco Chronicle",
         "SF Standard",
         "Wikipedia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "powder-art-foundation",
+      "publicDepth": "expanded",
+      "name": "Powder Art Foundation",
+      "founder": "Reed Hastings",
+      "location": "Eden, UT, USA (Powder Mountain resort)",
+      "profile": {
+        "founded": 2024,
+        "structure": "Independent 501(c)(3) nonprofit with a five-person board and an executive director; Hastings funded its creation but holds no official role in the organization",
+        "publicAccess": "Free public access to the grounds in summer/fall for hiking; viewable by resort guests during ski season",
+        "currentState": "Open-air installations viewable now on the mountain; a full grand opening is planned for 2026."
+      },
+      "composition": {
+        "focus": "Site-specific, large-scale outdoor sculpture and land art, viewable on foot and by ski",
+        "movements": [
+          "land art"
+        ],
+        "period": "contemporary",
+        "selectedArtists": [
+          "Jenny Holzer",
+          "Nancy Holt",
+          "James Turrell",
+          "Paul McCarthy",
+          "Nobuo Sekine",
+          "EJ Hill",
+          "Kayode Ojo"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Reed Hastings announces an open-air art museum at Powder Mountain and forms the independent nonprofit Powder Art Foundation",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "First installations open, including works by Nancy Holt, Nobuo Sekine, EJ Hill, and Kayode Ojo",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Powder Art Foundation announces a long-term partnership with the Dia Art Foundation ahead of a full grand opening",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          }
+        ]
+      },
+      "origin": "Netflix co-founder Reed Hastings, who bought the Powder Mountain ski resort, funded a new independent nonprofit to build an open-air, skiable outdoor art museum on its grounds, featuring large-scale installations by artists including Jenny Holzer, James Turrell, and Nancy Holt. He set up the Powder Art Foundation with its own board and stepped back from any official role.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artnet News",
+        "Robb Report",
+        "Surface",
+        "Galerie",
+        "Archpaper",
+        "The Salt Lake Tribune",
+        "GuideStar"
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
