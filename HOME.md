@@ -2,7 +2,7 @@
 
 Your brief with Toi. Always the current picture. The weekly Nariway advisor email is the debrief now (replaced the daily check-in, 2026-08-22 — see [[weekly-brief]]); this page is the always-current dashboard, refreshed each morning.
 
-26 August 2026 (trigger alert sent)
+27 August 2026
 
 **The goal that governs everything: one million a year, minimum. The only unanswered question is whether anyone will pay. Every move below is measured against that.**
 
@@ -10,10 +10,10 @@ Your brief with Toi. Always the current picture. The weekly Nariway advisor emai
 
 ## Your move
 
-This week's one move (from the Monday Nariway Weekly advisor run), plus today's trigger alert.
+This week's move from the Monday Nariway Weekly advisor run (2026-08-24: Leslie Anderson), updated to what the vault now shows, plus the launch-blocking item still unshipped.
 
-1. **Send Leslie Anderson the two bridge questions today. This is the last recoverable window.** Her Conversation questions went out 2026-08-20; she is still drafting. The CFO steward asked for this same follow-up on 8/20, 8/21, 8/22, and again on 8/24, five straight days unactioned as of the last steward run. Matthew Erskine's equivalent window already closed unrecovered. Leslie is the only live conversation left that can carry this. Send via PR contact Jo Marie Hebeler. The questions are 'In your practice, how often does a family reach the point of deciding what happens to a significant collection, is this a recurring situation or a rare one?' and 'Is there a family you're working with now where this is live?' → [[weekly-brief]] 2026-08-24
-2. **Today's trigger: two scheduled first-outreach contacts came due today.** [[Judith Prowda]] (high priority, art-law faculty, Sotheby's Institute) and [[Rebecca L. Fine]] (medium priority, Metis Fine Art Finance) were both flagged 2026-08-24 for first contact today. Send short, warm reconnect notes through each of their existing course links, no pitch on either.
+1. **Reply to Colleen Fanning today.** She's a warm, live inbound art advisor who pitched Nariway directly via Qwoted, offering herself and a HNW collector client (a museum trustee/donor, a real potential buyer, not just an interview subject) as the strongest live test yet of whether an advisor already owns this. Twelve research-call questions are drafted; she's now into a second straight day of silence, and warm inbounds cool fastest. If the call confirms a real situation, don't stop at logging it, ask whether her collector's situation is live enough to show the Collection Futures Study. Leslie Anderson's ask is closed, six straight unactioned days ended it, so this replaces her as the live move. → `finance/cfo-brief.md` 2026-08-26
+2. **Ship the two pre-launch fixes before tomorrow's Aug 28 launch.** Redirect or noindex `/etymologies/` and `/inventions/` on nariway.com, and apply the Block 3 comparison table from `marketing/gwt-content-draft.md` to `export/nariway-public.json` and `content/content.json`, or at minimum fix the standalone "~$31T+" blended-source tile and strip the em dashes from the eight cases QA named. Both fixes are drafted and ready, sitting unshipped a third straight audit. → `marketing/cmo-brief.md` 2026-08-26
 
 *([[work-log]] is a location-only tax record, default Montvale, no action needed unless you work out of state.)*
 
