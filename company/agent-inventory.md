@@ -58,16 +58,13 @@ All run model `claude-sonnet-5`, environment `env_01218VC3YNVJmMDtm4pvhGJk`, wit
 
 ### 4. HOME daily refresh
 - **ID:** `trig_01MAW5468LcAExrAGQ2MCP5Y`
-- **State:** DISABLED 2026-08-27 (was enabled)
+- **State:** ENABLED (disabled then RE-ENABLED + REPOINTED 2026-08-27 at Alina's direction — she wants HOME kept current, but with only the relevant information)
 - **Trigger / cadence:** cron `30 10 * * *` — daily ~6:30a ET
-- **Purpose:** kept `HOME.md` date + "your move" current on silent days
-- **Reads:** `HOME.md`, `company/weekly-brief.md`, `company/scoreboard.md`
+- **Purpose (repointed):** keep `HOME.md` lean and current for the new business — refresh the date, the upcoming events (EPC meetings in Bergen/Westchester/NYC/Palm Beach, previews, conferences), and the open follow-ups. Leaves the human-written "This week" section alone. Explicitly instructed never to reintroduce old-model content.
+- **Reads:** `HOME.md`, `marketing/events/events-radar.md`, `marketing/to-see.md`, `crm/partners/`
 - **Writes:** `HOME.md` only. **No email.**
-- **Dependents:** reads the advisor's `weekly-brief.md`
-- **Last successful run:** 2026-08-27 10:37 UTC
-- **Original justification:** keep the dashboard fresh under the old daily-check-in model
-- **Retired because:** HOME as a daily auto-refreshed dashboard belongs to the old model; the founder review replaces it
-- **Replacement:** none
+- **Business justification (current):** a lean daily cockpit Alina reads, kept current from live event and CRM data.
+- **Replacement:** none (kept, repointed)
 
 ### 5. Artobiography weekly docket
 - **ID:** `trig_01TAVXaSwci5XMzoBhtxZQ9g`
@@ -107,7 +104,10 @@ These six run and commit to the vault daily/near-daily but their trigger IDs are
 **Verdicts (updated 2026-08-27 per Alina):**
 - **quality-assurance — KEEP.** Alina wants the established accuracy checks on the Collections research to continue. Left running.
 - **network-research — KEEP, repointed.** Now prioritizes Estate Planning Council events in Bergen County NJ, Westchester, NYC, and Palm Beach, plus other worthwhile conferences, via `marketing/events/events-radar.md` (updated 2026-08-27). Still running.
-- **cfo-steward, cmo-steward, site-health, vault-hygiene — PENDING Alina's call.** Not yet addressed by her; still running. Candidates to retire or downshift, but no action until she decides. IDs still needed to change any of them.
+- **cfo-steward — TURN OFF (Alina's decision 2026-08-27).** Still running; awaiting its trigger ID to disable (browser could not reach the routines page).
+- **cmo-steward — TURN OFF (Alina's decision 2026-08-27).** Still running; awaiting its trigger ID to disable.
+- **site-health — KEEP (Alina's decision 2026-08-27).** Left running.
+- **vault-hygiene — KEEP (Alina's decision 2026-08-27).** Left running.
 
 ---
 
@@ -144,3 +144,4 @@ These six run and commit to the vault daily/near-daily but their trigger IDs are
 
 - **2026-08-27 (morning)** — Zero-based operating reset begun. Killed the runaway PR #1 loop. Disabled cloud routines 1–5 (dataset-research, signals, weekly-advisor, HOME-refresh, Artobiography docket).
 - **2026-08-27 (correction, Alina's direction)** — Alina had not read the aggressive "default OFF" directive before it was posted and disagrees with parts of it. RE-ENABLED **signals** (now also carrying a Law & Estates beat) and **dataset-research** (Collections research continues with QA). Confirmed **quality-assurance** stays on (accuracy checks) and **network-research** stays on, repointed to Estate Planning Council events in Bergen County NJ / Westchester / NYC / Palm Beach plus other worthwhile conferences. Still disabled: PR loop, weekly-advisor, HOME-refresh, Artobiography docket. Still running pending Alina's call: cfo-steward, cmo-steward, site-health, vault-hygiene.
+- **2026-08-27 (routine decisions)** — Alina: turn off **cfo-steward** and **cmo-steward**; keep **site-health** and **vault-hygiene**; bring back **HOME-refresh** but with only the relevant information. HOME.md rewritten lean (old-model clutter removed) and HOME-refresh RE-ENABLED + REPOINTED to maintain only the date, upcoming events, and open follow-ups. cfo-steward and cmo-steward still awaiting their trigger IDs to disable (browser unavailable).

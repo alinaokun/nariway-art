@@ -1,62 +1,41 @@
 # Nariway — Home
 
-Your brief with Toi. Always the current picture. The weekly Nariway advisor email is the debrief now (replaced the daily check-in, 2026-08-22 — see [[weekly-brief]]); this page is the always-current dashboard, refreshed each morning.
+The always-current cockpit. Each morning a small routine refreshes the date and the two Upcoming lists below; the rest is yours to set.
 
-27 August 2026
+28 August 2026
 
-**The goal that governs everything: one million a year, minimum. The only unanswered question is whether anyone will pay. Every move below is measured against that.**
-
----
-
-## Your move
-
-This week's move from the Monday Nariway Weekly advisor run (2026-08-24: Leslie Anderson), updated to what the vault now shows, plus the launch-blocking item still unshipped.
-
-1. **Reply to Colleen Fanning today.** She's a warm, live inbound art advisor who pitched Nariway directly via Qwoted, offering herself and a HNW collector client (a museum trustee/donor, a real potential buyer, not just an interview subject) as the strongest live test yet of whether an advisor already owns this. Twelve research-call questions are drafted; she's now into a second straight day of silence, and warm inbounds cool fastest. If the call confirms a real situation, don't stop at logging it, ask whether her collector's situation is live enough to show the Collection Futures Study. Leslie Anderson's ask is closed, six straight unactioned days ended it, so this replaces her as the live move. → `finance/cfo-brief.md` 2026-08-26
-2. **Ship the two pre-launch fixes before tomorrow's Aug 28 launch.** Redirect or noindex `/etymologies/` and `/inventions/` on nariway.com, and apply the Block 3 comparison table from `marketing/gwt-content-draft.md` to `export/nariway-public.json` and `content/content.json`, or at minimum fix the standalone "~$31T+" blended-source tile and strip the em dashes from the eight cases QA named. Both fixes are drafted and ready, sitting unshipped a third straight audit. → `marketing/cmo-brief.md` 2026-08-26
-
-*([[work-log]] is a location-only tax record, default Montvale, no action needed unless you work out of state.)*
+Nariway is a specialist service used by estate attorneys and fiduciaries to control and document the resolution of significant art collections.
 
 ---
 
-## What your directors are flagging
+## This week
+*(Yours to write. The current priorities.)*
 
-The lenses react to every change and surface actions toward the goal. This updates as things move.
-
-- **CFO / CMO (the money, the audience).** Quiet today, no new steward brief since 8/21 — same read stands: $0 earned, H7A getting its first real support, and the Notes-pause trigger still undefined. See Your move #2.
-- **Research (the case).** Jumped from 68 to 73 in one run, plus a fourth deliberate disconfirmation attempt, this time on "public ownership is not public access" — it narrowed rather than broke: ownership only reliably produces sustained visibility when placement is curated to institutional interest, not blanket-distributed. See Today I Learned below.
-- **QA (the record).** Same two CRITICALs, open a fifth straight audit — see Your move #1 for the cheap one. No new audit ran today.
-- **The one-million gap.** Unchanged: a solo advisory caps around 300–700k, so the target still needs a scalable leg, and that's exactly what the growing report dataset is for.
+1. Get the new website live in the `nariway-rebuild` project, built around the professional-services positioning, so it is ready to show at an Estate Planning Council conversation.
+2. Line up the first customer-discovery meetings with estate attorneys and fiduciaries, starting from the Estate Planning Councils in Bergen County, Westchester, New York City, and Palm Beach.
 
 ---
 
-## Where things stand
+## Upcoming — events worth attending
+*Estate Planning Council meetings in Bergen County, Westchester, NYC, and Palm Beach first, then auction previews or closing exhibitions, then relevant conferences. Maintained from `marketing/events/events-radar.md` and `marketing/to-see.md`.*
 
-- Cases mapped, about 80. Coded to report grade, **73 of ~75 near-term (~100 eventually)** — up from 68 four days ago, closing in fast. WebFetch is still blocked on primary sources (nineteenth consecutive confirmation) — most cases remain secondary-sourced pending a re-fetch pass.
-- The question that still decides everything is whether anyone will pay. Still untested; the outreach pipeline is holding (3 published, 3 in progress, 3 awaiting reply) but nothing has moved since 8/21.
-- **The report's own strategy shifted this week: it's no longer "research → report → PR," it's "continuous research → proprietary knowledge base → annual report → conversations as field research → advisory relationships → next edition."** The report is now framed as the visible surface of a larger asset, gated on one honest test — does it produce real client situations, not article count. **Watch it evolve daily → [[what-becomes-of-great-art-collections]]** (the living manuscript).
+- The morning routine fills this in.
 
----
+## Open follow-ups
+*People and threads with a next step due, from `crm/partners`.*
 
-## Workspaces
-
-- Cases → `cases/` (Cases.base) · Prospects → `crm/prospects` · Partners → `crm/partners` · Warm network → [[warm-network]] · Events and courses → `marketing/events` · Visits → [[regional-visits]]
-- Research → `research/` (incl. [[market-intelligence]]) · Institution building → `institution-building/` · Finance → `finance/` (incl. [[comparables]]) · Marketing → `marketing/` · Learning → `learning/`
-- The company → [[executive-model]] · [[chief-of-staff|Toi]] · [[advisory-panel]] · [[positioning]] · [[voice]] · [[vault-review]]
+- The morning routine fills this in.
 
 ---
 
-## Recently
+## Where things live
+- **Source of truth** → `Nariway_Business_Strategy_and_Operating_Plan_Aug_2026.md` (the business) · `Nariway_Website_Strategy_and_Build_Brief_Aug_2026.md` (the site, built in the separate `nariway-rebuild` repo)
+- Collections research → `cases/` · People and referral network → `crm/` · Events → `marketing/events/` · Finance → `finance/` · Reference library → `learning/`
+- What is automated → `company/agent-inventory.md` · Voice → `company/voice.md` · Design → `company/design-system.md` · Legal → `company/legal.md`
+- Historical (do not treat as current) → `archive/`
 
-- 22 Aug 2026. **A quiet day for outreach, but the case dataset closed hard on its near-term target and the report's evidence base sharpened again.** Cloud research added three cases (Ganz Collection, Rennie Collection, Kohler Art Preserve), bringing the count to 73 of ~75, and ran a fourth deliberate attempt to disconfirm "public ownership is not public access" — it narrowed rather than broke the finding: Souls Grown Deep's curated, museum-by-museum placements sustained two decades of real exhibition life where Vogel's blanket fifty-state distribution never confirmed sustained view (see Today I Learned). WebFetch stayed blocked for a nineteenth consecutive run. No new client outreach or steward briefs landed today; the two open decisions from yesterday, the QA line-68 fix and naming what "settled" means for the Notes pause, are both still untouched.
-- 21 Aug 2026. **The pipeline converted for the first time — a confirmed conversation, two filled network gaps, and a repositioned flagship report, all in one day.** Sage Gee became the first-ever confirmed Conversation; Query B, live since 8/20, filled the two thinnest warm-network gaps with real people, Matthew Erskine (T&E attorney, questions sent) and Leslie Anderson (museum leadership, drafting answers), while Kelly Cahn (art advisor) accepted for Sept 10 and Asher Rubinstein passed gracefully on timing but stayed warm for a later wave. The demand-side Qwoted triangle is now complete (collectors-with-public-life, professional ecosystem, everyday collectors, three queries live), and the case dataset grew from 62 to 68 with a genuine attempt to disconfirm H2 that narrowed rather than broke it. Separately, Alina and an external review repositioned the flagship report itself: the research is now the product, not a report you publish and move past. Set against all that: the same two QA CRITICALs are open a fourth straight audit (one is a two-minute fix, see Your move #1), and the 8/17 Notes-pause's own resumption trigger, 3 to 5 conversations proving the spine, has now quietly been reached without Alina naming what "settled" means.
-- 20 Aug 2026. **The first wave of conversation outreach is complete, and the case dataset had its fastest two-day growth yet.** All four people who responded to Query A — Mark Hilbert, Roxanna Zarnegar, Sage Gee, Alexis Hyde — were sent five-question replies, the first outward exchange since Dawn. The case dataset jumped from 54 to 62 (13 new cases across two runs: MONA, Casabianca, Bank of America, Almaty, then Tselinny Center, Sammlung Boros, Museo Poldi Pezzoli), and the ecosystem-research agenda closed its last stub (valuation & appraisal) — all 11 chapters now have a first draft. A new finding: Sammlung Boros brands itself a "Foundation" while legally holding a weaker corporate form, a naming-vs-structure mismatch worth checking across the sample (see Today I Learned). Signals was also rebuilt into a fuller daily morning read, and both daily emails now render in the full editorial brand. Set against all that: the Table 1 C10 figure is open a third straight QA audit, and the Ruth Fine email — the one free test of whether anyone will pay — is still unsent, five days after it was drafted, with Query A's response window closing in three days.
-- 19 Aug 2026. **The report's scope officially widened, and its case dataset grew for the first time in three days.** Four new corporate/international cases (UBS Art Collection, Fondazione Prada, Muzej Lah — the sample's first Central European museum, Reader's Digest/Wallace Collection) brought the count to 54, plus a fifth, Casabianca (De Santis family, Lake Como), filed via Signals — now scaling toward ~75 near-term and ~100 eventually per this week's cap-lift decision. The first insurance-ecosystem research landed: fine-art insurance market-size figures turn out to disagree by roughly 100x across vendors (an honest data-quality finding, not a citable number), while the underwriting structure and a live $410M valuation dispute are well documented (see Today I Learned). QA caught a new critical — the report's own Table 1 cites an unconfirmed wealth-manager figure as settled — and a hygiene sweep fixed four broken links and two cases' drifted frontmatter.
-- 18 Aug 2026. **The report's ecosystem chapters started filling in, and QA caught its own headline stat losing its caveat in transit.** Art finance (LTV terms, and the discovery that Sotheby's and Christie's are now lenders who can also force-sell their own collateral — see Today I Learned) and institutional economics ("why museums say no": 90–95% gift-rejection, a live Philadelphia Museum deficit, AAM's 2025 sector survey) both got sourced for the first time. Separately, this week's QA pass found the 13/13-vs-10/13 governance-survival figure had lost its "not a population rate, n=26" caveat here and in the learnings log — fixed in both today — and flagged live Substack copy that breaks `voice.md`'s own sentence-shape rules (still open, above). Site-health's first-ever run also confirmed a live CRITICAL: Google's index of nariway.com still shows the old identity. Signals filed a new prospect, Joop van Caldenborgh (Museum Voorlinden), a rare on-record example of a living founder narrating a legacy he already executed.
-- 17 Aug 2026. **A quiet-on-the-surface day that sharpened the report's core claim.** No new cases coded (set holds at 50/50, by design); instead research tabulated "governance beats endowment for survival" from the coded fields for the first time — 13 of 13 non-founder-sole institutions survived their founder vs. 10 of 13 founder-sole (n=26 testable, hand-selected for variation, not a population rate) — rather than asserting it case-by-case. A vault hygiene sweep separately fixed 8 issues (broken links, a stale case count, drifted frontmatter) with nothing critical; the one open judgment call, whether Alina's bio says "100+" or "hundreds" of museums, is above. Signals filed a $450M single-owner Sotheby's sale (Blaquier collection, Nov NYC week) as the season's first confirmed marquee auction anchor.
-- 16 Aug 2026 (eve). **Qwoted Query A is POSTED LIVE** — the first outward action. The "new ways to share private art collections with the public" query went out Sunday evening (ahead of the Monday plan), framed for discovery (unconventional models, "approaches I wouldn't know to look for"). This flips the mode: the research engine is now producing questions taken outside the building. Next: reply-and-log as responses land ([[conversations-series]]), and Monday send the Vogel outreach (Ruth Fine first). The two dossiers (de la Cruz, Vogel) and the Fifty-States afterlife investigation are done and committed.
-- 16 Aug 2026. **nariway.com is LIVE** with the new identity, clearing the last blocker before the Qwoted Query A post. Case dataset now **47 of 50**, after a reconciliation pass fixed a real gap (20 already-coded cases had never been folded into the master synthesis) plus 3 fresh cases (Credit Suisse/UBS, Pearlman Foundation, Rubin Museum). QA's one critical finding is resolved (0 critical, 4 should-fix remain). Two new steward agents added (CFO, CMO) plus a site-health/SEO agent, both stewards flag the same thing: everything this week was enrichment except the site going live, and tomorrow's post is the actual test.
-- 15 Aug 2026. **Qwoted launch dated: Query A posts Monday morning, Aug 17**, with a weekend prep checklist (nariway.com live, locked query, first Note, interview kit, warm targets). Fisher/SFMOMA figure resolved (720+ works/100 artists via SFMOMA) and homepage copy locked, clearing the last blocker on the site. Case dataset now **44 of 50** (Enron, Deutsche Bank, Benini, Yuz Museum, Fondation Beyeler, Vogel Collection, De la Cruz Collection, JPMorgan Chase added), with a sharper three-way split on how corporate collections fail or survive. Board-membership decision logged (qualified yes, right board only) with a 10-candidate shortlist filed. QA audit found one critical (a case file's frontmatter overstates its verification level) and four should-fix items.
-- 14 Aug 2026. **Email pipeline verified working** (a Cloudflare block and a key-whitespace bug fixed) — this is the first check-in to ride it. Dataset coded to **36 of 50** (Kreeger, Michener, Lehman corporate added), primary-verification backlog now 7 cases. **Vault hygiene sweep** ran clean, no critical issues, a handful of stale statuses and one encoding bug fixed. The di Rosa-or-Terra case-study decision is resolved, both are coded. No follow-up is due, no decision is pending, Opal and Sotheby's course both closed out.
-- 13 Aug 2026. **A cloud research agent is live**, it deepens the case dataset daily on Anthropic's servers, laptop open or closed. 30 of 50 cases coded, preliminary patterns written (governance beats endowment for survival). A **living strategy deck** built (visual + [[pitch-deck]]). **Legal and Tax** watch functions added; entity facts recorded (single-member NJ LLC). Second daily email, the **check-in from all functions**, now runs alongside Signals. Sotheby's and UC Berkeley courses declined. Souls Grown Deep visit dropped. Independent fair confirmed Sept 24.
-- 12 Aug 2026. Flagship report launched as the primary focus; Substack Notes revoiced and bio chosen; directors' reaction loop added; email intake live; warm network mapped; market-intelligence log started; daily Signals email live; vault backing up to private GitHub.
+---
+
+## Current builds
+- New website rebuild in progress (`nariway-rebuild`), around the estate-attorney and fiduciary positioning.
+- Operating reset underway. Old research-model routines retired; the live registry is `company/agent-inventory.md`.
