@@ -574,6 +574,71 @@
       "livingCollector": true
     },
     {
+      "slug": "betye-saar-black-dolls",
+      "publicDepth": "expanded",
+      "name": "Betye Saar's Black Dolls",
+      "founder": "Betye Saar",
+      "location": "Los Angeles, CA (assembled) / New York, NY (The New York Historical)",
+      "profile": {
+        "collectingBegan": "late 1960s",
+        "structure": "Promised gift of a working artist's personal collection to a public history museum",
+        "publicAccess": "On public view via the exhibition \"Betye Saar's Black Dolls,\" May 8-October 4, 2026, at The New York Historical",
+        "currentState": "Promised gift to The New York Historical, exhibited May–October 2026.",
+        "size": "100+ dolls"
+      },
+      "composition": {
+        "focus": "Black dolls, from handmade rag dolls to mass-produced toys and tourist souvenirs, spanning roughly a century",
+        "movements": [
+          "n/a (a source-material/working collection, not a movement-based art collection)"
+        ],
+        "period": "Early 20th century to present",
+        "media": [
+          "dolls",
+          "textile and mixed-media objects",
+          "a small number of watercolors and assemblages by Saar herself"
+        ],
+        "selectedArtists": [
+          "Betye Saar (creator of \"Hoo Doo Woman,\" 1974, the only doll in the collection she made herself)"
+        ],
+        "recipients": [
+          "The New York Historical"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Betye Saar begins collecting Black dolls in Los Angeles",
+            "year": "1960s",
+            "familyId": "keep-family",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Promised gift of 100+ dolls to The New York Historical announced, exhibited for Saar's 100th birthday",
+            "year": 2026,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Saar dies July 26, 2026, four days before her 100th birthday, during the exhibition's run",
+            "year": 2026,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Betye Saar began collecting Black dolls in the late 1960s in Los Angeles, partly out of a childhood absence, growing up in the 1920s-30s without owning one. The 100-plus-doll collection, ranging from handmade rag dolls to mass-produced toys, became both source material for her assemblage art and a promised gift to The New York Historical, exhibited for her 100th birthday; she died days before the milestone.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The New York Historical",
+        "Hyperallergic",
+        "ARTnews",
+        "The Washington Post"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "sammlung-boros",
       "publicDepth": "expanded",
       "name": "Boros Collection (Sammlung Boros)",
@@ -2864,6 +2929,51 @@
       "livingCollector": true
     },
     {
+      "slug": "griffin-leonardo-loan-met",
+      "publicDepth": "record",
+      "name": "Madonna of the Yarnwinder (Leonardo da Vinci and studio)",
+      "founder": "Kenneth C. Griffin",
+      "location": "New York, NY (on loan to the Metropolitan Museum of Art)",
+      "profile": {
+        "collectingBegan": "unknown (Griffin's acquisition date not publicly disclosed)",
+        "structure": "Private ownership, on long-term loan to a public museum; no foundation or gift structure",
+        "publicAccess": "On public view in the Met's European Paintings galleries (Gallery 609), unannounced",
+        "currentState": "On long-term loan and on view at the Metropolitan Museum of Art since spring 2026, with no public announcement.",
+        "size": "single work"
+      },
+      "composition": {
+        "focus": "Renaissance painting attributed to Leonardo da Vinci and studio",
+        "period": "circa 1501-1505",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Leonardo da Vinci (and studio)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Madonna of the Yarnwinder quietly appears on loan in the Met's European Paintings galleries, with no press release",
+            "year": 2026,
+            "familyId": "keep-family",
+            "codedPathway": "long-term-loan"
+          }
+        ]
+      },
+      "origin": "Hedge fund founder Kenneth Griffin placed Madonna of the Yarnwinder, attributed to Leonardo da Vinci and his studio, on long-term loan to the Metropolitan Museum of Art in spring 2026, with the work simply appearing in the galleries and no public announcement from either the collector or the museum.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ARTnews",
+        "Cultured",
+        "Puck"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "magazzino",
       "publicDepth": "expanded",
       "name": "Magazzino Italian Art",
@@ -4383,6 +4493,76 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "blaquier-collection",
+      "publicDepth": "expanded",
+      "name": "The Blaquier Collection",
+      "founder": "Nelly Arrieta de Blaquier; Carlos Pedro Blaquier",
+      "location": "Buenos Aires, Argentina (sale in New York)",
+      "profile": {
+        "collectingBegan": "mid-20th century",
+        "structure": "Private collection, held by the family estate since both founders' deaths",
+        "publicAccess": "Never a public institution; on view only via pre-sale exhibition ahead of the November 2026 Sotheby's auction",
+        "currentState": "Consigned to Sotheby's New York for a November 2026 sale, estimated at $450M total.",
+        "size": "450+ million USD estimated total across the consignment"
+      },
+      "composition": {
+        "focus": "French Impressionist and Post-Impressionist masters",
+        "movements": [
+          "Impressionism",
+          "Post-Impressionism"
+        ],
+        "period": "Late 19th to early 20th century",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Vincent van Gogh",
+          "Paul Cézanne",
+          "Edgar Degas",
+          "Camille Pissarro",
+          "Pierre-Auguste Renoir"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Nelly Arrieta de Blaquier dies",
+            "year": 2020,
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Carlos Pedro Blaquier dies",
+            "year": 2023,
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Argentine customs officials fine the family over the export of about a dozen paintings to Luxembourg",
+            "year": 2023,
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Penalty waived, clearing the way for a November 2026 Sotheby's New York sale estimated at $450M",
+            "year": 2026,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Nelly Arrieta de Blaquier — described by The New York Times in 1995 as owner of Argentina's largest private art collection — and her husband Carlos Pedro Blaquier built a trove of French Impressionist and Post-Impressionist masterpieces in Buenos Aires. After both founders' deaths and a resolved export dispute with Argentine customs, their heirs consigned the collection to Sotheby's for a November 2026 New York sale estimated at $450 million.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artnet News",
+        "ARTnews",
+        "Sotheby's"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "broad",
       "publicDepth": "expanded",
       "name": "The Broad Art Foundation",
@@ -5499,6 +5679,73 @@
         "AP"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "sandy-lerner-cat-collection",
+      "publicDepth": "expanded",
+      "name": "The Sandy Lerner Collection",
+      "founder": "Sandy Lerner",
+      "location": "Ayrshire Farm, Upperville, VA (collection); sold in New York, NY and Massachusetts",
+      "profile": {
+        "collectingBegan": "circa 1990s",
+        "structure": "Private collection, sold at auction by the living founder",
+        "publicAccess": "Never a public institution; documented in Lerner's own 2017 book \"Caticons: 4,000 Years of Art Imitating Cats,\" now dispersed at auction",
+        "currentState": "Sold across four Bonhams auctions, September–October 2026.",
+        "size": "nearly 1,000 lots across four sales"
+      },
+      "composition": {
+        "focus": "Cat-themed fine and decorative art spanning four millennia",
+        "movements": [
+          "n/a (a subject-matter collection, not a movement-based one)"
+        ],
+        "period": "Ancient to 20th century",
+        "media": [
+          "painting",
+          "sculpture",
+          "decorative arts",
+          "jewelry",
+          "books"
+        ],
+        "selectedArtists": [
+          "Léonard Tsuguharu Foujita",
+          "Alberto Giacometti (Diego Giacometti)",
+          "Henri Matisse"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Sandy Lerner begins collecting cat-themed art and decorative objects",
+            "year": "1990s",
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Lerner publishes \"Caticons: 4,000 Years of Art Imitating Cats,\" documenting the collection",
+            "year": 2017,
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Collection dispersed across four Bonhams sales, September-October, New York and Massachusetts",
+            "year": 2026,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "Cisco Systems co-founder and Urban Decay founder Sandy Lerner spent more than three decades assembling one of the most significant private collections of cat-related decorative arts, books, and collectibles ever made, chronicled in her 2017 book Caticons. In 2026 she began dispersing nearly 1,000 lots across four Bonhams auctions.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artnews",
+        "Artsy",
+        "Ocula",
+        "Bonhams"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
     },
     {
       "slug": "wolfsonian-fiu",
