@@ -31,6 +31,33 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-08-27 — Cloud run
+
+**Orientation:** heaviest today on tempo — how long a gift or a painting actually stays put before it moves again, with the Met turning a decade-old donor gift into its own acquisitions war chest just as a Mondrian that sat in one family's hands for 70 years resurfaces at auction, bracketed by a Forbes and an Observer piece both making the technical case for control (a private museum, a freeport) as the real reason collectors choose the pathways they do.
+
+**Lead**
+
+- **The Met is selling a donor's gift to fund the Met's own next gift.** Sotheby's will offer more than 300 Chinese works — jades, Buddhist sculpture, porcelain, led by a Qing-dynasty jade brushpot — across two Asia Week sales (Sept 10 and Sept 14), all originally given to the Met in 2015 by philanthropists Florence and Herbert Irving. The proceeds go into an Irving fund earmarked specifically for future Asian-art acquisitions. It's a different shape of deaccessioning than the funding-crisis stories this brief usually tracks (Toledo, the Smithsonian's budget fights, Tuesday's Phillips Collection "core collection" fight): not an institution under pressure quietly selling off a donor's name, but a decade-old gift being deliberately recycled into the museum's own forward-looking acquisitions engine, structured with the family's blessing rather than against it. → filed [[candidate-universe]]. [Artsy](https://www.artsy.net/article/artsy-editorial-metropolitan-museum-will-sell-300-works-chinese-art-sothebys)
+
+**What's happening**
+
+- **A Mondrian that sat in one collector couple's hands for 70 years is finally coming to market.** Architect-collector Armand Bartos bought *Composition III* in 1950 and held it with his wife Celeste until 1973; it has never once appeared at public auction. It now leads Christie's 20th/21st Century Evening Sale during Frieze Week (London, Oct 14), estimated £20–30M ($27–41M) — and the Bartoses' own 1983 sale of a related Mondrian was itself a landmark, the first abstract painting ever to sell above $2M. Read against the Herbert Lust estate two houses fought over last week, it's the opposite tempo: a defining work released deliberately by the family that held it, not pried loose by an estate after a death. → filed [[candidate-universe]]. [ARTnews](https://www.artnews.com/art-news/market/mondrian-painting-auction-christies-frieze-week-1234795778/)
+- **Two more museum directorships turned over this week.** Telfair Museums (Savannah) named Caitlín Doherty, a 25-year curatorial and executive veteran across three continents; the Columbia Museum of Art (SC) named Laura J. Mueller, effective Aug 3. Neither is a collector-founded institution, but it's the fourth week running this brief has logged a director change somewhere in the field — the leadership bench keeps resetting in real time. [Telfair Museums](https://www.globenewswire.com/news-release/2026/08/18/3347160/0/en/telfair-museums-appoints-new-executive-director.html)
+
+**Worth reading**
+
+- **Matthew Erskine, "Keeping Control Of Your Collection? Consider A Private Museum" (Forbes, Aug 4).** A trusts-and-estates attorney's plain-language case for the Private Operating Foundation as a control mechanism: what a collector is actually buying with the compliance burden of running a POF (see [[claims-register|C44]]) is the ability to keep a collection intact and shown on the founder's own terms, not a tax trick. The clearest short explainer yet of the motive behind half the museums this brief tracks. [Forbes](https://www.forbes.com/sites/matthewerskine/2026/08/04/keeping-control-of-your-collection-consider-a-private-museum/)
+- **Daniel Grant, "A Collector's Guide to Freeports: Capital Efficiency, Tax Timing and Strategic Anonymity" (Observer).** A practitioner's-eye walkthrough of why a serious collector actually uses a freeport (deferred import duty and sales tax, not just secrecy) — useful ballast against the "vault where art goes to disappear" framing, and a direct companion to the Geneva Freeport scale already in [[claims-register|C15]]. [Observer via Muck Rack](https://muckrack.com/daniel-grant1/articles)
+
+**To see (escalating)**
+
+- **Christie's Alan Medaugh Hiroshige preview is now 15 days out** (public preview Sept 11–14, sale Sept 15, 20 Rockefeller Plaza) — already on Alina's calendar for the Sept 12 preview. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+- **Sotheby's Open House (Sept 20–21, Sotheby's NYC HQ) is now 24 days out.** Its confirmed program includes a session on legal considerations across an art collection's lifecycle, staged by the house's own trusts-and-estates practice. [Sotheby's](https://www.sothebys.com/en/calendar)
+
+**For the record**
+
+- **Bonhams' Sandy Lerner cat-collection sale has a firm date set for the online leg:** the first tranche (Sept 22–Oct 1) opens in under a month, with the live sale following Sept 30 at Bonhams' new New York flagship — the season's third major single-owner dispersal, now on the calendar. → [[candidate-universe]]. [ARTnews](https://www.artnews.com/art-news/news/sandy-lerner-cat-themed-art-collection-auctioned-bonhams-1234795289/)
+
 ### 2026-08-26 — Cloud run
 
 **Orientation:** heaviest today on the honest spread between keeping, giving, and selling — a Denver collector publicly rejecting the vanity-museum model just as one of DC's oldest house-museums finally settles an 18-month fight over what its own founder's "core collection" even means, with a first-ever tribal repatriation and a total, cheerfully specific collection dispersal as further points on the same spectrum.
