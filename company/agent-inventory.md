@@ -18,7 +18,7 @@ All run model `claude-sonnet-5`, environment `env_01218VC3YNVJmMDtm4pvhGJk`, wit
 
 ### 1. dataset-research ("Cloud research")
 - **ID:** `trig_01E3pZ2fYZCu9hhjuWnKdRDt`
-- **State:** DISABLED 2026-08-27 (was enabled)
+- **State:** ENABLED (disabled then RE-ENABLED 2026-08-27 at Alina's direction — she wants Collections research to continue, with the accuracy checks)
 - **Trigger / cadence:** cron `0 9,21 * * *` — twice daily (9a/9p UTC)
 - **Purpose:** grew the case dataset to primary-source depth, advanced the ecosystem research, kept the living manuscript and the evidence base current ("the moat")
 - **Reads:** `cases/`, `research/`, `marketing/what-becomes-of-great-art-collections.md`
@@ -26,13 +26,13 @@ All run model `claude-sonnet-5`, environment `env_01218VC3YNVJmMDtm4pvhGJk`, wit
 - **Side effects:** git push; runs `scripts/export_public.py` → the export change **trips `deploy-site` → live-site deploy**; WebSearch/WebFetch
 - **Dependents:** the live-site Collections data was refreshed by this routine
 - **Last successful run:** 2026-08-27 ~21:08 UTC
-- **Original justification:** a proprietary research moat was the product (research/advisory model)
-- **Retired because:** Collections is now a secondary asset, not the moat. Cases added intentionally, by hand, when useful. No recurring production.
-- **Replacement:** none
+- **Business justification (current):** Alina values the Collections library and wants it built out with the established quality checks. KEPT ON. Its old-model extras (the flagship "report/manuscript" and the H1–H8 evidence-base framing) can be trimmed to pure Collections + accuracy later if she wants; behavior unchanged for now.
+- **Replacement:** none (kept)
 
 ### 2. signals ("Nariway Signals daily")
 - **ID:** `trig_01LocFBpJweadpmXK5J5Wy3Y`
-- **State:** DISABLED 2026-08-27 (was enabled)
+- **State:** ENABLED (disabled then RE-ENABLED 2026-08-27 at Alina's direction — she likes the daily brief)
+- **Repoint 2026-08-27:** added a fifth "Law & Estates" beat (estate-attorney + art legal/tax news) via `research/nariway-signals.md`; the art-collections coverage she likes is unchanged.
 - **Trigger / cadence:** cron `0 11 * * *` — daily ~7a ET
 - **Purpose:** daily editorial art-world morning brief, emailed
 - **Reads:** `research/nariway-signals.md`, `crm/`, `marketing/`
@@ -40,9 +40,8 @@ All run model `claude-sonnet-5`, environment `env_01218VC3YNVJmMDtm4pvhGJk`, wit
 - **Side effects:** **emails Alina** (via `email-sender` Action → Resend); WebSearch
 - **Dependents:** email pipeline
 - **Last successful run:** 2026-08-27 11:21 UTC
-- **Original justification:** stay current on the collection-futures world (research model)
-- **Retired because:** a daily art-world brief is useful information, not a necessary operation, and does not bring a client or advance a matter
-- **Replacement:** none yet. A tightly scoped weekly "Professional Watch" (T&E, fiduciary, art-estate, competitors, NAEPC) may be reintroduced later, only if active client-getting work shows it helps.
+- **Business justification (current):** Alina reads it daily and values knowing what is happening with art collections worldwide. KEPT ON, now also carrying estate-attorney/art legal news for the new audience.
+- **Replacement:** none (kept)
 
 ### 3. weekly-advisor + trigger-scan
 - **ID:** `trig_01JgBkpKKHirinAdDrKmkxZk`
@@ -105,7 +104,10 @@ These six run and commit to the vault daily/near-daily but their trigger IDs are
 | 11 | **site-health** | ~Mon/Thu | `company/site-health.md` | no | 2026-08-27 14:12 |
 | 12 | **vault-hygiene** | M/W/F ~4a ET | `INDEX.md`, `company/hygiene-report.md`, fixes | no | 2026-08-26 08:16 |
 
-**Verdicts (all):** retire the recurring schedule. QA → event-gated checklists (pre-publish, pre-client-issue, pre-Collections-publish). CFO → a monthly checklist Alina runs. Network research → event-driven prep before a specific meeting or event. Site-health → paused until the new site launches. Vault-hygiene → manual/occasional. No replacement routines created until proven necessary.
+**Verdicts (updated 2026-08-27 per Alina):**
+- **quality-assurance — KEEP.** Alina wants the established accuracy checks on the Collections research to continue. Left running.
+- **network-research — KEEP, repointed.** Now prioritizes Estate Planning Council events in Bergen County NJ, Westchester, NYC, and Palm Beach, plus other worthwhile conferences, via `marketing/events/events-radar.md` (updated 2026-08-27). Still running.
+- **cfo-steward, cmo-steward, site-health, vault-hygiene — PENDING Alina's call.** Not yet addressed by her; still running. Candidates to retire or downshift, but no action until she decides. IDs still needed to change any of them.
 
 ---
 
@@ -140,4 +142,5 @@ These six run and commit to the vault daily/near-daily but their trigger IDs are
 
 ## Reset log
 
-- **2026-08-27** — Zero-based operating reset begun. Killed the runaway PR #1 loop. Disabled cloud routines 1–5 (dataset-research, signals, weekly-advisor, HOME-refresh, Artobiography docket). Routines 7–12 pending ID retrieval, then disable. Target end-state: no autonomous business activity, only backup + the two dormant/on-change Actions. Automation re-introduced only when real work proves a specific process worth it.
+- **2026-08-27 (morning)** — Zero-based operating reset begun. Killed the runaway PR #1 loop. Disabled cloud routines 1–5 (dataset-research, signals, weekly-advisor, HOME-refresh, Artobiography docket).
+- **2026-08-27 (correction, Alina's direction)** — Alina had not read the aggressive "default OFF" directive before it was posted and disagrees with parts of it. RE-ENABLED **signals** (now also carrying a Law & Estates beat) and **dataset-research** (Collections research continues with QA). Confirmed **quality-assurance** stays on (accuracy checks) and **network-research** stays on, repointed to Estate Planning Council events in Bergen County NJ / Westchester / NYC / Palm Beach plus other worthwhile conferences. Still disabled: PR loop, weekly-advisor, HOME-refresh, Artobiography docket. Still running pending Alina's call: cfo-steward, cmo-steward, site-health, vault-hygiene.

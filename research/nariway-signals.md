@@ -2,13 +2,16 @@
 
 *The standing monitor that keeps Nariway's world current. **Silent continuous collection → one weekly human digest of only what matters → deposits into the right register.** This is the previously-deferred Signals function, now activated because there's a real need (constant growth) and the data exists. Coordinated by Toi; draws on Models Scan (cases), Collection Intelligence (prospects), CMO (partners, events).*
 
-## The four beats
+## The five beats
 | Beat | Watches for | Deposits into |
 |---|---|---|
 | **Cases** | new/announced collector-founded institutions, foundations, museum openings, major gifts/dispersals/loans, changed or abandoned plans | [[candidate-universe]] |
 | **Prospects** | collectors showing *public* legacy signals (founded a foundation, spoke about legacy, major gift/loan, opened a space, family active) | [[prospects]] (Collection Intelligence — public sources only) |
 | **Partners** | referral sources & specialists worth knowing (estate/T&E attorneys, family offices, insurers, museum people, planners, conservators) | [[partners]] |
 | **Events & travel** | conferences, museum/collection/foundation openings, fairs, gatherings worth attending | [[events-radar]] |
+| **Law & Estates** *(added 2026-08-27, Alina's directive)* | legal and tax developments where estate attorneys meet art: IRS art/estate valuation and the Art Advisory Panel, fiduciary duty and donor-intent disputes over collections, deaccession and charitable-gift law, private-operating-foundation and trust rules, notable court decisions and legislation affecting inherited or gifted art, and practical trusts-and-estates guidance on handling art in an estate | [[market-intelligence]]; recurring numbers to [[claims-register]] |
+
+**Law & Estates beat — the point (2026-08-27).** Alina wants the daily brief to also carry the legal news an estate attorney handling art would care about. Make this a recurring section of the brief ("Law & estates" or folded into "For the record"), 1 to 3 items on a normal day, each with a clickable source. Useful outlets to search by name, alongside the Center for Art Law already in the sweep: WealthManagement.com and Trusts & Estates, ACTEC and ABA RPTE materials, Day Pitney / Withers / Loeb art-law and private-client alerts, Grossman LLP's Art Law Blog, the Art Law Report (Sullivan), IRS Art Advisory Panel annual reports and Federal Register notices, and estate/art coverage in the art press already swept. Same sourcing rule (real URLs, never fabricate). This beat serves Nariway's actual audience, so keep it concrete and practitioner-relevant rather than academic.
 
 ## Sourcing rule (standing)
 **Every retrieved item carries a clickable source link** — a markdown `[title](url)`. Research agents are instructed to always return real URLs; registers store them (a `source:` property + a `[Source]` link in each note, or a linked cell in a table). No bare source *names* — Alina should never have to Google to reach the original.
