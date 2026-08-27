@@ -1,5 +1,7 @@
 # INDEX — the map of the vault
 
+> **⚠ MIGRATION IN PROGRESS (2026-08-27).** Nariway pivoted to a professional-services firm for estate attorneys and fiduciaries. The current source of truth is `Nariway_Business_Strategy_and_Operating_Plan_Aug_2026.md`, `Nariway_Website_Strategy_and_Build_Brief_Aug_2026.md`, and `company/agent-inventory.md`. This INDEX still reflects the OLD five-box research/advisory model and is being rewritten. Where it describes the org, the "learning engine," the knowledge base, the flagship report, or Artobiography as current, treat that as pending revision, not fact. Anything under **`archive/` is historical and non-authoritative** (see `archive/README.md`).
+
 *The table of contents for everything. [[HOME]] is the daily cockpit (what to do today); this is the reference map (where everything lives). Grouped by owner, per the five-box [[executive-model|operating model]]. When you cannot find something, start here.*
 
 ## Start here every day
