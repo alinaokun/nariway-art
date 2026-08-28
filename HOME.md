@@ -19,12 +19,15 @@ Nariway is a specialist service used by estate attorneys and fiduciaries to cont
 ## Upcoming — events worth attending
 *Estate Planning Council meetings in Bergen County, Westchester, NYC, and Palm Beach first, then auction previews or closing exhibitions, then relevant conferences. Maintained from `marketing/events/events-radar.md` and `marketing/to-see.md`.*
 
-- The morning routine fills this in.
+- Sept 11-14 - Christie's Alan Medaugh Hiroshige collection preview, sale Sept 15 (marketing/to-see.md)
+- Sept 20-21 - Sotheby's Open House, NYC, includes a legal-succession session (marketing/events/events-radar.md)
+- Oct 4 - Betye Saar's Black Dolls closes at New York Historical (marketing/to-see.md)
 
 ## Open follow-ups
 *People and threads with a next step due, from `crm/partners`.*
 
-- The morning routine fills this in.
+- Judith Prowda - reconnect through the Sotheby's Institute link, verify her current roles before reaching out
+- Rebecca L. Fine - reach out via the Sotheby's course connection, verify her role and Athena history first
 
 ---
 
