@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27",
+  "generated": "2026-08-28",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -470,6 +470,92 @@
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
+    },
+    {
+      "slug": "heckler-american-folk-art-museum",
+      "publicDepth": "expanded",
+      "name": "Audrey B. Heckler Collection",
+      "founder": "Audrey B. Heckler",
+      "location": "New York, NY",
+      "profile": {
+        "collectingBegan": "1993",
+        "structure": "Promised gift (2020) converting to a phased estate gift of a trustee's personal collection to her own museum",
+        "publicAccess": "Works enter the American Folk Art Museum's permanent collection; a gallery and the museum's Visionary Award are named in her honor; exhibition of new gifts planned spring 2026",
+        "currentState": "Gift ongoing from the Heckler estate; dozens more works transferred to the American Folk Art Museum in 2025, with exhibition planned for spring 2026.",
+        "size": "700+ works at its height; roughly 150 transferred to the museum to date"
+      },
+      "composition": {
+        "focus": "Art Brut and self-taught/outsider art — Europe and the United States",
+        "movements": [
+          "Art Brut",
+          "outsider art",
+          "self-taught art"
+        ],
+        "period": "Early-to-mid 20th century through contemporary self-taught artists",
+        "media": [
+          "painting",
+          "drawing",
+          "mixed-media assemblage"
+        ],
+        "selectedArtists": [
+          "James Castle",
+          "Aloïse Corbaz",
+          "William Edmondson",
+          "Madge Gill",
+          "Morris Hirshfield",
+          "Martín Ramírez",
+          "Adolf Wölfli",
+          "Thornton Dial",
+          "Sister Gertrude Morgan"
+        ],
+        "recipients": [
+          "American Folk Art Museum"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Heckler begins collecting after seeing a poster for the Outsider Art Fair",
+            "year": 1993,
+            "familyId": "keep-family",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Becomes a Trustee of the American Folk Art Museum",
+            "year": 2003,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Promises nearly all of her ~500-work holdings to the museum",
+            "year": 2020,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Heckler dies; museum renames a gallery and its Visionary Award in her honor",
+            "year": 2024,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Estate transfers dozens more works, bringing the cumulative total to date to roughly 150",
+            "year": 2025,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "A longtime American Folk Art Museum trustee, Audrey B. Heckler began collecting self-taught and Art Brut works in 1993 after spotting a poster for the Outsider Art Fair, building a holding of 700-plus works by figures like Martín Ramírez and Adolf Wölfli. She promised nearly all of it to her own museum in 2020, and her estate has continued transferring works since her 2024 death.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artnet News",
+        "American Folk Art Museum",
+        "Antiques and The Arts Weekly"
+      ],
+      "lastReviewed": "2026-08"
     },
     {
       "slug": "bank-of-america-collection",
@@ -2519,6 +2605,75 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "joe-lewis-collection",
+      "publicDepth": "expanded",
+      "name": "Joe Lewis Collection",
+      "founder": "Joe Lewis",
+      "location": "Bahamas (residence) / London, UK (sale venue)",
+      "profile": {
+        "collectingBegan": "1980s (decade, exact year not located)",
+        "structure": "Sole personal/family-office holding, no foundation or museum wrapper; a portion sold at public auction",
+        "publicAccess": "Not on standing public view; periodic loans and this single-owner auction preview were the collection's main public exposure",
+        "currentState": "Partial sale completed June 2026; the collector states the collection continues.",
+        "size": "An estimated $1 billion collection at its height; 25 works consigned to the June 2026 sale"
+      },
+      "composition": {
+        "focus": "Modern and 20th-century European masters",
+        "movements": [
+          "Expressionism",
+          "Vienna Secession",
+          "School of Paris",
+          "School of London"
+        ],
+        "period": "Late 19th century through mid-20th century",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Amedeo Modigliani",
+          "Gustav Klimt",
+          "Lucian Freud",
+          "Egon Schiele",
+          "Pablo Picasso",
+          "Edgar Degas"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Lewis begins assembling the collection",
+            "year": "1980s",
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Sotheby's announces a planned sale, estimated at $200M",
+            "year": "2026-04",
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Single-owner evening sale realizes £296.3M ($392.6M), a European auction record for a private collection, with 24 of 25 lots sold",
+            "year": "2026-06",
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "British billionaire Joe Lewis, founder of the Bahamas-based Tavistock Group, built a collection of modern European masters worth an estimated $1 billion. In June 2026, at age 89, he consigned 25 works — Modigliani, Klimt, Freud, Schiele, Degas — to Sotheby's London, realizing £296.3 million ($392.6 million), a European record for a single-owner sale, while stating the collection's story is not over.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Bloomberg",
+        "Artnet News",
+        "The Art Newspaper",
+        "ARTnews"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "ashbery-collection-flow-chart",
       "publicDepth": "expanded",
       "name": "John Ashbery Collection & Archive",
@@ -2696,6 +2851,77 @@
         "Wikipedia",
         "ARTnews",
         "Artnet"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "kirk-edward-long-famsf",
+      "publicDepth": "expanded",
+      "name": "Kirk Edward Long Collection",
+      "founder": "Kirk Edward Long",
+      "location": "San Francisco, CA",
+      "profile": {
+        "collectingBegan": "unknown (decades of collecting prior to a 2016 catalogue of 700 works)",
+        "structure": "Outright gift of a living collector's personal holding to an existing public museum system",
+        "publicAccess": "Enters the permanent collection of the Fine Arts Museums of San Francisco (de Young / Legion of Honor), stewarded by the Achenbach Foundation for Graphic Arts",
+        "currentState": "Gift announced November 2025; works entering the Achenbach Foundation for Graphic Arts and the Fine Arts Museums of San Francisco's permanent collection.",
+        "size": "1,600 works given (2025 gift); a related 700-work sub-collection of Mannerist prints was separately catalogued in 2016"
+      },
+      "composition": {
+        "focus": "Early modern European prints, especially 16th-century Mannerist prints, plus paintings, antiquities, and decorative arts",
+        "movements": [
+          "Mannerism",
+          "Northern Renaissance printmaking"
+        ],
+        "period": "15th through 19th century, concentrated in the 16th century",
+        "media": [
+          "prints",
+          "drawings",
+          "paintings",
+          "antiquities",
+          "decorative arts"
+        ],
+        "selectedArtists": [
+          "Gustave Moreau (painting)",
+          "Charles-Henri-Joseph Cordier (sculpture)",
+          "multiple 16th-century Italian, French, German, and Netherlandish printmakers (individual names not itemized in sources located)"
+        ],
+        "recipients": [
+          "Fine Arts Museums of San Francisco (Achenbach Foundation for Graphic Arts)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Long assembles a 700-work collection of Mannerist prints, later co-published as a scholarly catalogue with the Cantor Arts Center",
+            "year": "pre-2016",
+            "familyId": "keep-family",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "FAMSF launches its multiyear \"Gifts of Art\" campaign, tied to the 50th anniversary of the de Young/Legion of Honor merger and the Legion of Honor's centennial",
+            "year": 2022,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "FAMSF announces Long's gift of 1,600 works, one of the largest single-owner gifts in the Achenbach Foundation's history",
+            "year": "2025-11",
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "A San Francisco collector who built one of the world's most extensive private holdings of 16th-century Mannerist prints, Kirk Edward Long gave 1,600 works, prints, paintings, antiquities, and decorative arts, to the Fine Arts Museums of San Francisco in November 2025, one of the largest single-owner gifts in the Achenbach Foundation for Graphic Arts' history.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ARTnews",
+        "SFAAAT",
+        "Cantor Arts Center",
+        "Association of Print Scholars"
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
