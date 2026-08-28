@@ -2927,6 +2927,44 @@
       "livingCollector": true
     },
     {
+      "slug": "kvareli-foundation",
+      "publicDepth": "record",
+      "name": "Kvareli Foundation for Contemporary Art",
+      "founder": "Jemal Inaishvili",
+      "location": "Kvareli, Kakheti, Georgia",
+      "profile": {
+        "founded": 2026,
+        "structure": "Private foundation (exact legal form not confirmed)",
+        "publicAccess": "Open to the public from October 31, 2026",
+        "currentState": "Opening to the public in Kvareli, Georgia, October 31, 2026.",
+        "size": "Purpose-built exhibition building with rooftop and cultural-programming spaces (exact square footage not published)"
+      },
+      "composition": {
+        "focus": "Georgian contemporary art — preservation, exhibition, and scholarship",
+        "period": "Contemporary"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The Kvareli Foundation for Contemporary Art opens in the Kakheti region, inaugural exhibition \"Unveiling Kvareli Collection",
+            "year": "2026-10",
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Georgian businessman and collector Jemal Inaishvili, the country's largest contemporary-art collector, built a purpose-built foundation in his native Kakheti wine region to preserve, exhibit, and study Georgian contemporary art, opening October 31, 2026.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artforum",
+        "Artdaily"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "las-vegas-museum-of-art",
       "publicDepth": "expanded",
       "name": "Las Vegas Museum of Art",
@@ -4546,6 +4584,61 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "medaugh-hiroshige-collection",
+      "publicDepth": "expanded",
+      "name": "The Alan Medaugh Collection",
+      "founder": "Alan Medaugh",
+      "location": "New York, NY (sale)",
+      "profile": {
+        "collectingBegan": "circa 1970s (following a trip to Japan shortly after marrying)",
+        "structure": "Private collection, sold at auction by the living founder",
+        "publicAccess": "Never a public institution; dispersed at auction, preceded by exhibition viewings at Christie's",
+        "currentState": "Dispersed across three Christie's New York auctions beginning September 2026.",
+        "size": "More than 600 prints across three planned Christie's sales; first sale (September 15, 2026) offered 180+ prints"
+      },
+      "composition": {
+        "focus": "The complete range of Utagawa Hiroshige's woodblock prints, prioritizing the earliest, best-preserved impressions",
+        "movements": [
+          "Ukiyo-e"
+        ],
+        "period": "19th century (Edo period Japan)",
+        "media": [
+          "woodblock prints",
+          "illustrated books"
+        ],
+        "selectedArtists": [
+          "Utagawa Hiroshige"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Alan Medaugh begins collecting Hiroshige prints after a trip to Japan",
+            "year": "1970s",
+            "familyId": "keep-family",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Christie's begins a three-sale dispersal of the collection in New York",
+            "year": "2026-09",
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "American businessman Alan Medaugh spent roughly fifty years and more than two dozen trips to Japan assembling one of the finest private collections of Utagawa Hiroshige woodblock prints ever made, favoring the earliest, most vividly colored impressions. In 2026 he began dispersing it, more than 600 prints, across three Christie's New York auctions.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ARTnews",
+        "Robb Report",
+        "Artnet News"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "stieglitz-collection-fisk-crystal-bridges",
       "publicDepth": "expanded",
       "name": "The Alfred Stieglitz Collection",
@@ -5177,6 +5270,71 @@
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
+    },
+    {
+      "slug": "met-irving-chinese-gift",
+      "publicDepth": "expanded",
+      "name": "The Florence and Herbert Irving Collection",
+      "founder": "Florence and Herbert Irving",
+      "location": "New York, NY",
+      "profile": {
+        "structure": "Gift to an existing museum, with a donor-authorized right for the museum to later sell portions to fund acquisitions",
+        "publicAccess": "Entered The Metropolitan Museum of Art's permanent collection in 2015; a portion has been periodically deaccessioned and sold at auction since 2019",
+        "currentState": "1,275-object gift entered the Met in 2015; the museum has sold portions since 2019, most recently 300+ works at Sotheby's in 2026, to fund future Asian-art acquisitions.",
+        "size": "1,275 objects gifted in 2015; the September 2026 sale alone offered 300+ works, including 120+ Imperial Qianlong-period jades and scholar's objects"
+      },
+      "composition": {
+        "focus": "Chinese art — jades, Buddhist sculpture, porcelain, and objects for the scholar's studio",
+        "period": "Chinese dynastic, concentrated in the Qing dynasty (Qianlong period)",
+        "media": [
+          "jade",
+          "sculpture",
+          "porcelain",
+          "scholar's objects"
+        ],
+        "recipients": [
+          "The Metropolitan Museum of Art (Department of Asian Art)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Florence Irving is elected a Met trustee",
+            "year": 1990,
+            "familyId": "keep-family",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The Irvings give 1,275 Asian-art objects to the Met, with an agreement that some could later be sold to fund future acquisitions",
+            "year": 2015,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The Met begins periodic sales from the gift, reported at $8.27M and rising",
+            "year": 2019,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          },
+          {
+            "event": "Sotheby's sells 300+ Chinese works from the gift across two Asia Week sales, proceeds directed to an Irving acquisitions fund",
+            "year": 2026,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          }
+        ]
+      },
+      "origin": "Philanthropists Florence and Herbert Irving gave the Metropolitan Museum of Art 1,275 Asian-art objects in 2015, the centennial year of its Asian art department, with an understanding that some works could later be sold to fund future acquisitions. The Met has done exactly that in tranches since 2019, most recently a 300-plus-work Sotheby's sale in 2026.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Metropolitan Museum of Art",
+        "Artsy",
+        "Artnet News",
+        "CultureGrrl"
+      ],
+      "lastReviewed": "2026-08"
     },
     {
       "slug": "hedreen-seattle-university",
