@@ -21,7 +21,7 @@ public_founded: 2026
 public_structure: Standalone museum
 public_access: Opening to the public September 2026
 public_size: 40,000+ works
-public_focus: Narrative art — illustration, comic art, film, photography, and fine art
+public_focus: Narrative art, illustration, comic art, film, photography, and fine art
 public_period: 20th century–present (as documented, 2026)
 public_media: illustration; comic art; painting; photography; film
 public_selected_artists: Norman Rockwell; N.C. Wyeth; Jack Kirby; Frida Kahlo; Jacob Lawrence

@@ -30,7 +30,7 @@ public_period: c.1450–1700
 public_media: painting
 public_selected_artists: Giuseppe Arcimboldo; Anthony van Dyck; Sofonisba Anguissola; Peter Paul Rubens
 public_pathway_timeline: 2014|build-institution|retain-family|Collection begins with a set of Arcimboldo's Four Seasons ;; 2026|build-institution|retain-family|Klesches endow a two-year AI/art-history postdoctoral fellowship at Birkbeck, University of London
-public_origin: Gary and Anita Klesch began collecting Old Masters in 2014 with a set of paintings by Giuseppe Arcimboldo and built a private collection of 15th- to 17th-century European painting. Rather than founding a museum, they have funded scholarships and, in 2026, an academic fellowship connecting art history and artificial intelligence — putting the collection's resources into the field's scholarly infrastructure instead of a building.
+public_origin: Gary and Anita Klesch began collecting Old Masters in 2014 with a set of paintings by Giuseppe Arcimboldo and built a private collection of 15th- to 17th-century European painting. Rather than founding a museum, they have funded scholarships and, in 2026, an academic fellowship connecting art history and artificial intelligence, putting the collection's resources into the field's scholarly infrastructure instead of a building.
 public_sources: The Art Newspaper; Birkbeck, University of London; thekleschcollection.com
 hero_image_status: no_usable_image
 living_collector: true

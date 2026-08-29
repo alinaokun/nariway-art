@@ -23,13 +23,13 @@ public_location: Basel, Switzerland (headquarters); international touring progra
 public_founded: 2023
 public_structure: Private contemporary art institution, philanthropically backed; no dedicated public venue
 public_access: Public via touring exhibitions and institutional partnerships (no permanent gallery)
-public_size: Unknown — collection scope not publicly disclosed
+public_size: Unknown, collection scope not publicly disclosed
 public_focus: New media, digital, and time-based art
 public_movements: Digital art; new media art; AI-generated art; time-based media
 public_period: 1960–present
 public_media: digital art; video; installation; AI-generated art
 public_selected_artists: Refik Anadol
-public_pathway_timeline: 2023|build-institution|found-foundation|0xCollection founded in Basel with Karel Komárek's backing, under curator/director Elle Anastasiou ;; 2023|build-institution|traveling-program|Inaugural public exhibition in Prague, featuring a commissioned Refik Anadol work ;; 2024|build-institution|traveling-program|Partnership exhibition at the Kennedy Center, Washington, D.C. — the federal institution's first digital-art exhibition
+public_pathway_timeline: 2023|build-institution|found-foundation|0xCollection founded in Basel with Karel Komárek's backing, under curator/director Elle Anastasiou ;; 2023|build-institution|traveling-program|Inaugural public exhibition in Prague, featuring a commissioned Refik Anadol work ;; 2024|build-institution|traveling-program|Partnership exhibition at the Kennedy Center, Washington, D.C., the federal institution's first digital-art exhibition
 public_origin: Backed by Czech entrepreneur and philanthropist Karel Komárek, 0xCollection launched in Basel in 2023 as a new institution dedicated to developing and preserving new-media and digital art from 1960 to the present. Rather than building a museum, it operates as a touring, partnership-based platform, working with institutions such as the Kennedy Center to bring digital art into public exhibition spaces it does not own.
 public_sources: Wikipedia; ARTnews; Outland Art; Kennedy Center
 hero_image_status: no_usable_image

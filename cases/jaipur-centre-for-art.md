@@ -28,7 +28,7 @@ public_period: 2020s, ongoing rotating program (not a fixed collection)
 public_media: painting; sculpture; photography; installation; film/moving image
 public_selected_artists: Anish Kapoor; Hiroshi Sugimoto; Sean Scully; Alicja Kwade; Dayanita Singh; L.N. Tallur; Tanya Goel; Manjunath Kamath
 public_pathway_timeline: 2024|build-institution|found-foundation|Royal patron and outside art advisor co-found a new contemporary-art exhibition space inside the family's palace; Jaipur Centre for Art opens 22 Nov 2024
-public_origin: Padmanabh Singh, the informally recognized head of the former Jaipur royal family, partnered with art advisor Noelle Kadar to open a contemporary-art exhibition space inside a wing of the City Palace, the family's centuries-old residence — the first venue of its kind in Jaipur, running rotating exhibitions, a residency program, and a free public film series rather than a permanent collection.
+public_origin: Padmanabh Singh, the informally recognized head of the former Jaipur royal family, partnered with art advisor Noelle Kadar to open a contemporary-art exhibition space inside a wing of the City Palace, the family's centuries-old residence, the first venue of its kind in Jaipur, running rotating exhibitions, a residency program, and a free public film series rather than a permanent collection.
 public_sources: The Art Newspaper; Wallpaper*; Whitewall; Harper's Bazaar India; Serenade
 hero_image_status: no_usable_image
 living_collector: true

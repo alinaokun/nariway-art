@@ -27,7 +27,7 @@ public_focus: African American art
 public_period: 20th–21st century
 public_selected_artists: exhibited via partner venues including the Hunterdon Art Museum, the Allentown Art Museum, and the David C. Driskell Center
 public_pathway_timeline: 2004|||The Petrucci Family Foundation is established as a general education-and-opportunity philanthropy ;; 2012|give-institution|traveling-program|The Foundation begins collecting African American art specifically, for the explicit purpose of lending it to museums ;; 2026|give-institution|traveling-program|Collection continues circulating via rotating loan exhibitions (e.g. Hunterdon Art Museum, Allentown Art Museum)
-public_origin: A New Jersey family foundation, established in the mid-2000s for general educational philanthropy, began collecting African American art in 2012 specifically to lend it out — building a 500-plus-work collection with no gallery of its own, circulating instead through partner museums to help expand the canon of American art history taught and shown nationally.
+public_origin: A New Jersey family foundation, established in the mid-2000s for general educational philanthropy, began collecting African American art in 2012 specifically to lend it out, building a 500-plus-work collection with no gallery of its own, circulating instead through partner museums to help expand the canon of American art history taught and shown nationally.
 public_sources: petruccifamilyfoundation.org; Hunterdon Art Museum; Allentown Art Museum; David C. Driskell Center; ProPublica Nonprofit Explorer
 hero_image_status: no_usable_image
 living_collector: true

@@ -16,7 +16,7 @@ public_page_eligible: true
 public_verified: true
 public_depth: expanded
 public_status_text: "Under construction; first pavilions scheduled to open September 2027."
-public_name: (untitled — working reference "Museu Bernardo Paz")
+public_name: (untitled, working reference "Museu Bernardo Paz")
 public_founder: Bernardo Paz
 public_location: Brumadinho, Minas Gerais, Brazil (adjacent to Inhotim)
 public_founded: 2026

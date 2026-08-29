@@ -25,7 +25,7 @@ public_collecting_began: 1993
 public_structure: Promised gift (2020) converting to a phased estate gift of a trustee's personal collection to her own museum
 public_access: Works enter the American Folk Art Museum's permanent collection; a gallery and the museum's Visionary Award are named in her honor; exhibition of new gifts planned spring 2026
 public_size: 700+ works at its height; roughly 150 transferred to the museum to date
-public_focus: Art Brut and self-taught/outsider art — Europe and the United States
+public_focus: Art Brut and self-taught/outsider art, Europe and the United States
 public_movements: Art Brut; outsider art; self-taught art
 public_period: Early-to-mid 20th century through contemporary self-taught artists
 public_media: painting; drawing; mixed-media assemblage

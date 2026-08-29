@@ -20,7 +20,7 @@ public_name: Cookie Factory
 public_founder: Amanda Precourt
 public_location: Denver, CO, USA (Baker neighborhood)
 public_founded: 2025
-public_structure: "Privately owned and privately funded; deliberately not a 501(c)(3) nonprofit — no board, no fundraising, no donor competition"
+public_structure: "Privately owned and privately funded; deliberately not a 501(c)(3) nonprofit, no board, no fundraising, no donor competition"
 public_access: "Free; open to the public Wednesdays 4-7pm and by appointment"
 public_size: "~5,000-5,700 sq ft gallery, plus a sculpture garden and video-screening rooms, inside a converted former fortune-cookie factory"
 public_focus: "Contemporary art; commissioned and exhibited works under artistic director Jérôme Sans"

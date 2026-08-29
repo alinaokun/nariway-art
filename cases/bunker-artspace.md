@@ -26,7 +26,7 @@ public_size: 500 works on view at a time, drawn from a personal collection repor
 public_focus: Contemporary and modern art, deliberately anti-blue-chip and cross-generational
 public_period: 20th–21st century
 public_pathway_timeline: 2017|build-institution|hybrid|The Bunker Artspace opens in a converted 1920s Art Deco former toy factory and WWII armory
-public_origin: A New York real-estate heiress and lifelong collector converted a Depression-era Art Deco building in West Palm Beach — once a toy factory, later a wartime armory — into a private exhibition space for her own collection, showing roughly 500 works at a time on a rotating, season-by-season basis, by invitation and scheduled tour rather than as a public museum.
+public_origin: A New York real-estate heiress and lifelong collector converted a Depression-era Art Deco building in West Palm Beach, once a toy factory, later a wartime armory, into a private exhibition space for her own collection, showing roughly 500 works at a time on a rotating, season-by-season basis, by invitation and scheduled tour rather than as a public museum.
 public_sources: thebunkerartspace.com; Galerie Magazine; Cultured Magazine
 hero_image_status: no_usable_image
 living_collector: true

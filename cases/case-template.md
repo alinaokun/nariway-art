@@ -6,7 +6,7 @@ Born from the fresh-eyes review of [[mcnay-packet]] (2026-08). Controlled vocabu
 
 ## Coded header (the dataset row)
 
-**Identity.** `case_id` · `collection_name` · `founder_name` · `geography_city/region/country` · `verification_status` [`Provisional` · `Spot-verified` · `Primary-verified`].
+**Identity.** `case_id` · `collection_name` · `founder_name` · `geography_city/region/country` · `verification_status` [`Provisional` (WebSearch-snippet synthesis only) · `Spot-verified` (at least one figure independently corroborated across two sources, or a direct fetch of a secondary source) · `Primary-verified` (financials sourced to a directly-fetched primary document — a 990 Schedule D, deed, will, or founding instrument)].
 
 **Controlled-vocabulary fields (these make the charts):**
 - **`pathway`** (dominant disposition form): `retain-family` · `sell-auction` · `sell-private` · `donate-existing-museum-intact` · `donate-existing-museum-scattered` · `long-term-loan` · `found-standalone-museum` · `found-house-museum` · `found-foundation` · `found-art-park` · `university-partnership` · `traveling-program` · `intentional-dispersal` · `merger-into-institution` · `abandoned-plan` · `hybrid`. Plus `secondary_pathways` (array) and `pathway_is_branched` (bool), because dispositions are a portfolio, not one choice.
@@ -47,7 +47,7 @@ Distinct from the coded header above, which is the INTERNAL research schema. The
 
 **Why flat frontmatter (not a prose body block, not nested YAML):** the export must parse reliably across ~100 agent-maintained files. Flat `key: value` is the format an agent gets right every time and a parser reads without a YAML dependency. The richer factual prose SECTIONS (brief §4a: The place, After the founder, etc.) stay in the normal case body and are a LATER export iteration; v1 exports profile + composition + timeline + origin + status + image + sources.
 
-*Populating these does not re-verify the coded header. Anything marked `public_page_eligible: true` is still held from the live export until its figures reach `verification: primary-verified` (or are non-numeric/structural).*
+*Populating these does not re-verify the coded header. The export gate is `public_page_eligible` AND `public_verified` (line 34 above) — NOT the internal `verification` financial-depth tag; a case can export while its internal `verification` is still `Provisional` or `Spot-verified`.*
 
 ## Gaps are a first-class value (not an exception)
 - Every quantitative field has an explicit `unknown` state; a **blank is never allowed** (blanks hide gaps; `unknown` counts them). "Unknown is a finding."

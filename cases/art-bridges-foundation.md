@@ -29,7 +29,7 @@ public_movements: American art, broad survey (colonial to contemporary)
 public_period: colonial era–present
 public_media: painting; sculpture; works on paper (broad survey)
 public_pathway_timeline: 2017|dispersal|found-foundation|Alice Walton founds Art Bridges as a separate grantmaking/lending vehicle from Crystal Bridges ;; 2026|dispersal|long-term-loan|Art Bridges x Hirshhorn "50 for 50" national loan program launches, placing 200+ works in one museum per U.S. state and Puerto Rico through 2029
-public_origin: Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle — not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 250+ partner institutions and over 20 million people.
+public_origin: Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle, not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 250+ partner institutions and over 20 million people.
 public_sources: Wikipedia; Art Bridges Foundation; Smithsonian Institution; Inside Philanthropy
 hero_image_status: no_usable_image
 living_collector: true

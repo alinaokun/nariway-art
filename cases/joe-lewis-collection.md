@@ -31,7 +31,7 @@ public_period: Late 19th century through mid-20th century
 public_media: painting
 public_selected_artists: Amedeo Modigliani; Gustav Klimt; Lucian Freud; Egon Schiele; Pablo Picasso; Edgar Degas
 public_pathway_timeline: 1980s|keep-family|sell-auction|Lewis begins assembling the collection ;; 2026-04|keep-family|sell-auction|Sotheby's announces a planned sale, estimated at $200M ;; 2026-06|keep-family|sell-auction|Single-owner evening sale realizes £296.3M ($392.6M), a European auction record for a private collection, with 24 of 25 lots sold
-public_origin: "British billionaire Joe Lewis, founder of the Bahamas-based Tavistock Group, built a collection of modern European masters worth an estimated $1 billion. In June 2026, at age 89, he consigned 25 works — Modigliani, Klimt, Freud, Schiele, Degas — to Sotheby's London, realizing £296.3 million ($392.6 million), a European record for a single-owner sale, while stating the collection's story is not over."
+public_origin: "British billionaire Joe Lewis, founder of the Bahamas-based Tavistock Group, built a collection of modern European masters worth an estimated $1 billion. In June 2026, at age 89, he consigned 25 works, Modigliani, Klimt, Freud, Schiele, Degas, to Sotheby's London, realizing £296.3 million ($392.6 million), a European record for a single-owner sale, while stating the collection's story is not over."
 public_sources: Bloomberg; Artnet News; The Art Newspaper; ARTnews
 hero_image_status: no_usable_image
 living_collector: true

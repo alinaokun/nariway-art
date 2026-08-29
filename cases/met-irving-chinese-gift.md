@@ -24,7 +24,7 @@ public_location: New York, NY
 public_structure: Gift to an existing museum, with a donor-authorized right for the museum to later sell portions to fund acquisitions
 public_access: Entered The Metropolitan Museum of Art's permanent collection in 2015; a portion has been periodically deaccessioned and sold at auction since 2019
 public_size: 1,275 objects gifted in 2015; the September 2026 sale alone offered 300+ works, including 120+ Imperial Qianlong-period jades and scholar's objects
-public_focus: Chinese art — jades, Buddhist sculpture, porcelain, and objects for the scholar's studio
+public_focus: Chinese art, jades, Buddhist sculpture, porcelain, and objects for the scholar's studio
 public_period: Chinese dynastic, concentrated in the Qing dynasty (Qianlong period)
 public_media: jade; sculpture; porcelain; scholar's objects
 public_recipients: The Metropolitan Museum of Art (Department of Asian Art)

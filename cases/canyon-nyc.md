@@ -21,7 +21,7 @@ public_founded: 2027
 public_structure: Nonprofit standalone venue
 public_access: Opening to the public, 2027
 public_size: 40,000 sq ft
-public_focus: Durational art — video, sound, and performance
+public_focus: Durational art, video, sound, and performance
 public_period: Contemporary (as documented, 2026)
 public_media: video; sound; performance
 public_pathway_timeline: 2027|build-institution|found-standalone-museum|Venue opens on the Lower East Side, Manhattan

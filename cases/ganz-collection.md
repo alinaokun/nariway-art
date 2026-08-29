@@ -14,7 +14,7 @@ origin: private-individual
 public_page_eligible: true
 public_verified: true
 public_depth: expanded
-public_status_text: "Sold at Christie's, New York, in 1997 for $206.5M — then a record for a single-owner auction."
+public_status_text: "Sold at Christie's, New York, in 1997 for $206.5M, then a record for a single-owner auction."
 public_name: The Collection of Victor and Sally Ganz
 public_founder: Victor Ganz; Sally Ganz
 public_location: New York, New York

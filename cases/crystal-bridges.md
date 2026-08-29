@@ -25,7 +25,7 @@ public_period: 18th century onward
 public_media: painting; sculpture; works on paper
 public_selected_artists: Asher B. Durand; Gilbert Stuart; Norman Rockwell
 public_pathway_timeline: 2011|build-institution|found-standalone-museum|Crystal Bridges opens in Bentonville with an $800M Walton Family Foundation endowment
-public_origin: "Alice Walton, daughter of Walmart founder Sam Walton, assembled a survey collection of American art and in 2011 opened Crystal Bridges in her hometown of Bentonville, Arkansas — a purpose-built Moshe Safdie complex set in about 120 acres of Ozark landscape, with free admission and an $800M founding endowment from the Walton Family Foundation."
+public_origin: "Alice Walton, daughter of Walmart founder Sam Walton, assembled a survey collection of American art and in 2011 opened Crystal Bridges in her hometown of Bentonville, Arkansas, a purpose-built Moshe Safdie complex set in about 120 acres of Ozark landscape, with free admission and an $800M founding endowment from the Walton Family Foundation."
 public_sources: crystalbridges.org; Encyclopedia of Arkansas
 hero_image_status: no_usable_image
 living_collector: true

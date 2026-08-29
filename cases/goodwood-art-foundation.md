@@ -30,7 +30,7 @@ public_period: 2025–present
 public_media: sculpture; site-specific installation; land art
 public_selected_artists: Rachel Whiteread
 public_pathway_timeline: 2025|build-institution|found-foundation|Goodwood Art Foundation opens on 70 acres of the estate with an inaugural Rachel Whiteread exhibition
-public_origin: The Dukes of Richmond have held a private Old Master collection (Canaletto, Reynolds, Romney, Stubbs, Van Dyck) at Goodwood for over 300 years. In 2025 the 11th Duke launched a separate, new non-profit foundation on the estate's woodland — not a display of the family's own historic holdings, but a public contemporary-art and education venue with no permanent collection of its own.
+public_origin: The Dukes of Richmond have held a private Old Master collection (Canaletto, Reynolds, Romney, Stubbs, Van Dyck) at Goodwood for over 300 years. In 2025 the 11th Duke launched a separate, new non-profit foundation on the estate's woodland, not a display of the family's own historic holdings, but a public contemporary-art and education venue with no permanent collection of its own.
 public_sources: The Art Newspaper; Sotheby's; Apollo Magazine; Historic Houses
 hero_image_status: no_usable_image
 living_collector: true

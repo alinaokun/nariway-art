@@ -62,7 +62,7 @@
     {
       "slug": "paz-museum-brumadinho",
       "publicDepth": "expanded",
-      "name": "(untitled — working reference \"Museu Bernardo Paz\")",
+      "name": "(untitled, working reference \"Museu Bernardo Paz\")",
       "founder": "Bernardo Paz",
       "location": "Brumadinho, Minas Gerais, Brazil (adjacent to Inhotim)",
       "profile": {
@@ -137,7 +137,7 @@
         "structure": "Private contemporary art institution, philanthropically backed; no dedicated public venue",
         "publicAccess": "Public via touring exhibitions and institutional partnerships (no permanent gallery)",
         "currentState": "Active since 2023; a touring digital/new-media art institution with no fixed public venue.",
-        "size": "Unknown — collection scope not publicly disclosed"
+        "size": "Unknown, collection scope not publicly disclosed"
       },
       "composition": {
         "focus": "New media, digital, and time-based art",
@@ -173,7 +173,7 @@
             "codedPathway": "traveling-program"
           },
           {
-            "event": "Partnership exhibition at the Kennedy Center, Washington, D.C. — the federal institution's first digital-art exhibition",
+            "event": "Partnership exhibition at the Kennedy Center, Washington, D.C., the federal institution's first digital-art exhibition",
             "year": 2024,
             "familyId": "build-institution",
             "codedPathway": "traveling-program"
@@ -196,7 +196,7 @@
     {
       "slug": "amoca-cardiff",
       "publicDepth": "expanded",
-      "name": "AMOCA — Artistic Museum of Contemporary Art",
+      "name": "AMOCA, Artistic Museum of Contemporary Art",
       "founder": "Anders Hedlund",
       "location": "Cardiff, Wales, UK",
       "profile": {
@@ -406,7 +406,7 @@
           }
         ]
       },
-      "origin": "Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle — not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 250+ partner institutions and over 20 million people.",
+      "origin": "Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle, not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 250+ partner institutions and over 20 million people.",
       "image": {
         "status": "no_usable_image"
       },
@@ -485,7 +485,7 @@
         "size": "700+ works at its height; roughly 150 transferred to the museum to date"
       },
       "composition": {
-        "focus": "Art Brut and self-taught/outsider art — Europe and the United States",
+        "focus": "Art Brut and self-taught/outsider art, Europe and the United States",
         "movements": [
           "Art Brut",
           "outsider art",
@@ -570,7 +570,7 @@
         "size": "30,000+ works"
       },
       "composition": {
-        "focus": "Broad survey — painting, prints, photography, sculpture",
+        "focus": "Broad survey, painting, prints, photography, sculpture",
         "media": [
           "painting",
           "prints",
@@ -837,7 +837,7 @@
           }
         ]
       },
-      "origin": "The Brauer Museum of Art grew from Valparaiso University's teaching collection, assembled over decades under founding director Richard Brauer and housed in its current building since 1982. In 2023 the university moved to sell three major American paintings — by Church, Hassam, and O'Keeffe — to fund dormitory renovations, over its founding director's objection; the museum closed in 2024 and reopened on reduced hours.",
+      "origin": "The Brauer Museum of Art grew from Valparaiso University's teaching collection, assembled over decades under founding director Richard Brauer and housed in its current building since 1982. In 2023 the university moved to sell three major American paintings, by Church, Hassam, and O'Keeffe, to fund dormitory renovations, over its founding director's objection; the museum closed in 2024 and reopened on reduced hours.",
       "image": {
         "status": "no_usable_image"
       },
@@ -860,7 +860,7 @@
         "currentState": "Temporarily closed since 2025; downtown Raleigh building listed for sale in 2026."
       },
       "composition": {
-        "focus": "Contemporary art — kunsthalle model, rotating exhibitions with no permanent collection"
+        "focus": "Contemporary art, kunsthalle model, rotating exhibitions with no permanent collection"
       },
       "classification": {
         "pathwayTimeline": [
@@ -905,7 +905,7 @@
         "size": "40,000 sq ft"
       },
       "composition": {
-        "focus": "Durational art — video, sound, and performance",
+        "focus": "Durational art, video, sound, and performance",
         "period": "Contemporary (as documented, 2026)",
         "media": [
           "video",
@@ -1170,6 +1170,64 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "caplan-baltimore-museum-of-art",
+      "publicDepth": "record",
+      "name": "Constance R. Caplan Collection",
+      "founder": "Constance R. Caplan",
+      "location": "Baltimore, Maryland, USA",
+      "profile": {
+        "collectingBegan": "Unknown; engaged with the BMA since 1955",
+        "structure": "Gift to an existing public museum (no separate legal entity)",
+        "publicAccess": "On view within the Baltimore Museum of Art's general collection",
+        "currentState": "64 works gifted to the Baltimore Museum of Art, announced July 2026.",
+        "size": "64 works gifted (part of a larger 118-work acquisition announcement)"
+      },
+      "composition": {
+        "focus": "Contemporary art",
+        "period": "Contemporary",
+        "selectedArtists": [
+          "Janine Antoni",
+          "Hilla and Bernd Becher",
+          "John Chiara",
+          "Fernanda Gomes",
+          "Robert Morris",
+          "Stephen Parrino",
+          "Nobuo Sekine",
+          "Richard Tuttle",
+          "Lee Ufan",
+          "Jack Whitten",
+          "Lisa Yuskavage"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Caplan's own collection is the subject of a solo exhibition at the Art Institute of Chicago",
+            "year": 2020,
+            "familyId": "build-institution",
+            "codedPathway": "no-building"
+          },
+          {
+            "event": "The Baltimore Museum of Art announces 64 works gifted by Caplan, part of a 118-work acquisition slate",
+            "year": "2026-07",
+            "familyId": "disperse",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Constance R. Caplan, a former board chair who has been engaged with the Baltimore Museum of Art since 1955, gave 64 works from her own contemporary-art collection to the museum, announced in July 2026 alongside other new acquisitions. Her collection had previously been the subject of a dedicated exhibition at the Art Institute of Chicago in 2020.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artforum",
+        "Baltimore Fishbowl",
+        "Artdaily"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "cookie-factory-denver",
       "publicDepth": "expanded",
       "name": "Cookie Factory",
@@ -1177,7 +1235,7 @@
       "location": "Denver, CO, USA (Baker neighborhood)",
       "profile": {
         "founded": 2025,
-        "structure": "Privately owned and privately funded; deliberately not a 501(c)(3) nonprofit — no board, no fundraising, no donor competition",
+        "structure": "Privately owned and privately funded; deliberately not a 501(c)(3) nonprofit, no board, no fundraising, no donor competition",
         "publicAccess": "Free; open to the public Wednesdays 4-7pm and by appointment",
         "currentState": "Open to the public, free, since May 2025.",
         "size": "~5,000-5,700 sq ft gallery, plus a sculpture garden and video-screening rooms, inside a converted former fortune-cookie factory"
@@ -1345,7 +1403,7 @@
           }
         ]
       },
-      "origin": "Alice Walton, daughter of Walmart founder Sam Walton, assembled a survey collection of American art and in 2011 opened Crystal Bridges in her hometown of Bentonville, Arkansas — a purpose-built Moshe Safdie complex set in about 120 acres of Ozark landscape, with free admission and an $800M founding endowment from the Walton Family Foundation.",
+      "origin": "Alice Walton, daughter of Walmart founder Sam Walton, assembled a survey collection of American art and in 2011 opened Crystal Bridges in her hometown of Bentonville, Arkansas, a purpose-built Moshe Safdie complex set in about 120 acres of Ozark landscape, with free admission and an $800M founding endowment from the Walton Family Foundation.",
       "image": {
         "status": "no_usable_image"
       },
@@ -2142,7 +2200,7 @@
           }
         ]
       },
-      "origin": "The Dukes of Richmond have held a private Old Master collection (Canaletto, Reynolds, Romney, Stubbs, Van Dyck) at Goodwood for over 300 years. In 2025 the 11th Duke launched a separate, new non-profit foundation on the estate's woodland — not a display of the family's own historic holdings, but a public contemporary-art and education venue with no permanent collection of its own.",
+      "origin": "The Dukes of Richmond have held a private Old Master collection (Canaletto, Reynolds, Romney, Stubbs, Van Dyck) at Goodwood for over 300 years. In 2025 the 11th Duke launched a separate, new non-profit foundation on the estate's woodland, not a display of the family's own historic holdings, but a public contemporary-art and education venue with no permanent collection of its own.",
       "image": {
         "status": "no_usable_image"
       },
@@ -2542,7 +2600,7 @@
           }
         ]
       },
-      "origin": "Padmanabh Singh, the informally recognized head of the former Jaipur royal family, partnered with art advisor Noelle Kadar to open a contemporary-art exhibition space inside a wing of the City Palace, the family's centuries-old residence — the first venue of its kind in Jaipur, running rotating exhibitions, a residency program, and a free public film series rather than a permanent collection.",
+      "origin": "Padmanabh Singh, the informally recognized head of the former Jaipur royal family, partnered with art advisor Noelle Kadar to open a contemporary-art exhibition space inside a wing of the City Palace, the family's centuries-old residence, the first venue of its kind in Jaipur, running rotating exhibitions, a residency program, and a free public film series rather than a permanent collection.",
       "image": {
         "status": "no_usable_image"
       },
@@ -2660,7 +2718,7 @@
           }
         ]
       },
-      "origin": "British billionaire Joe Lewis, founder of the Bahamas-based Tavistock Group, built a collection of modern European masters worth an estimated $1 billion. In June 2026, at age 89, he consigned 25 works — Modigliani, Klimt, Freud, Schiele, Degas — to Sotheby's London, realizing £296.3 million ($392.6 million), a European record for a single-owner sale, while stating the collection's story is not over.",
+      "origin": "British billionaire Joe Lewis, founder of the Bahamas-based Tavistock Group, built a collection of modern European masters worth an estimated $1 billion. In June 2026, at age 89, he consigned 25 works, Modigliani, Klimt, Freud, Schiele, Degas, to Sotheby's London, realizing £296.3 million ($392.6 million), a European record for a single-owner sale, while stating the collection's story is not over.",
       "image": {
         "status": "no_usable_image"
       },
@@ -2751,7 +2809,7 @@
         "size": "900+ works by 300+ artists"
       },
       "composition": {
-        "focus": "Time-based media art — video, film, multimedia installation, net art, performance",
+        "focus": "Time-based media art, video, film, multimedia installation, net art, performance",
         "movements": [
           "Time-based/media art, 1960s–present"
         ],
@@ -2940,7 +2998,7 @@
         "size": "Purpose-built exhibition building with rooftop and cultural-programming spaces (exact square footage not published)"
       },
       "composition": {
-        "focus": "Georgian contemporary art — preservation, exhibition, and scholarship",
+        "focus": "Georgian contemporary art, preservation, exhibition, and scholarship",
         "period": "Contemporary"
       },
       "classification": {
@@ -2975,7 +3033,7 @@
         "structure": "Independent nonprofit museum, in partnership with LACMA",
         "publicAccess": "Prelude venue (Grand Central Galleries) open; full museum planned fall 2029",
         "currentState": "Under construction in Symphony Park; a prelude venue (Grand Central Galleries) opened 2026, full museum planned for fall 2029.",
-        "size": "n/a — no permanent collection of its own; access via a 50-year LACMA loan/curation partnership to LACMA's 150,000-object collection"
+        "size": "n/a, no permanent collection of its own; access via a 50-year LACMA loan/curation partnership to LACMA's 150,000-object collection"
       },
       "composition": {
         "focus": "General art museum (LACMA partnership, no announced sole curatorial thesis)"
@@ -3153,7 +3211,7 @@
         "size": "40,000+ works"
       },
       "composition": {
-        "focus": "Narrative art — illustration, comic art, film, photography, and fine art",
+        "focus": "Narrative art, illustration, comic art, film, photography, and fine art",
         "period": "20th century–present (as documented, 2026)",
         "media": [
           "illustration",
@@ -4000,7 +4058,7 @@
           }
         ]
       },
-      "origin": "A New Jersey family foundation, established in the mid-2000s for general educational philanthropy, began collecting African American art in 2012 specifically to lend it out — building a 500-plus-work collection with no gallery of its own, circulating instead through partner museums to help expand the canon of American art history taught and shown nationally.",
+      "origin": "A New Jersey family foundation, established in the mid-2000s for general educational philanthropy, began collecting African American art in 2012 specifically to lend it out, building a 500-plus-work collection with no gallery of its own, circulating instead through partner museums to help expand the canon of American art history taught and shown nationally.",
       "image": {
         "status": "no_usable_image"
       },
@@ -4526,6 +4584,63 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "star-of-hope-foundation",
+      "publicDepth": "expanded",
+      "name": "Star of Hope Foundation",
+      "founder": "Robert Indiana",
+      "location": "Vinalhaven, Maine, USA",
+      "profile": {
+        "founded": 2016,
+        "structure": "Independent nonprofit foundation",
+        "publicAccess": "Grounds and programming vary; the Star of Hope Lodge itself is not open to the public and is being sold",
+        "currentState": "Operating on Vinalhaven since 2016; selling the artist's former home in 2026, redirecting proceeds to island arts programs.",
+        "size": "Two Main Street properties (the Star of Hope Lodge and an adjacent building); no museum collection of its own"
+      },
+      "composition": {
+        "focus": "Artist-legacy stewardship and island arts and cultural funding",
+        "period": "Contemporary (founder active 1950s to 2018)"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Robert Indiana establishes the Star of Hope Foundation during his lifetime",
+            "year": 2016,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Indiana dies at 89; his will directs the Lodge be restored \"to museum quality\" and opened to the public",
+            "year": 2018,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Multi-year estate litigation, including with the Morgan Art Foundation, delays the Foundation's work",
+            "year": "2018-2023",
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The Foundation lists the Lodge and an adjacent property for sale, redirecting proceeds to arts initiatives rather than restoring the house as planned",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "abandoned-plan"
+          }
+        ]
+      },
+      "origin": "Robert Indiana bought a former Odd Fellows lodge on the Maine island of Vinalhaven in the 1970s and lived and worked there for four decades. In 2016 he established the Star of Hope Foundation to carry his legacy forward; his will directed that the building be restored to museum quality and opened to the public. In 2026, after years of estate litigation, the Foundation's board voted to sell the building instead, saying the proceeds would fund artistic and cultural initiatives on the island.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Portland Press Herald",
+        "Bangor Daily News",
+        "ARTnews",
+        "Center for Art Law"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "storm-king",
       "publicDepth": "expanded",
       "name": "Storm King Art Center",
@@ -4939,7 +5054,7 @@
           }
         ]
       },
-      "origin": "Nelly Arrieta de Blaquier — described by The New York Times in 1995 as owner of Argentina's largest private art collection — and her husband Carlos Pedro Blaquier built a trove of French Impressionist and Post-Impressionist masterpieces in Buenos Aires. After both founders' deaths and a resolved export dispute with Argentine customs, their heirs consigned the collection to Sotheby's for a November 2026 New York sale estimated at $450 million.",
+      "origin": "Nelly Arrieta de Blaquier, described by The New York Times in 1995 as owner of Argentina's largest private art collection, and her husband Carlos Pedro Blaquier built a trove of French Impressionist and Post-Impressionist masterpieces in Buenos Aires. After both founders' deaths and a resolved export dispute with Argentine customs, their heirs consigned the collection to Sotheby's for a November 2026 New York sale estimated at $450 million.",
       "image": {
         "status": "no_usable_image"
       },
@@ -5033,7 +5148,7 @@
           }
         ]
       },
-      "origin": "A New York real-estate heiress and lifelong collector converted a Depression-era Art Deco building in West Palm Beach — once a toy factory, later a wartime armory — into a private exhibition space for her own collection, showing roughly 500 works at a time on a rotating, season-by-season basis, by invitation and scheduled tour rather than as a public museum.",
+      "origin": "A New York real-estate heiress and lifelong collector converted a Depression-era Art Deco building in West Palm Beach, once a toy factory, later a wartime armory, into a private exhibition space for her own collection, showing roughly 500 works at a time on a rotating, season-by-season basis, by invitation and scheduled tour rather than as a public museum.",
       "image": {
         "status": "no_usable_image"
       },
@@ -5132,7 +5247,7 @@
         "collectingBegan": "1941",
         "structure": "Private collection",
         "publicAccess": "Dispersed at auction (never a public institution)",
-        "currentState": "Sold at Christie's, New York, in 1997 for $206.5M — then a record for a single-owner auction."
+        "currentState": "Sold at Christie's, New York, in 1997 for $206.5M, then a record for a single-owner auction."
       },
       "composition": {
         "focus": "Deep holdings of Picasso alongside postwar American art",
@@ -5353,7 +5468,7 @@
         "size": "1,275 objects gifted in 2015; the September 2026 sale alone offered 300+ works, including 120+ Imperial Qianlong-period jades and scholar's objects"
       },
       "composition": {
-        "focus": "Chinese art — jades, Buddhist sculpture, porcelain, and objects for the scholar's studio",
+        "focus": "Chinese art, jades, Buddhist sculpture, porcelain, and objects for the scholar's studio",
         "period": "Chinese dynastic, concentrated in the Qing dynasty (Qianlong period)",
         "media": [
           "jade",
@@ -5731,7 +5846,7 @@
           }
         ]
       },
-      "origin": "Gary and Anita Klesch began collecting Old Masters in 2014 with a set of paintings by Giuseppe Arcimboldo and built a private collection of 15th- to 17th-century European painting. Rather than founding a museum, they have funded scholarships and, in 2026, an academic fellowship connecting art history and artificial intelligence — putting the collection's resources into the field's scholarly infrastructure instead of a building.",
+      "origin": "Gary and Anita Klesch began collecting Old Masters in 2014 with a set of paintings by Giuseppe Arcimboldo and built a private collection of 15th- to 17th-century European painting. Rather than founding a museum, they have funded scholarships and, in 2026, an academic fellowship connecting art history and artificial intelligence, putting the collection's resources into the field's scholarly infrastructure instead of a building.",
       "image": {
         "status": "no_usable_image"
       },
@@ -6477,6 +6592,64 @@
         "Artforum",
         "Hyperallergic",
         "propublica.org Nonprofit Explorer"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "yayoi-kusama-museum",
+      "publicDepth": "expanded",
+      "name": "Yayoi Kusama Museum",
+      "founder": "Yayoi Kusama",
+      "location": "Shinjuku, Tokyo, Japan",
+      "profile": {
+        "founded": 2017,
+        "structure": "General Incorporated Association (Yayoi Kusama Foundation)",
+        "publicAccess": "Open to the public, timed-entry tickets, twice-yearly rotating exhibitions",
+        "currentState": "Open in Tokyo since 2017; no successor leader named as of two weeks after Yayoi Kusama's August 2026 death.",
+        "size": "Five-story purpose-built building, approximately 200 square meters of floor space"
+      },
+      "composition": {
+        "focus": "Single-artist museum devoted entirely to Yayoi Kusama's work",
+        "period": "1950s to 2026",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation (\"Infinity Mirror Rooms\")"
+        ],
+        "selectedArtists": [
+          "Yayoi Kusama"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The Yayoi Kusama Foundation (a general incorporated association) is established, January 24",
+            "year": 2017,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The Yayoi Kusama Museum opens in Shinjuku, Tokyo, October 1, with an inaugural show of 600 works",
+            "year": 2017,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Kusama dies, August 14, at 97; the Museum and Foundation say her mission will be \"carried forward\" but name no successor leader",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Yayoi Kusama, working from Tokyo across seven decades, established her own foundation in 2017 to build a five-story museum devoted entirely to her work, timed to open while she was still alive and could shape it herself. She died in August 2026 at 97, two weeks before this case was coded, with the Museum's continuity statement naming no successor and setting out no policy for authentication, unfinished works, or future refabrications of her installations.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Yayoi Kusama Museum",
+        "Wikipedia"
       ],
       "lastReviewed": "2026-08"
     },

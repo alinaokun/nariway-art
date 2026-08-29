@@ -31,7 +31,7 @@ public_period: Late 19th to early 20th century
 public_media: painting
 public_selected_artists: Vincent van Gogh; Paul Cézanne; Edgar Degas; Camille Pissarro; Pierre-Auguste Renoir
 public_pathway_timeline: 2020|keep-family|sell-auction|Nelly Arrieta de Blaquier dies ;; 2023|keep-family|sell-auction|Carlos Pedro Blaquier dies ;; 2023|keep-family|sell-auction|Argentine customs officials fine the family over the export of about a dozen paintings to Luxembourg ;; 2026|disperse|sell-auction|Penalty waived, clearing the way for a November 2026 Sotheby's New York sale estimated at $450M
-public_origin: "Nelly Arrieta de Blaquier — described by The New York Times in 1995 as owner of Argentina's largest private art collection — and her husband Carlos Pedro Blaquier built a trove of French Impressionist and Post-Impressionist masterpieces in Buenos Aires. After both founders' deaths and a resolved export dispute with Argentine customs, their heirs consigned the collection to Sotheby's for a November 2026 New York sale estimated at $450 million."
+public_origin: "Nelly Arrieta de Blaquier, described by The New York Times in 1995 as owner of Argentina's largest private art collection, and her husband Carlos Pedro Blaquier built a trove of French Impressionist and Post-Impressionist masterpieces in Buenos Aires. After both founders' deaths and a resolved export dispute with Argentine customs, their heirs consigned the collection to Sotheby's for a November 2026 New York sale estimated at $450 million."
 public_sources: Artnet News; ARTnews; Sotheby's
 hero_image_status: no_usable_image
 living_collector: false

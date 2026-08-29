@@ -24,7 +24,7 @@ public_founded: 2007
 public_structure: Private collector foundation, non-profit exhibition venue(s)
 public_access: Open to the public (Düsseldorf continuing; Berlin closing Oct 2026)
 public_size: 900+ works by 300+ artists
-public_focus: Time-based media art — video, film, multimedia installation, net art, performance
+public_focus: Time-based media art, video, film, multimedia installation, net art, performance
 public_movements: Time-based/media art, 1960s–present
 public_period: 2007–present
 public_media: video; film; multimedia installation; net/computer-based art; performance
