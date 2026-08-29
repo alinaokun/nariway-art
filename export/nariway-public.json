@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28",
+  "generated": "2026-08-29",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -3849,6 +3849,75 @@
       "livingCollector": true
     },
     {
+      "slug": "oliver-ranch-foundation",
+      "publicDepth": "expanded",
+      "name": "Oliver Ranch Foundation",
+      "founder": "Steve & Nancy Oliver",
+      "location": "Geyserville, CA (Sonoma County), USA",
+      "profile": {
+        "founded": 2009,
+        "collectingBegan": "1985",
+        "structure": "Nonprofit foundation, partnered with Community Foundation Sonoma County",
+        "publicAccess": "Guided tours by appointment/fundraiser partnership",
+        "currentState": "Open by guided tour, Sonoma County, since the 1980s; foundation formalized 2009.",
+        "size": "~100 acres; 18 site-specific installations"
+      },
+      "composition": {
+        "focus": "Site-specific, commissioned sculpture and land art",
+        "movements": [
+          "Minimalism",
+          "land art",
+          "site-specific installation"
+        ],
+        "period": "1985–present",
+        "media": [
+          "sculpture",
+          "earthworks",
+          "sound installation"
+        ],
+        "selectedArtists": [
+          "Richard Serra",
+          "Bruce Nauman",
+          "Ann Hamilton",
+          "Judith Shea",
+          "Miroslaw Balka",
+          "Fred Sandback",
+          "Bill Fontana"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Steve & Nancy Oliver buy the 100-acre ranch",
+            "year": 1981
+          },
+          {
+            "event": "First commissioned sculpture, Judith Shea's \"Shepard's Muse\"",
+            "year": 1985,
+            "familyId": "found-art-park",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "Oliver Ranch Foundation formed with Community Foundation Sonoma County",
+            "year": 2009,
+            "familyId": "found-art-park",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Steve and Nancy Oliver bought 100 acres in Sonoma County in 1981 to graze sheep. Beginning in 1985 they began inviting artists to design large-scale, site-specific works conceived only for that land, and in 2009 formalized the growing collection as a foundation partnered with a community foundation to secure its future.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Oliver Ranch Foundation",
+        "Sculpture Magazine",
+        "Independent Collectors"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "onera",
       "publicDepth": "record",
       "name": "Onera Foundation",
@@ -6286,6 +6355,67 @@
         "ubs.com",
         "MoMA",
         "PR Newswire"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "westlb-portigon-collection",
+      "publicDepth": "record",
+      "name": "WestLB / Portigon Art Collection",
+      "founder": "WestLB (Westdeutsche Landesbank)",
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "profile": {
+        "collectingBegan": "1969",
+        "structure": "Formerly a bank-owned corporate collection; now held by the state of NRW via the Kunst im Landesbesitz foundation",
+        "publicAccess": "Distributed across NRW state museums and institutions",
+        "currentState": "Purchased by the state of North Rhine-Westphalia in 2016 and distributed across public museums via the Kunst im Landesbesitz foundation.",
+        "size": "297 works"
+      },
+      "composition": {
+        "focus": "Modern and postwar European art",
+        "selectedArtists": [
+          "Pablo Picasso",
+          "August Macke",
+          "Joseph Beuys",
+          "Günther Uecker",
+          "Paul Signac",
+          "Gerhard Richter",
+          "Thomas Schütte"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "WestLB begins its corporate art collection",
+            "year": 1969
+          },
+          {
+            "event": "WestLB collapses and is wound down, successor entity Portigon AG formed",
+            "year": 2012
+          },
+          {
+            "event": "Portigon drafts a confidential 400-work sale list to help repay state bailout funds, prompting public uproar from NRW museum directors",
+            "year": 2015,
+            "familyId": "sell-private",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "NRW state purchases the 297-work core collection for €30M via the Kunst im Landesbesitz foundation, distributing it across state museums instead of a private sale",
+            "year": 2016,
+            "familyId": "merger-into-institution",
+            "codedPathway": "merger-into-institution"
+          }
+        ]
+      },
+      "origin": "WestLB, a major German state-owned bank, built a substantial corporate art collection from 1969. After the bank's 2012 collapse and wind-down as Portigon AG, a 2015 plan to sell part of the collection to help repay bailout funds provoked public opposition from museum directors. In 2016 the state of North Rhine-Westphalia purchased the collection instead, distributing it across public institutions rather than letting it disperse into private hands.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artnet News",
+        "Handelsblatt",
+        "Landtag NRW",
+        "Kunstsammlung NRW"
       ],
       "lastReviewed": "2026-08"
     },
