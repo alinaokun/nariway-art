@@ -2,12 +2,35 @@
 
 *The execution home for Nariway's LinkedIn content. The strategy is [[linkedin-strategy-brief|the LinkedIn Strategy Brief]]; the company positioning is `Nariway_Company_Positioning_and_Operating_Brief_Aug_30_2026.md`. This file holds the first-season topics and the drafted posts.*
 
+## Model post — finalized and fact-checked (2026-08-30)
+*This is the current voice and standard. The per-topic drafts in sections 1 to 5 further down are the earlier voice and are being rewritten to match this, each with its own fact-check before use.*
+
+**George Lucas and the Lucas Museum of Narrative Art** (fact-checked 2026-08-30 against lucasmuseum.org, The Art Newspaper, KQED, Smithsonian, Forbes)
+
+> George Lucas bought his first piece of art in college. It was an illustration from the old comic strip Alley Oop.
+>
+> He kept buying for the next fifty years. Most of what he chose was work the major museums did not take seriously at the time. He collected Norman Rockwell and N.C. Wyeth, comic pages by Jack Kirby and George Herriman, movie posters, and children's book illustration.
+>
+> He also bought artists the museums did respect, including Frida Kahlo, Jacob Lawrence, and several of the great muralists.
+>
+> In the end the collection grew to more than 40,000 works. All of it rests on one argument Lucas has made for decades. He believes that visual storytelling, the illustration and comics and film imagery most people grow up on, is real art and deserves a museum of its own.
+>
+> Building that museum proved harder than assembling the collection. Lucas first wanted it in San Francisco, at the Presidio, but the trust that oversees the site turned him down. He tried next on the Chicago lakefront, where a preservation group sued and he gave up after two years. The project finally found a home in Los Angeles, in Exposition Park, on a city lease of twenty dollars a year.
+>
+> The Lucas Museum of Narrative Art opens there this fall. The building runs to 300,000 square feet, was designed by the architect Ma Yansong, and reportedly cost around a billion dollars. Lucas and his wife, Mellody Hobson, paid for almost all of it.
+>
+> They also funded an endowment of several hundred million dollars. That is the part most founder museums neglect, and it is the reason so many of them struggle once the founder is gone.
+>
+> Lucas is 82 years old. He built the collection, funded the museum to outlast him, and on September 22 he will open the doors himself.
+
 ## Governing rules (read before drafting)
 - **Voice is governed by [[voice]] and the [[ai-tells]] checklist**, specifically the Substack Notes register (plain, specific, one idea at a time, end on a concrete fact, never a manufactured moral). Do not re-derive voice rules; follow those files. Every draft is checked against them.
 - **The transition thread is load-bearing.** Each post is about a collection AND what became of it. If a post is only "an interesting collection," it is not yet a Nariway post. The Nariway angle is always ownership, stewardship, transfer, donation, public access, or what happens next.
 - **Images are real and cited, never AI-generated.** Source a real photograph or a public-domain work, record the source, creator, and licence, and confirm the licence permits this use before posting. Prefer the collection or the institution (a building, a work) over a portrait of a living person, which is harder to licence and off-brand. Public-domain works (pre-1930 art, e.g. Trumbull) are the easiest and safest.
 - **Accuracy for a professional audience.** Verify every date, name, figure, and claim against a real source before posting. A weaker accurate post beats a stronger sloppy one.
 - **LinkedIn first.** Instagram variants are shorter and secondary; do not lead with Instagram.
+- **Writing standard (2026-08-30).** Third person, about the subject, not about Alina. Every sentence is a complete sentence; no fragments used as sentences. Short paragraphs of two to four sentences with white space between them, never a long block. Roughly 250 to 320 words, the length of a Ben Meer or Jade Bonacolta post. Texture over punch: linger on the genuinely interesting detail, do not label facts as strange, rare, or surprising, and do not force a universal lesson at the end. End on a concrete fact. Follow the plain, warm cadence in [[voice]]'s LinkedIn register, not the essay register.
+- **Fact-check gate (mandatory, 2026-08-30).** No post is finalized or published until an independent fact-check has verified every factual claim against an authoritative public source (the institution's own site or major press), with a source recorded for each claim. Nothing is fabricated or overstated; anything that cannot be sourced is cut or softened. Run the check on demand for every post with a standby fact-check agent, and keep human approval before anything is posted. Nothing publishes on the agent's say-so alone. This gate already caught a reversed Chicago/Presidio chronology in the Lucas post that came from our own case file [[lucas-museum]].
 
 ## First season (12 topics)
 1. George Lucas and the Lucas Museum of Narrative Art — *drafted below*
