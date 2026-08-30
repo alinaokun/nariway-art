@@ -157,3 +157,15 @@ seeding it requires a coded `pathway`/`familyId`, which is this decision.
 
 ---
 *Decision:* ______________  *(Alina)*  ·  *Date:* __________
+
+## 2026-08-30 addendum (research refresh, decision still held)
+
+A cloud research run drafted a full case file for Art Omi Pavilions before checking this memo, catching itself and reverting before committing — the case file stays deferred, per this memo's own instruction, until Alina decides. The research is banked here instead, so the eventual decision (and the case file, once seeded) starts from a fuller base:
+
+- **Governance is confirmed distributed, not just described that way in press.** The project runs through a *separate*, newly formed 501(c)(3), **Art Omi Pavilions at Chatham Inc.** (EIN 88-4167493), itself a joint venture between the existing Art Omi Inc. public charity and Francis Greenburger's own private foundation — a third layer (host nonprofit + funder's foundation + a dedicated project entity) beyond the "Art Omi + collectors" framing in this memo's original write-up. [GuideStar](https://www.guidestar.org/Profile/88-4167493) · [ProPublica](https://projects.propublica.org/nonprofits/organizations/884167493)
+- **Financial disclosure is thin.** Of a reported **~$60M total project cost**, only **~$7M** is publicly sourced (a $5M NYSCA capital grant, a $2M state regional-development grant); the remaining ~$53M's funding is undisclosed. [Architect's Newspaper](https://www.archpaper.com/2024/07/art-omi-debuts-new-architect-and-artist-designed-pavilions-in-chatham-new-york/) · [Art Omi press release](https://artomi.org/art-omi-announces-new-initiative-art-omi-pavilions-chatham-with-5-million-grant-from-the-new-york-state-council-on-the-arts/)
+- **The opening date is not settled even in Art Omi's own coverage** — "Spring 2027" (Columbia County tourism), "June 2027" (Art Omi's own site, Dezeen), and a separate 2026 target reported specifically for the Hort family's own pavilion (Artnet). Whatever date is eventually used for `institution_open_year`, expect to cite one specific source over the others, not average them.
+- **No second shared-campus instance was found this run** — Option C's "hold until a second case appears" premise still stands; this remains, as far as this run's research could tell, a category of one.
+- **The ownership question this memo doesn't yet ask is still open**: no source located states whether a participating collector/artist retains legal title to their own pavilion's contents, or transfers it to the nonprofit. That is itself a `familyId`-relevant fact (it decides whether this is closer to `build-institution`-with-shared-infrastructure or something closer to a `partner-institution` variant) and worth resolving before, not after, a family is chosen.
+
+No change to the recommendation. Filed for whoever picks this decision back up.
