@@ -59,6 +59,12 @@
 >
 > Both of them are gone now. The collection is still hanging in San Francisco, together, where anyone can go see it.
 
+### Images (Option A, decided 2026-08-30)
+Clean real image per post, no branded card, no AI. Credit line goes at the very end of the caption.
+- **Yale:** John Trumbull, *The Surrender of Lord Cornwallis at Yorktown* (Yale University Art Gallery, from the 1832 founding gift). Public domain. Downloaded from Wikimedia Commons. Credit: "Image: John Trumbull, The Surrender of Lord Cornwallis at Yorktown, Yale University Art Gallery. Public domain, via Wikimedia Commons." READY.
+- **Fisher:** the SFMOMA (Snøhetta) exterior. Photo by "Beyond My Ken," CC BY-SA 4.0, via Wikimedia Commons. Used unmodified, so share-alike imposes no burden on the caption. Credit: "Image: San Francisco Museum of Modern Art. Photo by Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons." READY.
+- **Lucas:** the finished building. Request the official press image from the Lucas Museum press office (finished-building renderings/photos are owned by the museum and MAD Architects, not free). PENDING that request.
+
 ## Governing rules (read before drafting)
 - **Voice is governed by [[voice]] and the [[ai-tells]] checklist**, specifically the Substack Notes register (plain, specific, one idea at a time, end on a concrete fact, never a manufactured moral). Do not re-derive voice rules; follow those files. Every draft is checked against them.
 - **The transition thread is load-bearing.** Each post is about a collection AND what became of it. If a post is only "an interesting collection," it is not yet a Nariway post. The Nariway angle is always ownership, stewardship, transfer, donation, public access, or what happens next.
