@@ -2,26 +2,62 @@
 
 *The execution home for Nariway's LinkedIn content. The strategy is [[linkedin-strategy-brief|the LinkedIn Strategy Brief]]; the company positioning is `Nariway_Company_Positioning_and_Operating_Brief_Aug_30_2026.md`. This file holds the first-season topics and the drafted posts.*
 
-## Model post — finalized and fact-checked (2026-08-30)
-*This is the current voice and standard. The per-topic drafts in sections 1 to 5 further down are the earlier voice and are being rewritten to match this, each with its own fact-check before use.*
+## Finalized posts (fact-checked, 2026-08-30)
+*These are the current voice and standard, each verified by an independent fact-check. The per-topic drafts in the sections further down are the earlier voice and are superseded for Lucas, Yale, and Fisher. Huang and UBS still need rewriting to this standard.*
 
 **George Lucas and the Lucas Museum of Narrative Art** (fact-checked 2026-08-30 against lucasmuseum.org, The Art Newspaper, KQED, Smithsonian, Forbes)
 
 > George Lucas bought his first piece of art in college. It was an illustration from the old comic strip Alley Oop.
 >
-> He kept buying for the next fifty years. Most of what he chose was work the major museums did not take seriously at the time. He collected Norman Rockwell and N.C. Wyeth, comic pages by Jack Kirby and George Herriman, movie posters, and children's book illustration.
+> He kept at it for fifty years, and most of what he bought was work serious museums wouldn't touch at the time. He collected Norman Rockwell and N.C. Wyeth. He bought comic pages by Jack Kirby and George Herriman, along with movie posters and children's book illustrations.
 >
-> He also bought artists the museums did respect, including Frida Kahlo, Jacob Lawrence, and several of the great muralists.
+> He picked up plenty of artists the museums did respect too, like Frida Kahlo, Jacob Lawrence, and some of the great muralists.
 >
-> In the end the collection grew to more than 40,000 works. All of it rests on one argument Lucas has made for decades. He believes that visual storytelling, the illustration and comics and film imagery most people grow up on, is real art and deserves a museum of its own.
+> Eventually the collection passed 40,000 works. For years, Lucas has argued that this kind of art belongs in a museum. He means the popular work most of us grew up with, the illustration, the comics, the movie posters, taken as seriously as any painting.
 >
-> Building that museum proved harder than assembling the collection. Lucas first wanted it in San Francisco, at the Presidio, but the trust that oversees the site turned him down. He tried next on the Chicago lakefront, where a preservation group sued and he gave up after two years. The project finally found a home in Los Angeles, in Exposition Park, on a city lease of twenty dollars a year.
+> Getting the museum built was a lot harder than buying the art. He tried San Francisco first, at the Presidio, and the trust that runs the site turned him down. He tried the Chicago lakefront next, but a preservation group sued and he walked away after two years. Los Angeles finally took him, in Exposition Park, on a lease of twenty dollars a year.
 >
-> The Lucas Museum of Narrative Art opens there this fall. The building runs to 300,000 square feet, was designed by the architect Ma Yansong, and reportedly cost around a billion dollars. Lucas and his wife, Mellody Hobson, paid for almost all of it.
+> The Lucas Museum of Narrative Art opens there this fall. It is 300,000 square feet, designed by the architect Ma Yansong, and it reportedly cost around a billion dollars. Lucas and his wife, Mellody Hobson, paid for nearly all of it.
 >
-> They also funded an endowment of several hundred million dollars. That is the part most founder museums neglect, and it is the reason so many of them struggle once the founder is gone.
+> They also put several hundred million dollars into an endowment. A lot of people who start a museum skip that part, and it is often why these places run into trouble once the founder is gone.
 >
-> Lucas is 82 years old. He built the collection, funded the museum to outlast him, and on September 22 he will open the doors himself.
+> Lucas is 82. He built the collection and put up the money to keep the place running long after he's gone. On September 22, he gets to open it himself.
+
+**John Trumbull and the Yale University Art Gallery** (fact-checked 2026-08-30 against Yale University Art Gallery, Connecticut History, Wikipedia)
+
+> In 1832, a painter named John Trumbull made an unusual deal with Yale.
+>
+> Trumbull had spent his career painting the American Revolution, which he lived through as a young officer. He had even served for a time as an aide to George Washington. By the end of his life, he was worried about what would happen to all the work.
+>
+> So he sold it to Yale. Twenty-eight history paintings and sixty miniature portraits, in exchange for an annuity that would pay him for the rest of his life.
+>
+> Then he did something stranger. He designed the building that would hold the paintings, and he arranged to be buried inside it. His wife was laid to rest beneath the gallery first, and he joined her there when he died, with his paintings hanging in the rooms above them.
+>
+> The gallery opened that year. It was the first art museum at any university in the country.
+>
+> Yale outgrew it and moved the collection more than once over the years. Each time, they moved Trumbull and his wife too, so he would stay close to the paintings.
+>
+> That first gift is now the Yale University Art Gallery. It holds more than 200,000 objects, and it is open to the public for free.
+>
+> Trumbull could have left the paintings to family, or watched them sell off one by one. Instead he gave them to a school and had himself buried underneath. Two hundred years later, the collection is still there, and so is Trumbull.
+
+**The Fisher Collection and SFMOMA** (fact-checked 2026-08-30 against SFMOMA, Gap Inc., SF Chronicle, Artforum)
+
+> Donald and Doris Fisher built Gap into one of the biggest clothing companies in the world. Along the way, they also built one of the largest private art collections in the country.
+>
+> They started in the 1970s and kept going for decades. By the end they had more than a thousand works by artists like Andy Warhol, Ellsworth Kelly, Gerhard Richter, Richard Serra, and Agnes Martin.
+>
+> For a while, the plan was to build their own museum. They wanted to put it in the Presidio, the former military base in San Francisco. Neighbors and preservationists pushed back, and the Fishers eventually dropped the idea.
+>
+> Instead, in 2009, they made a deal with the San Francisco Museum of Modern Art. The museum would show the collection for 100 years, with the option to renew. The family would keep ownership the whole time.
+>
+> Donald Fisher died the day after the agreement was announced. He never saw the collection installed.
+>
+> SFMOMA built dedicated Fisher galleries into its big expansion, which opened in 2016. Doris stayed involved with the collection until she died this spring, at 94, not long after the galleries were reinstalled.
+>
+> A private collection usually faces a hard choice once its owners are gone. It can be sold, or broken up, or left to heirs who may not want it. The Fishers found another way. They kept the art in the family on paper, and put it on public view for a century.
+>
+> Both of them are gone now. The collection is still hanging in San Francisco, together, where anyone can go see it.
 
 ## Governing rules (read before drafting)
 - **Voice is governed by [[voice]] and the [[ai-tells]] checklist**, specifically the Substack Notes register (plain, specific, one idea at a time, end on a concrete fact, never a manufactured moral). Do not re-derive voice rules; follow those files. Every draft is checked against them.
