@@ -1,53 +1,69 @@
-# QA Report — 2026-08-29
+# QA Report — 2026-08-30
 
-**Verdict:** Not clean. All three CRITICAL findings from the 2026-08-28 audit remain unfixed, one of them for the fifth consecutive audit and still spreading. The Collections dataset itself continues to show clean sourcing and confidence-tagging discipline in every case coded since the last audit (113 cases now, up from 108; primary-verification backlog narrowed 67 → 60, not growing unbounded).
+**Verdict:** Not clean. Four of the six findings carried from the 2026-08-29 audit are now fixed (see Resolved, below) — the dataset's own hygiene is holding up well (116 coded cases, up from 113; backlog growth is individually justified, not unbounded). But one CRITICAL item is carried an eighth straight audit, and this run surfaces a new, more serious CRITICAL: a same-day company brief that redefines what Nariway *is* now sits uncrossed against the canonical positioning file, and new marketing collateral has already started citing the wrong one.
 
 ---
 
 ## CRITICAL
 
-### 1. CARRIED (5th audit), still spreading — live public-facing em dashes: 25 instances across 24 case files, two of them new since last audit.
-`ai-tells.md` / `voice.md`: "No em dashes. Use commas or restructure," binding on all public-facing copy, which includes every `public_*` frontmatter field (these export verbatim to `export/nariway-public.json` and the live site). A fresh grep of every `public_*` field this run (`grep -rn "—" cases/*.md` filtered to lines beginning `public_`) confirms all 22 files named last audit are still live and unfixed, and finds the defect in two additional files not previously named: `kvareli-foundation.md` and `met-irving-chinese-gift.md` (both coded since the last audit). Total raw occurrences held flat at 25 (one file, `0xcollection.md`, still carries two). This is the fifth consecutive audit to flag this exact defect on the exact same underlying set of files; the fourth audit already predicted that a further recurrence "would indicate the fix instruction itself isn't being read, not just deprioritized," and new cases are still being coded with the same defect rather than the backlog shrinking.
-**Fix:** run a single mechanical pass — `grep -rn "—" cases/*.md | grep "^public_"` per file — rewrite every hit with a comma or restructured sentence, regenerate the export, and add this grep as a pre-commit or pre-export check scoped to `public_*` fields. A note in this report has now failed to close this five times running; only an automated gate will.
+### 1. NEW — Two documents both claim to be Nariway's canonical positioning, and they contradict each other.
+`Nariway_Company_Positioning_and_Operating_Brief_Aug_30_2026.md` (vault root, added today by Alina directly) opens: **"Status: Current source of truth for the Nariway company / operations / agents Claude Code project."** It defines Nariway as a **"founder-led art estate consulting practice,"** gives Alina's title as **"Alina Okun, CPA, Founder and Art Estate Consultant"** (explicitly: "Do not use CGMA"), and frames the audience as "estate attorneys, fiduciaries, trustees, families, and other professional advisors when a significant art collection becomes part of an estate."
 
-### 2. CARRIED (3rd audit) — `marketing/what-becomes-of-great-art-collections.md:344` still states the IRS Art Advisory Panel's superseded FY2018 figures as current FY2023 fact, still contradicting the claims-register entry it cites.
-The sentence (now at line 344, previously flagged at 314 and 330) is unchanged: *"In FY2023, the most recent year a public tally could be found, the Panel reviewed 251 items across 67 taxpayer cases, an aggregate claimed valuation of $360.9 million, and recommended adjusting **63%** of the items it reviewed, a net adjustment of –$64.6 million (C31)."* `claims-register.md` C31 states plainly that those exact figures (251 items / 67 cases / $360.9M / 63% adjusted / –$64.6M) are the **FY2018** numbers, misattributed; the verified FY2023 figures are **195 items / 37 cases / $795,527,954 claimed / 103 accepted (53%) / 92 adjusted (47%) / –$16,946,454 net**. The manuscript's own `(C31)` citation points to the entry that disproves its sentence.
-**Fix:** replace the sentence with C31's verified FY2023 figures.
+`company/positioning.md` — the vault's actual canonical positioning file per [[quality-assurance]] and its own header ("Website, LinkedIn, and any public copy reference THIS") — states the opposite on every one of those points: Nariway is **"strategic advisory / consulting — not an arts org... not an art advisor/dealer"**; the canonical bio gives no CPA credential and a different title ("Alina Okun, Founder"); the audience is framed as primarily B2C (the collector directly), with fiduciary/attorney channels named explicitly as **"referral / relationship channels — NOT customers."**
 
-### 3. CARRIED (7th audit) — `export/nariway-public.json:6604` and `content/content.json:54` still misattribute the wealth-transfer figure to three non-comparable sources blended into one number, live on the public site.
-Unchanged verbatim across seven audits: both files still read `"value": "~$31T+"`, `"source": "wealth-research (Cerulli / UBS / Knight Frank)"`. `claims-register.md` C36 exists specifically to bar this: Deloitte/ArtTactic's ~$31T (C1's input, decade, global) is not Cerulli's $124T (US-only, through 2048, C8) or UBS's ~$83T (global, 20-25 years, C36); Knight Frank publishes no wealth-transfer total at all (only UHNWI population counts, C34).
+This is not a stale-doc problem, it is a live one: `marketing/linkedin-strategy-brief.md:3` already reads *"the company positioning is `Nariway_Company_Positioning_and_Operating_Brief_Aug_30_2026.md`"* — new marketing work has started pointing at the new file instead of `[[positioning]]`, the single source of truth [[quality-assurance]] and [[positioning]] itself both require. If this is a deliberate pivot, positioning.md is now the stale one; if it is not yet decided, it should not be described as "current source of truth."
+**Standard violated:** [[positioning]]'s single-source rule; QA remit (e) single source of truth; (c) claims/positioning consistency.
+**Fix:** Alina resolves which document governs (or how they reconcile — e.g., the root brief as the *services* layer beneath the existing public *identity* layer). Whichever way it resolves, update `company/positioning.md` itself with the outcome, and repoint `marketing/linkedin-strategy-brief.md` (and anything else already citing the root file) to `[[positioning]]` rather than a second copy.
+
+### 2. CARRIED (8th audit) — `export/nariway-public.json:6963` and `content/content.json:54` still misattribute the wealth-transfer figure to three non-comparable sources blended into one number, live on the public site.
+Unchanged verbatim across eight audits: both files still read `"value": "~$31T+"`, `"source": "wealth-research (Cerulli / UBS / Knight Frank)"`. `claims-register.md` C36 exists specifically to bar this: Deloitte/ArtTactic's ~$31T (C1's input, decade, global) is not Cerulli's $124T (US-only, through 2048, C8) or UBS's ~$83T (global, 20-25 years, C36); Knight Frank publishes no wealth-transfer total at all (only UHNWI population counts, C34).
 **Fix:** replace the tile with the already-drafted GWT Block 2/3 figures in `marketing/gwt-content-draft.md`, or at minimum attribute `$31T` to Deloitte/ArtTactic alone.
 
 ---
 
 ## SHOULD-FIX
 
-### 4. CARRIED — `marketing/what-becomes-of-great-art-collections.md:263` still cites "(Deloitte, Table 1)" and "(Cerulli, Table 1)" for two figures Table 1 doesn't contain.
-Table 1 (line 57-66) holds $992B, $2.56T→$3.47T, $54T, 72%, 80%, 51%; neither the raw $31T nor $124T appears there.
-**Fix:** delete the two "(..., Table 1)" tags.
+### 3. NEW — `marketing/linkedin-posts.md` post 5 (Fisher/SFMOMA) collapses a scope distinction the vault itself is careful about, before it reaches Alina.
+The draft says: *"more than a thousand works by artists including Warhol, Richter, Serra, and Ellsworth Kelly... in 2009 they placed **the collection** on loan to the San Francisco Museum of Modern Art for 100 years."* As written, a reader takes the whole 1,000+-work collection to be on loan. But `cases/fisher-sfmoma.md` and `claims-register.md` C53 both flag this exact conflation as the thing to avoid: only **720+ of the ~1,100 works** are the SFMOMA-loaned subset; the case file lists "the 720-on-loan vs ~1,100-total reconciliation" as an open gap, not a settled fact to publish over.
+**Fix:** before this post is scheduled, either state the loan figure as 720+ works, or drop the "more than a thousand" total from the loan sentence.
 
-### 5. CARRIED — `case-template.md` still contradicts itself on the export gate, and `Spot-verified` remains undefined.
-Line 9 lists `Spot-verified` as an allowed `verification_status` value with no definition anywhere in the file. Line 34 states the export gate is `public_page_eligible` AND `public_verified` (explicitly not the internal `verification` tag); line 50 still says a case is held from export until `verification: primary-verified`, directly contradicting line 34.
-**Fix:** define `Spot-verified`; delete or rewrite line 50 to match line 34.
+### 4. NEW — All five drafted LinkedIn posts end on a stated-meaning "moral" line, the exact pattern the file's own governing voice rules forbid.
+`marketing/linkedin-posts.md` line 6 says voice is governed by [[voice]] and [[ai-tells]], "specifically the Substack Notes register." That register's own rule: *"End on a concrete fact or image, never a manufactured conclusion... If a closing line explains what the story means, cut it and let the last fact land."* [[ai-tells]] names the same pattern directly: *"The ending that repeats the post."* Every one of the five drafted posts closes this way instead of on a fact:
+- Post 1: "What a collection becomes after its collector stops building it is the part I pay attention to."
+- Post 2: "The direction the money takes is the thing worth watching."
+- Post 3: "The clearest reading of a corporate collection is often a reading of the company behind it."
+- Post 4: "A private collection becomes a public institution the moment someone decides its next owner should be everyone. Trumbull made that decision for himself, in advance, and built the room to enforce it."
+- Post 5: "Ownership is one question. Who will look after the work for the next century is a different one, and the Fishers answered the second."
 
-### 6. Primary-verification backlog narrowed, not growing — good discipline, confirm it continues.
-The backlog dropped from 67 to 60 numbered items while the coded dataset grew from 108 to 113 cases. No action needed; noted so the pattern keeps getting checked.
+This is a 5-for-5 pattern, not an isolated slip, and it is exactly the "no stating beliefs directly, let the scene carry them" rule in [[voice]].
+**Fix:** cut the closing interpretive sentence from each post; end on the last concrete fact instead (post 5, for instance, reads cleanly ending at "...shortly before Doris Fisher died at 94").
+
+### 5. Primary-verification backlog grew from 60 (2026-08-29 baseline) to 73 items over the last three research runs, faster than the case count grew (113 → 116).
+Every addition is individually justified with a real, located EIN, and structural gaps (aggregator-only financials, foreign-jurisdiction disclosure gaps, gifts absorbed into a larger institution's undisaggregated finances) continue to be correctly excluded from the numbered list rather than inflating it — the same discipline noted as good practice last audit. No action needed yet, but flagging because this is the first run-window where the backlog grew faster than the dataset; worth a narrowing-focused run if the trend continues.
 
 ---
 
 ## MINOR
 
-### 7. CARRIED — the `origin` frontmatter field is still split across multiple values with no definition in `case-template.md`.
-Current usage: `corporate` (35) · `private-individual` (24) · `private` (14) · `artist` (5, not previously named).
+### 6. CARRIED — the `origin` frontmatter field is still split across multiple values with no definition in `case-template.md`.
+Current usage: `private-individual` (25) · `private` (14) · `corporate` (12) · `artist` (3, still not documented).
 **Fix:** pick one value for the private side, normalize, and document all values including `artist` in `case-template.md`.
 
-### 8. CARRIED — corporate-continuity vocabulary still fragmented.
+### 7. CARRIED — corporate-continuity vocabulary still fragmented.
 `bank-of-america-collection.md`, `credit-suisse-ubs-collection.md`, `deutsche-bank-collection.md`, `jpmorgan-chase-collection.md`, and `ubs-art-collection.md` use `parent-entity-continuity`; `enron-art-collection.md` and `lehman-brothers-collection.md` use `parent-entity-survival` for the same underlying concept.
 **Fix:** adopt one term; add it as an authorized value in `case-template.md`.
 
-### 9. No settled decision found still marked open.
-Checked all files in `company/decisions/`: all are explicitly marked decided. No structural issue.
+### 8. No settled decision found still marked open.
+Checked all files in `company/decisions/`. The board-membership decision (2026-08-14) is itself resolved ("a qualified YES, to the right board only"); its outcome line is honestly marked `_open_` because the specific board search is genuinely still in progress, not because a decision is unrecorded. No structural issue.
 
 ---
 
-**Counts:** 3 critical (0 new, 2 carried unchanged, 1 carried and spreading; all 3 escalating in audit count) / 3 should-fix (1 new confirm-only, 2 carried) / 3 minor (1 detail added, 2 carried).
+## Resolved since the 2026-08-29 audit (confirmed this run, no longer flagged)
+- **Live public-facing em dashes** (5 consecutive prior audits, 25 instances across 24 files): fixed. A fresh grep of every `public_*` frontmatter field across all of `cases/*.md` found zero em dashes.
+- **Manuscript FY2018/FY2023 IRS Art Advisory Panel mix-up** (3 consecutive prior audits): fixed. `marketing/what-becomes-of-great-art-collections.md:358` now states the verified FY2023 figures (195 items / 37 cases / $795,527,954 / 47% adjusted / –$16,946,454), matching claims-register C31.
+- **Table 1 mis-citation**: fixed. The two "(..., Table 1)" tags citing figures Table 1 doesn't contain are gone.
+- **`case-template.md` export-gate self-contradiction + undefined `Spot-verified`**: fixed. `Spot-verified` is now defined at line 9; line 50 now matches line 34's export-gate statement instead of contradicting it.
+
+---
+
+**Counts:** 2 critical (1 new, 1 carried an 8th audit) / 3 should-fix (2 new, 1 confirm-only) / 3 minor (all carried, unchanged) — against 4 items resolved since the last audit.
