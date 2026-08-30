@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29",
+  "generated": "2026-08-30",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -298,6 +298,82 @@
         "ARTnews",
         "Artnet",
         "The Times of Central Asia"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "american-visionary-art-museum",
+      "publicDepth": "expanded",
+      "name": "American Visionary Art Museum",
+      "founder": "Rebecca Alban Hoffberger",
+      "location": "Baltimore, Maryland, USA",
+      "profile": {
+        "founded": 1995,
+        "structure": "Independent nonprofit museum; Congressionally designated national museum and education center for self-taught, intuitive art",
+        "publicAccess": "Open to the public year-round",
+        "currentState": "Operating in Baltimore since 1995; a Congressionally-designated national museum now on its third director in four years.",
+        "size": "Museum campus of several buildings, including a former whiskey warehouse"
+      },
+      "composition": {
+        "focus": "Outsider, self-taught, and \"visionary\" art by untrained artists",
+        "movements": [
+          "Outsider art",
+          "visionary art",
+          "folk art"
+        ],
+        "period": "Contemporary (founded 1995, collecting and exhibiting ongoing)",
+        "media": [
+          "painting",
+          "sculpture",
+          "assemblage",
+          "mixed media",
+          "large-scale installation"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Rebecca Hoffberger founds the organization that becomes AVAM",
+            "year": 1989,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The museum opens in a converted Baltimore whiskey warehouse",
+            "year": 1995,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Hoffberger retires as full-time director; Jenenne Whitfield succeeds her as only the second director in the museum's history",
+            "year": 2022,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Whitfield departs abruptly, roughly a year into the role",
+            "year": "2023-09",
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Ellen Owens, formerly of the Castellani Art Museum at Niagara University, becomes AVAM's next director",
+            "year": "2025-06",
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Rebecca Hoffberger founded the American Visionary Art Museum in Baltimore to give a permanent home to self-taught, untrained \\\"visionary\\\" artists largely ignored by the mainstream art world. It opened in a converted whiskey warehouse in 1995 and was later designated by Congress as America's national museum and education center for this kind of art. Hoffberger stepped back from full-time directorship in 2022; the museum has had two further directors since.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Baltimore Fishbowl",
+        "CBS Baltimore",
+        "The Baltimore Banner",
+        "Wikipedia"
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
@@ -2459,6 +2535,56 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "hsu-tang-nyhistorical",
+      "publicDepth": "record",
+      "name": "Hsu-Tang Collection of Indigenous American Art",
+      "founder": "Agnes Hsu-Tang and Oscar Tang",
+      "location": "New York, New York, USA",
+      "profile": {
+        "collectingBegan": "unknown",
+        "structure": "Promised gift to an existing public history museum (New York Historical)",
+        "publicAccess": "Exhibited publicly (House Made of Dawn, April 22–August 16, 2026); full collection enters the museum's permanent holdings",
+        "currentState": "Promised gift announced February 2026; on view at New York Historical through August 2026.",
+        "size": "150 works"
+      },
+      "composition": {
+        "focus": "Modern and contemporary art by Indigenous American artists, 1880 to the present",
+        "period": "1880 to present",
+        "selectedArtists": [
+          "Nampeyo of Hano",
+          "Jeffrey Gibson"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Agnes Hsu-Tang and Oscar Tang announce a promised gift of 150 works by 100-plus Indigenous artists to New York Historical, timed to the 250th anniversary of US independence",
+            "year": "2026-02",
+            "familyId": "partner-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The collection is exhibited as \"House Made of Dawn: Art by Native Americans 1880 to Now",
+            "year": "2026-04",
+            "familyId": "partner-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Agnes Hsu-Tang, chair of New York Historical's board of trustees, and her husband Oscar Tang assembled a collection of 150 works by more than 100 Indigenous American artists and announced its promised gift to the museum in February 2026, timed to the 250th anniversary of the founding of the United States.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "New York Historical",
+        "ARTnews",
+        "Native News Online"
+      ],
+      "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
       "slug": "inhotim",
       "publicDepth": "expanded",
       "name": "Instituto Inhotim",
@@ -4307,6 +4433,66 @@
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
+    },
+    {
+      "slug": "reynolda-house",
+      "publicDepth": "expanded",
+      "name": "Reynolda House Museum of American Art",
+      "founder": "Barbara Babcock Millhouse (granddaughter of Katharine and R.J. Reynolds)",
+      "location": "Winston-Salem, North Carolina, USA",
+      "profile": {
+        "founded": 1965,
+        "structure": "Independent nonprofit museum, university-affiliated (Wake Forest University) since 2018",
+        "publicAccess": "Open to the public",
+        "currentState": "Thriving; affiliated with Wake Forest University since 2018.",
+        "size": "Historic 1917 estate house plus later exhibition and education wing"
+      },
+      "composition": {
+        "focus": "American art from the colonial period to the present, displayed inside R.J. and Katharine Reynolds's historic estate house",
+        "period": "Colonial era to contemporary",
+        "media": [
+          "painting",
+          "works on paper",
+          "decorative arts"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Katharine Smith Reynolds and R.J. Reynolds build Reynolda House as their family estate",
+            "year": 1917
+          },
+          {
+            "event": "Charles Babcock reimagines Reynolda House as an arts center; daughter Barbara Babcock Millhouse becomes founding board president and begins building the American-art collection",
+            "year": 1965,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Reynolda House Museum of American Art formally opens",
+            "year": 1967,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Reynolda House affiliates with Wake Forest University",
+            "year": 2018,
+            "familyId": "partner-institution",
+            "codedPathway": "university-partnership"
+          }
+        ]
+      },
+      "origin": "Katharine Smith Reynolds and her husband, R.J. Reynolds, founder of the R.J. Reynolds Tobacco Company, built Reynolda House as their family estate in 1917. In the mid-1960s their granddaughter, Barbara Babcock Millhouse, reimagined the house as a museum of American art, serving as founding board president and building the collection herself; the museum opened in 1967 and affiliated with Wake Forest University in 2018.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wake Forest Magazine",
+        "Reynolda",
+        "Wikipedia",
+        "Cause IQ (Form 990 aggregator)"
+      ],
+      "lastReviewed": "2026-08"
     },
     {
       "slug": "rauschenberg-foundation-hq",
