@@ -59,11 +59,15 @@
 >
 > Both of them are gone now. The collection is still hanging in San Francisco, together, where anyone can go see it.
 
-### Images (Option A, decided 2026-08-30)
-Clean real image per post, no branded card, no AI. Credit line goes at the very end of the caption.
-- **Yale:** John Trumbull, *The Surrender of Lord Cornwallis at Yorktown* (Yale University Art Gallery, from the 1832 founding gift). Public domain. Downloaded from Wikimedia Commons. Credit: "Image: John Trumbull, The Surrender of Lord Cornwallis at Yorktown, Yale University Art Gallery. Public domain, via Wikimedia Commons." READY.
-- **Fisher:** the SFMOMA (Snøhetta) exterior. Photo by "Beyond My Ken," CC BY-SA 4.0, via Wikimedia Commons. Used unmodified, so share-alike imposes no burden on the caption. Credit: "Image: San Francisco Museum of Modern Art. Photo by Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons." READY.
-- **Lucas:** the finished building. Request the official press image from the Lucas Museum press office (finished-building renderings/photos are owned by the museum and MAD Architects, not free). PENDING that request.
+### Images — branded card, built in Canva (decided 2026-08-30)
+Each post image is a branded card: the Nariway hero (`Depositphotos_134297510_XL.jpg`, licensed) as the full-bleed background, the card text on the open wall, and a real, cited photo set into a frame. No AI. The credit line goes at the end of the LinkedIn caption, not on the card. Built in Canva (see the layout guide artifact); a photo of a single dark painting was rejected as a weak feed thumbnail, the card carries a headline hook instead.
+
+**Canva recipe:** Canvas 1080 x 1350 px (4:5). Fonts: Newsreader Medium (wordmark, headline) and Schibsted Grotesk (eyebrow, dek); if Schibsted is missing in Canva use Archivo. Colors: ink #1A1A17, ochre eyebrow #9A6B2E, dek #3F3B32, frame gold #B1863C. Wordmark NARIWAY top-left (~40px, wide letter-spacing). Eyebrow "COLLECTION STORY" (~18px, uppercase, ochre). Headline ~64-72px. Dek ~26px. Real photo lower-right in a thin gold or dark frame with a soft shadow. Save as a Canva template, then duplicate and swap image + headline + dek per post.
+
+**Per-card content and image:**
+- **Yale** — Headline "The Artist Buried Beneath His Own Collection"; dek "John Trumbull gave Yale his life's work, then had himself buried beneath it." Image: Trumbull, *The Surrender of Lord Cornwallis at Yorktown* (Yale, 1832 gift), public domain, Wikimedia. Caption credit: "Image: John Trumbull, The Surrender of Lord Cornwallis at Yorktown, Yale University Art Gallery. Public domain, via Wikimedia Commons." IMAGE READY.
+- **Fisher** — Headline "The Collection on a Hundred-Year Loan"; dek "The Fishers built one of America's great private collections, then lent it to a museum for a century." Image: SFMOMA exterior, photo by Beyond My Ken, CC BY-SA 4.0, Wikimedia (used unmodified in the frame). Caption credit: "Image: San Francisco Museum of Modern Art. Photo by Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons." IMAGE READY.
+- **Lucas** — Headline "The Filmmaker Who Built a Museum for Narrative Art"; dek "George Lucas spent fifty years collecting the art museums dismissed. Now it has a home." Image: finished building, request from the Lucas Museum press office. Caption credit per the museum's photo requirement. IMAGE PENDING.
 
 ## Governing rules (read before drafting)
 - **Voice is governed by [[voice]] and the [[ai-tells]] checklist**, specifically the Substack Notes register (plain, specific, one idea at a time, end on a concrete fact, never a manufactured moral). Do not re-derive voice rules; follow those files. Every draft is checked against them.
