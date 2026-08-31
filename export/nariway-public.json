@@ -1119,6 +1119,83 @@
       "livingCollector": true
     },
     {
+      "slug": "charles-dee-mitchell-collection",
+      "publicDepth": "record",
+      "name": "Charles Dee Mitchell Collection",
+      "founder": "Charles Dee Mitchell",
+      "location": "Dallas, TX",
+      "profile": {
+        "collectingBegan": "1990s (approximate; exact year unconfirmed)",
+        "structure": "Bequest to an existing museum, signed by the collector five years before his death and executed without dispute",
+        "publicAccess": "On accession at the Dallas Museum of Art; individual works enter the museum's normal collection-display rotation",
+        "currentState": "540 works and the collector's home arrived at the Dallas Museum of Art in 2026, fulfilling a bequest signed in 2021.",
+        "size": "540 works"
+      },
+      "composition": {
+        "focus": "Photography (with a particular focus on conflict photography), drawings, prints, sculpture, metalwork, ceramics, and works on paper",
+        "media": [
+          "photography",
+          "drawing",
+          "print",
+          "sculpture",
+          "metalwork",
+          "ceramics"
+        ],
+        "selectedArtists": [
+          "Earlie Hudnall Jr.",
+          "Dayanita Singh",
+          "Chris Marker",
+          "Patti Smith",
+          "Malick Sidibé",
+          "Barbara Rossi",
+          "Cecilia Vicuña",
+          "Karl Wirsum",
+          "Alex Katz",
+          "Gladys Nilsson"
+        ],
+        "recipients": [
+          "Dallas Museum of Art"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Mitchell, a Dallas art critic and curator, begins collecting seriously after a career at Half Price Books",
+            "year": "circa 1990s",
+            "familyId": "donate-existing-museum-intact",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Mitchell signs a bequest committing his collection and East Dallas home to the Dallas Museum of Art",
+            "year": 2021,
+            "familyId": "donate-existing-museum-intact",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Mitchell dies (Nov 2025, age 74)",
+            "year": 2025,
+            "familyId": "donate-existing-museum-intact",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The bequest is fulfilled: 540 works arrive at the DMA; the donated house is sold, proceeds funding a Mitchell-named works-on-paper endowment",
+            "year": 2026,
+            "familyId": "donate-existing-museum-intact",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Charles Dee Mitchell, a Dallas art critic and curator who built his fortune through stock options earned at Half Price Books, spent decades assembling a personal collection weighted toward photography, conflict photography especially, and works on paper. He signed a bequest to the Dallas Museum of Art in 2021, four years before his death, committing both the collection and his distinctive East Dallas home; both arrived at the museum in 2026 exactly as written, with the house's sale proceeds funding a named endowment in his honor.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Glasstire",
+        "KERA News"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
       "slug": "cisneros",
       "publicDepth": "expanded",
       "name": "Colección Patricia Phelps de Cisneros",
@@ -6912,6 +6989,75 @@
         "ubs.com",
         "MoMA",
         "PR Newswire"
+      ],
+      "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "uob-art-collection",
+      "publicDepth": "expanded",
+      "name": "UOB Art Collection",
+      "founder": "United Overseas Bank (personal collecting interest of longtime chairman Wee Cho Yaw is separately documented)",
+      "location": "Singapore, with works across UOB's regional offices and branches",
+      "profile": {
+        "founded": "1970s (early)",
+        "structure": "Active, board-supported corporate collection housed within a commercial bank",
+        "publicAccess": "Displayed across UOB's head office, branches, and regional offices; a dedicated public gallery partnership with National Gallery Singapore",
+        "currentState": "Active corporate collection, continuously built since the 1970s; anchors the UOB Southeast Asia Gallery at National Gallery Singapore.",
+        "size": "variously reported at 2,600-8,000+ works (contested across sources; see Gaps)"
+      },
+      "composition": {
+        "focus": "Modern and contemporary Southeast Asian art, with an emphasis on supporting the region's living artists",
+        "movements": [
+          "Modern Southeast Asian art"
+        ],
+        "period": "1970s-present",
+        "media": [
+          "painting",
+          "works on paper"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "UOB begins collecting Southeast Asian art, initially to fill its own new headquarters and support the region's then-fledgling art scene",
+            "year": "1970s",
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "UOB launches the \"UOB Painting of the Year\" competition, the longest-running art prize in Singapore",
+            "year": 1982,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "UOB becomes a long-standing collaborator with National Gallery Singapore",
+            "year": 2015,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "UOB becomes a Founding Partner of National Gallery Singapore, and the UOB Southeast Asia Gallery opens, anchored by the bank's holdings",
+            "year": 2016,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "UOB renews its National Gallery Singapore partnership for a further five years",
+            "year": 2024,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "United Overseas Bank began collecting Southeast Asian art in the early 1970s, initially to furnish its new Singapore headquarters and to support a regional art scene that had little institutional backing at the time. Five decades later the collection anchors a dedicated public gallery at National Gallery Singapore and underwrites the region's longest-running art prize, making it one of the most visible examples of a corporate collection built into standing regional cultural infrastructure rather than kept as office decoration.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "National Gallery Singapore",
+        "UOB Group",
+        "The Peak Magazine (Singapore)"
       ],
       "lastReviewed": "2026-08"
     },
