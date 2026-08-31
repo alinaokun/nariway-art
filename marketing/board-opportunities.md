@@ -108,7 +108,7 @@
 - **Give/get:** Not public. No minimum-gift figure found; the museum's own framing (broadening the donor base) suggests a skills-first ask, not a high-dollar floor.
 - **Approach path:** Board president Liza Sharp, or through the incoming director once named — worth a check-in in a few weeks, since the new ED hire will likely reshape board priorities. No formal outside "apply to the board" channel found; Museum Search & Reference (already engaged by the museum) could also be a lead for board-facing introductions.
 - **Honest flag:** the strongest live-need signal of any candidate on this list, offset by real distance. Alina's own call on whether a ~2-2.5 hr commute is workable for quarterly board meetings.
-- **Found:** 2026-08-24 network-research scan.
+- **Found:** 2026-08-24 network-research scan. **Update (2026-08-31):** national director search confirmed still underway via Museum Search & Reference as of April 2026 — no successor named yet, the live-need window is still open.
 
 ### 16. Lockwood-Mathews Mansion Museum (Norwalk, CT)
 [lockwoodmathewsmansion.com](https://lockwoodmathewsmansion.com/about/board/) — Fairfield County (~1 hr 15 from Montvale).
@@ -119,12 +119,30 @@
 - **Honest flag:** the board skews civic/municipal (Redevelopment Agency, Second Taxing District Commission, local attorneys and contractors) rather than collector- or museum-leader-thick — weaker on criterion 2 than most entries here, though the finance need and mission fit are unusually strong.
 - **Found:** 2026-08-27 network-research scan.
 
+### 17. American Folk Art Museum (New York, NY)
+[folkartmuseum.org](https://folkartmuseum.org/news/museum-future) — NYC (~35-45 min from Montvale).
+- **Why it fits:** A genuine, disclosed financial crisis — in March 2025 the board reportedly considered closure before a cash infusion from trustees and the Ford Foundation kept it open. The board has since adopted "a new financial strategy to ensure fiscal viability" and elected new leadership (Chair Laura Parsons, President Edward V. "Monty" Blanchard Jr.), and is actively hiring for finance roles. FY2024: revenue $5.54M vs. expenses $6.66M, total assets ~$17M. A textbook live need for real financial governance, not a courtesy seat — and Nariway already has a public-source lead inside the institution, [[Karley Klopfenstein]] (Deputy Director & CDO), giving a warmer entry point than most candidates here.
+- **Give/get:** Not public. Institution's urgent need reads as expertise/stewardship, not a checkbook.
+- **Approach path:** Board recently reconstituted under new Chair/President — a live recruitment moment. Contact via the board office, folkartmuseum.org, or warm-intro through Karley Klopfenstein's development office.
+- **Honest flag:** the crisis narrative is from 2025 and still unfolding into 2026 — verify the museum's current financial trajectory before approach.
+- **Found:** 2026-08-31 network-research scan.
+
+### 18. Florence Griswold Museum (Old Lyme, CT)
+[florencegriswoldmuseum.org](https://florencegriswoldmuseum.org) — ~2.5-3 hrs from Montvale, a genuine geographic stretch.
+- **Why it fits:** A textbook single-collector/founder-origin museum — Florence Griswold's historic home and the Lyme Art Colony's collection turned public institution. Two live-need signals at once: Executive Director Joshua Torrance is departing (to become Fenimore Art Museum's next president, joining Jan 2026) exactly as the museum is mid-way through a $24.2M capital campaign (~$11M raised as of Oct 2025) tied to a $17.8M building expansion, with construction underway since Jan 2026. Leadership transition plus capital-campaign strain simultaneously is an unusually concrete finance/governance need.
+- **Give/get:** Not public.
+- **Approach path:** A new ED search is presumably underway or resolved by now — worth confirming current ED status, then outreach through the board chair.
+- **Honest flag:** distance is a real stretch for regular in-person board service from Montvale; a candidate only if Alina is open to a lower-frequency or hybrid commitment.
+- **Found:** 2026-08-31 network-research scan.
+
 ## Considered, weaker fit
 - **New Britain Museum of American Art** (New Britain, CT) — [nbmaa.org](https://nbmaa.org/trustees). Single-collector-adjacent founding (the Grace Judd Landers bequest built the core American-art collection) and a strong research dividend: a just-completed facilities/financial study feeding a 2025–2030 strategic plan explicitly aimed at reducing endowment-draw dependency. Weaker on drivability (~2.5 hr), a fit only if Alina is open to a longer-distance or hybrid board.
 - **Storm King Art Center** — a real governance/succession story (new ED Nora Lawrence, new Chair Nicholas Polsky), but the board is stacked with major individual donors and former museum directors, almost certainly a high give/get. Watch, don't approach yet.
 - **Merchant's House Museum** (Manhattan, ~45 min) — [merchantshouse.org](https://merchantshouse.org/calltoarms-2/). A genuine 14-year public-access/preservation crisis (a fight against adjacent construction threatens closure), but the museum is financially healthy per its FY2024 Form 990 (~$1M revenue, surplus, $4.4M net assets), so the "live finance need" criterion is weak, and it's a decorative-arts period house rather than a private art collection. Include only for a preservation-governance angle, not a finance one. Found 2026-08-20 network-research scan. **Also investigated and rejected:** The Watermill Center (Sag Harbor) — Robert Wilson's founder-succession story (he died July 2025) is real, but its "board" is an international curatorial/artist advisory council, not a fiduciary trustee board, with no evidence of a finance seat.
 
 - **Hammond Museum & Japanese Stroll Garden** (North Salem, NY, ~40 min) — [hammondmuseum.org](https://www.hammondmuseum.org/board-of-trustees). A genuine single-founder case (Natalie Hays Hammond's personal art collection and stroll garden, opened to the public in 1961) with no full-time staff, so trustee skills are load-bearing in principle. But the live-need signal is soft — a 2025 "the new Hammond" push to the North Salem Town Board was about visibility/attendance, not a disclosed finance crisis or active board-recruitment cycle — and the visible board (a school-board member, an artist, an art historian) doesn't clearly clear criterion 2's collector/museum-leader density. Revisit if a finance-specific ask or new-trustee announcement surfaces. Found 2026-08-27 network-research scan.
+
+- **Fenimore Art Museum** (Cooperstown, NY, ~3.5-4 hrs) — [fenimoreartmuseum.org](https://www.fenimoreartmuseum.org). A genuinely strong case on the merits: Stephen C. Clark-founded, houses major folk-art and Native American art (Thaw Collection) holdings, and President/CEO Paul D'Ambrosio is retiring in summer 2026 after more than four decades — a 40-year-tenure succession that is exactly the institutional-memory/sustainability case study Nariway's own research thesis is built around (successor Joshua Torrance, ex-Florence Griswold, already named via internal succession, joined as SVP Jan 2026). Rejected as an active target purely on distance — too far for routine NY-metro board service — but logged because the research dividend is unusually high; worth a light watch if Alina is ever open to a lower-frequency national-tier board. Found 2026-08-31 network-research scan.
 
 ## Also considered / not a fit (for now)
 - **ArtTable** ([arttable.org](https://www.arttable.org/about/)) — a superb *network* node (1,200+ women and nonbinary visual-arts leaders; board includes advisor-ecosystem figures) and worth joining for reach, but it is a membership organization advancing professional leadership, not a governance-hungry board where a CFO's skills are the scarce input. Pursue as a network, not a board target.

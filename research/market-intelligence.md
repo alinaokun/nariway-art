@@ -48,6 +48,13 @@ A running log maintained by the **Research** lens and fed by [[nariway-signals|S
 
 **Discipline note on this pass.** Both points sourced via WebSearch synthesis; no direct fetch. WebFetch re-tested against projects.propublica.org this run and re-confirmed `EGRESS_BLOCKED` (see [[report-dataset]] for the running count).
 
+**Fourth deepening pass, 2026-08-31 (network-research scan) — two named-author counter-arguments, in tension with each other.**
+- **A direct rebuttal of the "heirs will dump inherited art" reading, from the primary survey itself.** Marianna Mamou (UBS Head of Advice Beyond Investing), "Debunking 5 Myths about the Great Wealth Transfer" (Art Basel Stories, Aug 26, 2026), uses the Art Basel/UBS Global Collecting Survey to argue the more consequential story is *timing* (lifetime giving vs. death-transfer) rather than disposal, and that roughly $9T of the transfer moves horizontally between spouses, not just down generations — a UBS-sourced figure adjacent to, but not identical with, C8's $54T US-specific spousal figure; treat as a separate, non-additive data point pending reconciliation. Reinforces C3 (retention is the norm) with a named-author voice inside the survey's own publisher. [Art Basel Stories](https://www.artbasel.com/stories/art-basel-report-2026-great-wealth-transfer-inheritance-tax)
+- **A structural market-risk counter-argument, pulling the other way.** Georgina Adam (author of *Dark Side of the Boom*, *The Big Bucks*; already a tracked authority per [[linkedin]]), "Flood Warning: The Risks of the Great Wealth Transfer" (Apollo Magazine, Mar 2, 2026), warns that concentrated holdings by aging collectors could flood the market with duplicate/similar works as they come free simultaneously, undermining the scarcity premiums that support high prices — a market-structural risk argument distinct from the tax/succession framing dominating most of this section's other entries.
+- **Read together:** retention (Mamou/UBS) and a scarcity-premium risk if retention breaks down at scale (Adam) are not contradictory — the first describes the dominant near-term behavior, the second names a tail risk if that behavior shifts. Neither changes this report's operative C1 figure; both sharpen the range of outcomes worth watching.
+
+**Discipline note on this pass.** Both pieces are named-author, dated, and were reached via WebSearch (URLs confirmed, full text not independently re-fetched against a blocked domain this run). Treat as corroboration/counter-argument at the same secondary-analysis tier as entry #1's other Substack/press sources, not as new primary data.
+
 ---
 
 ## 2. The estate rush — supply, not demand, is carrying the market

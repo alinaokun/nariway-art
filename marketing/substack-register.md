@@ -60,6 +60,8 @@ Built by the [[substack]] function. The Substack and adjacent writers relevant t
 
 ---
 
+**[Creativity Meets Capital](https://creativitymeetscapital.substack.com)** — Nina Orm. Reframes inheritance as "architecture, not payout" — taste, governance, and control passed alongside capital — and argues art, land, and IP are becoming formal legacy-asset strategy among Black founders, creatives, and stewards building generational wealth. A genuinely new voice on collection/cultural-asset legacy from an underrepresented-wealth-building angle, not previously tracked. *Confirm cadence and further posts on first visit; a single strong piece so far ("Cultural Capital as Inheritance," Jan 11, 2026).* Found 2026-08-31, network-research scan.
+
 ## Watchlist — do not cite until confirmed
 - **Nina Kong-Surtees** (smART Advisory, "Chief Art Legacy Advisor"), directly on Nariway's legacy theme but with **no Substack found**. She publishes on [Medium](https://medium.com/@nycgallerina) and nycgallerina.com. Track there. She is also on the [[warm-network]] shortlist as a peer to meet.
 - **MuseumWeek Magazine** (Substack) surfaced for museum content, author and cadence unconfirmed.
