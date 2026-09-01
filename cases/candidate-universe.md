@@ -347,6 +347,17 @@ Selected to **maximize variation** across pathway × founder-status × geography
 
 **Pool status note (2026-09-01):** the daily Signals-fed pool remains fully absorbed (per Discovery cycle 3's note); this run again used a dedicated WebSearch discovery pass. Future runs should continue that pattern — targeted searches by theme (artist foundations, corporate collections by region, dispersal/auction cases, non-museum forms) — rather than assuming candidate-universe.md itself carries an unworked backlog.
 
+## Discovery cycle 6 — this run's finds (2026-09-01, second run today)
+*Sourced via a dedicated WebSearch discovery pass targeting African and Gulf geographies specifically — the corporate and private-individual sub-samples had zero African cases and one Gulf-adjacent case (Jaipur, India) before this run. Provisional; each carries its source.*
+
+| Name | Founder / party | Pathway | Founder | Geography | Thesis / why it matters |
+|---|---|---|---|---|---|
+| ✓ **Barjeel Art Foundation** — CODED [[barjeel-art-foundation]] | Sultan Sooud Al Qassemi | found-foundation (loans-only, no permanent building) | Living | Sharjah, UAE | The sample's first Gulf/Emirati case: a living collector's 1,800+-work Arab-art foundation reaches the public almost entirely through loans to 130+ institutions worldwide rather than a building — and a 2026 public appeal for UAE venue partners shows the founder now actively outgrowing that model. A clean H5 case (filling a real representational gap for modern Arab art in the international canon). |
+| ✓ **Standard Bank Art Collection** — CODED [[standard-bank-art-collection]] | Standard Bank (corporate) | corporate active steward + free public gallery | n/a (corporate; first acquisition 1938) | Johannesburg, South Africa | Closes a real gap — the corporate sub-sample was entirely North American/European/Asian before this. Distinctive among the sample's corporate cases for running a dedicated, free, standalone public gallery since 1990 rather than only showing art inside its own offices — closer to the corporate-foundation model (Cartier, Prada) than the "in-office asset" model most bank cases in the sample follow. |
+| ✓ **Yemisi Shyllon Museum of Art** — CODED [[yemisi-shyllon-museum-of-art]] | Prince Yemisi Shyllon | university-partnership | Living | Lagos, Nigeria | Nigeria's first purpose-built private art museum and first privately funded university art museum (2019), on the campus of Pan-Atlantic University. Sharpens the university-partnership pathway with a variant the sample's existing cases (Anderson@Stanford, Ogden) don't show: the founder paired his 1,000+-work gift with a ~$1.7M, ten-year operating subsidy, an explicit hedge against the host-institution funding risk [[ogden]]'s case already flagged. |
+
+**Pool status note (2026-09-01, second run today):** the daily Signals-fed pool remains fully absorbed; this cycle again used a dedicated, theme-targeted WebSearch discovery pass (geography this time, not pathway or origin). Future runs should keep rotating the search axis — pathway, geography, origin, and now specific underrepresented regions (Africa, the Gulf, Southeast Asia beyond Singapore, Latin America beyond Brazil/Argentina/Mexico) — since the general "recent museum/foundation news" query has been exhausted repeatedly across prior cycles.
+
 ## Signals daily — 2026-08-31
 *From the daily [[nariway-signals|Signals]] scan. Provisional; each carries its source.*
 

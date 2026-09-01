@@ -673,6 +673,67 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "barjeel-art-foundation",
+      "publicDepth": "expanded",
+      "name": "Barjeel Art Foundation",
+      "founder": "Sultan Sooud Al Qassemi",
+      "location": "Sharjah, United Arab Emirates",
+      "profile": {
+        "founded": 2010,
+        "structure": "Independent, non-collecting-building nonprofit foundation holding a founder's personal collection; no permanent standalone museum building",
+        "publicAccess": "Public in-house exhibitions and public programs in Sharjah, plus extensive international loans (130+ institutions, including Tate Liverpool, Tate St Ives, MoMA PS1, the Art Institute of Chicago, and the Mori Art Museum); online/digital publications",
+        "currentState": "Active, growing loans-only foundation since 2010; 1,800+ works of modern and contemporary Arab art, loaned to 130+ institutions worldwide.",
+        "size": "1,800+ works"
+      },
+      "composition": {
+        "focus": "Modern and contemporary art by Arab artists, from across the Arab world and its diaspora",
+        "movements": [
+          "Arab modernism",
+          "postwar Arab abstraction"
+        ],
+        "period": "mid-20th century-present",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Sultan Sooud Al Qassemi establishes the Barjeel Art Foundation in Sharjah to manage, preserve, and exhibit his personal collection of Arab art",
+            "year": 2010,
+            "familyId": "found-foundation",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Collection has grown past 1,800 works and loaned to 130+ institutions worldwide, with the foundation still holding no permanent standalone building of its own",
+            "year": 2024,
+            "familyId": "found-foundation",
+            "codedPathway": "traveling-program"
+          },
+          {
+            "event": "Al Qassemi publicly appeals for additional UAE venue partners to display more of the collection long-term, citing space constraints",
+            "year": 2026,
+            "familyId": "found-foundation",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Sultan Sooud Al Qassemi began collecting modern and contemporary Arab art and in 2010 established the Barjeel Art Foundation in Sharjah to manage, preserve, and share it. Rather than building a museum, the foundation has grown into one of the most widely loaned Arab-art collections in the world, appearing in exhibitions at major international institutions while continuing to seek permanent exhibition space in the UAE.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Barjeel Art Foundation (official)",
+        "The Art Newspaper",
+        "Wikipedia",
+        "universes.art"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "bechtler",
       "publicDepth": "expanded",
       "name": "Bechtler Museum of Modern Art",
@@ -5214,6 +5275,78 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "standard-bank-art-collection",
+      "publicDepth": "expanded",
+      "name": "Standard Bank Art Collection",
+      "founder": "Standard Bank (institutional); first acquisition credited to the bank's founding-era leadership",
+      "location": "Johannesburg, South Africa (pan-African reach through Standard Bank Group's operations)",
+      "profile": {
+        "founded": 1938,
+        "structure": "Active, centrally-managed corporate collection housed within a commercial bank; public-facing exhibitions run through the bank's own non-commercial Standard Bank Gallery",
+        "publicAccess": "Free public exhibitions at the Standard Bank Gallery, Johannesburg (opened 1990); a related, separately governed university partnership (the Standard Bank African Art Collection at Wits University, est. 1978) extends public/scholarly access further",
+        "currentState": "Active corporate collection built since 1938; 1,200+ works by ~250 mostly South African artists, shown free to the public at the bank's own Johannesburg gallery since 1990.",
+        "size": "1,200+ works by ~250 (mainly South African) artists"
+      },
+      "composition": {
+        "focus": "South African and African art, including early modernist and contemporary work",
+        "movements": [
+          "South African modernism"
+        ],
+        "period": "late 1930s-present",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Gerard Sekoto",
+          "George Pemba",
+          "Irma Stern",
+          "William Kentridge",
+          "Diane Victor"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Standard Bank acquires a portrait of its first general manager, Robert Stewart — the collection's earliest recorded work",
+            "year": 1938,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "Standard Bank and the University of the Witwatersrand establish the separately governed Standard Bank African Art Collection, funded by an annual bank purchasing grant",
+            "year": 1978,
+            "familyId": "corporate",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "The Standard Bank Gallery opens in Johannesburg as a free, non-commercial public venue for the corporate collection",
+            "year": 1990,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "Dr Same Mdluli appointed head curator, continuing active public programming",
+            "year": 2018,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "Standard Bank's art collection traces to a 1938 portrait acquisition and has grown, entirely inside the bank's own corporate structure, into a collection of more than 1,200 works by roughly 250 mostly South African artists. Since 1990 the bank has shown the collection to the public for free at its own non-commercial Standard Bank Gallery in Johannesburg, and since 1978 has separately funded a related university collection at Wits.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Standard Bank (official)",
+        "Wikipedia",
+        "Artthrob",
+        "South African Art Times"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "star-of-hope-foundation",
       "publicDepth": "expanded",
       "name": "Star of Hope Foundation",
@@ -7534,6 +7667,56 @@
         "Wikipedia"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "yemisi-shyllon-museum-of-art",
+      "publicDepth": "expanded",
+      "name": "Yemisi Shyllon Museum of Art (YSMA)",
+      "founder": "Prince Yemisi Adebowale Shyllon",
+      "location": "Pan-Atlantic University, Lagos, Nigeria",
+      "profile": {
+        "founded": 2019,
+        "structure": "University-housed museum on a private university campus, established through a founding donation and a 10-year operating subsidy from the founder",
+        "publicAccess": "Open to the public and university community; the first privately funded university art museum in Nigeria",
+        "currentState": "Opened 2019; Nigeria's first purpose-built private art museum, on Pan-Atlantic University's campus, holding 1,000+ works from founder Prince Yemisi Shyllon's collection.",
+        "size": "1,000+ works (900 sqm gallery space)"
+      },
+      "composition": {
+        "focus": "Modern and contemporary Nigerian and West African art",
+        "selectedArtists": [
+          "Ben Enwonwu",
+          "Bruce Onobrakpeya",
+          "Erhabor Emokpae"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Prince Yemisi Shyllon donates 1,000+ works and an operating grant (reported ~$1.7M) to establish YSMA at Pan-Atlantic University, following five years of planning",
+            "year": 2019,
+            "familyId": "university-partnership",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "Museum wins Apollo Magazine's Museum Opening of the Year award",
+            "year": 2019,
+            "familyId": "university-partnership",
+            "codedPathway": "university-partnership"
+          }
+        ]
+      },
+      "origin": "Prince Yemisi Shyllon, a Nigerian engineer, lawyer, and art collector, spent decades assembling one of Nigeria's most significant private art collections. In 2019, after five years of planning with Pan-Atlantic University, he donated more than 1,000 works and an operating subsidy to establish the Yemisi Shyllon Museum of Art — the first privately funded art museum on a Nigerian university campus, and the country's first purpose-built private art museum.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Wikipedia",
+        "Apollo Magazine",
+        "Global Voices"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
     },
     {
       "slug": "yuz-museum",
