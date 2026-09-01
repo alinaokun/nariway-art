@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31",
+  "generated": "2026-09-01",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -2163,6 +2163,105 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "fondation-pierre-berge-yves-saint-laurent",
+      "publicDepth": "expanded",
+      "name": "Fondation Pierre Bergé – Yves Saint Laurent",
+      "founder": "Yves Saint Laurent and Pierre Bergé",
+      "location": "Paris, France, with Jardin Majorelle and the Musée Berbère in Marrakech, Morocco",
+      "profile": {
+        "founded": 2002,
+        "structure": "French foundation recognized as a public-interest entity (\"reconnue d'utilité publique\"), governing two museums and an archive",
+        "publicAccess": "Musée Yves Saint Laurent Paris and Musée Yves Saint Laurent Marrakech open to the public; Jardin Majorelle and its Musée Berbère open to the public in Marrakech",
+        "currentState": "Operating continuously since 2002; runs the Musée Yves Saint Laurent Paris and Marrakech's Jardin Majorelle and Musée Berbère, funded partly by the record 2009 auction of the couple's personal art collection.",
+        "size": "733 lots (personal art and decorative-arts collection auctioned 2009); separately, tens of thousands of couture pieces, sketches, and archival items held by the Foundation itself"
+      },
+      "composition": {
+        "focus": "Yves Saint Laurent's couture archive and design legacy; Jacques Majorelle's garden and Berber material culture in Marrakech",
+        "period": "1961 (founding of the couture house) to present",
+        "recipients": [
+          "Fondation Pierre Bergé – Yves Saint Laurent",
+          "Jardin Majorelle / Musée Berbère, Marrakech",
+          "a portion of 2009 auction proceeds to AIDS/medical research"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Pierre Bergé meets Yves Saint Laurent; the two become life partners and, from 1961, business partners in the YSL couture house",
+            "year": 1958,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Saint Laurent and Bergé buy and begin restoring Jardin Majorelle in Marrakech, opening it to the public",
+            "year": 1980,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The two found the Fondation Pierre Bergé – Yves Saint Laurent, recognized as a public-interest foundation, while both are still alive",
+            "year": 2002,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Days before Saint Laurent's death, the couple formalizes their relationship via a French PACS civil union",
+            "year": 2008,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Yves Saint Laurent dies (June 1)",
+            "year": 2008,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Bergé auctions the couple's separate, personal art and decorative-arts collection (733 lots) at the Grand Palais for a record €373.9M, directing proceeds partly to the Foundation and to AIDS/medical research",
+            "year": 2009,
+            "familyId": "founder",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "Musée Berbère opens within Jardin Majorelle, Marrakech",
+            "year": 2011,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Pierre Bergé dies (Sept 8); Madison Cox, Bergé's husband since earlier in 2017 and a longtime board member, becomes Foundation president",
+            "year": 2017,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Musée Yves Saint Laurent Paris opens (Oct 3), weeks after Bergé's death",
+            "year": 2017,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Musée Yves Saint Laurent Marrakech opens",
+            "year": 2017,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Yves Saint Laurent and Pierre Bergé built two legacies side by side: a couture house, and a private art and decorative-arts collection assembled across nearly fifty years together. In 2002, six years before Saint Laurent's death, the couple founded the Fondation Pierre Bergé – Yves Saint Laurent to preserve the fashion archive; then, in 2009, Bergé made the deliberate decision to auction their separate personal art collection entirely rather than keep or donate it, in a sale that became the most valuable private collection ever sold at the time, directing the proceeds toward the Foundation and medical research. The Foundation now runs two Paris and Marrakech museums, alongside Jardin Majorelle, the Marrakech garden the couple had already been restoring and opening to the public since 1980.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Musée Yves Saint Laurent Paris",
+        "NPR",
+        "Artnet News",
+        "Wikipedia (Fondation Pierre Bergé)",
+        "Forbes"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "fondazione-prada",
       "publicDepth": "expanded",
       "name": "Fondazione Prada",
@@ -2426,6 +2525,80 @@
         "VisitNJ"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "hsbc-art-collection",
+      "publicDepth": "expanded",
+      "name": "HSBC Art Collection",
+      "founder": "The Hongkong and Shanghai Banking Corporation (institutional); first acquisitions credited to then chief manager Alexander Stephen",
+      "location": "London, UK, with works distributed across HSBC offices in roughly 60 countries",
+      "profile": {
+        "founded": 1923,
+        "structure": "Active, centrally-managed corporate collection housed within a global commercial bank, overseen by an in-house Global Art Manager",
+        "publicAccess": "Displayed across HSBC's own offices worldwide; periodically exhibited publicly at international art fairs (e.g. Abu Dhabi Art) and occasional gallery loans",
+        "currentState": "Active corporate collection continuously built since 1923; over 4,000 works displayed across HSBC offices worldwide and periodically shown at public art fairs.",
+        "size": "4,000+ works (estimated value ~$600M, per secondary reporting)"
+      },
+      "composition": {
+        "focus": "Art reflecting the bank's own history and geography, spanning its Far East origins through 20th-century British art following its 1992 acquisition of Midland Bank",
+        "movements": [
+          "British modern art",
+          "Chinese export/historical art"
+        ],
+        "period": "19th century-present",
+        "media": [
+          "painting",
+          "works on paper",
+          "sketches"
+        ],
+        "selectedArtists": [
+          "George Chinnery",
+          "Vanessa Bell",
+          "Duncan Grant",
+          "Walter Sickert",
+          "Zhang Xiaogang"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "HSBC's then chief manager Alexander Stephen makes the bank's first recorded art acquisition",
+            "year": 1923,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "HSBC's acquisition of Midland Bank brings a British collection into the combined holdings, broadening the collection's geographic and stylistic range",
+            "year": 1992,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "HSBC purchases Zhang Xiaogang's \"Sunflowers\" for $2.3M, an example of continued active acquisition",
+            "year": 2009,
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "The collection persists and continues touring publicly (e.g. Abu Dhabi Art) through multiple bank-wide restructuring and layoff rounds (2020, 2024-2026) with no reported divestment",
+            "year": "2020s",
+            "familyId": "corporate",
+            "codedPathway": "hybrid"
+          }
+        ]
+      },
+      "origin": "HSBC's art collection began in 1923 with a single acquisition by a bank manager in Hong Kong and has grown, entirely inside the bank's own corporate structure, into a collection of more than 4,000 works spanning a century of the bank's expansion — from its Far East origins through the 1992 acquisition of Midland Bank, which brought a substantial body of British art into the combined holdings. The collection is not owned by any separate foundation; it remains a corporate asset, displayed across HSBC's global offices and occasionally shown to the public at international art fairs.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "HSBC (official)",
+        "Arabian Business",
+        "MyArtBroker",
+        "The National",
+        "Royal Academy of Arts"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "hall-art-foundation",
@@ -5864,6 +6037,71 @@
         "Wikipedia"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "easton-foundation",
+      "publicDepth": "expanded",
+      "name": "The Easton Foundation",
+      "founder": "Louise Bourgeois",
+      "location": "New York, NY (Chelsea, in Bourgeois's own former home and studio)",
+      "profile": {
+        "founded": 1984,
+        "structure": "Private grantmaking foundation (501(c)(3)), established by the artist during her lifetime",
+        "publicAccess": "Louise Bourgeois Archive and study room open by appointment to curators and scholars; a sculpture garden and small exhibition space with original archival materials open to the public",
+        "currentState": "Operating continuously since 1984, 26 years before the artist's death; now in its 42nd year, led since 2010 by her longtime studio collaborator.",
+        "size": "168M USD total assets (2024, foundation-level; not a work count)"
+      },
+      "composition": {
+        "focus": "The complete preservation, study, and interpretation of Louise Bourgeois's artistic legacy",
+        "movements": [
+          "Surrealism-adjacent sculpture",
+          "feminist art",
+          "confessional/psychologically-driven postwar sculpture"
+        ],
+        "period": "1930s-2010 (the artist's working life)",
+        "selectedArtists": [
+          "Louise Bourgeois"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Louise Bourgeois establishes The Easton Foundation during her lifetime, 26 years before her death, granted 501(c)(3) charitable status in April",
+            "year": 1984,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Bourgeois dies (May 31, age 98); bequeaths her Chelsea home and an adjacent townhouse to the Foundation, along with a substantial body of her own work",
+            "year": 2010,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Jerry Gorovoy, Bourgeois's studio assistant and closest collaborator for over three decades, becomes Foundation President",
+            "year": 2010,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Maggie Wright, on staff since 2009, becomes Foundation Director",
+            "year": 2018,
+            "familyId": "founder",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Louise Bourgeois set up The Easton Foundation in 1984, more than a quarter-century before her own death, to preserve and interpret her work on her own terms. When she died in 2010 at age 98, she bequeathed her Chelsea home and studio, an adjacent townhouse, and a substantial body of her own art directly to the Foundation, which now runs an artist archive and study center from that same building under the leadership of Jerry Gorovoy, her studio assistant and closest professional collaborator of more than thirty years.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Easton Foundation (official)",
+        "GuideStar",
+        "Hauser & Wirth",
+        "My Art Guides"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "feuerle-collection",
