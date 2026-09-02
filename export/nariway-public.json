@@ -3239,6 +3239,66 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "bonovitz-collection",
+      "publicDepth": "expanded",
+      "name": "Jill and Sheldon Bonovitz Collection",
+      "founder": "Jill & Sheldon Bonovitz",
+      "location": "Philadelphia, PA",
+      "profile": {
+        "collectingBegan": "1967",
+        "structure": "Promised gift, kept as a named collection within an existing museum (Philadelphia Museum of Art)",
+        "publicAccess": "On view through recurring named exhibitions at the Philadelphia Museum of Art",
+        "currentState": "A named, growing promised gift at the Philadelphia Museum of Art since 2011; regularly exhibited.",
+        "size": "200+ works by 27 self-taught American artists"
+      },
+      "composition": {
+        "focus": "self-taught and outsider American art",
+        "movements": [
+          "outsider art",
+          "self-taught/folk art"
+        ],
+        "period": "20th century",
+        "media": [
+          "painting",
+          "sculpture",
+          "drawing",
+          "assemblage"
+        ],
+        "selectedArtists": [
+          "James Castle",
+          "Bill Traylor",
+          "Martín Ramírez"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Jill and Sheldon Bonovitz formalize a promised gift of 200+ works of self-taught American art to the Philadelphia Museum of Art",
+            "year": 2011,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "\"Great and Mighty Things\" exhibits the collection at PMA for the first time",
+            "year": 2013,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Jill and Sheldon Bonovitz spent decades building one of the leading American collections of self-taught and outsider art, then made most of it a named promised gift to the Philadelphia Museum of Art, where Sheldon Bonovitz has long served as a trustee.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Philadelphia Museum of Art",
+        "The Philadelphia Inquirer",
+        "Duane Morris"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "joe-lewis-collection",
       "publicDepth": "expanded",
       "name": "Joe Lewis Collection",
@@ -3429,6 +3489,64 @@
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
+    },
+    {
+      "slug": "joy-of-giving-something",
+      "publicDepth": "expanded",
+      "name": "Joy of Giving Something (JGS)",
+      "founder": "Howard & Janet Stein",
+      "location": "New York, NY",
+      "profile": {
+        "founded": 1998,
+        "structure": "Private nonprofit foundation",
+        "publicAccess": "Works dispersed into public museum and university collections",
+        "currentState": "Actively placing works into museum and university collections, most recently a near-2,000-photograph gift to Virginia Museum of Fine Arts in 2026.",
+        "size": "Assembled across three centuries of photography; single gifts have run into the thousands of works (nearly 2,000 to VMFA alone in 2026)"
+      },
+      "composition": {
+        "focus": "photography, three centuries",
+        "media": [
+          "photography"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Howard and Janet Stein incorporate Joy of Giving Something as the philanthropic vehicle for Howard's photography collection",
+            "year": 1998,
+            "familyId": "found-foundation",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Howard Stein dies; JGS continues under Janet Stein and its trustees",
+            "year": 2011,
+            "familyId": "found-foundation",
+            "codedPathway": "intentional-dispersal"
+          },
+          {
+            "event": "JGS begins placing works from the collection into museums and universities, starting with Syracuse University, the Studio Museum in Harlem, and the Museum of the City of New York",
+            "year": 2017,
+            "familyId": "give-institution",
+            "codedPathway": "intentional-dispersal"
+          },
+          {
+            "event": "Virginia Museum of Fine Arts receives a gift of 1,986 photographs from JGS",
+            "year": 2026,
+            "familyId": "give-institution",
+            "codedPathway": "intentional-dispersal"
+          }
+        ]
+      },
+      "origin": "Financier Howard Stein built an extensive photography collection and, with his wife Janet, incorporated Joy of Giving Something as its philanthropic vehicle in 1998. After Stein's 2011 death, JGS began systematically placing the collection into museums and universities, continuing into 2026.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "jgsfoundation.org",
+        "The Art Newspaper",
+        "ARTnews"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "julia-stoschek-foundation",
@@ -4194,6 +4312,61 @@
       ],
       "lastReviewed": "2026-08",
       "livingCollector": true
+    },
+    {
+      "slug": "mennello-museum",
+      "publicDepth": "expanded",
+      "name": "Mennello Museum of American Art",
+      "founder": "Marilyn L. & Michael A. Mennello",
+      "location": "Orlando, FL",
+      "profile": {
+        "founded": 1998,
+        "structure": "Owned and operated by the City of Orlando; supported by the nonprofit Friends of the Mennello Museum",
+        "publicAccess": "Open to the public (standard museum admission)",
+        "currentState": "City-owned museum, open since 1998; operating continuously past both founders' deaths.",
+        "size": "35 founding-gift paintings by Earl Cunningham, plus a 2018 gift of 14 further paintings and 5 sculptures"
+      },
+      "composition": {
+        "focus": "American folk and self-taught art, centered on Earl Cunningham",
+        "movements": [
+          "American folk art",
+          "self-taught/outsider art"
+        ],
+        "period": "early-to-mid 20th century",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Earl Cunningham"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "City of Orlando opens the Mennello Museum of American Art in the historic Phillips House, seeded with 35 Earl Cunningham paintings donated by Marilyn and Michael Mennello",
+            "year": 1998,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Michael Mennello donates 14 further paintings and 5 sculptures ($8.75M appraised) and establishes the Michael A. and the Honorable Marilyn Logsdon Mennello Foundation",
+            "year": 2018,
+            "familyId": "give-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Marilyn and Michael Mennello gave their collection of Earl Cunningham folk paintings to the City of Orlando, which opened a museum in a historic house to hold it in 1998. The museum has continued operating under city ownership through both founders' deaths.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Mennello Museum",
+        "Orlando Sentinel",
+        "Orlando Weekly"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "microsoft-art-collection",

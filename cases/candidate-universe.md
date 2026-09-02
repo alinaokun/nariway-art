@@ -24,7 +24,7 @@
 | Shelburne Museum | Electra Havemeyer Webb | Dec. | Shelburne, VT | Americana/folk at architectural scale (39 buildings, a steamboat) | Thriving (survived founder) | ~150,000 obj |
 | ✓ American Visionary Art Museum — CODED [[american-visionary-art-museum]] | Rebecca Hoffberger | Living (retired) | Baltimore, MD | Outsider/"visionary" art; Congressionally-designated repository | Stable; succession underway | 7 bldgs |
 | ✓ Wolfsonian–FIU — CODED [[wolfsonian-fiu]] | Mitchell Wolfson Jr. | Living | Miami Beach, FL | "Design as persuasion" 1850–1950; gifted to a public university | Stable | 200,000+ obj |
-| Mennello Museum | Mennellos | Living | Orlando, FL | Rescued self-taught folk painter Earl Cunningham; city-partnered | Stable | folk |
+| ✓ Mennello Museum — CODED [[mennello-museum]] | Mennellos | Dec. (both) | Orlando, FL | Rescued self-taught folk painter Earl Cunningham; city-owned from founding | Stable (survived both founders) | 35+ works |
 | Rubin Museum | Donald & Shelley Rubin | Living | New York, NY | Himalayan/Tibetan Buddhist art | **Closed bldg 2024** → "museum without walls" | ~4,000 |
 | **Art Omi Pavilions — NEW MODEL** | Art Omi (Susan & Michael Hort among first participating collectors) | Living / emerging | Chatham, NY | **Shared-land legacy campus: 12–18 collectors & artists each design and control their own pavilion on shared 190-acre land + infrastructure, each with an architect of their choosing — a MULTI-COLLECTOR answer to the single-founder museum. A genuinely new pathway that STRESSES THE TAXONOMY (neither found-standalone-museum nor dispersal; a shared-infrastructure / consortium build). Exactly the "invent a model that doesn't exist yet" case [[field-definition]] hunts for. From Nariway Signals, 2026-08-23.** | Emerging — Phase One opens June 2027 | 190 acres |
 | Gochman Family Collection | Becky Gochman (& Zach Feuer, co-founder) | Living | Katonah, NY (from Upper East Side base) | Contemporary Native/Indigenous art, built with a former Whitney curator (Laura Phipps) now installed as director | Emerging — 10,000 sq ft public space opening fall 2026 | 750+ works |
@@ -52,9 +52,9 @@
 | Pearlman Foundation | Pearlmans | Dec. | NY / LA | Impressionist; mandate forces 3 museums to *circulate* works | New (2025) | 63 works |
 | ✓ Thoma Foundation — CODED [[thoma]] | Carl & Marilynn Thoma | Living | Chicago / Santa Fe | Overlooked mediums: digital/electronic, Spanish-colonial, Indigenous; loans only | Thriving | 1,400+ loaned |
 | ✓ Broad "lending library" — CODED [[broad]] | Eli & Edythe Broad | Mixed | Los Angeles, CA | Anti-warehouse: art must be on museum walls (30 yrs before The Broad) | Stable | ~8,000 loans |
-| Bonovitz Collection | Bonovitzes | Living | Philadelphia, PA | Self-taught/outsider American, promised-gift + standing display at PMA | Stable | 600+ |
+| ✓ Bonovitz Collection — CODED [[bonovitz-collection]] | Bonovitzes | Living | Philadelphia, PA | Self-taught/outsider American, promised-gift + standing display at PMA; Sheldon Bonovitz a sitting PMA and Barnes trustee (a ninth H2 insider-exception confirmation) | Thriving | 200+ works |
 | Petrucci Family Foundation | Petrucci family | Living | Bordentown, NJ | African American art; pure loans-only, no gallery | Active | 500+ |
-| Joy of Giving Something | Howard Stein | Dec. | New York, NY | Historical/documentary photography seeded into regional museums | Ongoing | thousands |
+| ✓ Joy of Giving Something — CODED [[joy-of-giving-something]] | Howard Stein | Dec. (2011) | New York, NY | Historical/documentary photography seeded into regional museums; dispersal executed by surviving spouse Janet Stein starting 2017, six years post-death | Thriving | 1,986 works to VMFA alone (2026) |
 
 ## 4 · Traveling & appointment-only / seasonal
 
@@ -369,6 +369,17 @@ Selected to **maximize variation** across pathway × founder-status × geography
 | ✓ **MALBA (Museo de Arte Latinoamericano de Buenos Aires)** — CODED [[malba-costantini]] | Eduardo F. Costantini | found-standalone-museum | Living | Buenos Aires, Argentina | Founded 2001 with 200+ donated works; in Dec. 2025 the still-living 78-year-old founder personally acquired Zurich's 1,233-work Daros Latinamerica Collection and folded it into his own museum, roughly doubling its holdings ahead of the 2026 25th anniversary — a founder-driven collection-merger mechanism this dataset had not yet coded, and the sample's clearest non-U.S./non-European case of a founder-museum actively compounding rather than plateauing. Also names a structural disclosure-regime gap: Argentina has no U.S.-990-equivalent nonprofit filing requirement. |
 
 **Pool status note (2026-09-02):** all three finds are new, non-duplicate additions (checked against the full `cases/` directory before coding). The next discovery axis worth trying: Southeast Asia beyond Singapore, and a dedicated pass on *abandoned/changed museum plans* (per the research-program's Models desk), which this dataset still underrepresents relative to completed pathways.
+
+## Discovery cycle 8 — this run's finds (2026-09-02, second run today)
+*A coverage check found three long-standing candidate-universe rows (`## 1 · Built / housed institutions` and `## 3 · Intentional dispersal & long-term loans`) still un-CODED despite having sat in the pool since the file's original v0.1 sweep — closed this run rather than a fresh WebSearch discovery pass, since the standing candidate pool itself still had real, un-worked entries.*
+
+| Name | Founder / party | Pathway | Founder | Geography | Thesis / why it matters |
+|---|---|---|---|---|---|
+| ✓ **Mennello Museum of American Art** — CODED [[mennello-museum]] | Marilyn & Michael Mennello | found-standalone-museum, city-owned from founding | Dec. (both) | Orlando, FL | The sample's first case where the receiving institution from day one is a municipal government (City of Orlando), not an independent nonprofit board or family trust — a third distinct flavor of "founder hands off control before death," after the university and family-foundation shapes already coded. |
+| ✓ **Jill and Sheldon Bonovitz Collection** — CODED [[bonovitz-collection]] | Jill & Sheldon Bonovitz | donate-existing-museum-intact (promised gift) | Living | Philadelphia, PA | A ninth H2 insider-exception confirmation, donor Sheldon Bonovitz is a sitting Philadelphia Museum of Art AND Barnes Foundation trustee, and a case with no dedicated foundation or filing vehicle at all: a private collection given directly to an existing museum with nothing in between. |
+| ✓ **Joy of Giving Something (Howard Stein)** — CODED [[joy-of-giving-something]] | Howard & Janet Stein | intentional-dispersal + found-foundation | Dec. (2011) | New York, NY | A foundation created 13 years pre-death that did not begin its actual dispersal program until 6 years post-death (2017), still actively placing works as of 2026 (1,986 photographs to VMFA); `decision_owner: spouse`, executed by the surviving Janet Stein and trustees rather than a pre-set instrument. |
+
+**Pool status note (2026-09-02, second run today):** all three were pre-existing rows, not new finds, confirming the standing candidate pool is not yet fully exhausted even after repeated "pool fully absorbed" notes in prior cycles — worth a full line-by-line coverage sweep of sections 1-8 again before assuming a fresh WebSearch discovery pass is the only source of new cases.
 
 ## Signals daily — 2026-08-31
 *From the daily [[nariway-signals|Signals]] scan. Provisional; each carries its source.*

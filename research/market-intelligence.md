@@ -55,6 +55,12 @@ A running log maintained by the **Research** lens and fed by [[nariway-signals|S
 
 **Discipline note on this pass.** Both pieces are named-author, dated, and were reached via WebSearch (URLs confirmed, full text not independently re-fetched against a blocked domain this run). Treat as corroboration/counter-argument at the same secondary-analysis tier as entry #1's other Substack/press sources, not as new primary data.
 
+**Fifth deepening pass, 2026-09-02 (forty-second run, second run today) — macro was the domain longest untouched of the eight (this section last deepened 2026-08-31, every other ecosystem section touched within the prior 2-3 days), per the standing rotation instruction. One new finding, a genuine timing dimension on top of an already-canonical headline figure:**
+- **Cerulli's own $124T transfer projection (C8) has a shape, not just a total — and the shape says the next decade is the busiest one, not a distant peak.** Cerulli's press materials for its wealth-transfer research (the same house behind C8) state that annual transfer *activity* is projected to rise from roughly **$4.2 trillion in 2024 to a peak near $6.1 trillion in 2034-2035**, and that the ten-year window **2026-2036 alone carries approximately 55% of the full 25-year (through 2048) transfer total**. This has not previously been registered in this vault; C8 has carried only the endpoint total, never the velocity curve behind it. New claim **C84** below.
+- **Why it matters to Nariway specifically.** Every prior macro entry in this section argues the transfer is real and coming; this is the first sourced evidence that the coming decade, not some later plateau, is when more than half of the total 25-year volume actually moves. It sharpens the market-entry timing argument in [[positioning]] and the manuscript's Part 4.1 framing: "the window is open now" moves from a qualitative read of estate-rush press coverage (entry #2, below) to a quantified, named-source claim about the specific decade this business operates in.
+
+**Discipline note on this pass.** Sourced via WebSearch synthesis of Cerulli Associates' own press release language (cerulli.com), not a direct PDF fetch — WebFetch remained `EGRESS_BLOCKED` against both domains tested this run (see [[report-dataset]]). Treat as secondary until the underlying Cerulli report itself is fetched directly.
+
 ---
 
 ## 2. The estate rush — supply, not demand, is carrying the market
@@ -67,6 +73,10 @@ A running log maintained by the **Research** lens and fed by [[nariway-signals|S
 2. **Sell is winning by default, not by design.** When the sorting process has no independent coordinator, the auction house is the only party with a standing offer and a process. This sharpens the "who owns the decision" question (H7A) into a competitive one.
 
 **Discipline note.** Trade reporting on market conditions, not a study. Directionally useful; the causal claim (estates *cause* the rebound) is the reporter's read. No numbers routed to the [[claims-register]] from this piece — the widely quoted "about a third of H1 2026 totals came from single-owner collections" appears only in secondary aggregators and is **not** verified, so do not use it.
+
+**Addendum, 2026-09-02 (forty-second run, second run today) — the "about a third" figure this entry flagged as unverified now has a real, named-source replacement, and it is a bigger number than the rumor.** ArtTactic's own *RawFacts Auction Review H1 2026* report (a named analyst house with a disclosed methodology, the same standard C1/C6-C9 already meet) states single-owner sales made up an average of just **7% of New York's auction value from 2015-2020**, rising to **38% in 2025** — a more than five-fold jump in market share for exactly the estate/single-owner sales this section is about. This is a materially cleaner, better-sourced figure than the aggregator-only "about a third" this entry previously refused to cite, and it happens to land close to the same ballpark, now with a real source behind it. Christie's, Sotheby's, and Phillips combined for **$6.77B in H1 2026 auction sales**, described by The Art Newspaper's coverage of the same ArtTactic report as the strongest H1 since 2022 and roughly 70% above H1 2025, with ArtTactic itself characterizing the recovery as **"K-shaped"**: concentrated at the very top of the market, with the middle continuing to lag. New claim **C85** below.
+
+**Discipline note on this addendum.** Sourced via WebSearch synthesis of The Art Newspaper's coverage of ArtTactic's report and ArtTactic's own report landing page; the full RawFacts PDF was not directly fetched this run (`EGRESS_BLOCKED`). Treat the 7%/38% figures as secondary pending a direct pull of ArtTactic's own report.
 
 ---
 
