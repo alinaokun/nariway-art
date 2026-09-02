@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01",
+  "generated": "2026-09-02",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -632,6 +632,80 @@
         "Antiques and The Arts Weekly"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "monte-dei-paschi-collection",
+      "publicDepth": "expanded",
+      "name": "Banca Monte dei Paschi di Siena — Historical Art Collection",
+      "founder": "Institutional (Monte dei Paschi di Siena, founded 1472)",
+      "location": "Siena, Tuscany, Italy",
+      "profile": {
+        "founded": 1472,
+        "structure": "Corporate collection, bank-owned; separately, a philanthropic banking foundation (Fondazione MPS) spun off in 1995",
+        "publicAccess": "Palazzo Salimbeni (bank headquarters), by request/limited public opening; works also loaned to public exhibitions (e.g. Santa Maria della Scala)",
+        "currentState": "Still held and displayed by the bank in Siena; survived a 2013–2017 state bailout intact.",
+        "size": "Several hundred works and historical documents accumulated over more than five centuries"
+      },
+      "composition": {
+        "focus": "Sienese art from the Middle Ages through the 19th century, plus later acquisitions",
+        "movements": [
+          "Sienese School",
+          "Gothic",
+          "Renaissance"
+        ],
+        "period": "13th–20th century",
+        "media": [
+          "painting",
+          "sculpture",
+          "furnishings",
+          "historical documents"
+        ],
+        "selectedArtists": [
+          "Jacopo della Quercia",
+          "Pietro Lorenzetti",
+          "Sano di Pietro",
+          "Domenico Beccafumi",
+          "Sassetta",
+          "Rutilio Manetti",
+          "Francesco Vanni"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Monte dei Paschi is founded in Siena as a mount of piety, the origin of what becomes the world's oldest surviving bank",
+            "year": 1472
+          },
+          {
+            "event": "Adopts the Monte dei Paschi name; begins accumulating art and documents as an institutional holding",
+            "year": 1624
+          },
+          {
+            "event": "Fondazione Monte dei Paschi di Siena is spun off as a separate philanthropic banking foundation",
+            "year": 1995,
+            "familyId": "found-foundation",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "The bank nearly collapses; the Italian state rescues it, taking a 68% stake — the art collection is not liquidated",
+            "year": "2013-2017"
+          },
+          {
+            "event": "The state sells down its stake in phases, returning the bank to majority-private ownership; the art remains bank-held throughout",
+            "year": "2024-2025"
+          }
+        ]
+      },
+      "origin": "Monte dei Paschi di Siena traces to a charitable mount of piety founded in 1472, making it the world's oldest bank still operating under its original name. It began accumulating paintings, sculpture and historical documents as an institutional holding shortly after founding, and the collection — still centered on the Sienese School — has remained with the bank through five and a half centuries, including a 2013–2017 near-failure and state bailout that did not touch the art.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Fondazione Monte dei Paschi di Siena (Wikipedia)",
+        "Finestre sull'Arte",
+        "Banca Monte dei Paschi di Siena (Wikipedia)"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "bank-of-america-collection",
@@ -3298,6 +3372,65 @@
       "lastReviewed": "2026-08"
     },
     {
+      "slug": "schnitzer-family-foundation",
+      "publicDepth": "expanded",
+      "name": "Jordan Schnitzer Family Foundation",
+      "founder": "Jordan D. Schnitzer",
+      "location": "Portland, Oregon, USA",
+      "profile": {
+        "founded": 1997,
+        "structure": "Private operating foundation (nonprofit, 501(c)(3))",
+        "publicAccess": "No public gallery of its own; works circulate on free loan to partner museums nationwide",
+        "currentState": "Active lending program based in Portland, OR; founder living.",
+        "size": "22,000+ works"
+      },
+      "composition": {
+        "focus": "Prints and multiples by major and emerging contemporary artists",
+        "movements": [
+          "Contemporary printmaking"
+        ],
+        "period": "mid-20th century to present",
+        "media": [
+          "prints",
+          "multiples"
+        ],
+        "selectedArtists": [
+          "Judy Chicago",
+          "Chuck Close",
+          "Kara Walker",
+          "Ed Ruscha",
+          "Roy Lichtenstein"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Jordan Schnitzer establishes the Jordan Schnitzer Family Foundation",
+            "year": 1997,
+            "familyId": "found-foundation",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Foundation lends prints free of charge to museums; over 160 exhibitions organized at 120+ venues",
+            "year": "1997-2026",
+            "familyId": "traveling-program",
+            "codedPathway": "traveling-program"
+          }
+        ]
+      },
+      "origin": "Portland real-estate developer Jordan Schnitzer built a collection of over 22,000 prints and multiples and, rather than founding a museum, structured his foundation as a circulating lending library — placing works with museums that lack their own blue-chip holdings, at no cost beyond shipping and insurance.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Jordan Schnitzer Family Foundation (jordanschnitzer.org)",
+        "Artnet News",
+        "Cause IQ"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "julia-stoschek-foundation",
       "publicDepth": "expanded",
       "name": "Julia Stoschek Foundation",
@@ -3830,6 +3963,71 @@
         "Forbes"
       ],
       "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "malba-costantini",
+      "publicDepth": "expanded",
+      "name": "MALBA — Museo de Arte Latinoamericano de Buenos Aires",
+      "founder": "Eduardo F. Costantini",
+      "location": "Buenos Aires, Argentina",
+      "profile": {
+        "founded": 2001,
+        "structure": "Private nonprofit museum, founder-endowed",
+        "publicAccess": "Open to the public daily (standard museum admission)",
+        "currentState": "Open in Buenos Aires since 2001; doubled its collection in December 2025 with the Daros Latinamerica acquisition.",
+        "size": "~3,000 works after the 2025 Daros Latinamerica acquisition (previously ~1,800)"
+      },
+      "composition": {
+        "focus": "Modern and contemporary Latin American art",
+        "movements": [
+          "Latin American Modernism",
+          "Constructivism",
+          "contemporary Latin American practice"
+        ],
+        "period": "early 20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "photography",
+          "video",
+          "installation"
+        ],
+        "selectedArtists": [
+          "Frida Kahlo",
+          "Diego Rivera",
+          "Antonio Berni",
+          "Tarsila do Amaral",
+          "Wifredo Lam"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "MALBA opens in Buenos Aires, seeded with 200+ works Costantini donates from his personal collection",
+            "year": 2001,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Costantini acquires the 1,233-work Daros Latinamerica Collection from Zurich, roughly doubling the museum's holdings ahead of its 2026 25th anniversary",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Argentine real-estate developer and collector Eduardo Costantini founded MALBA in 2001, donating more than 200 works from his own holdings to seed a museum dedicated to Latin American art. In December 2025, ahead of the museum's 25th anniversary, Costantini personally acquired the 1,233-work Daros Latinamerica Collection from Zurich and gave it to the museum, roughly doubling its size.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "MALBA",
+        "Artforum",
+        "ARTnews",
+        "The Art Newspaper"
+      ],
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
