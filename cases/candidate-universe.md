@@ -27,6 +27,7 @@
 | Mennello Museum | Mennellos | Living | Orlando, FL | Rescued self-taught folk painter Earl Cunningham; city-partnered | Stable | folk |
 | Rubin Museum | Donald & Shelley Rubin | Living | New York, NY | Himalayan/Tibetan Buddhist art | **Closed bldg 2024** → "museum without walls" | ~4,000 |
 | **Art Omi Pavilions — NEW MODEL** | Art Omi (Susan & Michael Hort among first participating collectors) | Living / emerging | Chatham, NY | **Shared-land legacy campus: 12–18 collectors & artists each design and control their own pavilion on shared 190-acre land + infrastructure, each with an architect of their choosing — a MULTI-COLLECTOR answer to the single-founder museum. A genuinely new pathway that STRESSES THE TAXONOMY (neither found-standalone-museum nor dispersal; a shared-infrastructure / consortium build). Exactly the "invent a model that doesn't exist yet" case [[field-definition]] hunts for. From Nariway Signals, 2026-08-23.** | Emerging — Phase One opens June 2027 | 190 acres |
+| Gochman Family Collection | Becky Gochman (& Zach Feuer, co-founder) | Living | Katonah, NY (from Upper East Side base) | Contemporary Native/Indigenous art, built with a former Whitney curator (Laura Phipps) now installed as director | Emerging — 10,000 sq ft public space opening fall 2026 | 750+ works |
 
 ## 2 · Built institutions — distressed / closed / dispersed (the failure spectrum)
 
