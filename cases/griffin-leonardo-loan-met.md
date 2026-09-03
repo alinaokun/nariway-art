@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "On long-term loan and on view at the Metropolitan Museum of Art since spring 2026, with no public announcement."
 public_name: Madonna of the Yarnwinder (Leonardo da Vinci and studio)
@@ -34,7 +35,7 @@ public_origin: "Hedge fund founder Kenneth Griffin placed Madonna of the Yarnwin
 public_sources: ARTnews; Cultured; Puck
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Kenneth Griffin's Leonardo (Madonna of the Yarnwinder) — quiet loan to the Met, New York, NY

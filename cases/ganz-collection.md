@@ -13,6 +13,7 @@ verification: spot-verified
 origin: private-individual
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Sold at Christie's, New York, in 1997 for $206.5M, then a record for a single-owner auction."
 public_name: The Collection of Victor and Sally Ganz
@@ -31,7 +32,7 @@ public_origin: "Victor and Sally Ganz built one of the 20th century's most focus
 public_sources: Christie's; ARTnews; NPR; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Collection of Victor and Sally Ganz — New York, NY

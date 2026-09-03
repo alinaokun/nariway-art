@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H8, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating continuously since 1984, 26 years before the artist's death; now in its 42nd year, led since 2010 by her longtime studio collaborator."
 public_name: The Easton Foundation

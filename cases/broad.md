@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active; a lending library since 1984, and The Broad museum (free) since 2015."
 public_name: The Broad Art Foundation
@@ -18,8 +19,8 @@ public_founder: Eli & Edythe Broad
 public_location: Los Angeles / Santa Monica, CA
 public_founded: 1984
 public_structure: Private foundation lending library (and its own museum, The Broad, 2015)
-public_access: Loans to 550+ institutions worldwide; The Broad museum free to the public
-public_size: 2,000+ works; 8,700+ loans made
+public_access: Loans to 600+ institutions worldwide; The Broad museum free to the public
+public_size: 2,000+ works; 9,000+ loans made
 public_focus: postwar and contemporary art
 public_period: mid-20th century onward
 public_media: painting; sculpture
@@ -29,7 +30,7 @@ public_origin: Eli and Edythe Broad built a large postwar and contemporary colle
 public_sources: thebroad.org; ARTnews
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Broad Art Foundation — the lending library

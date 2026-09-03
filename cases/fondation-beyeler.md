@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Riehen, near Basel, since 1997; expanding through 2026–2027."
 public_name: Fondation Beyeler
@@ -20,7 +21,7 @@ public_founded: 1982
 public_collecting_began: post-WWII (Beyeler gallery era)
 public_structure: Independent foundation (Beyeler-Stiftung)
 public_access: Open to the public
-public_size: ~300 works
+public_size: ~400 works
 public_focus: Classical modernism and modern/contemporary masters
 public_movements: Impressionism; Post-Impressionism; Cubism; Surrealism; Abstract Expressionism
 public_period: Late 19th–20th century
@@ -31,7 +32,7 @@ public_origin: "Ernst and Hildy Beyeler, Basel art dealers for half a century, p
 public_sources: fondationbeyeler.ch; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Fondation Beyeler — a dealer-collector couple's museum, governance locked 28 years before death, now expanding

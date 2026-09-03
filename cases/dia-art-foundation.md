@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating across multiple U.S. and German sites; flagship Dia Beacon open since 2003."
 public_name: Dia Art Foundation
@@ -30,7 +31,7 @@ public_origin: "Dia was founded in 1974 by Heiner Friedrich, Philippa de Menil, 
 public_sources: diaart.org; Britannica; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Dia Art Foundation — the sample's clearest near-death-then-recovery test of the permanence-doctrine foundation model

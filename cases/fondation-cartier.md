@@ -12,8 +12,9 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Operating in Paris since 1984; reopened in a new Jean Nouvel building at Place du Palais-Royal in October 2025."
+public_status_text: "Founded in 1984 (in Paris since 1994); reopened in a new Jean Nouvel building at Place du Palais-Royal in October 2025."
 public_name: Fondation Cartier pour l'art contemporain
 public_founder: Alain Dominique Perrin (for Cartier)
 public_location: Paris, France
@@ -28,7 +29,7 @@ public_origin: "Cartier president Alain Dominique Perrin founded the Fondation C
 public_sources: fondationcartier.com; Wikipedia; Britannica
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Fondation Cartier pour l'art contemporain — the oldest corporate-foundation-to-public-museum case in the sample, mid-relocation

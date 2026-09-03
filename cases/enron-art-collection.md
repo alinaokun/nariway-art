@@ -12,8 +12,9 @@ outcome: dissolved
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Collection liquidated at auction in 2002 following Enron's December 2001 bankruptcy."
+public_status_text: "Collection liquidated at auction in 2003 following Enron's December 2001 bankruptcy."
 public_name: Enron Art Collection
 public_location: Houston, Texas
 public_collecting_began: ~1999
@@ -21,12 +22,12 @@ public_structure: Corporate collection
 public_access: Dispersed (formerly displayed in Enron's Houston headquarters)
 public_focus: Contemporary sculpture and works on paper acquired as corporate art
 public_selected_artists: Claes Oldenburg; Donald Judd; Andy Warhol; Alex Katz; Martin Puryear
-public_pathway_timeline: 1999|||Enron assembles an art collection for its Houston headquarters ;; 2001|||Enron files for Chapter 11 bankruptcy (December) ;; 2002|disperse|sell-auction|Works liquidated at Phillips, de Pury & Luxembourg to satisfy creditors
-public_origin: "Enron assembled a contemporary-art collection in its final years to decorate its Houston headquarters. After the company's 2001 bankruptcy, the works were sold at auction in 2002 among other corporate assets, most fetching modest sums."
+public_pathway_timeline: 1999|||Enron assembles an art collection for its Houston headquarters ;; 2001|||Enron files for Chapter 11 bankruptcy (December) ;; 2003|disperse|sell-auction|Works liquidated at Phillips, de Pury & Luxembourg to satisfy creditors
+public_origin: "Enron assembled a contemporary-art collection in its final years to decorate its Houston headquarters. After the company's 2001 bankruptcy, the works were sold at auction in 2003 among other corporate assets, most fetching modest sums."
 public_sources: UPI; AccountingWEB; Washington Post
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Enron Art Collection — the earliest corporate-bankruptcy dispersal in the sample, and a bad-timing lesson

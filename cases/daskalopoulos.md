@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Gifted to four public museums beginning 2022; works entered permanent public collections."
 public_name: The D.Daskalopoulos Collection
@@ -28,7 +29,7 @@ public_origin: "Dimitris Daskalopoulos built the collection from 1994 around a s
 public_sources: tate.org.uk; mcachicago.org; The Art Newspaper
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # D.Daskalopoulos Collection — the co-ownership giveaway

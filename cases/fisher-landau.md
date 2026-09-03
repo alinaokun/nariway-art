@@ -11,6 +11,7 @@ outcome: closed-dispersed
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Center closed in 2017; the collection was dispersed by gift to the Whitney (2010) and by estate auction (2023)."
 public_name: Fisher Landau Center for Art
@@ -31,7 +32,7 @@ public_origin: "Emily Fisher Landau began collecting postwar and contemporary Am
 public_sources: whitney.org; Sotheby's; The Art Newspaper; Artnet
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Fisher Landau Center for Art — the founder closed it herself, then the estate sold it

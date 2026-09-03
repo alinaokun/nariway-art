@@ -11,6 +11,7 @@ outcome: closed-dispersed
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Museum closed 2024 after the founder's death; collection consigned to auction."
 public_name: De la Cruz Collection
@@ -29,7 +30,7 @@ public_origin: Rosa and Carlos de la Cruz built a contemporary art collection in
 public_sources: WLRN; ARTnews; Christie's
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # De la Cruz Collection — a free 30,000-sq-ft private museum, closed the Sunday its founder died, never reopened

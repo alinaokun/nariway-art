@@ -15,6 +15,7 @@ hypotheses: [H3, H4, H7A]
 origin: corporate
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Closing its Berlin exhibition venue at the end of 2026; the collection continues on rotating loan to partner venues from 2027."
 public_name: Deutsche Bank Collection / PalaisPopulaire
@@ -33,7 +34,7 @@ public_origin: In the late 1970s, Deutsche Bank executive Herbert Zapp began buy
 public_sources: Kunstforum International; Frieze; The Art Newspaper; Tagesspiegel; db.com
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Deutsche Bank Collection / PalaisPopulaire — the building closes, the collection doesn't, a live test of which was the real commitment

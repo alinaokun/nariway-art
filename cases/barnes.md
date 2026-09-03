@@ -11,6 +11,7 @@ outcome: pivoted
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating in Philadelphia since 2012; relocated from Merion by court order."
 public_name: The Barnes Foundation
@@ -30,7 +31,7 @@ public_origin: Albert C. Barnes assembled deep holdings of Impressionist, Post-I
 public_sources: barnesfoundation.org; Montgomery County Orphans' Court opinions
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # The Barnes Foundation — the canonical donor-intent / cy pres relocation case
 

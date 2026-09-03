@@ -15,6 +15,7 @@ hypotheses: [H4, H5, H6]
 origin: private
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Opened May 2025 on the Goodwood Estate; a new non-collecting contemporary-art foundation, separate from the family's centuries-old private collection."
 public_name: Goodwood Art Foundation
@@ -34,7 +35,7 @@ public_origin: The Dukes of Richmond have held a private Old Master collection (
 public_sources: The Art Newspaper; Sotheby's; Apollo Magazine; Historic Houses
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Goodwood Art Foundation

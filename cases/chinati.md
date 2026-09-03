@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Marfa since 1986."
 public_name: The Chinati Foundation
@@ -34,7 +35,7 @@ public_sections: The installations :: Chinati holds large-scale work as permanen
 public_sources: chinati.org; Dia Art Foundation
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Chinati Foundation

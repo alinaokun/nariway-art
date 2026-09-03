@@ -15,8 +15,9 @@ interview_status: not-contacted
 hypotheses: [H4, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Opening a 10,000+ sq ft public exhibition space in Katonah, NY, fall 2026."
+public_status_text: "Opening a public exhibition space in Katonah, NY, fall 2026 (5,000 sq ft initially, 10,000 sq ft in its final phase)."
 public_name: Gochman Family Collection
 public_founder: Becky Gochman & Zach Feuer
 public_location: Katonah, NY, USA

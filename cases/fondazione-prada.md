@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating in Milan (since 2015) and Venice (since 2011)."
 public_name: Fondazione Prada
@@ -27,7 +28,7 @@ public_origin: "Miuccia Prada and Patrizio Bertelli founded Fondazione Prada in 
 public_sources: fondazioneprada.org; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Fondazione Prada — the corporate-foundation-to-public-museum model, funded by a living fashion house rather than a bank

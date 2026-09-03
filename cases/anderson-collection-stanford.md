@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "At Stanford University since 2014, in a purpose-built building."
 public_name: Anderson Collection at Stanford University
@@ -32,7 +33,7 @@ public_origin: The Andersons, a Bay Area family, built one of the foremost priva
 public_sources: anderson.stanford.edu; Stanford Report
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Anderson Collection at Stanford University — a purpose-built university gift, now mid-succession at its own founding director's departure

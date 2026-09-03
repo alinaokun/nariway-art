@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H8, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating continuously since 2002; runs the Musée Yves Saint Laurent Paris and Marrakech's Jardin Majorelle and Musée Berbère, funded partly by the record 2009 auction of the couple's personal art collection."
 public_name: Fondation Pierre Bergé – Yves Saint Laurent

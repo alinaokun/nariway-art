@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open to the public in Potomac, Maryland since 2006."
 public_name: Glenstone Museum
@@ -28,7 +29,7 @@ public_origin: "Mitchell Rales, co-founder of the Danaher conglomerate, and his 
 public_sources: glenstone.org; The Art Newspaper; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # Glenstone Museum — the mega-endowed founder-run art park
 

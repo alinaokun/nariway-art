@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "On 100-year loan to SFMOMA since 2009; dedicated galleries fully reinstalled in 2026."
 public_name: Fisher Collection at SFMOMA
@@ -24,12 +25,12 @@ public_focus: postwar and contemporary art (post-1960s American and European)
 public_period: 1960s onward
 public_media: painting; sculpture
 public_selected_artists: Alexander Calder; Chuck Close; Ellsworth Kelly; Anselm Kiefer; Roy Lichtenstein; Agnes Martin; Gerhard Richter; Richard Serra; Andy Warhol
-public_pathway_timeline: 1970s|||Collecting begins ;; 2008|||Planned Presidio museum dropped after community opposition ;; 2009|partner-institution|long-term-loan|Collection placed on a 100-year renewable loan to SFMOMA, family retains ownership ;; 2016|partner-institution|long-term-loan|Dedicated Fisher galleries open in SFMOMA's expansion ;; 2026|partner-institution|long-term-loan|First full reinstallation since 2016
+public_pathway_timeline: 1970s|||Collecting begins ;; 2009|||Planned Presidio museum dropped after community opposition ;; 2009|partner-institution|long-term-loan|Collection placed on a 100-year renewable loan to SFMOMA, family retains ownership ;; 2016|partner-institution|long-term-loan|Dedicated Fisher galleries open in SFMOMA's expansion ;; 2026|partner-institution|long-term-loan|First full reinstallation since 2016
 public_origin: Gap Inc. co-founders Donald and Doris Fisher built one of the largest US private collections of modern and contemporary art, and chose to place it on long-term loan to a public museum rather than open a museum of their own.
 public_sources: SFMOMA; artnet
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # Fisher Collection at SFMOMA — the 100-year loan
 

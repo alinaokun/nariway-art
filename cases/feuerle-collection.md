@@ -12,6 +12,7 @@ outcome: thriving
 verification: secondary
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open by appointment in Berlin since 2016."
 public_name: The Feuerle Collection
@@ -25,11 +26,11 @@ public_period: 200 BC–17th century (antiquities); contemporary (as documented,
 public_media: furniture; sculpture; contemporary art
 public_selected_artists: (antiquities collection; no single-artist roster)
 public_pathway_timeline: 2016|build-institution|found-standalone-museum|Museum opens in a converted WWII telecommunications bunker, Berlin
-public_origin: Désiré Feuerle, a former Cologne gallerist who built a career pairing ancient and contemporary art, converted a pair of WWII telecommunications bunkers in Berlin into a private museum with architect John Pawson, opening to the public by appointment in 2016.
+public_origin: Désiré Feuerle, a former Cologne gallerist who built a career pairing ancient and contemporary art, converted a WWII telecommunications bunker in Berlin into a private museum with architect John Pawson, opening to the public by appointment in 2016.
 public_sources: thefeuerlecollection.org; Dezeen; Apollo Magazine
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # The Feuerle Collection — a third German appointment-only bunker/adapted-building museum, and a clean cross-check on Sammlung Boros's "foundation-in-name-only" finding
 

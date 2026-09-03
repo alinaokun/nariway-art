@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H2, H4, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "A named, growing promised gift at the Philadelphia Museum of Art since 2011; regularly exhibited."
 public_name: Jill and Sheldon Bonovitz Collection

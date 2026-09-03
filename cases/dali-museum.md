@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H1, H4, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in St. Petersburg, Florida since 1982; purpose-built building opened 2011."
 public_name: The Dalí Museum
@@ -34,7 +35,7 @@ public_origin: "Ohio industrialists A. Reynolds and Eleanor Reese Morse built th
 public_sources: thedali.org; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Dalí Museum

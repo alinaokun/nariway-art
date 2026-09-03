@@ -445,7 +445,7 @@
         "anderson.stanford.edu",
         "Stanford Report"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "art-bridges-foundation",
@@ -1763,7 +1763,7 @@
         "ARTnews",
         "Christie's"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -1843,7 +1843,7 @@
         "Tagesspiegel",
         "db.com"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "dia-art-foundation",
@@ -1912,7 +1912,7 @@
         "Britannica",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "vogel-collection",
@@ -1997,7 +1997,7 @@
         "collectingBegan": "~1999",
         "structure": "Corporate collection",
         "publicAccess": "Dispersed (formerly displayed in Enron's Houston headquarters)",
-        "currentState": "Collection liquidated at auction in 2002 following Enron's December 2001 bankruptcy."
+        "currentState": "Collection liquidated at auction in 2003 following Enron's December 2001 bankruptcy."
       },
       "composition": {
         "focus": "Contemporary sculpture and works on paper acquired as corporate art",
@@ -2021,13 +2021,13 @@
           },
           {
             "event": "Works liquidated at Phillips, de Pury & Luxembourg to satisfy creditors",
-            "year": 2002,
+            "year": 2003,
             "familyId": "disperse",
             "codedPathway": "sell-auction"
           }
         ]
       },
-      "origin": "Enron assembled a contemporary-art collection in its final years to decorate its Houston headquarters. After the company's 2001 bankruptcy, the works were sold at auction in 2002 among other corporate assets, most fetching modest sums.",
+      "origin": "Enron assembled a contemporary-art collection in its final years to decorate its Houston headquarters. After the company's 2001 bankruptcy, the works were sold at auction in 2003 among other corporate assets, most fetching modest sums.",
       "image": {
         "status": "no_usable_image"
       },
@@ -2036,7 +2036,7 @@
         "AccountingWEB",
         "Washington Post"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "fisher-sfmoma",
@@ -2078,7 +2078,7 @@
           },
           {
             "event": "Planned Presidio museum dropped after community opposition",
-            "year": 2008
+            "year": 2009
           },
           {
             "event": "Collection placed on a 100-year renewable loan to SFMOMA, family retains ownership",
@@ -2108,7 +2108,7 @@
         "SFMOMA",
         "artnet"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "fisher-landau",
@@ -2182,7 +2182,7 @@
         "The Art Newspaper",
         "Artnet"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "fondation-beyeler",
@@ -2196,7 +2196,7 @@
         "structure": "Independent foundation (Beyeler-Stiftung)",
         "publicAccess": "Open to the public",
         "currentState": "Open in Riehen, near Basel, since 1997; expanding through 2026–2027.",
-        "size": "~300 works"
+        "size": "~400 works"
       },
       "composition": {
         "focus": "Classical modernism and modern/contemporary masters",
@@ -2250,7 +2250,7 @@
         "fondationbeyeler.ch",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "fondation-cartier",
@@ -2262,7 +2262,7 @@
         "founded": 1984,
         "structure": "Corporate foundation (funded by Cartier / Richemont)",
         "publicAccess": "Open to the public",
-        "currentState": "Operating in Paris since 1984; reopened in a new Jean Nouvel building at Place du Palais-Royal in October 2025."
+        "currentState": "Founded in 1984 (in Paris since 1994); reopened in a new Jean Nouvel building at Place du Palais-Royal in October 2025."
       },
       "composition": {
         "focus": "Contemporary art across many media, commissioning-led and multidisciplinary",
@@ -2304,7 +2304,7 @@
         "Wikipedia",
         "Britannica"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "fondation-pierre-berge-yves-saint-laurent",
@@ -2451,7 +2451,7 @@
         "fondazioneprada.org",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "weisman",
@@ -2555,7 +2555,7 @@
         "The Art Newspaper",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -2568,7 +2568,7 @@
         "founded": 2021,
         "structure": "Private collection, professionally directed, with a small grantmaking foundation and a new dedicated public exhibition space",
         "publicAccess": "No-fee institutional lending program since founding; a public gallery space in Katonah opening fall 2026",
-        "currentState": "Opening a 10,000+ sq ft public exhibition space in Katonah, NY, fall 2026.",
+        "currentState": "Opening a public exhibition space in Katonah, NY, fall 2026 (5,000 sq ft initially, 10,000 sq ft in its final phase).",
         "size": "750+ works"
       },
       "composition": {
@@ -2662,7 +2662,7 @@
         "Apollo Magazine",
         "Historic Houses"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4255,7 +4255,7 @@
         "Cultured",
         "Puck"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -6249,7 +6249,7 @@
         "barnesfoundation.org",
         "Montgomery County Orphans' Court opinions"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "blaquier-collection",
@@ -6330,9 +6330,9 @@
       "profile": {
         "founded": 1984,
         "structure": "Private foundation lending library (and its own museum, The Broad, 2015)",
-        "publicAccess": "Loans to 550+ institutions worldwide; The Broad museum free to the public",
+        "publicAccess": "Loans to 600+ institutions worldwide; The Broad museum free to the public",
         "currentState": "Active; a lending library since 1984, and The Broad museum (free) since 2015.",
-        "size": "2,000+ works; 8,700+ loans made"
+        "size": "2,000+ works; 9,000+ loans made"
       },
       "composition": {
         "focus": "postwar and contemporary art",
@@ -6374,7 +6374,7 @@
         "thebroad.org",
         "ARTnews"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -6491,7 +6491,7 @@
         "chinati.org",
         "Dia Art Foundation"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "ganz-collection",
@@ -6554,7 +6554,7 @@
         "NPR",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "daskalopoulos",
@@ -6601,7 +6601,7 @@
         "mcachicago.org",
         "The Art Newspaper"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -6662,7 +6662,7 @@
         "thedali.org",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "easton-foundation",
@@ -6764,7 +6764,7 @@
           }
         ]
       },
-      "origin": "Désiré Feuerle, a former Cologne gallerist who built a career pairing ancient and contemporary art, converted a pair of WWII telecommunications bunkers in Berlin into a private museum with architect John Pawson, opening to the public by appointment in 2016.",
+      "origin": "Désiré Feuerle, a former Cologne gallerist who built a career pairing ancient and contemporary art, converted a WWII telecommunications bunker in Berlin into a private museum with architect John Pawson, opening to the public by appointment in 2016.",
       "image": {
         "status": "no_usable_image"
       },
@@ -6773,7 +6773,7 @@
         "Dezeen",
         "Apollo Magazine"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -8341,8 +8341,8 @@
         "collectingBegan": "1960s",
         "structure": "Independent nonprofit foundation (Rene & Veronica di Rosa Foundation)",
         "publicAccess": "Open to the public (reservation-based since 2025)",
-        "currentState": "Operating in Napa; the 217-acre campus was listed for sale in 2026 amid financial strain, though the collection is retained by its foundation.",
-        "size": "~1,600 works; 217-acre campus"
+        "currentState": "Operating in Napa; in 2026 the foundation withdrew a full-campus sale listing and arranged to transfer about 162 acres to the county open-space district, retaining a 53.5-acre cultural campus and its collection.",
+        "size": "~1,600 works; 53.5-acre retained campus (reduced from 217 acres in 2026)"
       },
       "composition": {
         "focus": "Contemporary art of Northern California / the San Francisco Bay Area",
@@ -8369,12 +8369,12 @@
             "year": 2025
           },
           {
-            "event": "The 217-acre campus is listed for sale (collection retained by the foundation)",
+            "event": "A full-campus sale listing is withdrawn; ~162 acres are transferred to the Napa County Regional Park and Open Space District, and di Rosa retains a 53.5-acre cultural campus and its collection",
             "year": 2026
           }
         ]
       },
-      "origin": "Rene and Veronica di Rosa turned their Napa vineyard estate and collection of Northern California art into a public art park, opened in 1997 on 217 acres. Facing operating costs that outpaced its endowment, the center began deaccessioning and listed its campus for sale in the 2020s while keeping the collection in its foundation.",
+      "origin": "Rene and Veronica di Rosa turned their Napa vineyard estate and collection of Northern California art into a public art park, opened in 1997 on 217 acres. Facing operating costs that outpaced its endowment, the center began deaccessioning and, in 2026, transferred about 162 acres to a county open-space district while retaining a 53.5-acre cultural campus and keeping the collection in its foundation.",
       "image": {
         "status": "no_usable_image"
       },
@@ -8384,7 +8384,7 @@
         "The Art Newspaper",
         "San Francisco Chronicle"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     }
   ],
   "decisions": [],
