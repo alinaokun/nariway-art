@@ -14,6 +14,7 @@ collection_coherence: broad-survey
 decision_owner: no-identifiable-person
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in New York since 1929."
 public_name: The Museum of Modern Art
@@ -33,7 +34,7 @@ public_origin: Three collectors - Lillie P. Bliss, Mary Quinn Sullivan, and Abby
 public_sources: moma.org; Britannica; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # The Museum of Modern Art — New York, NY
 

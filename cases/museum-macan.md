@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H5, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open to the public in Jakarta since November 2017."
 public_name: Museum MACAN (Museum of Modern and Contemporary Art in Nusantara)

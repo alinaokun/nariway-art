@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H2, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating since 1936; grew through decades of separate bequests rather than a single founding gift."
 public_name: The Mint Museum
@@ -34,7 +35,7 @@ public_origin: "When Charlotte's original 1837 US Mint building was slated for d
 public_sources: Wikipedia; NCpedia; Mint Museum; ProPublica Nonprofit Explorer
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Mint Museum — Charlotte, NC, USA

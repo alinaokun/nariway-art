@@ -637,7 +637,7 @@
         "American Folk Art Museum",
         "Antiques and The Arts Weekly"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "monte-dei-paschi-collection",
@@ -697,8 +697,8 @@
             "year": "2013-2017"
           },
           {
-            "event": "The state sells down its stake in phases, returning the bank to majority-private ownership; the art remains bank-held throughout",
-            "year": "2024-2025"
+            "event": "The state sells down its stake in phases (the Treasury holding under 5% by 2026), returning the bank to private ownership; the art remains bank-held throughout",
+            "year": "2023-2026"
           }
         ]
       },
@@ -2724,7 +2724,7 @@
         "Wikipedia",
         "VisitNJ"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "hsbc-art-collection",
@@ -2810,7 +2810,7 @@
         "founded": 2007,
         "structure": "Private nonprofit foundation, dual-site (US 501(c)(3) plus a German gGmbH)",
         "publicAccess": "Free, guided tours by appointment (seasonal, weekends)",
-        "currentState": "Open by appointment at two sites, Vermont and Germany, since 2007 and 2010.",
+        "currentState": "Open by appointment at two sites, Vermont and Germany, opened 2012 and 2017.",
         "size": "5,000+ works"
       },
       "composition": {
@@ -2829,28 +2829,30 @@
       "classification": {
         "pathwayTimeline": [
           {
-            "event": "Hall Art Foundation established; Vermont site opens on a former dairy farm",
+            "event": "Georg Baselitz sells Schloss Derneburg, his home and studio since 1976",
+            "year": 2006
+          },
+          {
+            "event": "Hall Art Foundation established",
             "year": 2007,
             "familyId": "build-institution",
             "codedPathway": "found-foundation"
           },
           {
-            "event": "Georg Baselitz sells Schloss Derneburg, his home and studio since 1976",
-            "year": 2006
-          },
-          {
-            "event": "Kunstmuseum Schloss Derneburg opens as the Foundation's German site",
-            "year": 2010,
+            "event": "The Vermont site opens to the public on a former dairy farm",
+            "year": 2012,
             "familyId": "build-institution",
             "codedPathway": "found-foundation"
           },
           {
-            "event": "Vermont campus expands with a new reception center",
-            "year": 2017
+            "event": "Kunstmuseum Schloss Derneburg opens as the Foundation's German site",
+            "year": 2017,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
           }
         ]
       },
-      "origin": "Commodities trader Andrew Hall and his wife Christine built a major postwar and contemporary art collection, then in 2007 founded a nonprofit to show it seasonally on a former Vermont dairy farm; a chance studio visit to painter Georg Baselitz's castle home in Germany led them to buy and convert Schloss Derneburg into a second, appointment-only museum site in 2010.",
+      "origin": "Commodities trader Andrew Hall and his wife Christine built a major postwar and contemporary art collection, founding a nonprofit in 2007 and opening a Vermont exhibition site on a former dairy farm in 2012; a chance studio visit to painter Georg Baselitz's castle home in Germany led them to buy and convert Schloss Derneburg into a second, appointment-only museum site, which opened in 2017.",
       "image": {
         "status": "no_usable_image"
       },
@@ -2859,7 +2861,7 @@
         "Wikipedia",
         "independent-collectors.com"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -2874,7 +2876,7 @@
         "structure": "Personal collection, no institutional or foundation vehicle",
         "publicAccess": "Not public during his lifetime (private collection); dispersing via museum gifts and estate auction",
         "currentState": "Herbert Lust died May 2026, age 99; his estate's remaining ~300 works are being shopped between Christie's and Sotheby's for a 2026 sale.",
-        "size": "Estate remainder of approximately 300 works (~$60M estimated); thousands of works collected over his lifetime, with hundreds already given to museums before his death"
+        "size": "Estate remainder of approximately 300 works (~$60M estimated); over 1,000 works collected over his lifetime, with hundreds already given to museums before his death"
       },
       "composition": {
         "focus": "Postwar and contemporary art, with concentrations in sculpture and photography",
@@ -2926,7 +2928,7 @@
         "Robb Report",
         "Sotheby's"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "hillwood",
@@ -2982,13 +2984,13 @@
         "Smithsonian Institution Archives",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "hilma-af-klint-foundation",
       "publicDepth": "expanded",
       "name": "Hilma af Klint Foundation",
-      "founder": "Erik af Klint (the artist's great-grandnephew), established per Hilma af Klint's own will",
+      "founder": "Erik af Klint (the artist's nephew)",
       "location": "Stockholm, Sweden",
       "profile": {
         "founded": 1972,
@@ -3017,19 +3019,19 @@
             "year": 1944
           },
           {
-            "event": "The Hilma af Klint Foundation is established by Erik af Klint (an earlier family member of that name) to hold and manage the artist's estate",
+            "event": "The Hilma af Klint Foundation is established by the artist's nephew, Erik af Klint (1901-1981), to hold and manage the artist's estate",
             "year": 1972,
             "familyId": "found-foundation",
             "codedPathway": "found-foundation"
           },
           {
-            "event": "Current chairman Erik af Klint sues four fellow board members and the Foundation's CEO, opposing a proposed representation deal with David Zwirner gallery as a \"hostile takeover\"",
+            "event": "The Foundation's chairman, a later Erik af Klint, sues four fellow board members and the CEO, opposing a proposed representation deal with David Zwirner gallery as a \"hostile takeover\"",
             "year": 2023,
             "familyId": "governance-conflict",
             "codedPathway": "governance-conflict"
           },
           {
-            "event": "A May 2026 settlement between the chairman and a board member ends the legal proceedings; the Zwirner deal's ultimate status is not confirmed in sources located this run",
+            "event": "A May 2026 settlement ends the legal proceedings",
             "year": 2026,
             "familyId": "governance-conflict",
             "codedPathway": "governance-conflict"
@@ -3047,7 +3049,7 @@
         "Hyperallergic",
         "Hilma af Klint Foundation"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "hsu-tang-nyhistorical",
@@ -3059,7 +3061,7 @@
         "collectingBegan": "unknown",
         "structure": "Promised gift to an existing public history museum (New York Historical)",
         "publicAccess": "Exhibited publicly (House Made of Dawn, April 22–August 16, 2026); full collection enters the museum's permanent holdings",
-        "currentState": "Promised gift announced February 2026; on view at New York Historical through August 2026.",
+        "currentState": "Promised gift announced February 2026; exhibited at New York Historical (House Made of Dawn) April to August 2026.",
         "size": "150 works"
       },
       "composition": {
@@ -3096,7 +3098,7 @@
         "ARTnews",
         "Native News Online"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3149,7 +3151,7 @@
         "The Art Newspaper",
         "ARTnews"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3195,7 +3197,7 @@
         "Forbes",
         "Rockefeller University archives"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "jaipur-centre-for-art",
@@ -3252,7 +3254,7 @@
         "Harper's Bazaar India",
         "Serenade"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3301,7 +3303,7 @@
         "Wikipedia",
         "Visit Philadelphia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "bonovitz-collection",
@@ -3370,7 +3372,7 @@
       "founder": "Joe Lewis",
       "location": "Bahamas (residence) / London, UK (sale venue)",
       "profile": {
-        "collectingBegan": "1980s (decade, exact year not located)",
+        "collectingBegan": "over several decades (start year not established)",
         "structure": "Sole personal/family-office holding, no foundation or museum wrapper; a portion sold at public auction",
         "publicAccess": "Not on standing public view; periodic loans and this single-owner auction preview were the collection's main public exposure",
         "currentState": "Partial sale completed June 2026; the collector states the collection continues.",
@@ -3400,12 +3402,6 @@
       "classification": {
         "pathwayTimeline": [
           {
-            "event": "Lewis begins assembling the collection",
-            "year": "1980s",
-            "familyId": "keep-family",
-            "codedPathway": "sell-auction"
-          },
-          {
             "event": "Sotheby's announces a planned sale, estimated at $200M",
             "year": "2026-04",
             "familyId": "keep-family",
@@ -3429,7 +3425,7 @@
         "The Art Newspaper",
         "ARTnews"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3675,7 +3671,94 @@
         "ArtReview",
         "Artforum"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "kenneth-c-griffin-collection",
+      "publicDepth": "expanded",
+      "name": "Kenneth C. Griffin Collection",
+      "founder": "Kenneth C. Griffin",
+      "location": "Miami, Florida (formerly Chicago)",
+      "profile": {
+        "collectingBegan": "1990s",
+        "structure": "Private collection held personally; no museum or standalone art foundation. Public access is entirely through long-term loans to institutions, credited to the \"Kenneth C. Griffin Collection\"; philanthropic gifts run through the Kenneth C. Griffin Charitable Fund",
+        "publicAccess": "On public view through long-term loans to major museums, historically the Art Institute of Chicago, then the Norton Museum of Art (West Palm Beach), and the Metropolitan Museum of Art; no venue of its own",
+        "currentState": "One of the largest private art collections in the United States, shown to the public entirely through museum loans; in 2026 Griffin lent a Leonardo da Vinci to the Metropolitan Museum of Art.",
+        "size": "No published count; individual headline works have sold for $80M-$300M each, with named holdings estimated near $1 billion (an estimate of marquee works, not an audited total)"
+      },
+      "composition": {
+        "focus": "Postwar and contemporary masterworks, recently extending into Old Master painting",
+        "movements": [
+          "Abstract Expressionism",
+          "Pop art",
+          "Postwar and contemporary",
+          "Old Master painting"
+        ],
+        "period": "late 19th century to contemporary",
+        "media": [
+          "painting",
+          "sculpture"
+        ],
+        "selectedArtists": [
+          "Willem de Kooning",
+          "Jackson Pollock",
+          "Jean-Michel Basquiat",
+          "Paul Cézanne",
+          "Gerhard Richter",
+          "Jasper Johns",
+          "Mark Rothko",
+          "Roy Lichtenstein",
+          "Edgar Degas",
+          "Leonardo da Vinci (and Studio)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Griffin buys Jasper Johns's \"False Start\" for a reported $80M",
+            "year": 2006,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "Griffin acquires de Kooning's \"Interchange\" ($300M) and Pollock's \"Number 17A\" ($200M) from the David Geffen Foundation, reported as the largest private art transaction on record",
+            "year": 2015,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "Buys Basquiat's \"Boy and Dog in a Johnnypump\" for more than $100M",
+            "year": 2020,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "After relocating to Florida, Griffin moves loaned masterworks from the Art Institute of Chicago to the Norton Museum of Art in West Palm Beach",
+            "year": 2022,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "Lends Leonardo da Vinci's \"Madonna of the Yarnwinder\" (attributed to Leonardo and Studio) to the Metropolitan Museum of Art",
+            "year": 2026,
+            "familyId": "partner-institution",
+            "codedPathway": "long-term-loan"
+          }
+        ]
+      },
+      "origin": "Kenneth C. Griffin, founder of the hedge fund Citadel and one of the wealthiest people in the United States, has assembled one of the country's most valuable private art collections, from Abstract Expressionist and Pop masterworks to, most recently, an Old Master by Leonardo. He operates no museum of his own. The collection reaches the public entirely through long-term loans that follow his own moves: to the Art Institute of Chicago while he was based there, then to the Norton Museum of Art in West Palm Beach after his 2022 relocation to Florida, and in 2026 a Leonardo lent to the Metropolitan Museum of Art. His collecting extends beyond fine art to historic documents, including a first-printing copy of the U.S. Constitution he lends for public display.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ARTnews",
+        "Artnet News",
+        "CNN",
+        "The Washington Post",
+        "The Art Newspaper"
+      ],
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3728,7 +3811,7 @@
         "ARTnews",
         "Artnet"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3799,7 +3882,7 @@
         "Cantor Arts Center",
         "Association of Print Scholars"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3829,7 +3912,7 @@
           }
         ]
       },
-      "origin": "Georgian businessman and collector Jemal Inaishvili, the country's largest contemporary-art collector, built a purpose-built foundation in his native Kakheti wine region to preserve, exhibit, and study Georgian contemporary art, opening October 31, 2026.",
+      "origin": "Georgian businessman and collector Jemal Inaishvili, a leading Georgian collector, built a purpose-built foundation in his native Kakheti wine region to preserve, exhibit, and study Georgian contemporary art, opening October 31, 2026.",
       "image": {
         "status": "no_usable_image"
       },
@@ -3837,7 +3920,7 @@
         "Artforum",
         "Artdaily"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3900,7 +3983,7 @@
         "Las Vegas Review-Journal",
         "LACMA (Unframed)"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "lee-kun-hee-collection",
@@ -3956,8 +4039,8 @@
             "codedPathway": "donate-existing-museum-scattered"
           },
           {
-            "event": "MMCA opens a dedicated new wing showcasing the collection",
-            "year": 2024,
+            "event": "MMCA unveils new permanent exhibitions featuring the collection, shown across its branches since 2021",
+            "year": 2025,
             "familyId": "donate-existing-museum-scattered",
             "codedPathway": "donate-existing-museum-scattered"
           },
@@ -3980,7 +4063,7 @@
         "The Korea Times",
         "KED Global"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "lehman-brothers-collection",
@@ -4038,7 +4121,7 @@
         "Art Observed",
         "PBS NewsHour"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "longleaf",
@@ -4092,7 +4175,7 @@
         "St. Joe Company / Cultural Arts Alliance of Walton County",
         "Artnet"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4145,7 +4228,7 @@
         "The Art Newspaper",
         "Forbes"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4214,51 +4297,6 @@
       "livingCollector": true
     },
     {
-      "slug": "griffin-leonardo-loan-met",
-      "publicDepth": "record",
-      "name": "Madonna of the Yarnwinder (Leonardo da Vinci and studio)",
-      "founder": "Kenneth C. Griffin",
-      "location": "New York, NY (on loan to the Metropolitan Museum of Art)",
-      "profile": {
-        "collectingBegan": "unknown (Griffin's acquisition date not publicly disclosed)",
-        "structure": "Private ownership, on long-term loan to a public museum; no foundation or gift structure",
-        "publicAccess": "On public view in the Met's European Paintings galleries (Gallery 609), unannounced",
-        "currentState": "On long-term loan and on view at the Metropolitan Museum of Art since spring 2026, with no public announcement.",
-        "size": "single work"
-      },
-      "composition": {
-        "focus": "Renaissance painting attributed to Leonardo da Vinci and studio",
-        "period": "circa 1501-1505",
-        "media": [
-          "painting"
-        ],
-        "selectedArtists": [
-          "Leonardo da Vinci (and studio)"
-        ]
-      },
-      "classification": {
-        "pathwayTimeline": [
-          {
-            "event": "Madonna of the Yarnwinder quietly appears on loan in the Met's European Paintings galleries, with no press release",
-            "year": 2026,
-            "familyId": "keep-family",
-            "codedPathway": "long-term-loan"
-          }
-        ]
-      },
-      "origin": "Hedge fund founder Kenneth Griffin placed Madonna of the Yarnwinder, attributed to Leonardo da Vinci and his studio, on long-term loan to the Metropolitan Museum of Art in spring 2026, with the work simply appearing in the galleries and no public announcement from either the collector or the museum.",
-      "image": {
-        "status": "no_usable_image"
-      },
-      "sources": [
-        "ARTnews",
-        "Cultured",
-        "Puck"
-      ],
-      "lastReviewed": "2026-09",
-      "livingCollector": true
-    },
-    {
       "slug": "magazzino",
       "publicDepth": "expanded",
       "name": "Magazzino Italian Art",
@@ -4317,7 +4355,7 @@
         "Wikipedia",
         "artnet News"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4375,7 +4413,7 @@
         "Artnet News",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4483,7 +4521,7 @@
         "Widewalls",
         "DailyArt Magazine"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "benini",
@@ -4597,7 +4635,7 @@
         "Dezeen",
         "ArchDaily"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4646,7 +4684,7 @@
         "museopoldipezzoli.it",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "museum-berggruen",
@@ -4709,7 +4747,7 @@
         "berlin.de",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "museum-macan",
@@ -4803,7 +4841,7 @@
         "Wikipedia",
         "ABC News"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4858,7 +4896,7 @@
         "Domus",
         "David Chipperfield Architects"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4927,7 +4965,7 @@
         "The Art Newspaper",
         "ARTnews"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4941,7 +4979,7 @@
         "structure": "Independent nonprofit museum (founded through a University of New Orleans partnership)",
         "publicAccess": "Open to the public",
         "currentState": "Open in New Orleans since 2003.",
-        "size": "~5,000 works"
+        "size": "~4,000 works"
       },
       "composition": {
         "focus": "Art of the American South",
@@ -4969,7 +5007,7 @@
           }
         ]
       },
-      "origin": "Roger H. Ogden, a New Orleans developer, gave some 600 works of Southern art to seed a museum established in 1999 in partnership with the University of New Orleans. It opened its purpose-built home in 2003 and has grown its holdings to roughly 5,000 works.",
+      "origin": "Roger H. Ogden, a New Orleans developer, gave some 600 works of Southern art to seed a museum established in 1999 in partnership with the University of New Orleans. It opened its purpose-built home in 2003 and has grown its holdings to more than 4,000 works.",
       "image": {
         "status": "no_usable_image"
       },
@@ -4978,7 +5016,7 @@
         "Wikipedia",
         "NOLA.com"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -4993,7 +5031,7 @@
         "structure": "Nonprofit foundation, partnered with Community Foundation Sonoma County",
         "publicAccess": "Guided tours by appointment/fundraiser partnership",
         "currentState": "Open by guided tour, Sonoma County, since the 1980s; foundation formalized 2009.",
-        "size": "~100 acres; 18 site-specific installations"
+        "size": "~100 acres; 19 site-specific installations"
       },
       "composition": {
         "focus": "Site-specific, commissioned sculpture and land art",
@@ -5025,7 +5063,7 @@
             "year": 1981
           },
           {
-            "event": "First commissioned sculpture, Judith Shea's \"Shepard's Muse\"",
+            "event": "First commissioned sculpture, Judith Shea's \"Shepherd's Muse\"",
             "year": 1985,
             "familyId": "found-art-park",
             "codedPathway": "found-art-park"
@@ -5047,7 +5085,7 @@
         "Sculpture Magazine",
         "Independent Collectors"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -5090,7 +5128,7 @@
         "The Art Newspaper",
         "The Architect's Newspaper"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -6033,7 +6071,7 @@
         "collectingBegan": "circa 1970s (following a trip to Japan shortly after marrying)",
         "structure": "Private collection, sold at auction by the living founder",
         "publicAccess": "Never a public institution; dispersed at auction, preceded by exhibition viewings at Christie's",
-        "currentState": "Dispersed across three Christie's New York auctions beginning September 2026.",
+        "currentState": "Being dispersed across three Christie's New York auctions beginning September 2026.",
         "size": "More than 600 prints across three planned Christie's sales; first sale (September 15, 2026) offered 180+ prints"
       },
       "composition": {
@@ -6075,7 +6113,7 @@
         "Robb Report",
         "Artnet News"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -6192,7 +6230,7 @@
         "Wikipedia",
         "The Art Newspaper"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "barnes",
@@ -6785,8 +6823,8 @@
       "profile": {
         "structure": "Gift to an existing museum, with a donor-authorized right for the museum to later sell portions to fund acquisitions",
         "publicAccess": "Entered The Metropolitan Museum of Art's permanent collection in 2015; a portion has been periodically deaccessioned and sold at auction since 2019",
-        "currentState": "1,275-object gift entered the Met in 2015; the museum has sold portions since 2019, most recently 300+ works at Sotheby's in 2026, to fund future Asian-art acquisitions.",
-        "size": "1,275 objects gifted in 2015; the September 2026 sale alone offered 300+ works, including 120+ Imperial Qianlong-period jades and scholar's objects"
+        "currentState": "1,275-object gift entered the Met in 2015; the museum sold portions across two Sotheby's Asia Week sales in 2019 (300+ works) and further works in 2021, to fund future Asian-art acquisitions.",
+        "size": "1,275 objects gifted in 2015; the September 2019 sales offered 300+ works, including 120+ Imperial Qianlong-period jades and scholar's objects"
       },
       "composition": {
         "focus": "Chinese art, jades, Buddhist sculpture, porcelain, and objects for the scholar's studio",
@@ -6816,20 +6854,20 @@
             "codedPathway": "donate-existing-museum-intact"
           },
           {
-            "event": "The Met begins periodic sales from the gift, reported at $8.27M and rising",
+            "event": "Sotheby's sells 300+ Chinese works from the gift across two Asia Week sales (the dedicated single-owner sale totaling $8.27M), proceeds directed to an Irving acquisitions fund",
             "year": 2019,
             "familyId": "disperse",
             "codedPathway": "intentional-dispersal"
           },
           {
-            "event": "Sotheby's sells 300+ Chinese works from the gift across two Asia Week sales, proceeds directed to an Irving acquisitions fund",
-            "year": 2026,
+            "event": "Further Irving works are sold at auction",
+            "year": 2021,
             "familyId": "disperse",
             "codedPathway": "intentional-dispersal"
           }
         ]
       },
-      "origin": "Philanthropists Florence and Herbert Irving gave the Metropolitan Museum of Art 1,275 Asian-art objects in 2015, the centennial year of its Asian art department, with an understanding that some works could later be sold to fund future acquisitions. The Met has done exactly that in tranches since 2019, most recently a 300-plus-work Sotheby's sale in 2026.",
+      "origin": "Philanthropists Florence and Herbert Irving gave the Metropolitan Museum of Art 1,275 Asian-art objects in 2015, the centennial year of its Asian art department, with an understanding that some works could later be sold to fund future acquisitions. The Met has done exactly that in tranches, selling 300-plus works across two Sotheby's Asia Week sales in 2019 and further works in 2021.",
       "image": {
         "status": "no_usable_image"
       },
@@ -6839,7 +6877,7 @@
         "Artnet News",
         "CultureGrrl"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "hedreen-seattle-university",
@@ -6851,7 +6889,7 @@
         "collectingBegan": "1964",
         "structure": "Planned Seattle University institutional unit (no separate incorporation announced)",
         "publicAccess": "Not yet open; planned fall 2028, on completion of the building and legal transfer of the collection",
-        "currentState": "Museum under construction at Seattle University; collection transfers on completion, planned fall 2028.",
+        "currentState": "Museum in development at Seattle University (groundbreaking 2026); collection transfers on completion, planned fall 2028.",
         "size": "200+ works; publicly valued ~$300M"
       },
       "composition": {
@@ -6931,7 +6969,7 @@
         "Archpaper",
         "Capitol Hill Seattle News"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -7066,7 +7104,7 @@
         "American Alliance of Museums",
         "Worcester Business Journal"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "kinsey",
@@ -7116,7 +7154,7 @@
         "Smithsonian",
         "Tacoma Art Museum"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -7176,7 +7214,7 @@
         "Birkbeck, University of London",
         "thekleschcollection.com"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -7223,7 +7261,7 @@
         "pathwayTimeline": [
           {
             "event": "The Philip Johnson-designed house is completed, built to convert into a museum",
-            "year": 1968
+            "year": 1967
           },
           {
             "event": "David Lloyd Kreeger dies",
@@ -7245,7 +7283,7 @@
         "kreegermuseum.org",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "menil-collection",
@@ -7288,7 +7326,7 @@
         "Renzo Piano Building Workshop",
         "SAH Archipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "mint-museum",
@@ -7350,7 +7388,7 @@
         "Mint Museum",
         "ProPublica Nonprofit Explorer"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "moma",
@@ -7415,7 +7453,7 @@
         "Britannica",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "phillips-collection",

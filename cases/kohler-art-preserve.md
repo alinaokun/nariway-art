@@ -13,6 +13,7 @@ verification: spot-verified
 origin: private-individual
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Sheboygan, Wisconsin since 2021."
 public_name: The Art Preserve of the John Michael Kohler Arts Center
@@ -30,7 +31,7 @@ public_origin: Ruth DeYoung Kohler II spent decades as director of the John Mich
 public_sources: jmkac.org; Wikipedia; The Art Newspaper
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Art Preserve of the John Michael Kohler Arts Center — Sheboygan, WI

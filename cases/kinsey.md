@@ -11,6 +11,7 @@ outcome: thriving
 verification: provisional
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Touring nationally since 2006."
 public_name: The Kinsey African American Art & History Collection
@@ -28,7 +29,7 @@ public_origin: Bernard and Shirley Kinsey assembled one of the largest private c
 public_sources: thekinseycollection.com; Smithsonian; Tacoma Art Museum
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Kinsey Collection

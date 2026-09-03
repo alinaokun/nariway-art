@@ -12,6 +12,7 @@ outcome: stable
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Active corporate collection, in continuous operation since 1959."
 public_name: JPMorgan Chase Art Collection
@@ -28,7 +29,7 @@ public_origin: David Rockefeller, then president of Chase Manhattan Bank, establ
 public_sources: jpmorganchase.com; Forbes; Rockefeller University archives
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # JPMorgan Chase Art Collection — the sample's first corporate case with no crisis at all, and it has outlived four mergers

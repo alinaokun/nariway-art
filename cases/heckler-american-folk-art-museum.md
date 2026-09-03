@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H2, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Gift ongoing from the Heckler estate; dozens more works transferred to the American Folk Art Museum in 2025, with exhibition planned for spring 2026."
 public_name: Audrey B. Heckler Collection
@@ -36,7 +37,7 @@ public_origin: "A longtime American Folk Art Museum trustee, Audrey B. Heckler b
 public_sources: Artnet News; American Folk Art Museum; Antiques and The Arts Weekly
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Audrey B. Heckler Collection — New York, NY

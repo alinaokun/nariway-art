@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Hamilton, New Jersey since 1992."
 public_name: Grounds For Sculpture
@@ -32,7 +33,7 @@ public_origin: J. Seward Johnson, a Johnson & Johnson heir and figurative sculpt
 public_sources: groundsforsculpture.org; Wikipedia; VisitNJ
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Grounds For Sculpture

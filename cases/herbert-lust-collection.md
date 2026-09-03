@@ -15,6 +15,7 @@ hypotheses: [H1, H7A]
 origin: private
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Herbert Lust died May 2026, age 99; his estate's remaining ~300 works are being shopped between Christie's and Sotheby's for a 2026 sale."
 public_name: Herbert Lust Collection
@@ -24,7 +25,7 @@ public_founded: n/a
 public_collecting_began: mid-20th century (multi-decade, exact start year unknown)
 public_structure: Personal collection, no institutional or foundation vehicle
 public_access: Not public during his lifetime (private collection); dispersing via museum gifts and estate auction
-public_size: Estate remainder of approximately 300 works (~$60M estimated); thousands of works collected over his lifetime, with hundreds already given to museums before his death
+public_size: Estate remainder of approximately 300 works (~$60M estimated); over 1,000 works collected over his lifetime, with hundreds already given to museums before his death
 public_focus: Postwar and contemporary art, with concentrations in sculpture and photography
 public_movements: Postwar sculpture; modern photography
 public_period: 20th century
@@ -36,7 +37,7 @@ public_origin: Herbert Lust spent most of a century assembling a personal collec
 public_sources: ARTnews; Robb Report; Sotheby's
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Herbert Lust Collection

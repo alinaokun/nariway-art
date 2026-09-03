@@ -16,10 +16,11 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating since 1972; a 2023-2026 board dispute over a proposed commercial gallery partnership was settled in May 2026."
 public_name: Hilma af Klint Foundation
-public_founder: Erik af Klint (the artist's great-grandnephew), established per Hilma af Klint's own will
+public_founder: Erik af Klint (the artist's nephew)
 public_location: Stockholm, Sweden
 public_founded: 1972
 public_structure: Independent Swedish foundation (stiftelse); board of 3-5, a majority of whom must belong to the Anthroposophical Society; chaired by the head of the af Klint family
@@ -29,12 +30,12 @@ public_focus: Preserving and managing the artistic legacy of pioneering abstract
 public_movements: Early abstraction; spiritualism/Anthroposophy-influenced painting
 public_period: c. 1906-1944
 public_media: painting; works on paper; sketchbooks
-public_pathway_timeline: 1944|||Hilma af Klint dies, leaving her artistic estate to her family with instructions (per multiple secondary accounts) that her abstract works not be shown publicly for 20 years after her death ;; 1972|found-foundation|found-foundation|The Hilma af Klint Foundation is established by Erik af Klint (an earlier family member of that name) to hold and manage the artist's estate ;; 2023|governance-conflict|governance-conflict|Current chairman Erik af Klint sues four fellow board members and the Foundation's CEO, opposing a proposed representation deal with David Zwirner gallery as a "hostile takeover" ;; 2026|governance-conflict|governance-conflict|A May 2026 settlement between the chairman and a board member ends the legal proceedings; the Zwirner deal's ultimate status is not confirmed in sources located this run
+public_pathway_timeline: 1944|||Hilma af Klint dies, leaving her artistic estate to her family with instructions (per multiple secondary accounts) that her abstract works not be shown publicly for 20 years after her death ;; 1972|found-foundation|found-foundation|The Hilma af Klint Foundation is established by the artist's nephew, Erik af Klint (1901-1981), to hold and manage the artist's estate ;; 2023|governance-conflict|governance-conflict|The Foundation's chairman, a later Erik af Klint, sues four fellow board members and the CEO, opposing a proposed representation deal with David Zwirner gallery as a "hostile takeover" ;; 2026|governance-conflict|governance-conflict|A May 2026 settlement ends the legal proceedings
 public_origin: "Hilma af Klint, a pioneering Swedish abstract painter, left her artistic estate to her family on her death in 1944 along with instructions that her abstract works stay out of public view for two decades. Her family established a dedicated foundation in 1972 to hold and manage the collection. Eight decades after her death, and more than fifty years into the Foundation's existence, a board dispute broke into public litigation over how commercially the Foundation should engage with her now-famous legacy."
 public_sources: Center for Art Law; Artnet News; ARTnews; Hyperallergic; Hilma af Klint Foundation
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Hilma af Klint Foundation

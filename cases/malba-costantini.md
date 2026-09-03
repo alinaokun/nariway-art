@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Buenos Aires since 2001; doubled its collection in December 2025 with the Daros Latinamerica acquisition."
 public_name: MALBA — Museo de Arte Latinoamericano de Buenos Aires

@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H1, H3, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Actively placing works into museum and university collections, most recently a near-2,000-photograph gift to Virginia Museum of Fine Arts in 2026."
 public_name: Joy of Giving Something (JGS)

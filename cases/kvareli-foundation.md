@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H3, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Opening to the public in Kvareli, Georgia, October 31, 2026."
 public_name: Kvareli Foundation for Contemporary Art
@@ -28,11 +29,11 @@ public_size: Purpose-built exhibition building with rooftop and cultural-program
 public_focus: Georgian contemporary art, preservation, exhibition, and scholarship
 public_period: Contemporary
 public_pathway_timeline: 2026-10|build-institution|found-foundation|The Kvareli Foundation for Contemporary Art opens in the Kakheti region, inaugural exhibition "Unveiling Kvareli Collection"
-public_origin: "Georgian businessman and collector Jemal Inaishvili, the country's largest contemporary-art collector, built a purpose-built foundation in his native Kakheti wine region to preserve, exhibit, and study Georgian contemporary art, opening October 31, 2026."
+public_origin: "Georgian businessman and collector Jemal Inaishvili, a leading Georgian collector, built a purpose-built foundation in his native Kakheti wine region to preserve, exhibit, and study Georgian contemporary art, opening October 31, 2026."
 public_sources: Artforum; Artdaily
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Kvareli Foundation for Contemporary Art — Kvareli, Kakheti, Georgia

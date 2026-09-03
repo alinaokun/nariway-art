@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Still held and displayed by the bank in Siena; survived a 2013–2017 state bailout intact."
 public_name: Banca Monte dei Paschi di Siena — Historical Art Collection
@@ -29,7 +30,7 @@ public_movements: Sienese School; Gothic; Renaissance
 public_period: 13th–20th century
 public_media: painting; sculpture; furnishings; historical documents
 public_selected_artists: Jacopo della Quercia; Pietro Lorenzetti; Sano di Pietro; Domenico Beccafumi; Sassetta; Rutilio Manetti; Francesco Vanni
-public_pathway_timeline: 1472|||Monte dei Paschi is founded in Siena as a mount of piety, the origin of what becomes the world's oldest surviving bank ;; 1624|||Adopts the Monte dei Paschi name; begins accumulating art and documents as an institutional holding ;; 1995|found-foundation|hybrid|Fondazione Monte dei Paschi di Siena is spun off as a separate philanthropic banking foundation ;; 2013-2017|||The bank nearly collapses; the Italian state rescues it, taking a 68% stake — the art collection is not liquidated ;; 2024-2025|||The state sells down its stake in phases, returning the bank to majority-private ownership; the art remains bank-held throughout
+public_pathway_timeline: 1472|||Monte dei Paschi is founded in Siena as a mount of piety, the origin of what becomes the world's oldest surviving bank ;; 1624|||Adopts the Monte dei Paschi name; begins accumulating art and documents as an institutional holding ;; 1995|found-foundation|hybrid|Fondazione Monte dei Paschi di Siena is spun off as a separate philanthropic banking foundation ;; 2013-2017|||The bank nearly collapses; the Italian state rescues it, taking a 68% stake — the art collection is not liquidated ;; 2023-2026|||The state sells down its stake in phases (the Treasury holding under 5% by 2026), returning the bank to private ownership; the art remains bank-held throughout
 public_origin: Monte dei Paschi di Siena traces to a charitable mount of piety founded in 1472, making it the world's oldest bank still operating under its original name. It began accumulating paintings, sculpture and historical documents as an institutional holding shortly after founding, and the collection — still centered on the Sienese School — has remained with the bank through five and a half centuries, including a 2013–2017 near-failure and state bailout that did not touch the art.
 public_sources: Fondazione Monte dei Paschi di Siena (Wikipedia); Finestre sull'Arte; Banca Monte dei Paschi di Siena (Wikipedia)
 hero_image_status: no_usable_image

@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Owned by Berlin's Nationalgalerie since 2000; the Stülerbau is closed for renovation, with reopening expected in 2026-2027."
 public_name: Museum Berggruen
@@ -30,7 +31,7 @@ public_origin: The Berlin-born dealer and collector Heinz Berggruen assembled a 
 public_sources: smb.museum; berlin.de; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Museum Berggruen — a below-market sale into a state museum system, with a three-generation family philanthropic tail

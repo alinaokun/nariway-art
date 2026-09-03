@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H3, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "City-owned museum, open since 1998; operating continuously past both founders' deaths."
 public_name: Mennello Museum of American Art

@@ -12,6 +12,7 @@ outcome: emerging
 verification: secondary
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Opening September 22, 2026."
 public_name: Lucas Museum of Narrative Art
@@ -30,7 +31,7 @@ public_origin: George Lucas's collecting began in college and grew, with Mellody
 public_sources: lucasmuseum.org; The Art Newspaper; Forbes
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # Lucas Museum of Narrative Art — the sample's best-capitalized case, a genuinely independent board around two living founders, and a Chicago/San Francisco friction history that predates the LA site by a decade
 

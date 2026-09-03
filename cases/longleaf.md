@@ -11,6 +11,7 @@ outcome: emerging
 verification: provisional
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "In development in Walton County, Florida; public opening planned for 2026."
 public_name: Longleaf Art Park
@@ -29,7 +30,7 @@ public_origin: Hedge-fund manager Bruce Berkowitz, after abandoning a planned Mi
 public_sources: The Art Newspaper; St. Joe Company / Cultural Arts Alliance of Walton County; Artnet
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Longleaf Art Park / Berkowitz Contemporary Foundation

@@ -16,8 +16,9 @@ interview_status: not-contacted
 hypotheses: [H2, H7A]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
-public_status_text: "Promised gift announced February 2026; on view at New York Historical through August 2026."
+public_status_text: "Promised gift announced February 2026; exhibited at New York Historical (House Made of Dawn) April to August 2026."
 public_name: Hsu-Tang Collection of Indigenous American Art
 public_founder: Agnes Hsu-Tang and Oscar Tang
 public_location: New York, New York, USA
@@ -33,7 +34,7 @@ public_origin: "Agnes Hsu-Tang, chair of New York Historical's board of trustees
 public_sources: The Art Newspaper; New York Historical; ARTnews; Native News Online
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Hsu-Tang Collection — promised gift to New York Historical

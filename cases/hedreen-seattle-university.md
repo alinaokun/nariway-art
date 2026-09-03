@@ -14,8 +14,9 @@ interview_status: not-contacted
 hypotheses: [H4, H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Museum under construction at Seattle University; collection transfers on completion, planned fall 2028."
+public_status_text: "Museum in development at Seattle University (groundbreaking 2026); collection transfers on completion, planned fall 2028."
 public_name: The Hedreen Collection at Seattle University (SUMA)
 public_founder: Richard C. Hedreen and the late Betty Hedreen
 public_location: Seattle, WA
@@ -32,7 +33,7 @@ public_origin: Seattle real-estate developer Richard Hedreen and his late wife B
 public_sources: Seattle Times; The Art Newspaper; ARTnews; Archpaper; Capitol Hill Seattle News
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Hedreen Collection at Seattle University — a purpose-built university gift, promised but not yet transferred

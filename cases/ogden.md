@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H5, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in New Orleans since 2003."
 public_name: Ogden Museum of Southern Art
@@ -22,16 +23,16 @@ public_location: New Orleans, Louisiana
 public_founded: 1999
 public_structure: Independent nonprofit museum (founded through a University of New Orleans partnership)
 public_access: Open to the public
-public_size: ~5,000 works
+public_size: ~4,000 works
 public_focus: Art of the American South
 public_period: 19th century to present
 public_media: painting; sculpture; photography; works on paper
 public_pathway_timeline: 1999|partner-institution|university-partnership|Founded with a ~600-work gift from Roger H. Ogden, in partnership with the University of New Orleans ;; 2003|build-institution|found-standalone-museum|Stephen Goldring Hall opens
-public_origin: Roger H. Ogden, a New Orleans developer, gave some 600 works of Southern art to seed a museum established in 1999 in partnership with the University of New Orleans. It opened its purpose-built home in 2003 and has grown its holdings to roughly 5,000 works.
+public_origin: Roger H. Ogden, a New Orleans developer, gave some 600 works of Southern art to seed a museum established in 1999 in partnership with the University of New Orleans. It opened its purpose-built home in 2003 and has grown its holdings to more than 4,000 works.
 public_sources: ogdenmuseum.org; Wikipedia; NOLA.com
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Ogden Museum of Southern Art

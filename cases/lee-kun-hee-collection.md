@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H2, H7A]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Donated to Korea's National Museum and National Museum of Modern and Contemporary Art in 2021; a dedicated museum for the full collection is under construction in Seoul, planned to open by 2028."
 public_name: Lee Kun-hee Collection
@@ -31,12 +32,12 @@ public_period: Korean antiquity through 20th-century Western modern art
 public_media: painting; ceramics; calligraphy; antiquities; sculpture
 public_selected_artists: Claude Monet; Pablo Picasso; Marc Chagall; Salvador Dalí
 public_recipients: National Museum of Korea; National Museum of Modern and Contemporary Art, Korea (MMCA)
-public_pathway_timeline: 2020|donate-existing-museum-scattered|donate-existing-museum-scattered|Samsung chairman Lee Kun-hee dies (Oct 25), leaving a ~26 trillion won estate and a projected ~12 trillion won ($10.8B) inheritance tax bill ;; 2021|donate-existing-museum-scattered|donate-existing-museum-scattered|Heirs announce the donation of 23,181 works — ~1,500 to MMCA, more than 20,000 (mostly antiquities) to the National Museum of Korea — while separately paying the tax bill in cash ;; 2024|donate-existing-museum-scattered|donate-existing-museum-scattered|MMCA opens a dedicated new wing showcasing the collection ;; 2028 (planned)|donate-existing-museum-scattered|found-standalone-museum|A purpose-built museum for the full collection is slated to open in Songhyeon-dong, Seoul
+public_pathway_timeline: 2020|donate-existing-museum-scattered|donate-existing-museum-scattered|Samsung chairman Lee Kun-hee dies (Oct 25), leaving a ~26 trillion won estate and a projected ~12 trillion won ($10.8B) inheritance tax bill ;; 2021|donate-existing-museum-scattered|donate-existing-museum-scattered|Heirs announce the donation of 23,181 works — ~1,500 to MMCA, more than 20,000 (mostly antiquities) to the National Museum of Korea — while separately paying the tax bill in cash ;; 2025|donate-existing-museum-scattered|donate-existing-museum-scattered|MMCA unveils new permanent exhibitions featuring the collection, shown across its branches since 2021 ;; 2028 (planned)|donate-existing-museum-scattered|found-standalone-museum|A purpose-built museum for the full collection is slated to open in Songhyeon-dong, Seoul
 public_origin: "When Samsung chairman Lee Kun-hee died in 2020, he left one of the largest private art collections ever assembled — built up across his and his father's generations — alongside a roughly $10.8 billion inheritance tax bill, the largest in South Korean history. His heirs paid the tax in cash over five years and, in a separate philanthropic gesture, donated the entire 23,181-work collection to South Korea's national museums rather than selling any of it abroad."
 public_sources: CNN; Artnet News; ARTnews; The Korea Times; KED Global
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Lee Kun-hee Collection → National Museum of Korea / MMCA

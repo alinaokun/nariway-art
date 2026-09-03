@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H2, H4, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Gift announced November 2025; works entering the Achenbach Foundation for Graphic Arts and the Fine Arts Museums of San Francisco's permanent collection."
 public_name: Kirk Edward Long Collection
@@ -36,7 +37,7 @@ public_origin: "A San Francisco collector who built one of the world's most exte
 public_sources: ARTnews; SFAAAT; Cantor Arts Center; Association of Print Scholars
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Kirk Edward Long Collection — San Francisco, CA

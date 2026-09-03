@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active corporate collection continuously built since 1923; over 4,000 works displayed across HSBC offices worldwide and periodically shown at public art fairs."
 public_name: HSBC Art Collection

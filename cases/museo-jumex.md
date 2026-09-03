@@ -12,6 +12,7 @@ outcome: founder-open
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Mexico City since 2013."
 public_name: Museo Jumex
@@ -30,7 +31,7 @@ public_origin: Eugenio López Alonso, heir to the Jumex juice fortune, began col
 public_sources: fundacionjumex.org; Wikipedia; Dezeen; ArchDaily
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Museo Jumex — Mexico City, Mexico

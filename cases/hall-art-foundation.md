@@ -14,8 +14,9 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Open by appointment at two sites, Vermont and Germany, since 2007 and 2010."
+public_status_text: "Open by appointment at two sites, Vermont and Germany, opened 2012 and 2017."
 public_name: Hall Art Foundation
 public_founder: Andrew and Christine Hall
 public_location: Reading, VT, USA and Derneburg, Germany
@@ -27,12 +28,12 @@ public_focus: Postwar and contemporary art
 public_movements: Neo-Expressionism; Contemporary
 public_period: postwar to present
 public_media: painting; sculpture; installation
-public_pathway_timeline: 2007|build-institution|found-foundation|Hall Art Foundation established; Vermont site opens on a former dairy farm ;; 2006|||Georg Baselitz sells Schloss Derneburg, his home and studio since 1976 ;; 2010|build-institution|found-foundation|Kunstmuseum Schloss Derneburg opens as the Foundation's German site ;; 2017|||Vermont campus expands with a new reception center
-public_origin: Commodities trader Andrew Hall and his wife Christine built a major postwar and contemporary art collection, then in 2007 founded a nonprofit to show it seasonally on a former Vermont dairy farm; a chance studio visit to painter Georg Baselitz's castle home in Germany led them to buy and convert Schloss Derneburg into a second, appointment-only museum site in 2010.
+public_pathway_timeline: 2006|||Georg Baselitz sells Schloss Derneburg, his home and studio since 1976 ;; 2007|build-institution|found-foundation|Hall Art Foundation established ;; 2012|build-institution|found-foundation|The Vermont site opens to the public on a former dairy farm ;; 2017|build-institution|found-foundation|Kunstmuseum Schloss Derneburg opens as the Foundation's German site
+public_origin: Commodities trader Andrew Hall and his wife Christine built a major postwar and contemporary art collection, founding a nonprofit in 2007 and opening a Vermont exhibition site on a former dairy farm in 2012; a chance studio visit to painter Georg Baselitz's castle home in Germany led them to buy and convert Schloss Derneburg into a second, appointment-only museum site, which opened in 2017.
 public_sources: hallartfoundation.org; Wikipedia; independent-collectors.com
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Hall Art Foundation

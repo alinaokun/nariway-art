@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H5, H6, H7A]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Jaipur's City Palace since November 2024."
 public_name: Jaipur Centre for Art
@@ -32,7 +33,7 @@ public_origin: Padmanabh Singh, the informally recognized head of the former Jai
 public_sources: The Art Newspaper; Wallpaper*; Whitewall; Harper's Bazaar India; Serenade
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Jaipur Centre for Art

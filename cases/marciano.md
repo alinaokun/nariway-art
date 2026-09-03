@@ -11,6 +11,7 @@ outcome: distressed
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Closed abruptly in 2019; reopened on a scaled-down model, with a first director named in 2024."
 public_name: Marciano Art Foundation
@@ -28,7 +29,7 @@ public_origin: Guess co-founders Maurice and Paul Marciano opened the Marciano A
 public_sources: marcianoartfoundation.org; ARTnews; Artnet News; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Marciano Art Foundation — a labor-relations crisis, not a money crisis

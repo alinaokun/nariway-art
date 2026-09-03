@@ -16,8 +16,9 @@ interview_status: not-contacted
 hypotheses: [H1, H4]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Dispersed across three Christie's New York auctions beginning September 2026."
+public_status_text: "Being dispersed across three Christie's New York auctions beginning September 2026."
 public_name: The Alan Medaugh Collection
 public_founder: Alan Medaugh
 public_location: New York, NY (sale)
@@ -35,7 +36,7 @@ public_origin: "American businessman Alan Medaugh spent roughly fifty years and 
 public_sources: ARTnews; Robb Report; Artnet News
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Alan Medaugh Collection (Hiroshige) — New York, NY (sale)

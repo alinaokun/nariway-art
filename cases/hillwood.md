@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H1, H4, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Washington, D.C. since 1977."
 public_name: Hillwood Estate, Museum & Gardens
@@ -32,7 +33,7 @@ public_origin: Marjorie Merriweather Post assembled the largest collection of Ru
 public_sources: hillwoodmuseum.org; Smithsonian Institution Archives; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Hillwood Estate, Museum & Gardens

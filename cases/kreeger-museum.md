@@ -11,6 +11,7 @@ outcome: stable
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Washington, D.C. since 1994."
 public_name: The Kreeger Museum
@@ -25,12 +26,12 @@ public_movements: Impressionism; Post-Impressionism; Modernism
 public_period: 19th–20th century
 public_media: painting; sculpture
 public_selected_artists: Monet; van Gogh; Picasso; Cézanne; Renoir; Chagall; Rodin; Miró; Henry Moore; Kandinsky; Gene Davis; Sam Gilliam
-public_pathway_timeline: 1968|||The Philip Johnson-designed house is completed, built to convert into a museum ;; 1990|||David Lloyd Kreeger dies ;; 1994|build-institution|found-house-museum|The house opens to the public as the Kreeger Museum
+public_pathway_timeline: 1967|||The Philip Johnson-designed house is completed, built to convert into a museum ;; 1990|||David Lloyd Kreeger dies ;; 1994|build-institution|found-house-museum|The house opens to the public as the Kreeger Museum
 public_origin: David Lloyd Kreeger and his wife Carmen commissioned Philip Johnson to design a house that would serve as their home and later convert into a public museum. It opened as the Kreeger Museum in 1994 and is governed by a small board anchored by the founders' family.
 public_sources: kreegermuseum.org; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Kreeger Museum — a residence purpose-built to become a museum, now run by the founders' children

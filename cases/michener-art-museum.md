@@ -11,6 +11,7 @@ outcome: stable
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Doylestown, Pennsylvania since 1988."
 public_name: James A. Michener Art Museum
@@ -29,7 +30,7 @@ public_origin: The James A. Michener Art Museum opened in 1988 in Doylestown, Pe
 public_sources: michenerartmuseum.org; Wikipedia; Visit Philadelphia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # James A. Michener Art Museum — a civic institution with a naming benefactor, not a collector's museum

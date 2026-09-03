@@ -15,6 +15,7 @@ hypotheses: [H1, H6, H8]
 origin: private
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Under construction in Symphony Park; a prelude venue (Grand Central Galleries) opened 2026, full museum planned for fall 2029."
 public_name: Las Vegas Museum of Art
@@ -30,7 +31,7 @@ public_origin: Elaine Wynn, Wynn Resorts co-founder and a longtime LACMA trustee
 public_sources: The Art Newspaper; ARTnews; Las Vegas Review-Journal; LACMA (Unframed)
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Las Vegas Museum of Art (LVMA)

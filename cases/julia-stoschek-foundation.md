@@ -15,6 +15,7 @@ hypotheses: [H4, H6, H8]
 origin: private
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Closing its Berlin venue at the end of October 2026 after 10 years; retaining its original Düsseldorf home and shifting toward international loans and touring presentations."
 public_name: Julia Stoschek Foundation
@@ -34,7 +35,7 @@ public_origin: Julia Stoschek began collecting time-based media art and opened a
 public_sources: ARTnews; Ocula; ArtReview; Artforum
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Julia Stoschek Foundation

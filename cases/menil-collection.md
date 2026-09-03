@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Houston since 1987; free admission."
 public_name: The Menil Collection
@@ -28,7 +29,7 @@ public_origin: John and Dominique de Menil assembled a wide-ranging collection s
 public_sources: menil.org; Renzo Piano Building Workshop; SAH Archipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # The Menil Collection
 Purpose-built museum (Renzo Piano, 1987) at the heart of a Houston campus, created by John and Dominique de Menil; free admission; survived both founders. Net assets $525.5M / expenses $31.3M FY2025 (16.8x, upper bound). Full coded header and sources in [[report-dataset]].

@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Clinton, MA since 2006; renamed the Icon Museum and Study Center in 2023."
 public_name: The Icon Museum and Study Center (founded as the Museum of Russian Icons)
@@ -31,7 +32,7 @@ public_origin: A plastics-company executive bought his first Russian icon at a M
 public_sources: iconmuseum.org; American Alliance of Museums; Worcester Business Journal
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Museum of Russian Icons (now the Icon Museum and Study Center)

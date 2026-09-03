@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open near Hobart, Tasmania since 2011."
 public_name: Museum of Old and New Art (MONA)
@@ -27,7 +28,7 @@ public_origin: David Walsh, who made his fortune from professional gambling, ope
 public_sources: mona.net.au; Wikipedia; ABC News
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Museum of Old and New Art (MONA) — deliberately not a charity, funded by gambling winnings, and the sample's most explicit rejection of the nonprofit-museum form

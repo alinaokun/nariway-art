@@ -12,6 +12,7 @@ outcome: dissolved
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Dispersed at auction in 2010 following the parent company's 2008 bankruptcy."
 public_name: Lehman Brothers Art Collection
@@ -27,7 +28,7 @@ public_origin: The collection, largely assembled for the asset manager Neuberger
 public_sources: Sotheby's; Art Observed; PBS NewsHour
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Lehman Brothers Art Collection — the corporate-bankruptcy dispersal, in clean detail

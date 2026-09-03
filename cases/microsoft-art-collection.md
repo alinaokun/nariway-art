@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Active corporate collection, ongoing since 1987."
 public_name: Microsoft Art Collection
@@ -32,7 +33,7 @@ public_origin: A group of Microsoft employees started buying art for the walls o
 public_sources: Microsoft Art Collection (25 Years of Celebrating Creativity, 2012); Widewalls; DailyArt Magazine
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Microsoft Art Collection

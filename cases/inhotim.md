@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Brumadinho, Brazil since 2006."
 public_name: Instituto Inhotim
@@ -29,7 +30,7 @@ public_origin: Bernardo Paz, a Brazilian mining entrepreneur, developed Inhotim 
 public_sources: Wikipedia; The Art Newspaper; ARTnews
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Inhotim — a founder-sole art park's governance crisis, resolved by total voluntary donation while the founder was still living, and still in dispute

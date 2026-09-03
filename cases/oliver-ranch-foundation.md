@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H4, H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open by guided tour, Sonoma County, since the 1980s; foundation formalized 2009."
 public_name: Oliver Ranch Foundation
@@ -23,18 +24,18 @@ public_founded: 2009
 public_collecting_began: 1985
 public_structure: Nonprofit foundation, partnered with Community Foundation Sonoma County
 public_access: Guided tours by appointment/fundraiser partnership
-public_size: ~100 acres; 18 site-specific installations
+public_size: ~100 acres; 19 site-specific installations
 public_focus: Site-specific, commissioned sculpture and land art
 public_movements: Minimalism; land art; site-specific installation
 public_period: 1985–present
 public_media: sculpture; earthworks; sound installation
 public_selected_artists: Richard Serra; Bruce Nauman; Ann Hamilton; Judith Shea; Miroslaw Balka; Fred Sandback; Bill Fontana
-public_pathway_timeline: 1981|||Steve & Nancy Oliver buy the 100-acre ranch ;; 1985|found-art-park|found-art-park|First commissioned sculpture, Judith Shea's "Shepard's Muse" ;; 2009|found-art-park|found-foundation|Oliver Ranch Foundation formed with Community Foundation Sonoma County
+public_pathway_timeline: 1981|||Steve & Nancy Oliver buy the 100-acre ranch ;; 1985|found-art-park|found-art-park|First commissioned sculpture, Judith Shea's "Shepherd's Muse" ;; 2009|found-art-park|found-foundation|Oliver Ranch Foundation formed with Community Foundation Sonoma County
 public_origin: Steve and Nancy Oliver bought 100 acres in Sonoma County in 1981 to graze sheep. Beginning in 1985 they began inviting artists to design large-scale, site-specific works conceived only for that land, and in 2009 formalized the growing collection as a foundation partnered with a community foundation to secure its future.
 public_sources: Oliver Ranch Foundation; Sculpture Magazine; Independent Collectors
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Oliver Ranch Foundation

@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Milan since 1881."
 public_name: Museo Poldi Pezzoli
@@ -28,7 +29,7 @@ public_origin: Gian Giacomo Poldi Pezzoli, a Milanese nobleman, assembled old-ma
 public_sources: museopoldipezzoli.it; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Museo Poldi Pezzoli — the sample's oldest and longest-surviving case, 145 years and counting, with a narrow binding constraint honored, not broken

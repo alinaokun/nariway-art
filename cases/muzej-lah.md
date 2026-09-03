@@ -12,6 +12,7 @@ outcome: emerging
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "New museum near Lake Bled, Slovenia, announced to open in 2026."
 public_name: Muzej Lah
@@ -29,7 +30,7 @@ public_origin: Slovenian philanthropists Igor and Mojca Lah assembled a collecti
 public_sources: muzejlah.com; fundacijalah.com; Domus; David Chipperfield Architects
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Muzej Lah — Central Europe's version of the new-region private museum, and the sample's second Swiss-registered foundation

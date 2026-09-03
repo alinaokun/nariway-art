@@ -15,6 +15,7 @@ hypotheses: [H4, H5]
 origin: private
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Collection retained privately; funding a two-year postdoctoral fellowship at Birkbeck, University of London, from 2026."
 public_name: The Klesch Collection
@@ -34,7 +35,7 @@ public_origin: Gary and Anita Klesch began collecting Old Masters in 2014 with a
 public_sources: The Art Newspaper; Birkbeck, University of London; thekleschcollection.com
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Klesch Collection — Birkbeck AI/Art-History Fellowship

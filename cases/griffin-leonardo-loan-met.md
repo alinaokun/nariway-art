@@ -14,9 +14,10 @@ origin: private-individual
 decision_owner: collector-alone
 interview_status: not-contacted
 hypotheses: [H6, H8]
-public_page_eligible: true
+public_page_eligible: false
 public_verified: true
 public_qa_verified: 2026-09-03
+superseded_by: kenneth-c-griffin-collection
 public_depth: record
 public_status_text: "On long-term loan and on view at the Metropolitan Museum of Art since spring 2026, with no public announcement."
 public_name: Madonna of the Yarnwinder (Leonardo da Vinci and studio)

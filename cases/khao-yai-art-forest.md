@@ -12,6 +12,7 @@ outcome: emerging
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open near Khao Yai National Park, Thailand since 2025."
 public_name: Khao Yai Art Forest
@@ -30,7 +31,7 @@ public_origin: Marisa Chearavanont bought land near Khao Yai National Park in 20
 public_sources: Wikipedia; ARTnews; Artnet
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Khao Yai Art Forest — the sample's first Southeast Asian case, and a genuinely new land-art variant funded from family wealth rather than an independent endowment

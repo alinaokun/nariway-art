@@ -16,24 +16,25 @@ interview_status: not-contacted
 hypotheses: [H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "1,275-object gift entered the Met in 2015; the museum has sold portions since 2019, most recently 300+ works at Sotheby's in 2026, to fund future Asian-art acquisitions."
+public_status_text: "1,275-object gift entered the Met in 2015; the museum sold portions across two Sotheby's Asia Week sales in 2019 (300+ works) and further works in 2021, to fund future Asian-art acquisitions."
 public_name: The Florence and Herbert Irving Collection
 public_founder: Florence and Herbert Irving
 public_location: New York, NY
 public_structure: Gift to an existing museum, with a donor-authorized right for the museum to later sell portions to fund acquisitions
 public_access: Entered The Metropolitan Museum of Art's permanent collection in 2015; a portion has been periodically deaccessioned and sold at auction since 2019
-public_size: 1,275 objects gifted in 2015; the September 2026 sale alone offered 300+ works, including 120+ Imperial Qianlong-period jades and scholar's objects
+public_size: 1,275 objects gifted in 2015; the September 2019 sales offered 300+ works, including 120+ Imperial Qianlong-period jades and scholar's objects
 public_focus: Chinese art, jades, Buddhist sculpture, porcelain, and objects for the scholar's studio
 public_period: Chinese dynastic, concentrated in the Qing dynasty (Qianlong period)
 public_media: jade; sculpture; porcelain; scholar's objects
 public_recipients: The Metropolitan Museum of Art (Department of Asian Art)
-public_pathway_timeline: 1990|keep-family|donate-existing-museum-intact|Florence Irving is elected a Met trustee ;; 2015|give-institution|donate-existing-museum-intact|The Irvings give 1,275 Asian-art objects to the Met, with an agreement that some could later be sold to fund future acquisitions ;; 2019|disperse|intentional-dispersal|The Met begins periodic sales from the gift, reported at $8.27M and rising ;; 2026|disperse|intentional-dispersal|Sotheby's sells 300+ Chinese works from the gift across two Asia Week sales, proceeds directed to an Irving acquisitions fund
-public_origin: "Philanthropists Florence and Herbert Irving gave the Metropolitan Museum of Art 1,275 Asian-art objects in 2015, the centennial year of its Asian art department, with an understanding that some works could later be sold to fund future acquisitions. The Met has done exactly that in tranches since 2019, most recently a 300-plus-work Sotheby's sale in 2026."
+public_pathway_timeline: 1990|keep-family|donate-existing-museum-intact|Florence Irving is elected a Met trustee ;; 2015|give-institution|donate-existing-museum-intact|The Irvings give 1,275 Asian-art objects to the Met, with an agreement that some could later be sold to fund future acquisitions ;; 2019|disperse|intentional-dispersal|Sotheby's sells 300+ Chinese works from the gift across two Asia Week sales (the dedicated single-owner sale totaling $8.27M), proceeds directed to an Irving acquisitions fund ;; 2021|disperse|intentional-dispersal|Further Irving works are sold at auction
+public_origin: "Philanthropists Florence and Herbert Irving gave the Metropolitan Museum of Art 1,275 Asian-art objects in 2015, the centennial year of its Asian art department, with an understanding that some works could later be sold to fund future acquisitions. The Met has done exactly that in tranches, selling 300-plus works across two Sotheby's Asia Week sales in 2019 and further works in 2021."
 public_sources: The Metropolitan Museum of Art; Artsy; Artnet News; CultureGrrl
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Florence and Herbert Irving Collection — gift and deaccession, The Metropolitan Museum of Art

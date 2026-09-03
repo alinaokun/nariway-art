@@ -11,6 +11,7 @@ outcome: emerging
 verification: provisional
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Opened its public exhibition venue in New Canaan in October 2025."
 public_name: Onera Foundation
@@ -25,7 +26,7 @@ public_origin: David B. Peterson founded the Onera Foundation in 2018 to advance
 public_sources: onerafoundation.org; The Art Newspaper; The Architect's Newspaper
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Onera Foundation
