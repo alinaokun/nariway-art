@@ -21,8 +21,8 @@ public_founder: Amanda Precourt
 public_location: Denver, CO, USA (Baker neighborhood)
 public_founded: 2025
 public_structure: "Privately owned and privately funded; deliberately not a 501(c)(3) nonprofit, no board, no fundraising, no donor competition"
-public_access: "Free; open to the public Wednesdays 4-7pm and by appointment"
-public_size: "~5,000-5,700 sq ft gallery, plus a sculpture garden and video-screening rooms, inside a converted former fortune-cookie factory"
+public_access: "Free; open during exhibitions and by appointment (public hours vary by exhibition)"
+public_size: "~5,000 sq ft gallery, plus a sculpture garden and video-screening rooms, inside a converted former fortune-cookie factory"
 public_focus: "Contemporary art; commissioned and exhibited works under artistic director Jérôme Sans"
 public_period: contemporary
 public_pathway_timeline: 2025|build-institution|found-standalone-museum|Amanda Precourt opens Cookie Factory in a converted, once-condemned fortune-cookie factory in Denver's Baker neighborhood, free to the public and deliberately structured outside the nonprofit model

@@ -18,7 +18,7 @@ public_name: Canyon
 public_founder: Robert Rosenkranz
 public_location: New York, NY
 public_founded: 2027
-public_structure: Nonprofit standalone venue
+public_structure: Purpose-built standalone venue (legal structure not yet publicly documented)
 public_access: Opening to the public, 2027
 public_size: 40,000 sq ft
 public_focus: Durational art, video, sound, and performance

@@ -22,7 +22,7 @@ public_name: Charles Dee Mitchell Collection
 public_founder: Charles Dee Mitchell
 public_location: Dallas, TX
 public_collecting_began: 1990s (approximate; exact year unconfirmed)
-public_structure: Bequest to an existing museum, signed by the collector five years before his death and executed without dispute
+public_structure: Bequest to an existing museum, signed by the collector four years before his death and executed without dispute
 public_access: On accession at the Dallas Museum of Art; individual works enter the museum's normal collection-display rotation
 public_size: 540 works
 public_focus: Photography (with a particular focus on conflict photography), drawings, prints, sculpture, metalwork, ceramics, and works on paper

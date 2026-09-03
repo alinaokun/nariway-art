@@ -16,20 +16,20 @@ origin: private
 public_page_eligible: true
 public_verified: true
 public_depth: expanded
-public_status_text: "Active national loan and grantmaking foundation; partners with 250+ U.S. museums to share American art, including the 2026 'Art Bridges x Hirshhorn 50 for 50' national loan initiative."
+public_status_text: "Active national loan and grantmaking foundation; partners with 400+ U.S. museums to share American art, including the 2026 'Art Bridges x Hirshhorn 50 for 50' national loan initiative."
 public_name: Art Bridges Foundation
 public_founder: Alice Walton
 public_location: Bentonville, Arkansas, USA (partner museums nationwide)
 public_founded: 2017
 public_structure: 501(c)(3) nonprofit foundation, independent board
-public_access: Public via 250+ partner museums nationwide; no public venue of its own
-public_size: $904M total assets; 250+ partner museums
+public_access: Public via 400+ partner museums nationwide; no public venue of its own
+public_size: $904M total assets; 400+ partner museums
 public_focus: American art, loans and grants to expand regional access
 public_movements: American art, broad survey (colonial to contemporary)
 public_period: colonial era–present
 public_media: painting; sculpture; works on paper (broad survey)
 public_pathway_timeline: 2017|dispersal|found-foundation|Alice Walton founds Art Bridges as a separate grantmaking/lending vehicle from Crystal Bridges ;; 2026|dispersal|long-term-loan|Art Bridges x Hirshhorn "50 for 50" national loan program launches, placing 200+ works in one museum per U.S. state and Puerto Rico through 2029
-public_origin: Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle, not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 250+ partner institutions and over 20 million people.
+public_origin: Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle, not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 400+ partner institutions and more than 31 million people.
 public_sources: Wikipedia; Art Bridges Foundation; Smithsonian Institution; Inside Philanthropy
 hero_image_status: no_usable_image
 living_collector: true

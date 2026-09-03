@@ -17,20 +17,20 @@ hypotheses: [H3, H4, H5]
 public_page_eligible: true
 public_verified: true
 public_depth: expanded
-public_status_text: "Active, growing loans-only foundation since 2010; 1,800+ works of modern and contemporary Arab art, loaned to 130+ institutions worldwide."
+public_status_text: "Active foundation since 2010; 1,000+ works of modern and contemporary Arab art, widely loaned internationally; building its first permanent museum in Sharjah, due to open 2028."
 public_name: Barjeel Art Foundation
 public_founder: Sultan Sooud Al Qassemi
 public_location: Sharjah, United Arab Emirates
 public_founded: 2010
-public_structure: Independent, non-collecting-building nonprofit foundation holding a founder's personal collection; no permanent standalone museum building
+public_structure: Independent nonprofit foundation holding the founder's personal collection; first permanent museum, in Sharjah, announced 2026 and due to open 2028
 public_access: Public in-house exhibitions and public programs in Sharjah, plus extensive international loans (130+ institutions, including Tate Liverpool, Tate St Ives, MoMA PS1, the Art Institute of Chicago, and the Mori Art Museum); online/digital publications
-public_size: 1,800+ works
+public_size: 1,000+ works
 public_focus: Modern and contemporary art by Arab artists, from across the Arab world and its diaspora
 public_movements: Arab modernism; postwar Arab abstraction
 public_period: mid-20th century-present
 public_media: painting; sculpture; installation
-public_pathway_timeline: 2010|found-foundation|found-foundation|Sultan Sooud Al Qassemi establishes the Barjeel Art Foundation in Sharjah to manage, preserve, and exhibit his personal collection of Arab art ;; 2024|found-foundation|traveling-program|Collection has grown past 1,800 works and loaned to 130+ institutions worldwide, with the foundation still holding no permanent standalone building of its own ;; 2026|found-foundation|found-foundation|Al Qassemi publicly appeals for additional UAE venue partners to display more of the collection long-term, citing space constraints
-public_origin: "Sultan Sooud Al Qassemi began collecting modern and contemporary Arab art and in 2010 established the Barjeel Art Foundation in Sharjah to manage, preserve, and share it. Rather than building a museum, the foundation has grown into one of the most widely loaned Arab-art collections in the world, appearing in exhibitions at major international institutions while continuing to seek permanent exhibition space in the UAE."
+public_pathway_timeline: 2010|found-foundation|found-foundation|Sultan Sooud Al Qassemi establishes the Barjeel Art Foundation in Sharjah to manage, preserve, and exhibit his personal collection of Arab art ;; 2024|found-foundation|traveling-program|Collection has grown to 1,000+ works and loaned to 130+ institutions worldwide, with the foundation still holding no permanent standalone building of its own ;; 2026|found-foundation|found-standalone-museum|The foundation announces its first permanent museum, a 38,750 sq ft building in Sharjah, due to open in 2028
+public_origin: "Sultan Sooud Al Qassemi began collecting modern and contemporary Arab art and in 2010 established the Barjeel Art Foundation in Sharjah to manage, preserve, and share it. For years the foundation operated without a museum of its own, becoming one of the most widely loaned Arab-art collections in the world. In 2026 it announced its first permanent museum, a purpose-built venue in Sharjah due to open in 2028."
 public_sources: Barjeel Art Foundation (official); The Art Newspaper; Wikipedia; universes.art
 hero_image_status: no_usable_image
 living_collector: true

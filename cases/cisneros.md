@@ -19,7 +19,7 @@ public_location: Caracas, Venezuela / New York, NY
 public_collecting_began: 1970s
 public_structure: Private collection dispersed by gift into public museums; no founder museum
 public_access: Gifted works accessioned and shown at each recipient museum
-public_size: ~340+ works gifted (2016 and 2018 tranches); full collection size unpublished
+public_size: ~300+ works gifted (2016 and 2018 tranches); full collection size unpublished
 public_focus: Latin American modern and contemporary art, with a geometric-abstraction core
 public_movements: geometric abstraction; Latin American conceptualism
 public_period: mid-20th century to contemporary

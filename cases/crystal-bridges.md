@@ -19,7 +19,7 @@ public_location: Bentonville, Arkansas
 public_founded: 2011
 public_structure: Independent nonprofit museum (family-controlled board), endowed by the Walton Family Foundation
 public_access: Open to the public (free admission)
-public_size: ~4,100 works; ~120-acre campus
+public_size: several thousand works; ~134-acre campus
 public_focus: American art from the colonial era to the present
 public_period: 18th century onward
 public_media: painting; sculpture; works on paper

@@ -22,8 +22,8 @@ public_access: Lends complete exhibitions free to museums and nonprofit gallerie
 public_size: 30,000+ works
 public_focus: Broad survey, painting, prints, photography, sculpture
 public_media: painting; prints; photography; sculpture
-public_pathway_timeline: 2009|||Art in our Communities lending program launched
-public_origin: "Bank of America and its predecessor institutions built a corporate art collection of more than 30,000 works over decades. In 2009 the bank launched Art in our Communities, lending complete, curated exhibitions at no cost to museums and nonprofit galleries worldwide rather than operating a public venue of its own."
+public_pathway_timeline: 2008|||Art in our Communities lending program launched
+public_origin: "Bank of America and its predecessor institutions built a corporate art collection of more than 30,000 works over decades. In 2008 the bank launched Art in our Communities, lending complete, curated exhibitions at no cost to museums and nonprofit galleries worldwide rather than operating a public venue of its own."
 public_sources: about.bankofamerica.com; Arts & Collections
 hero_image_status: no_usable_image
 living_collector: false
