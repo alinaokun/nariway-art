@@ -60,73 +60,6 @@
   },
   "collections": [
     {
-      "slug": "paz-museum-brumadinho",
-      "publicDepth": "expanded",
-      "name": "(untitled, working reference \"Museu Bernardo Paz\")",
-      "founder": "Bernardo Paz",
-      "location": "Brumadinho, Minas Gerais, Brazil (adjacent to Inhotim)",
-      "profile": {
-        "founded": 2026,
-        "structure": "Not yet publicly named; no foundation or governing entity identified in coverage",
-        "publicAccess": "Not yet open; first pavilions September 2027",
-        "currentState": "Under construction; first pavilions scheduled to open September 2027.",
-        "size": "311-acre site; ~40 planned gallery/pavilion spaces; collection of ~3,000 works"
-      },
-      "composition": {
-        "focus": "South American and international contemporary art",
-        "movements": [
-          "Contemporary"
-        ],
-        "selectedArtists": [
-          "Michael Heizer",
-          "Anna Maria Maiolino",
-          "Sonia Gomes (first-phase pavilion artists)"
-        ]
-      },
-      "classification": {
-        "pathwayTimeline": [
-          {
-            "event": "",
-            "year": 2015,
-            "familyId": "found-standalone-museum",
-            "codedPathway": "Bernardo Paz begins losing operational control of Inhotim amid a financial and governance crisis (see [[inhotim]])"
-          },
-          {
-            "event": "",
-            "year": 2020,
-            "familyId": "found-standalone-museum",
-            "codedPathway": "Instituto Inhotim is restructured with Paz voluntarily relinquishing personal control"
-          },
-          {
-            "event": "Paz announces a new, wholly separate museum and botanical garden on an adjacent 311-acre site, reviving the Inhotim model under his own renewed control",
-            "year": 2026,
-            "familyId": "build-institution",
-            "codedPathway": "found-art-park"
-          },
-          {
-            "event": "First pavilions scheduled to open",
-            "year": 2027,
-            "familyId": "build-institution",
-            "codedPathway": "found-art-park"
-          }
-        ]
-      },
-      "origin": "Bernardo Paz, who founded and later lost personal control of Inhotim, Brazil's landmark private art park, is building a second, separate museum and botanical garden of pavilions on an adjacent 311-acre site in Brumadinho for his own art collection, with first pavilions scheduled to open in 2027.",
-      "image": {
-        "status": "no_usable_image"
-      },
-      "sources": [
-        "The Art Newspaper",
-        "Artforum",
-        "ARTnews",
-        "Wallpaper",
-        "Newcity Brazil",
-        "Rio Times"
-      ],
-      "lastReviewed": "2026-08",
-      "livingCollector": true
-    },
-    {
       "slug": "0xcollection",
       "publicDepth": "expanded",
       "name": "0xCollection",
@@ -953,7 +886,7 @@
         "structure": "Private collection, opened to the public",
         "publicAccess": "By pre-booked guided tour (Thursday–Sunday)",
         "currentState": "Open in Berlin by guided tour since 2008.",
-        "size": "~500 works"
+        "size": "~700 works"
       },
       "composition": {
         "focus": "International contemporary art",
@@ -1001,7 +934,7 @@
         "visitBerlin",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -1464,7 +1397,7 @@
         "Musée des Beaux-Arts de Lyon",
         "Artsper"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "caplan-baltimore-museum-of-art",
@@ -3532,7 +3465,7 @@
             "codedPathway": "found-foundation"
           },
           {
-            "event": "Foundation lends prints free of charge to museums; over 160 exhibitions organized at 120+ venues",
+            "event": "Foundation lends prints free of charge to museums; over 180 exhibitions organized at 130+ partner museums",
             "year": "1997-2026",
             "familyId": "traveling-program",
             "codedPathway": "traveling-program"
@@ -4687,6 +4620,73 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "paz-museum-brumadinho",
+      "publicDepth": "expanded",
+      "name": "Museu Bernardo Paz",
+      "founder": "Bernardo Paz",
+      "location": "Brumadinho, Minas Gerais, Brazil (adjacent to Inhotim)",
+      "profile": {
+        "founded": 2026,
+        "structure": "A nonprofit institution led and funded by Bernardo Paz; a separate governing entity is not yet publicly named",
+        "publicAccess": "Not yet open; first pavilions September 2027",
+        "currentState": "Under construction; first pavilions scheduled to open September 2027.",
+        "size": "311-acre site; ~40 planned gallery/pavilion spaces; collection of ~3,000 works"
+      },
+      "composition": {
+        "focus": "South American and international contemporary art",
+        "movements": [
+          "Contemporary"
+        ],
+        "selectedArtists": [
+          "Michael Heizer",
+          "Anna Maria Maiolino",
+          "Sonia Gomes (first-phase pavilion artists)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "",
+            "year": 2015,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "Bernardo Paz begins losing operational control of Inhotim amid a financial and governance crisis (see [[inhotim]])"
+          },
+          {
+            "event": "",
+            "year": 2020,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "Instituto Inhotim is restructured with Paz voluntarily relinquishing personal control"
+          },
+          {
+            "event": "Paz announces a new, wholly separate museum and botanical garden on an adjacent 311-acre site, reviving the Inhotim model under his own renewed control",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          },
+          {
+            "event": "First pavilions scheduled to open",
+            "year": 2027,
+            "familyId": "build-institution",
+            "codedPathway": "found-art-park"
+          }
+        ]
+      },
+      "origin": "Bernardo Paz, who founded and later lost personal control of Inhotim, Brazil's landmark private art park, is building a second, separate museum and botanical garden of pavilions on an adjacent 311-acre site in Brumadinho for his own art collection, with first pavilions scheduled to open in 2027.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Artforum",
+        "ARTnews",
+        "Wallpaper",
+        "Newcity Brazil",
+        "Rio Times"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "museum-berggruen",
       "publicDepth": "expanded",
       "name": "Museum Berggruen",
@@ -5155,7 +5155,7 @@
         "pathwayTimeline": [
           {
             "event": "The Petrucci Family Foundation is established as a general education-and-opportunity philanthropy",
-            "year": 2004
+            "year": 2006
           },
           {
             "event": "The Foundation begins collecting African American art specifically, for the explicit purpose of lending it to museums",
@@ -5182,7 +5182,7 @@
         "David C. Driskell Center",
         "ProPublica Nonprofit Explorer"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -5194,8 +5194,8 @@
       "profile": {
         "founded": 2010,
         "structure": "Private nonprofit foundation (Pilara Foundation), free exhibition space",
-        "publicAccess": "Free, by appointment only (until closure, July 2025)",
-        "currentState": "Closed July 2025; collection auctioned to fund a new health, education and arts grantmaking foundation.",
+        "publicAccess": "Free, by appointment only (until its public closure, February 2025)",
+        "currentState": "Closed to the public February 2025; collection auctioned in 2023 to fund a new health, education and arts grantmaking foundation.",
         "size": "28,000 sq ft; 4,000+ photographic works"
       },
       "composition": {
@@ -5214,18 +5214,20 @@
             "codedPathway": "found-standalone-museum"
           },
           {
-            "event": "Closure announced after a five-year lease dispute with the Port of San Francisco",
-            "year": 2023
+            "event": "The Pilara Foundation sells the collection at Sotheby's, New York",
+            "year": 2023,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
           },
           {
-            "event": "Pier 24 closes; the Pilara Foundation auctions the collection and becomes a health/education/arts grantmaking foundation",
+            "event": "Pier 24 closes to the public (February) after its Port of San Francisco lease is not renewed; the Pilara Foundation refocuses on health, education and arts grantmaking",
             "year": 2025,
             "familyId": "other",
             "codedPathway": "sell-auction"
           }
         ]
       },
-      "origin": "Former investment banker Andrew Pilara, inspired by a 2003 Diane Arbus retrospective, built one of the world's largest dedicated photography collections and opened it free to the public on San Francisco's Embarcadero in 2010; after a multi-year rent dispute with the Port of San Francisco, he closed it in 2025 and chose to auction the collection to fund a new grantmaking mission in health care, education and the arts.",
+      "origin": "Former investment banker Andrew Pilara, inspired by a 2003 Diane Arbus retrospective, built one of the world's largest dedicated photography collections and opened it free to the public on San Francisco's Embarcadero in 2010; he sold the collection at auction in 2023 and, after a multi-year lease dispute with the Port of San Francisco, closed the space to the public in early 2025, refocusing the Pilara Foundation on grantmaking in health care, education and the arts.",
       "image": {
         "status": "no_usable_image"
       },
@@ -5235,7 +5237,7 @@
         "SF Standard",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -5301,7 +5303,7 @@
         "The Salt Lake Tribune",
         "GuideStar"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -5350,7 +5352,7 @@
         "Wikipedia",
         "ProPublica Nonprofit Explorer"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -5364,7 +5366,7 @@
         "structure": "Independent nonprofit sculpture park and museum",
         "publicAccess": "Open to the public",
         "currentState": "Open in Hamilton, Ohio since 1996.",
-        "size": "300+ acres; 70+ outdoor sculptures"
+        "size": "~470 acres; 70+ outdoor sculptures"
       },
       "composition": {
         "focus": "Monumental outdoor sculpture; ancient sculpture",
@@ -5400,7 +5402,7 @@
         "Wikipedia",
         "Cincinnati Magazine"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "rennie-collection",
@@ -5467,7 +5469,7 @@
         "The Globe and Mail",
         "BCBusiness"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -5478,9 +5480,9 @@
       "location": "Winston-Salem, North Carolina, USA",
       "profile": {
         "founded": 1965,
-        "structure": "Independent nonprofit museum, university-affiliated (Wake Forest University) since 2018",
+        "structure": "Independent nonprofit museum, university-affiliated (Wake Forest University) since 2002",
         "publicAccess": "Open to the public",
-        "currentState": "Thriving; affiliated with Wake Forest University since 2018.",
+        "currentState": "Thriving; affiliated with Wake Forest University since 2002.",
         "size": "Historic 1917 estate house plus later exhibition and education wing"
       },
       "composition": {
@@ -5512,13 +5514,13 @@
           },
           {
             "event": "Reynolda House affiliates with Wake Forest University",
-            "year": 2018,
+            "year": 2002,
             "familyId": "partner-institution",
             "codedPathway": "university-partnership"
           }
         ]
       },
-      "origin": "Katharine Smith Reynolds and her husband, R.J. Reynolds, founder of the R.J. Reynolds Tobacco Company, built Reynolda House as their family estate in 1917. In the mid-1960s their granddaughter, Barbara Babcock Millhouse, reimagined the house as a museum of American art, serving as founding board president and building the collection herself; the museum opened in 1967 and affiliated with Wake Forest University in 2018.",
+      "origin": "Katharine Smith Reynolds and her husband, R.J. Reynolds, founder of the R.J. Reynolds Tobacco Company, built Reynolda House as their family estate in 1917. In the mid-1960s their granddaughter, Barbara Babcock Millhouse, reimagined the house as a museum of American art, serving as founding board president and building the collection herself; the museum opened in 1967 and affiliated with Wake Forest University in 2002.",
       "image": {
         "status": "no_usable_image"
       },
@@ -5528,7 +5530,7 @@
         "Wikipedia",
         "Cause IQ (Form 990 aggregator)"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "rauschenberg-foundation-hq",
@@ -5537,10 +5539,10 @@
       "founder": "Robert Rauschenberg",
       "location": "New York, New York; Captiva Island, Florida",
       "profile": {
-        "founded": 2008,
+        "founded": 1990,
         "structure": "Artist-endowed grantmaking foundation",
-        "publicAccess": "Not a public museum (grantmaking, archives, and residency programs)",
-        "currentState": "Grantmaking foundation active since 2008; selling surplus real estate in 2026."
+        "publicAccess": "Not a public museum (grantmaking and archives; the Captiva residency ended with the 2026 property sale)",
+        "currentState": "Grantmaking foundation active since 1990; selling surplus real estate in 2026."
       },
       "composition": {
         "focus": "Support for artists and the legacy of Robert Rauschenberg"
@@ -5548,20 +5550,24 @@
       "classification": {
         "pathwayTimeline": [
           {
-            "event": "Robert Rauschenberg Foundation established around the artist's death",
-            "year": 2008,
+            "event": "Robert Rauschenberg establishes the Robert Rauschenberg Foundation",
+            "year": 1990,
             "familyId": "build-institution",
             "codedPathway": "found-foundation"
           },
           {
-            "event": "Foundation sells the Captiva Island compound ($45M) and lists his NYC townhouse-studio",
+            "event": "Rauschenberg dies; the Foundation takes on stewardship of his estate and legacy",
+            "year": 2008
+          },
+          {
+            "event": "Foundation sells the Captiva Island compound ($45M), ends the Captiva residency, and lists his NYC townhouse-studio",
             "year": 2026,
             "familyId": "sell",
             "codedPathway": "sell-private"
           }
         ]
       },
-      "origin": "The Robert Rauschenberg Foundation, established around the artist's 2008 death, supports artists and stewards his legacy through grantmaking, archives, and residency programs. In 2026 it sold his Captiva Island compound and listed his longtime New York townhouse-studio, reallocating proceeds toward its programs.",
+      "origin": "The Robert Rauschenberg Foundation, established by the artist in 1990, supports artists and stewards his legacy through grantmaking and archives. In 2026 it sold his Captiva Island compound (ending the residency it hosted there) and listed his longtime New York townhouse-studio, reallocating proceeds toward its programs.",
       "image": {
         "status": "no_usable_image"
       },
@@ -5571,7 +5577,7 @@
         "Artforum",
         "Artnet News"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "rubin-museum",
@@ -5620,7 +5626,7 @@
         "CNN",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -5680,7 +5686,7 @@
         "Wikipedia",
         "Vermont Historical Society"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "sid-richardson",
@@ -5734,7 +5740,7 @@
         "Texas State Historical Association",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "souls-grown-deep",
@@ -5803,7 +5809,7 @@
         "Metropolitan Museum of Art",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "standard-bank-art-collection",
@@ -5932,7 +5938,7 @@
         "ARTnews",
         "Center for Art Law"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "storm-king",
@@ -6184,7 +6190,7 @@
         "NPR",
         "AFRO American Newspapers"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "kohler-art-preserve",
@@ -7042,7 +7048,7 @@
         "LACMA",
         "The Art Newspaper"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "museum-of-russian-icons",
@@ -7507,7 +7513,7 @@
       "sources": [
         "phillipscollection.org"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "progressive-art-collection",
@@ -7520,7 +7526,7 @@
         "structure": "Corporate collection (The Progressive Corporation)",
         "publicAccess": "Displayed in company offices; limited public access via docent-led tours",
         "currentState": "Active corporate collection, displayed across Progressive's offices since the 1970s.",
-        "size": "several thousand works (reported 7,500–10,000+)"
+        "size": "more than 10,000 works"
       },
       "composition": {
         "focus": "Contemporary art",
@@ -7535,14 +7541,10 @@
       "classification": {
         "pathwayTimeline": [
           {
-            "event": "Peter B. Lewis begins the collection with Andy Warhol's Mao series, retained as a corporate collection",
+            "event": "Peter B. Lewis begins the collection with Andy Warhol's Mao series, shown that year at Progressive's Ohio headquarters and retained as a corporate collection",
             "year": 1974,
             "familyId": "keep-family",
             "codedPathway": "hybrid"
-          },
-          {
-            "event": "Art first displayed at Progressive's Ohio headquarters",
-            "year": 1979
           }
         ]
       },
@@ -7554,7 +7556,7 @@
         "progressive.com",
         "Crain's Cleveland Business"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "rachofsky-warehouse-dallas",
@@ -7567,7 +7569,7 @@
         "structure": "A promised, irrevocable bequest to the Dallas Museum of Art (a public nonprofit museum) plus a separately governed private exhibition nonprofit, The Warehouse Dallas Art Foundation",
         "publicAccess": "The Warehouse: free, by appointment, seasonal exhibitions; the collection itself is private during the founders' lifetimes",
         "currentState": "An irrevocable future gift to the Dallas Museum of Art, paired with a live, jointly-run private exhibition space open since 2012.",
-        "size": "900+ works pledged to DMA"
+        "size": "900+ works pledged to the DMA (jointly by three collecting families)"
       },
       "composition": {
         "focus": "Postwar and contemporary art",
@@ -7616,7 +7618,7 @@
         "Artnet News",
         "The Warehouse Dallas"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -7645,7 +7647,7 @@
           "Amedeo Modigliani",
           "Vincent van Gogh",
           "Alberto Giacometti",
-          "Henri Matisse"
+          "Pierre-Auguste Renoir"
         ]
       },
       "classification": {
@@ -7667,7 +7669,7 @@
         "Sotheby's",
         "AP"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "sandy-lerner-cat-collection",
@@ -7697,7 +7699,7 @@
         ],
         "selectedArtists": [
           "Léonard Tsuguharu Foujita",
-          "Alberto Giacometti (Diego Giacometti)",
+          "Diego Giacometti",
           "Henri Matisse"
         ]
       },
@@ -7733,7 +7735,7 @@
         "Ocula",
         "Bonhams"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {

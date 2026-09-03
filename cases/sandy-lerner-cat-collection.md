@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H1, H4]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Sold across four Bonhams auctions, September–October 2026."
 public_name: The Sandy Lerner Collection
@@ -29,13 +30,13 @@ public_focus: Cat-themed fine and decorative art spanning four millennia
 public_movements: n/a (a subject-matter collection, not a movement-based one)
 public_period: Ancient to 20th century
 public_media: painting; sculpture; decorative arts; jewelry; books
-public_selected_artists: Léonard Tsuguharu Foujita; Alberto Giacometti (Diego Giacometti); Henri Matisse
+public_selected_artists: Léonard Tsuguharu Foujita; Diego Giacometti; Henri Matisse
 public_pathway_timeline: 1990s|keep-family|sell-auction|Sandy Lerner begins collecting cat-themed art and decorative objects ;; 2017|keep-family|sell-auction|Lerner publishes "Caticons: 4,000 Years of Art Imitating Cats," documenting the collection ;; 2026|disperse|sell-auction|Collection dispersed across four Bonhams sales, September-October, New York and Massachusetts
 public_origin: "Cisco Systems co-founder and Urban Decay founder Sandy Lerner spent more than three decades assembling one of the most significant private collections of cat-related decorative arts, books, and collectibles ever made, chronicled in her 2017 book Caticons. In 2026 she began dispersing nearly 1,000 lots across four Bonhams auctions."
 public_sources: Artnews; Artsy; Ocula; Bonhams
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Sandy Lerner Collection — Upperville, VA (collection) / New York, NY + MA (sale)

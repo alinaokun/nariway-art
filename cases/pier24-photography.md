@@ -14,24 +14,25 @@ interview_status: not-contacted
 hypotheses: [H3, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Closed July 2025; collection auctioned to fund a new health, education and arts grantmaking foundation."
+public_status_text: "Closed to the public February 2025; collection auctioned in 2023 to fund a new health, education and arts grantmaking foundation."
 public_name: Pier 24 Photography
 public_founder: Andrew and Mary Pilara
 public_location: San Francisco, CA
 public_founded: 2010
 public_structure: Private nonprofit foundation (Pilara Foundation), free exhibition space
-public_access: Free, by appointment only (until closure, July 2025)
+public_access: Free, by appointment only (until its public closure, February 2025)
 public_size: 28,000 sq ft; 4,000+ photographic works
 public_focus: 20th-century and postwar photography
 public_period: 20th century to present
 public_media: photography
-public_pathway_timeline: 2010|build-institution|found-standalone-museum|Pier 24 Photography opens on the San Francisco waterfront ;; 2023|||Closure announced after a five-year lease dispute with the Port of San Francisco ;; 2025|other|sell-auction|Pier 24 closes; the Pilara Foundation auctions the collection and becomes a health/education/arts grantmaking foundation
-public_origin: Former investment banker Andrew Pilara, inspired by a 2003 Diane Arbus retrospective, built one of the world's largest dedicated photography collections and opened it free to the public on San Francisco's Embarcadero in 2010; after a multi-year rent dispute with the Port of San Francisco, he closed it in 2025 and chose to auction the collection to fund a new grantmaking mission in health care, education and the arts.
+public_pathway_timeline: 2010|build-institution|found-standalone-museum|Pier 24 Photography opens on the San Francisco waterfront ;; 2023|disperse|sell-auction|The Pilara Foundation sells the collection at Sotheby's, New York ;; 2025|other|sell-auction|Pier 24 closes to the public (February) after its Port of San Francisco lease is not renewed; the Pilara Foundation refocuses on health, education and arts grantmaking
+public_origin: Former investment banker Andrew Pilara, inspired by a 2003 Diane Arbus retrospective, built one of the world's largest dedicated photography collections and opened it free to the public on San Francisco's Embarcadero in 2010; he sold the collection at auction in 2023 and, after a multi-year lease dispute with the Port of San Francisco, closed the space to the public in early 2025, refocusing the Pilara Foundation on grantmaking in health care, education and the arts.
 public_sources: pier24.org; San Francisco Chronicle; SF Standard; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Pier 24 Photography

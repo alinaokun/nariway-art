@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating on Vinalhaven since 2016; selling the artist's former home in 2026, redirecting proceeds to island arts programs."
 public_name: Star of Hope Foundation
@@ -32,7 +33,7 @@ public_origin: "Robert Indiana bought a former Odd Fellows lodge on the Maine is
 public_sources: Portland Press Herald; Bangor Daily News; ARTnews; Center for Art Law
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Star of Hope Foundation (Robert Indiana) — Vinalhaven, Maine, USA

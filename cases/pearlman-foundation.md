@@ -11,6 +11,7 @@ outcome: closed-dispersed
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Collection gifted in 2025 to three U.S. museums; on long-term loan at Princeton, 1976–2025."
 public_name: The Henry and Rose Pearlman Foundation Collection
@@ -31,7 +32,7 @@ public_origin: Henry Pearlman assembled a tightly focused collection of Impressi
 public_sources: Brooklyn Museum; MoMA; LACMA; The Art Newspaper
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Henry and Rose Pearlman Foundation — a 49-year single-host loan ends in a permanent, co-owned three-museum split, and the disposition mechanism is genuinely novel

@@ -13,6 +13,7 @@ verification: spot-verified
 origin: private-individual
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Private Vancouver collection being gifted in stages to the National Gallery of Canada."
 public_name: Rennie Collection
@@ -32,7 +33,7 @@ public_origin: Bob Rennie, a Vancouver real-estate marketer, built a contemporar
 public_sources: National Gallery of Canada; The Art Newspaper; The Globe and Mail; BCBusiness
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Rennie Collection / Rennie Museum — Vancouver, BC, Canada

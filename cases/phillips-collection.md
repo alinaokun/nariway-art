@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Washington, D.C. since 1921."
 public_name: The Phillips Collection
@@ -29,7 +30,7 @@ public_origin: Duncan Phillips opened his collection to the public in 1921 in th
 public_sources: phillipscollection.org
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # The Phillips Collection
 America's first museum of modern art (opened 1921), founded by Duncan Phillips in the family residence; survived the founder (Marjorie → Laughlin Phillips). Net assets $125.4M / expenses $17.4M FY2025 (7.2x, upper bound). Full coded header, figures, and sources in [[report-dataset]].

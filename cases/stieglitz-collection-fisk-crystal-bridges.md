@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Co-owned 50/50 by Fisk University and Crystal Bridges since 2012; the works rotate between Nashville and Bentonville every two years."
 public_name: The Alfred Stieglitz Collection
@@ -33,7 +34,7 @@ public_origin: Georgia O'Keeffe gave 101 works from her late husband Alfred Stie
 public_sources: Crystal Bridges Museum; ARTnews; Hyperallergic; NPR; AFRO American Newspapers
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Alfred Stieglitz Collection (Fisk University / Crystal Bridges)

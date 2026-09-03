@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active corporate collection, on view at Société Générale's Paris-area offices and shared through loans and exhibitions since 1995."
 public_name: Collection Société Générale
@@ -34,7 +35,7 @@ public_origin: Société Générale began collecting contemporary art in 1995 wh
 public_sources: Société Générale (collection.societegenerale.com); Musée des Beaux-Arts de Lyon; Artsper
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Société Générale Art Collection — Paris, France

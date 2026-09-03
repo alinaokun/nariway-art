@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Open to the public since October 2020; a conservation easement protects the land permanently."
 public_name: Price Sculpture Forest
@@ -34,7 +35,7 @@ public_origin: "Scott Price bought a forested property on Whidbey Island in 2008
 public_sources: Price Sculpture Forest; Wikipedia; ProPublica Nonprofit Explorer
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Price Sculpture Forest — Coupeville, WA, USA

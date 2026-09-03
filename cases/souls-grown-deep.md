@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H4, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Dispersing its collection into major museums; based in Atlanta."
 public_name: Souls Grown Deep Foundation
@@ -33,7 +34,7 @@ public_origin: The art historian and collector William Arnett assembled a large 
 public_sources: soulsgrowndeep.org; Metropolitan Museum of Art; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Souls Grown Deep Foundation

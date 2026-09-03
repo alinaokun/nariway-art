@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H3, H5, H7A]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active lending program based in Portland, OR; founder living."
 public_name: Jordan Schnitzer Family Foundation
@@ -30,7 +31,7 @@ public_period: mid-20th century to present
 public_media: prints; multiples
 public_selected_artists: Judy Chicago; Chuck Close; Kara Walker; Ed Ruscha; Roy Lichtenstein
 living_collector: true
-public_pathway_timeline: 1997|found-foundation|found-foundation|Jordan Schnitzer establishes the Jordan Schnitzer Family Foundation ;; 1997-2026|traveling-program|traveling-program|Foundation lends prints free of charge to museums; over 160 exhibitions organized at 120+ venues
+public_pathway_timeline: 1997|found-foundation|found-foundation|Jordan Schnitzer establishes the Jordan Schnitzer Family Foundation ;; 1997-2026|traveling-program|traveling-program|Foundation lends prints free of charge to museums; over 180 exhibitions organized at 130+ partner museums
 public_origin: Portland real-estate developer Jordan Schnitzer built a collection of over 22,000 prints and multiples and, rather than founding a museum, structured his foundation as a circulating lending library — placing works with museums that lack their own blue-chip holdings, at no cost beyond shipping and insurance.
 public_sources: Jordan Schnitzer Family Foundation (jordanschnitzer.org); Artnet News; Cause IQ
 hero_image_status: no_usable_image

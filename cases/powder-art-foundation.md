@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open-air installations viewable now on the mountain; a full grand opening is planned for 2026."
 public_name: Powder Art Foundation
@@ -31,7 +32,7 @@ public_origin: Netflix co-founder Reed Hastings, who bought the Powder Mountain 
 public_sources: Artnet News; Robb Report; Surface; Galerie; Archpaper; The Salt Lake Tribune; GuideStar
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Powder Art Foundation (Powder Mountain)

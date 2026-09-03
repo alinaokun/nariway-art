@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H4, H7A, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Hamilton, Ohio since 1996."
 public_name: Pyramid Hill Sculpture Park and Museum
@@ -22,7 +23,7 @@ public_location: Hamilton, Ohio
 public_founded: 1997
 public_structure: Independent nonprofit sculpture park and museum
 public_access: Open to the public
-public_size: 300+ acres; 70+ outdoor sculptures
+public_size: ~470 acres; 70+ outdoor sculptures
 public_focus: Monumental outdoor sculpture; ancient sculpture
 public_period: modern and contemporary; antiquities
 public_media: sculpture
@@ -31,7 +32,7 @@ public_origin: Harry T. Wilks bought farmland in Hamilton, Ohio in 1987, kept ac
 public_sources: pyramidhill.org; Wikipedia; Cincinnati Magazine
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Pyramid Hill Sculpture Park and Museum

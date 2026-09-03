@@ -11,6 +11,7 @@ outcome: pivoted
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "New York building closed in 2024; now operating as a global 'museum without walls'."
 public_name: Rubin Museum of Himalayan Art
@@ -27,7 +28,7 @@ public_origin: Shelley and Donald Rubin built a collection of art from the Himal
 public_sources: rubinmuseum.org; CNN; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Rubin Museum of Art — the sample's first living-founder building closure, and a "museum without walls" pivot distinct from Deutsche Bank's

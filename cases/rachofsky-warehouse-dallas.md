@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "An irrevocable future gift to the Dallas Museum of Art, paired with a live, jointly-run private exhibition space open since 2012."
 public_name: The Rachofsky Collection / The Warehouse
@@ -22,7 +23,7 @@ public_location: Dallas, TX, USA
 public_founded: 2005
 public_structure: A promised, irrevocable bequest to the Dallas Museum of Art (a public nonprofit museum) plus a separately governed private exhibition nonprofit, The Warehouse Dallas Art Foundation
 public_access: The Warehouse: free, by appointment, seasonal exhibitions; the collection itself is private during the founders' lifetimes
-public_size: 900+ works pledged to DMA
+public_size: 900+ works pledged to the DMA (jointly by three collecting families)
 public_focus: Postwar and contemporary art
 public_movements: Minimalism; Post-Minimalism; Contemporary
 public_period: mid-20th century to present
@@ -32,7 +33,7 @@ public_origin: Dallas collectors Cindy and Howard Rachofsky pledged their postwa
 public_sources: ARTnews; Glasstire; Dallas Morning News; Artnet News; The Warehouse Dallas
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Rachofsky Collection / The Warehouse Dallas Art Foundation

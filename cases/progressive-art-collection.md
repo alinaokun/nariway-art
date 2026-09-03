@@ -13,6 +13,7 @@ verification: spot-verified
 origin: corporate
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active corporate collection, displayed across Progressive's offices since the 1970s."
 public_name: The Progressive Art Collection
@@ -21,16 +22,16 @@ public_location: Mayfield Village, Ohio
 public_collecting_began: 1974
 public_structure: Corporate collection (The Progressive Corporation)
 public_access: Displayed in company offices; limited public access via docent-led tours
-public_size: several thousand works (reported 7,500–10,000+)
+public_size: more than 10,000 works
 public_focus: Contemporary art
 public_period: 1960s to present
 public_media: painting; photography; sculpture; new media
-public_pathway_timeline: 1974|keep-family|hybrid|Peter B. Lewis begins the collection with Andy Warhol's Mao series, retained as a corporate collection ;; 1979|||Art first displayed at Progressive's Ohio headquarters
+public_pathway_timeline: 1974|keep-family|hybrid|Peter B. Lewis begins the collection with Andy Warhol's Mao series, shown that year at Progressive's Ohio headquarters and retained as a corporate collection
 public_origin: The Progressive Corporation's collection began in 1974 when chairman Peter B. Lewis bought Andy Warhol's Mao series for the company's Ohio headquarters. It has grown into a large contemporary-art collection displayed across Progressive's offices and has continued acquiring after Lewis's death in 2013.
 public_sources: progressive.com; Crain's Cleveland Business
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Progressive Art Collection — Mayfield Village, OH

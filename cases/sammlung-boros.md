@@ -12,6 +12,7 @@ outcome: thriving
 verification: provisional
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Berlin by guided tour since 2008."
 public_name: Boros Collection (Sammlung Boros)
@@ -21,7 +22,7 @@ public_founded: 2008
 public_collecting_began: 1980s
 public_structure: Private collection, opened to the public
 public_access: By pre-booked guided tour (Thursday–Sunday)
-public_size: ~500 works
+public_size: ~700 works
 public_focus: International contemporary art
 public_period: 1990 to present
 public_media: painting; sculpture; installation; photography
@@ -31,7 +32,7 @@ public_origin: Christian Boros began collecting international contemporary art i
 public_sources: boros-collection.com; visitBerlin; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Sammlung Boros — a "Foundation" that is legally not a foundation, inside a WWII bunker, open only by paid appointment

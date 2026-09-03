@@ -16,24 +16,25 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Thriving; affiliated with Wake Forest University since 2018."
+public_status_text: "Thriving; affiliated with Wake Forest University since 2002."
 public_name: Reynolda House Museum of American Art
 public_founder: Barbara Babcock Millhouse (granddaughter of Katharine and R.J. Reynolds)
 public_location: Winston-Salem, North Carolina, USA
 public_founded: 1965
-public_structure: Independent nonprofit museum, university-affiliated (Wake Forest University) since 2018
+public_structure: Independent nonprofit museum, university-affiliated (Wake Forest University) since 2002
 public_access: Open to the public
 public_size: Historic 1917 estate house plus later exhibition and education wing
 public_focus: American art from the colonial period to the present, displayed inside R.J. and Katharine Reynolds's historic estate house
 public_period: Colonial era to contemporary
 public_media: painting; works on paper; decorative arts
-public_pathway_timeline: 1917|||Katharine Smith Reynolds and R.J. Reynolds build Reynolda House as their family estate ;; 1965|build-institution|found-house-museum|Charles Babcock reimagines Reynolda House as an arts center; daughter Barbara Babcock Millhouse becomes founding board president and begins building the American-art collection ;; 1967|build-institution|found-house-museum|Reynolda House Museum of American Art formally opens ;; 2018|partner-institution|university-partnership|Reynolda House affiliates with Wake Forest University
-public_origin: "Katharine Smith Reynolds and her husband, R.J. Reynolds, founder of the R.J. Reynolds Tobacco Company, built Reynolda House as their family estate in 1917. In the mid-1960s their granddaughter, Barbara Babcock Millhouse, reimagined the house as a museum of American art, serving as founding board president and building the collection herself; the museum opened in 1967 and affiliated with Wake Forest University in 2018."
+public_pathway_timeline: 1917|||Katharine Smith Reynolds and R.J. Reynolds build Reynolda House as their family estate ;; 1965|build-institution|found-house-museum|Charles Babcock reimagines Reynolda House as an arts center; daughter Barbara Babcock Millhouse becomes founding board president and begins building the American-art collection ;; 1967|build-institution|found-house-museum|Reynolda House Museum of American Art formally opens ;; 2002|partner-institution|university-partnership|Reynolda House affiliates with Wake Forest University
+public_origin: "Katharine Smith Reynolds and her husband, R.J. Reynolds, founder of the R.J. Reynolds Tobacco Company, built Reynolda House as their family estate in 1917. In the mid-1960s their granddaughter, Barbara Babcock Millhouse, reimagined the house as a museum of American art, serving as founding board president and building the collection herself; the museum opened in 1967 and affiliated with Wake Forest University in 2002."
 public_sources: Wake Forest Magazine; Reynolda; Wikipedia; Cause IQ (Form 990 aggregator)
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Reynolda House Museum of American Art — Winston-Salem, NC, USA

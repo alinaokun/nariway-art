@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating in Shelburne, Vermont, since 1947."
 public_name: Shelburne Museum
@@ -30,7 +31,7 @@ public_origin: Electra Havemeyer Webb, a pioneering collector of American folk a
 public_sources: shelburnemuseum.org; Wikipedia; Vermont Historical Society
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # Shelburne Museum
 An open-air "collection of collections" (1947) by Electra Havemeyer Webb, 39 structures incl. the steamboat *Ticonderoga*; broad Americana survey plus inherited Impressionism; survived the founder. Net assets $60.2M / expenses $9.7M FY2025 (6.2x, upper bound). Full coded header and sources in [[report-dataset]].

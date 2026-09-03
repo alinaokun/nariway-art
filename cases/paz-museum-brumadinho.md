@@ -14,13 +14,14 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Under construction; first pavilions scheduled to open September 2027."
-public_name: (untitled, working reference "Museu Bernardo Paz")
+public_name: Museu Bernardo Paz
 public_founder: Bernardo Paz
 public_location: Brumadinho, Minas Gerais, Brazil (adjacent to Inhotim)
 public_founded: 2026
-public_structure: Not yet publicly named; no foundation or governing entity identified in coverage
+public_structure: A nonprofit institution led and funded by Bernardo Paz; a separate governing entity is not yet publicly named
 public_access: Not yet open; first pavilions September 2027
 public_size: 311-acre site; ~40 planned gallery/pavilion spaces; collection of ~3,000 works
 public_focus: South American and international contemporary art
@@ -31,7 +32,7 @@ public_origin: Bernardo Paz, who founded and later lost personal control of Inho
 public_sources: The Art Newspaper; Artforum; ARTnews; Wallpaper; Newcity Brazil; Rio Times
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Bernardo Paz's new museum, Brumadinho

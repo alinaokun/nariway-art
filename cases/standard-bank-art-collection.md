@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active corporate collection built since 1938; 1,200+ works by ~250 mostly South African artists, shown free to the public at the bank's own Johannesburg gallery since 1990."
 public_name: Standard Bank Art Collection
