@@ -11,6 +11,7 @@ outcome: distressed
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Reopened on reduced public hours in November 2024 after a closure amid a deaccessioning controversy."
 public_name: Brauer Museum of Art (Valparaiso University)
@@ -28,7 +29,7 @@ public_origin: "The Brauer Museum of Art grew from Valparaiso University's teach
 public_sources: The Art Newspaper; ARTnews; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Brauer Museum of Art — Valparaiso University, IN

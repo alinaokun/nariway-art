@@ -11,6 +11,7 @@ outcome: distressed
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Temporarily closed since 2025; downtown Raleigh building listed for sale in 2026."
 public_name: CAM Raleigh (Contemporary Art Museum)
@@ -24,7 +25,7 @@ public_origin: "CAM Raleigh, a contemporary art museum with no permanent collect
 public_sources: WUNC; Axios Raleigh; WRAL
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # CAM Raleigh — the sample's clearest distressed "sell the building, keep the mission" case

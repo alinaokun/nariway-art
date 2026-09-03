@@ -12,6 +12,7 @@ outcome: emerging
 verification: provisional
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Almaty since 2025."
 public_name: Almaty Museum of Arts (ALMA)
@@ -31,7 +32,7 @@ public_origin: "Kazakh entrepreneur Nurlan Smagulov collected Central Asian and 
 public_sources: almaty.art; ARTnews; Artnet; The Times of Central Asia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Almaty Museum of Arts (ALMA) — Central Asia's first private contemporary museum, built with an explicit state-partnership succession plan from day one

@@ -11,6 +11,7 @@ outcome: stable
 verification: provisional
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Whistler, British Columbia since 2016."
 public_name: Audain Art Museum
@@ -29,7 +30,7 @@ public_origin: "Vancouver homebuilder Michael Audain and his wife Yoshiko Karasa
 public_sources: audainartmuseum.com; CBC; Canadian Art
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Audain Art Museum

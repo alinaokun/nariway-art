@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Absorbed into the UBS Art Collection following UBS's 2023 emergency takeover of Credit Suisse; integration ongoing."
 public_name: Credit Suisse Art Collection (absorbed into the UBS Art Collection)
@@ -34,7 +35,7 @@ public_origin: Credit Suisse built a corporate collection of Swiss contemporary 
 public_sources: The Art Newspaper; Wall Street Journal; Zarastro Art
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Credit Suisse Art Collection → UBS — the M&A-absorption-of-a-distressed-parent cell the corporate sub-sample was missing

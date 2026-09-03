@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Bentonville, Arkansas since 2011."
 public_name: Crystal Bridges Museum of American Art
@@ -29,7 +30,7 @@ public_origin: "Alice Walton, daughter of Walmart founder Sam Walton, assembled 
 public_sources: crystalbridges.org; Encyclopedia of Arkansas
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # Crystal Bridges Museum of American Art — the endowed-in-perpetuity founder museum
 

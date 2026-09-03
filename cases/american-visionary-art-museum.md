@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating in Baltimore since 1995; a Congressionally-designated national museum now on its third director in four years."
 public_name: American Visionary Art Museum
@@ -34,7 +35,7 @@ public_origin: "Rebecca Hoffberger founded the American Visionary Art Museum in 
 public_sources: Baltimore Fishbowl; CBS Baltimore; The Baltimore Banner; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # American Visionary Art Museum — Baltimore, MD, USA

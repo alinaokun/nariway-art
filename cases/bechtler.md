@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H5, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Charlotte since 2010."
 public_name: Bechtler Museum of Modern Art
@@ -33,7 +34,7 @@ public_origin: "Andreas Bechtler inherited part of a modern-art collection assem
 public_sources: bechtler.org; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Bechtler Museum of Modern Art

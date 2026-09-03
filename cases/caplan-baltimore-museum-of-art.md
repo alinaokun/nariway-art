@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H2]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "64 works gifted to the Baltimore Museum of Art, announced July 2026."
 public_name: Constance R. Caplan Collection
@@ -33,7 +34,7 @@ public_pathway_timeline: 2020|build-institution|no-building|Caplan's own collect
 public_origin: "Constance R. Caplan, a former board chair who has been engaged with the Baltimore Museum of Art since 1955, gave 64 works from her own contemporary-art collection to the museum, announced in July 2026 alongside other new acquisitions. Her collection had previously been the subject of a dedicated exhibition at the Art Institute of Chicago in 2020."
 public_sources: Artforum; Baltimore Fishbowl; Artdaily
 hero_image_status: no_usable_image
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Constance R. Caplan Collection → Baltimore Museum of Art

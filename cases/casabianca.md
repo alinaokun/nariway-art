@@ -12,6 +12,7 @@ outcome: emerging
 verification: provisional
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open on Lake Como since May 2026."
 public_name: Casabianca
@@ -32,7 +33,7 @@ public_origin: "Paolo and Antonella De Santis, owners of the Grand Hotel Tremezz
 public_sources: The Art Newspaper; grandhoteltremezzo.com
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Casabianca — a private collection run as a paying wing of a hospitality business, with no foundation at all

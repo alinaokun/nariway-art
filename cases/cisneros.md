@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Works held in six museum collections, including MoMA's Cisneros Institute for the Study of Art from Latin America."
 public_name: Colección Patricia Phelps de Cisneros
@@ -31,7 +32,7 @@ public_origin: Patricia and Gustavo Cisneros began collecting Latin American art
 public_sources: MoMA; The Art Newspaper
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Colección Patricia Phelps de Cisneros — dispersal into the canon

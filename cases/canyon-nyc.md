@@ -12,6 +12,7 @@ outcome: emerging
 verification: secondary
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Under construction; opening on New York's Lower East Side, 2027."
 public_name: Canyon
@@ -29,7 +30,7 @@ public_origin: Robert Rosenkranz, a collector who has long shown time-based work
 public_sources: canyon.org; The Art Newspaper; Artnet
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # Canyon — the sample's first case built around a medium, not an object collection, and a genuine taxonomy test for `collection_coherence`
 

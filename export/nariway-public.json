@@ -190,7 +190,7 @@
         "Outland Art",
         "Kennedy Center"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -242,7 +242,7 @@
         "Welsh Centre for International Affairs",
         "UK Charity Commission register"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -299,7 +299,7 @@
         "Artnet",
         "The Times of Central Asia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -340,8 +340,14 @@
             "codedPathway": "found-standalone-museum"
           },
           {
-            "event": "The museum opens in a converted Baltimore whiskey warehouse",
+            "event": "The museum opens in a purpose-built building on Baltimore's Key Highway",
             "year": 1995,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The Jim Rouse Visionary Center, a converted 19th-century whiskey warehouse, is added to the campus",
+            "year": 2004,
             "familyId": "build-institution",
             "codedPathway": "found-standalone-museum"
           },
@@ -365,7 +371,7 @@
           }
         ]
       },
-      "origin": "Rebecca Hoffberger founded the American Visionary Art Museum in Baltimore to give a permanent home to self-taught, untrained \\\"visionary\\\" artists largely ignored by the mainstream art world. It opened in a converted whiskey warehouse in 1995 and was later designated by Congress as America's national museum and education center for this kind of art. Hoffberger stepped back from full-time directorship in 2022; the museum has had two further directors since.",
+      "origin": "Rebecca Hoffberger founded the American Visionary Art Museum in Baltimore to give a permanent home to self-taught, untrained \\\"visionary\\\" artists largely ignored by the mainstream art world. It opened in a purpose-built building on Baltimore's Key Highway in 1995, later expanding into an adjacent former whiskey warehouse, and was designated by Congress as America's national museum and education center for this kind of art. Hoffberger stepped back from full-time directorship in 2022; the museum has had two further directors since.",
       "image": {
         "status": "no_usable_image"
       },
@@ -375,7 +381,7 @@
         "The Baltimore Banner",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -450,9 +456,9 @@
       "profile": {
         "founded": 2017,
         "structure": "501(c)(3) nonprofit foundation, independent board",
-        "publicAccess": "Public via 250+ partner museums nationwide; no public venue of its own",
-        "currentState": "Active national loan and grantmaking foundation; partners with 250+ U.S. museums to share American art, including the 2026 'Art Bridges x Hirshhorn 50 for 50' national loan initiative.",
-        "size": "$904M total assets; 250+ partner museums"
+        "publicAccess": "Public via 400+ partner museums nationwide; no public venue of its own",
+        "currentState": "Active national loan and grantmaking foundation; partners with 400+ U.S. museums to share American art, including the 2026 'Art Bridges x Hirshhorn 50 for 50' national loan initiative.",
+        "size": "$904M total assets; 400+ partner museums"
       },
       "composition": {
         "focus": "American art, loans and grants to expand regional access",
@@ -482,7 +488,7 @@
           }
         ]
       },
-      "origin": "Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle, not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 250+ partner institutions and over 20 million people.",
+      "origin": "Alice Walton, who had already founded Crystal Bridges Museum of American Art as a standalone institution, created Art Bridges in 2017 as a second, separate vehicle, not a museum but a national foundation that funds and coordinates loans of American art to museums that could not otherwise mount or host major exhibitions, reaching 400+ partner institutions and more than 31 million people.",
       "image": {
         "status": "no_usable_image"
       },
@@ -492,7 +498,7 @@
         "Smithsonian Institution",
         "Inside Philanthropy"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -544,7 +550,7 @@
         "CBC",
         "Canadian Art"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -732,11 +738,11 @@
         "pathwayTimeline": [
           {
             "event": "Art in our Communities lending program launched",
-            "year": 2009
+            "year": 2008
           }
         ]
       },
-      "origin": "Bank of America and its predecessor institutions built a corporate art collection of more than 30,000 works over decades. In 2009 the bank launched Art in our Communities, lending complete, curated exhibitions at no cost to museums and nonprofit galleries worldwide rather than operating a public venue of its own.",
+      "origin": "Bank of America and its predecessor institutions built a corporate art collection of more than 30,000 works over decades. In 2008 the bank launched Art in our Communities, lending complete, curated exhibitions at no cost to museums and nonprofit galleries worldwide rather than operating a public venue of its own.",
       "image": {
         "status": "no_usable_image"
       },
@@ -744,7 +750,7 @@
         "about.bankofamerica.com",
         "Arts & Collections"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "barjeel-art-foundation",
@@ -754,10 +760,10 @@
       "location": "Sharjah, United Arab Emirates",
       "profile": {
         "founded": 2010,
-        "structure": "Independent, non-collecting-building nonprofit foundation holding a founder's personal collection; no permanent standalone museum building",
+        "structure": "Independent nonprofit foundation holding the founder's personal collection; first permanent museum, in Sharjah, announced 2026 and due to open 2028",
         "publicAccess": "Public in-house exhibitions and public programs in Sharjah, plus extensive international loans (130+ institutions, including Tate Liverpool, Tate St Ives, MoMA PS1, the Art Institute of Chicago, and the Mori Art Museum); online/digital publications",
-        "currentState": "Active, growing loans-only foundation since 2010; 1,800+ works of modern and contemporary Arab art, loaned to 130+ institutions worldwide.",
-        "size": "1,800+ works"
+        "currentState": "Active foundation since 2010; 1,000+ works of modern and contemporary Arab art, widely loaned internationally; building its first permanent museum in Sharjah, due to open 2028.",
+        "size": "1,000+ works"
       },
       "composition": {
         "focus": "Modern and contemporary art by Arab artists, from across the Arab world and its diaspora",
@@ -781,20 +787,20 @@
             "codedPathway": "found-foundation"
           },
           {
-            "event": "Collection has grown past 1,800 works and loaned to 130+ institutions worldwide, with the foundation still holding no permanent standalone building of its own",
+            "event": "Collection has grown to 1,000+ works and loaned to 130+ institutions worldwide, with the foundation still holding no permanent standalone building of its own",
             "year": 2024,
             "familyId": "found-foundation",
             "codedPathway": "traveling-program"
           },
           {
-            "event": "Al Qassemi publicly appeals for additional UAE venue partners to display more of the collection long-term, citing space constraints",
+            "event": "The foundation announces its first permanent museum, a 38,750 sq ft building in Sharjah, due to open in 2028",
             "year": 2026,
             "familyId": "found-foundation",
-            "codedPathway": "found-foundation"
+            "codedPathway": "found-standalone-museum"
           }
         ]
       },
-      "origin": "Sultan Sooud Al Qassemi began collecting modern and contemporary Arab art and in 2010 established the Barjeel Art Foundation in Sharjah to manage, preserve, and share it. Rather than building a museum, the foundation has grown into one of the most widely loaned Arab-art collections in the world, appearing in exhibitions at major international institutions while continuing to seek permanent exhibition space in the UAE.",
+      "origin": "Sultan Sooud Al Qassemi began collecting modern and contemporary Arab art and in 2010 established the Barjeel Art Foundation in Sharjah to manage, preserve, and share it. For years the foundation operated without a museum of its own, becoming one of the most widely loaned Arab-art collections in the world. In 2026 it announced its first permanent museum, a purpose-built venue in Sharjah due to open in 2028.",
       "image": {
         "status": "no_usable_image"
       },
@@ -867,7 +873,7 @@
         "bechtler.org",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -933,7 +939,7 @@
         "ARTnews",
         "The Washington Post"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "sammlung-boros",
@@ -1033,8 +1039,12 @@
             "year": 1953
           },
           {
-            "event": "Current Brauer Museum building opens",
-            "year": 1982
+            "event": "Current museum building, the Valparaiso University Center for the Arts, opens",
+            "year": 1995
+          },
+          {
+            "event": "The collection is named the Brauer Museum of Art",
+            "year": 1996
           },
           {
             "event": "University announces sale of three major paintings to fund dormitory renovations",
@@ -1048,7 +1058,7 @@
           }
         ]
       },
-      "origin": "The Brauer Museum of Art grew from Valparaiso University's teaching collection, assembled over decades under founding director Richard Brauer and housed in its current building since 1982. In 2023 the university moved to sell three major American paintings, by Church, Hassam, and O'Keeffe, to fund dormitory renovations, over its founding director's objection; the museum closed in 2024 and reopened on reduced hours.",
+      "origin": "The Brauer Museum of Art grew from Valparaiso University's teaching collection, assembled over decades under founding director Richard Brauer and housed in its current building since 1995. In 2023 the university moved to sell three major American paintings, by Church, Hassam, and O'Keeffe, to fund dormitory renovations, over its founding director's objection; the museum closed in 2024 and reopened on reduced hours.",
       "image": {
         "status": "no_usable_image"
       },
@@ -1057,7 +1067,7 @@
         "ARTnews",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "cam-raleigh",
@@ -1100,7 +1110,7 @@
         "Axios Raleigh",
         "WRAL"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "canyon-nyc",
@@ -1110,7 +1120,7 @@
       "location": "New York, NY",
       "profile": {
         "founded": 2027,
-        "structure": "Nonprofit standalone venue",
+        "structure": "Purpose-built standalone venue (legal structure not yet publicly documented)",
         "publicAccess": "Opening to the public, 2027",
         "currentState": "Under construction; opening on New York's Lower East Side, 2027.",
         "size": "40,000 sq ft"
@@ -1143,7 +1153,7 @@
         "The Art Newspaper",
         "Artnet"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -1223,7 +1233,6 @@
           "Jannis Kounellis",
           "Anselm Kiefer",
           "Emilio Vedova",
-          "Michelangelo Pistoletto",
           "William Kentridge",
           "Giulio Paolini",
           "Alighiero Boetti",
@@ -1250,7 +1259,7 @@
         "The Art Newspaper",
         "grandhoteltremezzo.com"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -1261,7 +1270,7 @@
       "location": "Dallas, TX",
       "profile": {
         "collectingBegan": "1990s (approximate; exact year unconfirmed)",
-        "structure": "Bequest to an existing museum, signed by the collector five years before his death and executed without dispute",
+        "structure": "Bequest to an existing museum, signed by the collector four years before his death and executed without dispute",
         "publicAccess": "On accession at the Dallas Museum of Art; individual works enter the museum's normal collection-display rotation",
         "currentState": "540 works and the collector's home arrived at the Dallas Museum of Art in 2026, fulfilling a bequest signed in 2021.",
         "size": "540 works"
@@ -1328,7 +1337,7 @@
         "Glasstire",
         "KERA News"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "cisneros",
@@ -1341,7 +1350,7 @@
         "structure": "Private collection dispersed by gift into public museums; no founder museum",
         "publicAccess": "Gifted works accessioned and shown at each recipient museum",
         "currentState": "Works held in six museum collections, including MoMA's Cisneros Institute for the Study of Art from Latin America.",
-        "size": "~340+ works gifted (2016 and 2018 tranches); full collection size unpublished"
+        "size": "~300+ works gifted (2016 and 2018 tranches); full collection size unpublished"
       },
       "composition": {
         "focus": "Latin American modern and contemporary art, with a geometric-abstraction core",
@@ -1400,7 +1409,7 @@
         "MoMA",
         "The Art Newspaper"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -1512,7 +1521,7 @@
         "Baltimore Fishbowl",
         "Artdaily"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -1524,9 +1533,9 @@
       "profile": {
         "founded": 2025,
         "structure": "Privately owned and privately funded; deliberately not a 501(c)(3) nonprofit, no board, no fundraising, no donor competition",
-        "publicAccess": "Free; open to the public Wednesdays 4-7pm and by appointment",
+        "publicAccess": "Free; open during exhibitions and by appointment (public hours vary by exhibition)",
         "currentState": "Open to the public, free, since May 2025.",
-        "size": "~5,000-5,700 sq ft gallery, plus a sculpture garden and video-screening rooms, inside a converted former fortune-cookie factory"
+        "size": "~5,000 sq ft gallery, plus a sculpture garden and video-screening rooms, inside a converted former fortune-cookie factory"
       },
       "composition": {
         "focus": "Contemporary art; commissioned and exhibited works under artistic director Jérôme Sans",
@@ -1553,7 +1562,7 @@
         "Cultured",
         "Denver7"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -1592,7 +1601,7 @@
         "Cy pres dissolution ruling (2014)",
         "National Gallery of Art"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "credit-suisse-ubs-collection",
@@ -1652,7 +1661,7 @@
         "Wall Street Journal",
         "Zarastro Art"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "crystal-bridges",
@@ -1665,7 +1674,7 @@
         "structure": "Independent nonprofit museum (family-controlled board), endowed by the Walton Family Foundation",
         "publicAccess": "Open to the public (free admission)",
         "currentState": "Open in Bentonville, Arkansas since 2011.",
-        "size": "~4,100 works; ~120-acre campus"
+        "size": "several thousand works; ~134-acre campus"
       },
       "composition": {
         "focus": "American art from the colonial era to the present",
@@ -1699,7 +1708,7 @@
         "crystalbridges.org",
         "Encyclopedia of Arkansas"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -3485,7 +3494,7 @@
         "Harvard Library",
         "The Flow Chart Foundation"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "schnitzer-family-foundation",
@@ -4487,7 +4496,7 @@
         "structure": "Single-artist museum; Benini Foundation (501(c)(3) since 2025)",
         "publicAccess": "Open to the public (free Saturdays; group tours by appointment)",
         "currentState": "Open in Marble Falls, Texas since 2015; relocated from the original Johnson City sculpture ranch.",
-        "size": "~115 works on view; 35-acre site; 6,500 sq ft gallery"
+        "size": "35-acre site; 6,500 sq ft gallery"
       },
       "composition": {
         "focus": "The life's work of the artist Benini",
@@ -4503,7 +4512,7 @@
       "classification": {
         "pathwayTimeline": [
           {
-            "event": "Benini Sculpture Ranch opens on a ~143-acre site near Johnson City",
+            "event": "Benini and Lorraine acquire the Johnson City property that becomes the Benini Sculpture Ranch",
             "year": 1999,
             "familyId": "keep-family",
             "codedPathway": "found-art-park"
@@ -4535,7 +4544,7 @@
         "Glasstire",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -6310,7 +6319,7 @@
         "ARTnews",
         "Sotheby's"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "broad",
@@ -6404,7 +6413,7 @@
         "Galerie Magazine",
         "Cultured Magazine"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {

@@ -11,6 +11,7 @@ outcome: dissolved
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Dissolved, 2014."
 public_name: Corcoran Gallery of Art
@@ -24,7 +25,7 @@ public_origin: The Corcoran Gallery of Art was founded in 1869 by William Wilson
 public_sources: Cy pres dissolution ruling (2014); National Gallery of Art
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 # Corcoran Gallery of Art
 One of the oldest US private-collection museums (1869); ran ~126 years, then **dissolved by cy pres in 2014** on a funding gap (endowment fell below ~0.5x coverage). 19,493 objects distributed to the NGA and 22 DC institutions; school and building to GWU. A "survived-the-founder-then-dissolved-on-money" case. Full coded header and sources in [[report-dataset]].

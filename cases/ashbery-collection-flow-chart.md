@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H1, H2, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Ongoing; works and archives now held across four institutions, with public exhibitions continuing through 2026."
 public_name: John Ashbery Collection & Archive
@@ -30,7 +31,7 @@ public_origin: Poet John Ashbery and his husband David Kermani set up a joint fo
 public_sources: The Morgan Library & Museum; Beinecke Rare Book & Manuscript Library, Yale; Harvard Library; The Flow Chart Foundation
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # John Ashbery Collection & Archive (Flow Chart Foundation / Morgan / Beinecke / Harvard)

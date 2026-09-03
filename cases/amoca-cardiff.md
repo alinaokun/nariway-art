@@ -15,6 +15,7 @@ hypotheses: [H5, H6]
 origin: private
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Registered as a UK charity in August 2025; running pop-up exhibitions ahead of a planned permanent home in central Cardiff, expected in 2026."
 public_name: AMOCA, Artistic Museum of Contemporary Art
@@ -33,7 +34,7 @@ public_origin: Cardiff-based, Swedish-born entrepreneur Anders Hedlund founded A
 public_sources: Museums Association; Time Out; Welsh Centre for International Affairs; UK Charity Commission register
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # AMOCA — Artistic Museum of Contemporary Art

@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H1, H7A]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "540 works and the collector's home arrived at the Dallas Museum of Art in 2026, fulfilling a bequest signed in 2021."
 public_name: Charles Dee Mitchell Collection
@@ -34,7 +35,7 @@ public_origin: "Charles Dee Mitchell, a Dallas art critic and curator who built 
 public_sources: Glasstire; KERA News
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Charles Dee Mitchell Collection → Dallas Museum of Art

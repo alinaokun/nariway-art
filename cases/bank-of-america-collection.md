@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active corporate lending program based in Charlotte; no public venue of its own."
 public_name: Bank of America Collection ("Art in our Communities")
@@ -27,7 +28,7 @@ public_origin: "Bank of America and its predecessor institutions built a corpora
 public_sources: about.bankofamerica.com; Arts & Collections
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Bank of America "Art in our Communities" — the sample's first free-lending-program corporate model, with no dedicated venue at all

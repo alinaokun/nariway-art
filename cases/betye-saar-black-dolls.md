@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H2, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Promised gift to The New York Historical, exhibited May–October 2026."
 public_name: Betye Saar's Black Dolls
@@ -36,7 +37,7 @@ public_origin: "Betye Saar began collecting Black dolls in the late 1960s in Los
 public_sources: The New York Historical; Hyperallergic; ARTnews; The Washington Post
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Betye Saar's Black Dolls — Los Angeles, CA → The New York Historical, New York, NY

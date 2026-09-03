@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H1, H7A]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Consigned to Sotheby's New York for a November 2026 sale, estimated at $450M total."
 public_name: The Blaquier Collection
@@ -35,7 +36,7 @@ public_origin: "Nelly Arrieta de Blaquier, described by The New York Times in 19
 public_sources: Artnet News; ARTnews; Sotheby's
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Blaquier Collection — Buenos Aires, Argentina → New York, NY (sale)

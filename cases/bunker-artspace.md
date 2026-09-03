@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open by invitation and scheduled private tours since December 2017."
 public_name: The Bunker Artspace
@@ -30,7 +31,7 @@ public_origin: A New York real-estate heiress and lifelong collector converted a
 public_sources: thebunkerartspace.com; Galerie Magazine; Cultured Magazine
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Bunker Artspace (Beth Rudin DeWoody Collection)

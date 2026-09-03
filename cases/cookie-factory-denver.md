@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open to the public, free, since May 2025."
 public_name: Cookie Factory
@@ -30,7 +31,7 @@ public_origin: A Denver real-estate developer and collector converted a condemne
 public_sources: 5280; Frieze; The Colorado Sun; Cultured; Denver7
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Cookie Factory (Denver)

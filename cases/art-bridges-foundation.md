@@ -15,6 +15,7 @@ hypotheses: [H5, H6, H7A]
 origin: private
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active national loan and grantmaking foundation; partners with 400+ U.S. museums to share American art, including the 2026 'Art Bridges x Hirshhorn 50 for 50' national loan initiative."
 public_name: Art Bridges Foundation
@@ -33,7 +34,7 @@ public_origin: Alice Walton, who had already founded Crystal Bridges Museum of A
 public_sources: Wikipedia; Art Bridges Foundation; Smithsonian Institution; Inside Philanthropy
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Art Bridges Foundation

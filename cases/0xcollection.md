@@ -15,6 +15,7 @@ hypotheses: [H4, H5]
 origin: private
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active since 2023; a touring digital/new-media art institution with no fixed public venue."
 public_name: 0xCollection
@@ -34,7 +35,7 @@ public_origin: Backed by Czech entrepreneur and philanthropist Karel Komárek, 0
 public_sources: Wikipedia; ARTnews; Outland Art; Kennedy Center
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # 0xCollection

@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4, H5]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active foundation since 2010; 1,000+ works of modern and contemporary Arab art, widely loaned internationally; building its first permanent museum in Sharjah, due to open 2028."
 public_name: Barjeel Art Foundation
