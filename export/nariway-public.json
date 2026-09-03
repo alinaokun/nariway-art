@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02",
+  "generated": "2026-09-03",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -2550,6 +2550,62 @@
       "livingCollector": true
     },
     {
+      "slug": "gochman-family-collection",
+      "publicDepth": "expanded",
+      "name": "Gochman Family Collection",
+      "founder": "Becky Gochman & Zach Feuer",
+      "location": "Katonah, NY, USA",
+      "profile": {
+        "founded": 2021,
+        "structure": "Private collection, professionally directed, with a small grantmaking foundation and a new dedicated public exhibition space",
+        "publicAccess": "No-fee institutional lending program since founding; a public gallery space in Katonah opening fall 2026",
+        "currentState": "Opening a 10,000+ sq ft public exhibition space in Katonah, NY, fall 2026.",
+        "size": "750+ works"
+      },
+      "composition": {
+        "focus": "contemporary Native and Indigenous art, and non-Native artists whose work engages colonial history and identity",
+        "movements": [
+          "contemporary Indigenous art"
+        ],
+        "period": "21st century",
+        "media": [
+          "painting",
+          "sculpture",
+          "photography",
+          "textile",
+          "mixed media"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Becky Gochman and Zach Feuer found the Gochman Family Collection to expand understanding of contemporary Native art",
+            "year": 2021,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Laura Phipps, former Whitney associate curator, named director ahead of a new Katonah exhibition space opening fall 2026",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Becky Gochman and former gallerist Zach Feuer built a 750-plus-work collection of contemporary Native and Indigenous art in five years, shown first in two residences-turned-galleries and lent free to institutions, then hired a museum curator to lead a dedicated public exhibition space.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "ARTnews",
+        "Artforum",
+        "Gochman Collection"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "goodwood-art-foundation",
       "publicDepth": "expanded",
       "name": "Goodwood Art Foundation",
@@ -4645,6 +4701,63 @@
         "Wikipedia"
       ],
       "lastReviewed": "2026-08"
+    },
+    {
+      "slug": "museum-macan",
+      "publicDepth": "expanded",
+      "name": "Museum MACAN (Museum of Modern and Contemporary Art in Nusantara)",
+      "founder": "Haryanto Adikoesoemo",
+      "location": "Jakarta, Indonesia",
+      "profile": {
+        "founded": 2017,
+        "structure": "Standalone private museum, operated by a dedicated non-profit foundation (Yayasan Museum MACAN)",
+        "publicAccess": "Open to the public since November 2017",
+        "currentState": "Open to the public in Jakarta since November 2017.",
+        "size": "~800 works"
+      },
+      "composition": {
+        "focus": "Indonesian and international modern and contemporary art",
+        "movements": [
+          "modern art",
+          "contemporary art"
+        ],
+        "period": "20th-21st century",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation",
+          "photography"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Haryanto Adikoesoemo establishes Yayasan Museum MACAN, the museum's operating foundation, two years ahead of opening",
+            "year": 2015,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Museum MACAN opens in Jakarta as Indonesia's first dedicated modern and contemporary art museum",
+            "year": 2017,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Haryanto Adikoesoemo, chairman of the Indonesian chemicals and energy conglomerate AKR Corporindo, spent a quarter-century assembling around 800 works of Indonesian and international modern and contemporary art, then opened Indonesia's first dedicated museum for it in Jakarta in 2017.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Artnet",
+        "CNN",
+        "Smithsonian Magazine",
+        "Museum MACAN"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
     },
     {
       "slug": "mona-museum",
@@ -7574,6 +7687,70 @@
         "Bonhams"
       ],
       "lastReviewed": "2026-08",
+      "livingCollector": true
+    },
+    {
+      "slug": "warehouse-wieland",
+      "publicDepth": "expanded",
+      "name": "The Warehouse",
+      "founder": "John & Sue Wieland",
+      "location": "Atlanta, GA, USA",
+      "profile": {
+        "founded": 2024,
+        "structure": "Private collection housed in a converted warehouse, shown via a dedicated art foundation (a promised gift structure)",
+        "publicAccess": "Open to the public, Atlanta Westside District, since 2024",
+        "currentState": "Open to the public in Atlanta's Westside District since 2024.",
+        "size": "400+ works by 250+ artists"
+      },
+      "composition": {
+        "focus": "contemporary art since the 1930s; themes of domesticity, memory, history, land, architecture",
+        "movements": [
+          "contemporary art"
+        ],
+        "period": "1930s-present",
+        "media": [
+          "painting",
+          "photography",
+          "works on paper",
+          "sculpture",
+          "installation",
+          "ceramics",
+          "textile",
+          "video"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "John and Sue Wieland begin collecting contemporary art",
+            "year": "1980s",
+            "familyId": "keep-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "The Wielands purchase and convert a 37,000 sq ft Atlanta warehouse to hold the collection under one roof",
+            "year": 2010,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The Warehouse opens to the public after a second renovation and expansion",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "John and Sue Wieland, an Atlanta homebuilder and his wife, spent four decades assembling a contemporary art collection, converted a former furniture warehouse to house it in 2010, and opened it to the public in 2024 as a free contemporary art space on Atlanta's Westside.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "ARTS ATL",
+        "The Warehouse",
+        "Cause IQ"
+      ],
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
