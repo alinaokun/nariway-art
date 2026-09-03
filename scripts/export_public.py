@@ -2,7 +2,10 @@
 """Export the PUBLIC projection of the case corpus to export/nariway-public.json.
 
 Contract (see marketing/collection-index-build-brief.md §9):
-- A case exports only if `public_page_eligible: true` AND `public_verified: true`.
+- A case exports only if `public_page_eligible: true` AND `public_verified: true`
+  AND `public_qa_verified` is set (the date of an independent QA fact-check pass).
+  The QA stamp is required so no record publishes without independent verification;
+  new records added by research routines stay unpublished until QA-checked.
 - Only PUBLIC fields (the flat `public_*` frontmatter, per cases/case-template.md) are emitted.
 - Internal fields (outcome_category, verification, decision_owner, *_confidence, sourcing notes,
   the whole research body) are NEVER read into the export.
@@ -74,7 +77,8 @@ def parse_sections(v):
 
 def project(path):
     fm = parse_frontmatter(open(path, encoding="utf-8").read())
-    if not (truthy(fm.get("public_page_eligible")) and truthy(fm.get("public_verified"))):
+    if not (truthy(fm.get("public_page_eligible")) and truthy(fm.get("public_verified"))
+            and fm.get("public_qa_verified")):
         return None
     slug = os.path.basename(path)[:-3]
     profile = {}

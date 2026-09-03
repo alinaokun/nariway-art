@@ -1094,13 +1094,13 @@
       "publicDepth": "expanded",
       "name": "Carl & Marilynn Thoma Art Foundation",
       "founder": "Carl Thoma & Marilynn Thoma",
-      "location": "Santa Fe, New Mexico / Chicago, Illinois",
+      "location": "Santa Fe, New Mexico / Dallas, Texas",
       "profile": {
         "founded": 2014,
         "collectingBegan": "1975",
         "structure": "Private foundation",
-        "publicAccess": "Museum loan program; Art House (Santa Fe) open to the public; Orange Door (Chicago) by appointment",
-        "currentState": "Active loan program and two viewing spaces since 2014.",
+        "publicAccess": "Museum loan program; the Thoma Collection gallery in Santa Fe open to the public; an exhibition space at the Dallas headquarters by appointment",
+        "currentState": "Active loan program, with a public gallery in Santa Fe and an exhibition space at its Dallas headquarters.",
         "size": "~1,500–1,700 works"
       },
       "composition": {
@@ -1118,14 +1118,14 @@
             "year": 1975
           },
           {
-            "event": "The Carl & Marilynn Thoma Art Foundation is formed and opens two viewing spaces",
+            "event": "The Carl & Marilynn Thoma Art Foundation is formed to circulate the collection through loans",
             "year": 2014,
             "familyId": "build-institution",
             "codedPathway": "found-foundation"
           }
         ]
       },
-      "origin": "Carl and Marilynn Thoma began collecting in 1975 and formed their foundation in 2014 to circulate the collection rather than concentrate it in a founder museum. Public access runs mainly through a museum loan program, supplemented by two viewing spaces: Art House in Santa Fe and the Orange Door in Chicago.",
+      "origin": "Carl and Marilynn Thoma began collecting in 1975 and formed their foundation in 2014 to circulate the collection rather than concentrate it in a founder museum. Public access runs mainly through a museum loan program, supplemented by its public gallery in Santa Fe (the Thoma Collection) and an exhibition space at its Dallas headquarters.",
       "image": {
         "status": "no_usable_image"
       },
@@ -1134,7 +1134,7 @@
         "Chicago Reader",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -1919,7 +1919,7 @@
         "arts.gov",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "enron-art-collection",
@@ -2436,7 +2436,7 @@
         "Wikipedia",
         "Coagula"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "glenstone",
@@ -6002,7 +6002,7 @@
         "ARTnews",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "terra",
@@ -6065,7 +6065,7 @@
         "Artforum",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "medaugh-hiroshige-collection",
@@ -7752,7 +7752,7 @@
         "size": "400+ works by 250+ artists"
       },
       "composition": {
-        "focus": "contemporary art since the 1930s; themes of domesticity, memory, history, land, architecture",
+        "focus": "contemporary art since the 1930s; themes of domesticity, memory, history, and architecture",
         "movements": [
           "contemporary art"
         ],
@@ -7862,7 +7862,7 @@
         "FIU News",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -7906,7 +7906,7 @@
         "Dezeen",
         "archpaper.com"
       ],
-      "lastReviewed": "2026-08",
+      "lastReviewed": "2026-09",
       "livingCollector": true
     },
     {
@@ -7958,7 +7958,7 @@
         "MoMA",
         "PR Newswire"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "uob-art-collection",
@@ -7971,7 +7971,7 @@
         "structure": "Active, board-supported corporate collection housed within a commercial bank",
         "publicAccess": "Displayed across UOB's head office, branches, and regional offices; a dedicated public gallery partnership with National Gallery Singapore",
         "currentState": "Active corporate collection, continuously built since the 1970s; anchors the UOB Southeast Asia Gallery at National Gallery Singapore.",
-        "size": "variously reported at 2,600-8,000+ works (contested across sources; see Gaps)"
+        "size": "2,600+ works"
       },
       "composition": {
         "focus": "Modern and contemporary Southeast Asian art, with an emphasis on supporting the region's living artists",
@@ -7999,14 +7999,8 @@
             "codedPathway": "hybrid"
           },
           {
-            "event": "UOB becomes a long-standing collaborator with National Gallery Singapore",
+            "event": "UOB becomes a Founding Partner of National Gallery Singapore, and the UOB Southeast Asia Gallery opens (November), anchored by the bank's holdings",
             "year": 2015,
-            "familyId": "corporate",
-            "codedPathway": "hybrid"
-          },
-          {
-            "event": "UOB becomes a Founding Partner of National Gallery Singapore, and the UOB Southeast Asia Gallery opens, anchored by the bank's holdings",
-            "year": 2016,
             "familyId": "corporate",
             "codedPathway": "hybrid"
           },
@@ -8027,7 +8021,7 @@
         "UOB Group",
         "The Peak Magazine (Singapore)"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "unicredit-art-collection",
@@ -8083,7 +8077,7 @@
         "ArtDependence",
         "UniCredit Group press releases"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "westlb-portigon-collection",
@@ -8106,8 +8100,7 @@
           "Joseph Beuys",
           "Günther Uecker",
           "Paul Signac",
-          "Gerhard Richter",
-          "Thomas Schütte"
+          "Gerhard Richter"
         ]
       },
       "classification": {
@@ -8144,7 +8137,7 @@
         "Landtag NRW",
         "Kunstsammlung NRW"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "wolf-kahn-foundation",
@@ -8153,10 +8146,10 @@
       "founder": "Wolf Kahn and Emily Mason",
       "location": "New York, NY (archive); West Brattleboro, VT (historic studio)",
       "profile": {
-        "founded": 1998,
-        "structure": "Private nonprofit foundation (501(c)(3)), split in 2022 from a joint entity into two family-line foundations",
+        "founded": 2000,
+        "structure": "Private nonprofit foundation (501(c)(3)); the joint entity separated in 2019 into two family-line foundations",
         "publicAccess": "Archive open by appointment; foundation-supported grants and exhibitions ongoing",
-        "currentState": "Operating continuously since 1998; a dedicated archive and research space opened in Manhattan in August 2026."
+        "currentState": "Operating continuously since 2000; a dedicated archive and research space opened in Manhattan in August 2026."
       },
       "composition": {
         "focus": "Wolf Kahn's life, career, and artistic process",
@@ -8169,23 +8162,17 @@
         "pathwayTimeline": [
           {
             "event": "Wolf Kahn and Emily Mason establish a joint philanthropic foundation while both are living",
-            "year": 1998,
+            "year": 2000,
             "familyId": "build-institution",
             "codedPathway": "found-foundation"
           },
           {
-            "event": "Emily Mason dies",
+            "event": "Emily Mason establishes the separate Emily Mason \\",
             "year": 2019
           },
           {
             "event": "Wolf Kahn dies",
             "year": 2020
-          },
-          {
-            "event": "The joint foundation splits into the Wolf Kahn Foundation and the Emily Mason \\",
-            "year": 2022,
-            "familyId": "build-institution",
-            "codedPathway": "found-foundation"
           },
           {
             "event": "Wolf Kahn Foundation & Archives opens a dedicated Manhattan research space, one year ahead of Kahn's October 2027 centennial",
@@ -8195,7 +8182,7 @@
           }
         ]
       },
-      "origin": "Painters Wolf Kahn and Emily Mason, married since 1957, established a joint foundation in 1998 to manage their philanthropic activities while both were still living. After both died (Mason in 2019, Kahn in 2020), the foundation split in 2022 into two separate entities along family lines, and in 2026 the Wolf Kahn side opened its first dedicated public archive and research space in Manhattan, timed to precede Kahn's 2027 centennial.",
+      "origin": "Painters Wolf Kahn and Emily Mason, married since 1957, established a joint foundation in 2000 to manage their philanthropic activities while both were still living. Emily Mason created a separate foundation for her own family line in 2019, the year she died (Kahn died in 2020), and in 2026 the Wolf Kahn side opened its first dedicated public archive and research space in Manhattan, timed to precede Kahn's 2027 centennial.",
       "image": {
         "status": "no_usable_image"
       },
@@ -8205,7 +8192,7 @@
         "Hyperallergic",
         "propublica.org Nonprofit Explorer"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "yayoi-kusama-museum",
@@ -8218,7 +8205,7 @@
         "structure": "General Incorporated Association (Yayoi Kusama Foundation)",
         "publicAccess": "Open to the public, timed-entry tickets, twice-yearly rotating exhibitions",
         "currentState": "Open in Tokyo since 2017; no successor leader named as of two weeks after Yayoi Kusama's August 2026 death.",
-        "size": "Five-story purpose-built building, approximately 200 square meters of floor space"
+        "size": "Compact five-story purpose-built building (roughly 200 sq m footprint)"
       },
       "composition": {
         "focus": "Single-artist museum devoted entirely to Yayoi Kusama's work",
@@ -8263,7 +8250,7 @@
         "Yayoi Kusama Museum",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "yemisi-shyllon-museum-of-art",
@@ -8296,7 +8283,7 @@
           },
           {
             "event": "Museum wins Apollo Magazine's Museum Opening of the Year award",
-            "year": 2019,
+            "year": 2020,
             "familyId": "university-partnership",
             "codedPathway": "university-partnership"
           }
@@ -8368,7 +8355,7 @@
         "artnet News",
         "Wikipedia"
       ],
-      "lastReviewed": "2026-08"
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "di-rosa",
