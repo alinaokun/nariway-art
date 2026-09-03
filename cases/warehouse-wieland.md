@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open to the public in Atlanta's Westside District since 2024."
 public_name: The Warehouse
@@ -24,7 +25,7 @@ public_founded: 2024
 public_structure: Private collection housed in a converted warehouse, shown via a dedicated art foundation (a promised gift structure)
 public_access: Open to the public, Atlanta Westside District, since 2024
 public_size: 400+ works by 250+ artists
-public_focus: contemporary art since the 1930s; themes of domesticity, memory, history, land, architecture
+public_focus: contemporary art since the 1930s; themes of domesticity, memory, history, and architecture
 public_movements: contemporary art
 public_period: 1930s-present
 public_media: painting; photography; works on paper; sculpture; installation; ceramics; textile; video

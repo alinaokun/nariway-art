@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open by appointment at the founder's Los Angeles estate."
 public_name: Frederick R. Weisman Art Foundation
@@ -29,7 +30,7 @@ public_origin: Frederick R. Weisman built a major postwar and 20th-century art c
 public_sources: weismanfoundation.org; Wikipedia; Coagula
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Frederick R. Weisman Art Foundation — the collection kept "as he left it"

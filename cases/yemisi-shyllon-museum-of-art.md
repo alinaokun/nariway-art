@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H3, H5, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Opened 2019; Nigeria's first purpose-built private art museum, on Pan-Atlantic University's campus, holding 1,000+ works from founder Prince Yemisi Shyllon's collection."
 public_name: Yemisi Shyllon Museum of Art (YSMA)
@@ -27,7 +28,7 @@ public_access: Open to the public and university community; the first privately 
 public_size: 1,000+ works (900 sqm gallery space)
 public_focus: Modern and contemporary Nigerian and West African art
 public_selected_artists: Ben Enwonwu; Bruce Onobrakpeya; Erhabor Emokpae
-public_pathway_timeline: 2019|university-partnership|university-partnership|Prince Yemisi Shyllon donates 1,000+ works and an operating grant (reported ~$1.7M) to establish YSMA at Pan-Atlantic University, following five years of planning ;; 2019|university-partnership|university-partnership|Museum wins Apollo Magazine's Museum Opening of the Year award
+public_pathway_timeline: 2019|university-partnership|university-partnership|Prince Yemisi Shyllon donates 1,000+ works and an operating grant (reported ~$1.7M) to establish YSMA at Pan-Atlantic University, following five years of planning ;; 2020|university-partnership|university-partnership|Museum wins Apollo Magazine's Museum Opening of the Year award
 public_origin: "Prince Yemisi Shyllon, a Nigerian engineer, lawyer, and art collector, spent decades assembling one of Nigeria's most significant private art collections. In 2019, after five years of planning with Pan-Atlantic University, he donated more than 1,000 works and an operating subsidy to establish the Yemisi Shyllon Museum of Art — the first privately funded art museum on a Nigerian university campus, and the country's first purpose-built private art museum."
 public_sources: The Art Newspaper; Wikipedia; Apollo Magazine; Global Voices
 hero_image_status: no_usable_image

@@ -12,6 +12,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Actively collected and exhibited; public gallery in New York since 2019."
 public_name: UBS Art Collection
@@ -28,7 +29,7 @@ public_origin: UBS has collected contemporary art since the 1960s, building one 
 public_sources: ubs.com; MoMA; PR Newswire
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # UBS Art Collection — the sample's clearest "active steward" corporate case, and the acquirer's own side of the [[credit-suisse-ubs-collection]] merger

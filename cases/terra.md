@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Museum closed 2004; continues as the grantmaking Terra Foundation for American Art."
 public_name: Terra Museum of American Art
@@ -31,7 +32,7 @@ public_origin: Chicago businessman Daniel J. Terra opened a museum for his colle
 public_sources: terraamericanart.org; Artforum; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Terra Museum of American Art

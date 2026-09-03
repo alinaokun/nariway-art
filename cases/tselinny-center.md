@@ -12,6 +12,7 @@ outcome: emerging
 verification: provisional
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Permanent venue opened in Almaty in September 2025."
 public_name: Tselinny Center of Contemporary Culture
@@ -26,7 +27,7 @@ public_origin: Kairat Boranbayev founded Tselinny in 2018 as Kazakhstan's first 
 public_sources: CIMAM; ArtNews; Dezeen; archpaper.com
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Tselinny Center of Contemporary Culture — a non-collecting culture center inside a founder's personal corporate structure, opened months before his patron's conviction became durability-relevant

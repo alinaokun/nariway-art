@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H5, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Active corporate collection, continuously built since the 1970s; anchors the UOB Southeast Asia Gallery at National Gallery Singapore."
 public_name: UOB Art Collection
@@ -24,17 +25,17 @@ public_location: Singapore, with works across UOB's regional offices and branche
 public_founded: 1970s (early)
 public_structure: Active, board-supported corporate collection housed within a commercial bank
 public_access: Displayed across UOB's head office, branches, and regional offices; a dedicated public gallery partnership with National Gallery Singapore
-public_size: variously reported at 2,600-8,000+ works (contested across sources; see Gaps)
+public_size: 2,600+ works
 public_focus: Modern and contemporary Southeast Asian art, with an emphasis on supporting the region's living artists
 public_movements: Modern Southeast Asian art
 public_period: 1970s-present
 public_media: painting; works on paper
-public_pathway_timeline: 1970s|corporate|hybrid|UOB begins collecting Southeast Asian art, initially to fill its own new headquarters and support the region's then-fledgling art scene ;; 1982|corporate|hybrid|UOB launches the "UOB Painting of the Year" competition, the longest-running art prize in Singapore ;; 2015|corporate|hybrid|UOB becomes a long-standing collaborator with National Gallery Singapore ;; 2016|corporate|hybrid|UOB becomes a Founding Partner of National Gallery Singapore, and the UOB Southeast Asia Gallery opens, anchored by the bank's holdings ;; 2024|corporate|hybrid|UOB renews its National Gallery Singapore partnership for a further five years
+public_pathway_timeline: 1970s|corporate|hybrid|UOB begins collecting Southeast Asian art, initially to fill its own new headquarters and support the region's then-fledgling art scene ;; 1982|corporate|hybrid|UOB launches the "UOB Painting of the Year" competition, the longest-running art prize in Singapore ;; 2015|corporate|hybrid|UOB becomes a Founding Partner of National Gallery Singapore, and the UOB Southeast Asia Gallery opens (November), anchored by the bank's holdings ;; 2024|corporate|hybrid|UOB renews its National Gallery Singapore partnership for a further five years
 public_origin: "United Overseas Bank began collecting Southeast Asian art in the early 1970s, initially to furnish its new Singapore headquarters and to support a regional art scene that had little institutional backing at the time. Five decades later the collection anchors a dedicated public gallery at National Gallery Singapore and underwrites the region's longest-running art prize, making it one of the most visible examples of a corporate collection built into standing regional cultural infrastructure rather than kept as office decoration."
 public_sources: National Gallery Singapore; UOB Group; The Peak Magazine (Singapore)
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # UOB Art Collection

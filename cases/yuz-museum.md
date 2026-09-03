@@ -11,6 +11,7 @@ outcome: stable
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Operating in Shanghai; relocated to a new venue in 2023."
 public_name: Yuz Museum Shanghai
@@ -28,7 +29,7 @@ public_origin: The Chinese-Indonesian entrepreneur Budi Tek founded the Yuz Foun
 public_sources: yuzmshanghai.org; artnet News; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Yuz Museum Shanghai — succession by a daughter, after an attempted museum-to-museum lock-in failed to close before the founder's death

@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Active corporate collection; a 2019 plan to sell major works to fund social programs was halted in 2021 by new leadership."
 public_name: UniCredit Art Collection
@@ -34,7 +35,7 @@ public_origin: "UniCredit's 60,000-plus-work art collection was built up pieceme
 public_sources: ARTnews; Bloomberg; ArtDependence; UniCredit Group press releases
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # UniCredit Art Collection — Art4Future halted

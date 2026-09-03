@@ -16,6 +16,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Tokyo since 2017; no successor leader named as of two weeks after Yayoi Kusama's August 2026 death."
 public_name: Yayoi Kusama Museum
@@ -24,7 +25,7 @@ public_location: Shinjuku, Tokyo, Japan
 public_founded: 2017
 public_structure: General Incorporated Association (Yayoi Kusama Foundation)
 public_access: Open to the public, timed-entry tickets, twice-yearly rotating exhibitions
-public_size: Five-story purpose-built building, approximately 200 square meters of floor space
+public_size: Compact five-story purpose-built building (roughly 200 sq m footprint)
 public_focus: Single-artist museum devoted entirely to Yayoi Kusama's work
 public_period: 1950s to 2026
 public_media: painting; sculpture; installation ("Infinity Mirror Rooms")
@@ -34,7 +35,7 @@ public_origin: "Yayoi Kusama, working from Tokyo across seven decades, establish
 public_sources: The Art Newspaper; Yayoi Kusama Museum; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Yayoi Kusama Museum / Yayoi Kusama Foundation — Shinjuku, Tokyo, Japan

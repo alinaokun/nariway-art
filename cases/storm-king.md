@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4, H7A]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open near New Windsor, New York, since 1960."
 public_name: Storm King Art Center
@@ -32,7 +33,7 @@ public_origin: Star Expansion Company owners Ralph E. Ogden and his son-in-law H
 public_sources: stormking.org; ARTnews; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Storm King Art Center

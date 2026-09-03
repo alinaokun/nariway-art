@@ -11,24 +11,25 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Active loan program and two viewing spaces since 2014."
+public_status_text: "Active loan program, with a public gallery in Santa Fe and an exhibition space at its Dallas headquarters."
 public_name: Carl & Marilynn Thoma Art Foundation
 public_founder: Carl Thoma & Marilynn Thoma
-public_location: Santa Fe, New Mexico / Chicago, Illinois
+public_location: Santa Fe, New Mexico / Dallas, Texas
 public_founded: 2014
 public_collecting_began: 1975
 public_structure: Private foundation
-public_access: Museum loan program; Art House (Santa Fe) open to the public; Orange Door (Chicago) by appointment
+public_access: Museum loan program; the Thoma Collection gallery in Santa Fe open to the public; an exhibition space at the Dallas headquarters by appointment
 public_size: ~1,500–1,700 works
 public_focus: Digital and electronic art, Spanish colonial art, Japanese art, and post-war painting and sculpture
 public_media: digital art; painting; sculpture
-public_pathway_timeline: 1975|||Carl and Marilynn Thoma begin collecting ;; 2014|build-institution|found-foundation|The Carl & Marilynn Thoma Art Foundation is formed and opens two viewing spaces
-public_origin: Carl and Marilynn Thoma began collecting in 1975 and formed their foundation in 2014 to circulate the collection rather than concentrate it in a founder museum. Public access runs mainly through a museum loan program, supplemented by two viewing spaces: Art House in Santa Fe and the Orange Door in Chicago.
+public_pathway_timeline: 1975|||Carl and Marilynn Thoma begin collecting ;; 2014|build-institution|found-foundation|The Carl & Marilynn Thoma Art Foundation is formed to circulate the collection through loans
+public_origin: Carl and Marilynn Thoma began collecting in 1975 and formed their foundation in 2014 to circulate the collection rather than concentrate it in a founder museum. Public access runs mainly through a museum loan program, supplemented by its public gallery in Santa Fe (the Thoma Collection) and an exhibition space at its Dallas headquarters.
 public_sources: thomafoundation.org; Chicago Reader; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Carl & Marilynn Thoma Art Foundation — collection built to lend

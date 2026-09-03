@@ -14,23 +14,24 @@ interview_status: not-contacted
 hypotheses: [H1, H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
-public_status_text: "Operating continuously since 1998; a dedicated archive and research space opened in Manhattan in August 2026."
+public_status_text: "Operating continuously since 2000; a dedicated archive and research space opened in Manhattan in August 2026."
 public_name: Wolf Kahn Foundation & Archives
 public_founder: Wolf Kahn and Emily Mason
 public_location: New York, NY (archive); West Brattleboro, VT (historic studio)
-public_founded: 1998
-public_structure: Private nonprofit foundation (501(c)(3)), split in 2022 from a joint entity into two family-line foundations
+public_founded: 2000
+public_structure: Private nonprofit foundation (501(c)(3)); the joint entity separated in 2019 into two family-line foundations
 public_access: Archive open by appointment; foundation-supported grants and exhibitions ongoing
 public_focus: Wolf Kahn's life, career, and artistic process
 public_period: 20th century onward
 public_media: painting
-public_pathway_timeline: 1998|build-institution|found-foundation|Wolf Kahn and Emily Mason establish a joint philanthropic foundation while both are living ;; 2019|||Emily Mason dies ;; 2020|||Wolf Kahn dies ;; 2022|build-institution|found-foundation|The joint foundation splits into the Wolf Kahn Foundation and the Emily Mason \| Alice Trumbull Mason Foundation, separating the two family artistic legacies ;; 2026|build-institution|found-foundation|Wolf Kahn Foundation & Archives opens a dedicated Manhattan research space, one year ahead of Kahn's October 2027 centennial
-public_origin: Painters Wolf Kahn and Emily Mason, married since 1957, established a joint foundation in 1998 to manage their philanthropic activities while both were still living. After both died (Mason in 2019, Kahn in 2020), the foundation split in 2022 into two separate entities along family lines, and in 2026 the Wolf Kahn side opened its first dedicated public archive and research space in Manhattan, timed to precede Kahn's 2027 centennial.
+public_pathway_timeline: 2000|build-institution|found-foundation|Wolf Kahn and Emily Mason establish a joint philanthropic foundation while both are living ;; 2019|||Emily Mason establishes the separate Emily Mason \| Alice Trumbull Mason Foundation, and dies later that year ;; 2020|||Wolf Kahn dies ;; 2026|build-institution|found-foundation|Wolf Kahn Foundation & Archives opens a dedicated Manhattan research space, one year ahead of Kahn's October 2027 centennial
+public_origin: Painters Wolf Kahn and Emily Mason, married since 1957, established a joint foundation in 2000 to manage their philanthropic activities while both were still living. Emily Mason created a separate foundation for her own family line in 2019, the year she died (Kahn died in 2020), and in 2026 the Wolf Kahn side opened its first dedicated public archive and research space in Manhattan, timed to precede Kahn's 2027 centennial.
 public_sources: wolfkahnfoundation.org; Artforum; Hyperallergic; propublica.org Nonprofit Explorer
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # Wolf Kahn Foundation & Archives

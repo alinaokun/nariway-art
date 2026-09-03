@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H3, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Open in Miami Beach since 1995, a Florida International University museum since 1997."
 public_name: The Wolfsonian–FIU
@@ -32,7 +33,7 @@ public_origin: Mitchell "Micky" Wolfson Jr. spent decades collecting design obje
 public_sources: wolfsonian.org; FIU News; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Wolfsonian–FIU

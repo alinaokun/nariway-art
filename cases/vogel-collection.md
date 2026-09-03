@@ -11,6 +11,7 @@ outcome: thriving
 verification: spot-verified
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: expanded
 public_status_text: "Dispersed to the National Gallery of Art and one museum in each of the 50 states."
 public_name: Dorothy and Herbert Vogel Collection
@@ -30,7 +31,7 @@ public_origin: Herbert Vogel, a New York postal clerk, and Dorothy Vogel, a libr
 public_sources: nga.gov; arts.gov; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # The Vogel Collection — a postal clerk and a librarian, one salary, 5,000 works, dispersed to all 50 states

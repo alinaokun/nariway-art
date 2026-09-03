@@ -14,6 +14,7 @@ interview_status: not-contacted
 hypotheses: [H2, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-03
 public_depth: record
 public_status_text: "Purchased by the state of North Rhine-Westphalia in 2016 and distributed across public museums via the Kunst im Landesbesitz foundation."
 public_name: WestLB / Portigon Art Collection
@@ -24,13 +25,13 @@ public_structure: Formerly a bank-owned corporate collection; now held by the st
 public_access: Distributed across NRW state museums and institutions
 public_size: 297 works
 public_focus: Modern and postwar European art
-public_selected_artists: Pablo Picasso; August Macke; Joseph Beuys; Günther Uecker; Paul Signac; Gerhard Richter; Thomas Schütte
+public_selected_artists: Pablo Picasso; August Macke; Joseph Beuys; Günther Uecker; Paul Signac; Gerhard Richter
 public_pathway_timeline: 1969|||WestLB begins its corporate art collection ;; 2012|||WestLB collapses and is wound down, successor entity Portigon AG formed ;; 2015|sell-private|sell-auction|Portigon drafts a confidential 400-work sale list to help repay state bailout funds, prompting public uproar from NRW museum directors ;; 2016|merger-into-institution|merger-into-institution|NRW state purchases the 297-work core collection for €30M via the Kunst im Landesbesitz foundation, distributing it across state museums instead of a private sale
 public_origin: WestLB, a major German state-owned bank, built a substantial corporate art collection from 1969. After the bank's 2012 collapse and wind-down as Portigon AG, a 2015 plan to sell part of the collection to help repay bailout funds provoked public opposition from museum directors. In 2016 the state of North Rhine-Westphalia purchased the collection instead, distributing it across public institutions rather than letting it disperse into private hands.
 public_sources: Artnet News; Handelsblatt; Landtag NRW; Kunstsammlung NRW
 hero_image_status: no_usable_image
 living_collector: false
-last_reviewed: 2026-08
+last_reviewed: 2026-09
 ---
 
 # WestLB / Portigon Art Collection → Kunst im Landesbesitz (NRW)
