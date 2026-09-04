@@ -27,23 +27,27 @@ When someone asks what art you love, you are not recalling cold. Five anchors, a
 **And the easiest answer of all:** *"I keep changing my mind based on what I've seen lately"* — then talk about one recent work (Caroline Walker or Amy Sherald at the High).
 
 ## Private refresher (pronunciation + one fact; never published)
-*Pronunciations below are provisional and being verified against authoritative sources (artist interviews, museum audio) before you rely on them in a room.*
-- **Julie Mehretu** — meh-REH-too · Ethiopian-American, b. 1970 · layered, map-like abstraction (you saw *Mogamma* at the High, her show in Venice, and the Whitney 2021).
-- **Amoako Boafo** — ah-MWAH-koh BWAH-foh · Ghanaian, b. 1984 · finger-painted portraits, vivid color.
-- **Franz Marc** — frahnts MARK · German, 1880–1916 · Blue Rider; animals, blue horses.
-- **August Macke** — OW-goost MAH-kuh · German, 1887–1914 · Blue Rider; bright, gentle scenes.
-- **Wassily Kandinsky** — vah-SEE-lee kan-DIN-skee · 1866–1944 · pioneer of abstraction.
-- **Gabriele Münter** — gah-bree-EL-uh MUEN-ter · 1877–1962 · Blue Rider; one of its central women.
+*Verified 2026-09-04 against published IPA / pronunciation references. ✓ = confirmed from a reference; ~ = best-available (regular language rules, native audio exists on Forvo); ⚠ = still uncertain.*
+- **Julie Mehretu** — ~ MEH-reh-too (like "MERR-it-too", stress the first syllable) · Ethiopian-American, b. 1970 · layered, map-like abstraction (*Mogamma* at the High; her Venice show; the Whitney 2021).
+- **Amoako Boafo** — ~ ah-moh-AH-koh boh-AH-foh · Ghanaian, b. 1984 · finger-painted portraits, vivid color.
+- **Franz Marc** — ~ FRAHNTS MARK · German, 1880–1916 · Blue Rider; animals, blue horses.
+- **August Macke** — ~ OW-goost MAH-kuh · German, 1887–1914 · Blue Rider; bright, gentle scenes.
+- **Wassily Kandinsky** — ✓ VASS-il-ee kan-DIN-skee (common English; Russian: vah-SEE-lee) · 1866–1944 · pioneer of abstraction.
+- **Gabriele Münter** — ~ gah-bree-EL-uh MUEN-ter (ü = "ee" with rounded lips) · 1877–1962 · Blue Rider; one of its central women.
+- **Pieter Saenredam** — ~ PEE-ter SAHN-ruh-dam · Dutch, 1597–1665 · church interiors ("nobody paints interior architecture better").
+- **Francesco Hayez** — ✓ fran-CHESS-koh AH-yets · Italian, 1791–1882 · *The Kiss*.
+- **Honoré Daumier** — ✓ aw-noh-RAY dohm-YAY (not "-mee-er") · French, 1808–1879.
+- **Paul Delvaux** — ✓ pohl del-VOH · Belgian, 1897–1994 · dreamlike scenes (*Landscape with Lanterns*, which held you a long time).
+- **Nicholas Roerich** — ✓ NIK-uh-lus REH-rik · Russian, 1874–1947 · his NYC museum, which you loved.
+- **Adolf Erbslöh** — ~ AH-dolf ERPS-luh (ö ≈ "ur" in "burn"; final h silent) · German, 1881–1947 · early Expressionist.
+- **Sibylle Bergemann** — ~ zee-BUE-luh BAIR-guh-mahn · German photographer, 1941–2010 · (*Dakar*, you remember exactly where it hung).
+- **Itzchak Tarkay** — ⚠ likely YITS-khak tar-KYE (rhymes with "eye"); first name often anglicized "IT-zak" · not fully confirmed, a Park West video would settle it · Israeli, 1935–2012 · the artist you own.
 - **Sarah Sze** — sar-ah ZEE · American, b. 1969 · intricate installations (*Meridian*).
 - **Amy Sherald** — SHER-uld · American, b. 1973 · the Michelle Obama portrait.
 - **Gerhard Richter** — GAIR-hart RIKH-ter · German, b. 1932 · you have "a complex relationship" with him.
 - **Matthew Wong** — WONG · Canadian, 1984–2019 · luminous, melancholic landscapes.
-- **Pieter Saenredam** — SAHN-reh-dahm · Dutch, 1597–1665 · church interiors ("nobody paints interior architecture better").
-- **Francesco Hayez** — eye-ETS · Italian, 1791–1882 · *The Kiss*.
-- **Honoré Daumier** — oh-no-RAY doh-mee-AY · French, 1808–1879.
 - **Marc Chagall** — shah-GAHL · your husband's favorite.
-- **Nicholas Roerich** — ROH-rikh · Russian, 1874–1947 · his NYC museum, which you loved.
-- **Anish Kapoor** — AH-nish kə-POOR · British-Indian, b. 1954.
+- **Anish Kapoor** — ✓ AH-neesh kuh-POOR · British-Indian, b. 1954.
 
 ---
 
