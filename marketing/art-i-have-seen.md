@@ -1,21 +1,33 @@
-# Art I've Seen — Alina's private art record
+# Art That Stayed With Me — Alina's private art record
 
-Works Alina has personally encountered and wanted to remember. **Rule: save only what you want to remember.** Not a blog, not an obligation. A curated subset can later become a visual **"Art I've Seen"** page on alinaokun.com (grid of works, filterable by artist / museum / city / year), published later or never. This file is the private source. Imported from Alina's "Favorite Art" list, 2026-09-03; her own "why I saved it" notes are kept verbatim (a few artist-name spellings tidied for accuracy).
+Works Alina has personally encountered and wanted to remember, and *why* each one stayed. **Rule: save only what you want to remember.** Not a blog, not an obligation. This file is the **private** source of record.
+
+A **selective, visual public page** can be drawn from it later for alinaokun.com (working title *Art That Stayed With Me*): perhaps 30-40 works, organized around the *memory* of each piece, not by movement or date. Each entry shows just artist, work, where you saw it, and your short memory, no art-history essays. Four natural lenses for that page:
+- **Artists I return to** — the ones you seek out whenever you encounter them.
+- **Works I still remember** — a single piece that lodged in your head (where you stood, its scale, a surprise), whether or not the artist became a favorite.
+- **Art that became personal** — connected to family, home, travels, or what you own.
+- **Artists I discovered** — walked in not knowing them, walked out wanting more.
+
+The list is complete enough as is, no need to mine more photos. Imported from Alina's "Favorite Art" list, 2026-09-03; her own "why I saved it" notes are kept verbatim (a few artist-name spellings tidied for accuracy).
 
 ---
 
-## Your signatures — the ready answers
-When someone asks "favorite artists?" or "what do you love?", you are not recalling cold. These are genuinely yours, straight from the list:
+## Your signatures — the ready answers (private; stays behind the scenes)
+When someone asks what art you love, you are not recalling cold. Five anchors, all genuinely yours:
+1. **The Blue Rider circle** — especially **Franz Marc** (4 works) and **August Macke** (3), plus **Kandinsky** and **Gabriele Münter**. One of your strongest recurring interests. Line: *"I keep coming back to the Blue Rider painters, especially Franz Marc and Macke."*
+2. **Matthew Wong** — an all-time favorite (his short life moves you).
+3. **Alex Katz** — a recurring love since the Albertina.
+4. **Open windows / views outward** — you say it yourself: they *"make me feel happy and free."*
+5. **Art that does something unexpected** — unusual scale, materials, AI, art-within-art, odd ideas.
 
-- **The Blaue Reiter (Blue Rider) circle** is the throughline: **Franz Marc** (4 works), **August Macke** (3), **Wassily Kandinsky**, **Gabriele Münter**. Munich (Lenbachhaus, the Franz Marc Museum) is your territory. Easy line: *"I keep going back to the Blue Rider painters, especially Franz Marc and Macke."*
-- **Alex Katz** (3 works, from the Albertina onward) and **Matthew Wong** (3, a favorite whose short life moves you) are recurring loves.
-- Living artists you follow and collect: **Alexis Bruchon**, **Amoako Boafo**, **Caroline Walker** (new to you at the High, and you want more), **Nir Hod**, **Jin Han Lee**.
-- **Motifs you're drawn to, in your own words:** open windows ("they make me feel happy and free"), umbrellas ("paintings with umbrellas catch my attention"), art-within-art, and innovative multimedia work.
-- **Personal threads that make good, warm conversation:** your son loves Franz Marc (so you seek out his work); your husband's favorite is Chagall; and you're a collector too (Tarkay, a Hiroshige woodblock, Liane Chu, Grace Qian, Jin Han Lee are in your home).
+**Things you notice (the most interesting answer of all).** Across very different kinds of art you're drawn to the same things: open windows, umbrellas, art within art, architectural interiors, strong color, unexpected scale, unusual materials, and works that combine cultures (East/West). That's conversational gold, because you can honestly say: *"I notice certain things across very different art. I'm strangely drawn to paintings with open windows, and to art that has something unexpected happening inside it."* Far better than reciting famous names.
 
-The easiest answer of all, per the plan: *"I keep changing my mind based on what I've seen lately"* — then talk about one work you loved.
+**Personal threads (warm, and true):** your son loves Franz Marc and Monet's *Studio Boat*; your husband's favorite is Chagall; and you collect (Tarkay, a Hiroshige woodblock, Liane Chu, Grace Qian, Jin Han Lee are in your home).
+
+**And the easiest answer of all:** *"I keep changing my mind based on what I've seen lately"* — then talk about one recent work (Caroline Walker or Amy Sherald at the High).
 
 ## Private refresher (pronunciation + one fact; never published)
+*Pronunciations below are provisional and being verified against authoritative sources (artist interviews, museum audio) before you rely on them in a room.*
 - **Julie Mehretu** — meh-REH-too · Ethiopian-American, b. 1970 · layered, map-like abstraction (you saw *Mogamma* at the High, her show in Venice, and the Whitney 2021).
 - **Amoako Boafo** — ah-MWAH-koh BWAH-foh · Ghanaian, b. 1984 · finger-painted portraits, vivid color.
 - **Franz Marc** — frahnts MARK · German, 1880–1916 · Blue Rider; animals, blue horses.
