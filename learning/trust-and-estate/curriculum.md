@@ -26,7 +26,7 @@ Self-paced and manual. When Alina picks a topic, Claude researches it and drafts
 | 4 | **How art passes** — specific vs. general bequests of tangible personal property, ademption, residuary, revocable trusts, tangible-property memoranda | determines what can even be sold or must go to a named heir | not started |
 | 5 | **Estate tax and valuation of art** — Form 706, fair market value, qualified appraisal and qualified-appraiser rules, the IRS Art Advisory Panel, blockage discounts | the number everything keys off, and the appraisal chain Nariway organizes | not started |
 | 6 | **Charitable disposition of art** — income and estate charitable deductions, the related-use rule, appraisal substantiation, fractional gifts, private foundations, donor-restricted gifts, deaccession | the "give it away" pathway and its tax mechanics | not started |
-| 7 | **Donor intent and restrictions** — conditional gifts, cy pres, the Barnes lineage | why intent does not always survive, a core Nariway theme | not started |
+| 7 | **Donor intent and restrictions** — conditional gifts, cy pres, the Barnes lineage | why intent does not always survive, a core Nariway theme | **done → [[donor-intent-and-cy-pres]]** |
 | 8 | **Selling estate art prudently** — the fiduciary's process: appraisal, method selection, competing proposals, documentation, conflicts | the disposition workflow Nariway makes comparable and documented | not started |
 | 9 | **Conflicts of interest and independence** — for the fiduciary, and for Nariway's own positioning | the spine of Nariway's independence claim | not started |
 | 10 | **State procedure: New Jersey (Title 3B) and New York (EPTL + SCPA, Surrogate's Court)** | Alina's home geographies and first markets | not started |
@@ -36,3 +36,4 @@ Self-paced and manual. When Alina picks a topic, Claude researches it and drafts
 - [[_note-template]] — the template every note follows.
 - [[sources]] — the authoritative sources to learn from.
 - [[glossary]] — terms, kept precise.
+- [[executor-authority-over-art]], [[donor-intent-and-cy-pres]] — the sourced notes written so far.
