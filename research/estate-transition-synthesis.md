@@ -136,8 +136,18 @@ So most findings do resolve into the two principles, which is a genuinely clean 
 - *Can responsibly claim:* collection transitions move through recognizable stages, and specific conditions matter at each.
 - *Consulting usefulness:* highest as the eventual *engagement methodology*, weaker as the differentiating intellectual position.
 
-### Recommendation
-These are not competitors; they are different altitudes. **B is the intellectual point of view** (the thesis that goes into the report, the talk, and referral conversations), **C is the engagement-methodology scaffold** (how Nariway actually works a matter), and **A is the compressed everyday version of B** for when three forces is one too many. The differentiator underneath all of them is the fourth advantage layer: not just judgment, independence, and art knowledge, but **systematic precedent knowledge — the study of how significant collections behave under transition**, which is a territory none of the adjacent professions occupies.
+### The operating thesis (resolved 2026-09-03)
+The model resolves into **three requirements, with time running through all of them: Responsibility → Feasibility → Execution.**
+1. **Responsibility** — someone takes ownership of the collection decision early, instead of it being divided among attorneys, heirs, advisers, and transaction specialists with no one responsible for the whole.
+2. **Feasibility** — the intentions are tested against what is actually available. Wanting to donate is not the same as having a museum that wants the collection; wanting to keep it intact is not the same as having the governance, funding, or family agreement to do so.
+3. **Execution** — the chosen direction becomes a plan that can actually happen: enforceability, governance where relevant, succession, specialist coordination, logistics.
 
-### Still open, and only answerable in the market
-Whether attorneys, fiduciaries, and families will pay an independent party to own this, and for what. The research is explicit that this cannot be settled at the desk.
+And a market reality, stated as an observation rather than a fourth principle: **sale frequently has an execution channel already available; other outcomes usually have to be created.**
+
+Plain operating thesis (internal, not public copy yet):
+> *Significant collection transitions tend to work better when someone takes responsibility for the decision early, tests the owner's intentions against what is actually feasible, and turns the chosen direction into a plan that can be executed. Sale often has a ready execution path; other outcomes generally require deliberate coordination.*
+
+The differentiator underneath it: Nariway is **intentionally building a structured, cross-case body of knowledge about how significant collections move through transitions.** That is a real distinction; it does not require claiming no one else has precedent knowledge. The before/during/after lifecycle stays in the background as a possible engagement scaffold, to be confirmed by real matters.
+
+### This is the end of the internal work
+The one question left cannot be answered at the desk: whether attorneys, fiduciaries, and families will pay an independent party to take responsibility for this, and what for. That is what the rooms are for. Modeling is done.
