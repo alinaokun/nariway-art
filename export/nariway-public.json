@@ -2864,6 +2864,74 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "hill-art-foundation",
+      "publicDepth": "record",
+      "name": "Hill Art Foundation",
+      "founder": "J. Tomilson Hill and Janine Hill",
+      "location": "New York, NY (239 Tenth Avenue, Chelsea)",
+      "profile": {
+        "founded": 2019,
+        "collectingBegan": "circa 1990s (assembled over roughly three decades)",
+        "structure": "Nonprofit public exhibition and education foundation, showing works largely on loan from the private Hill Collection",
+        "publicAccess": "Free and open to the public",
+        "currentState": "J. Tomilson and Janine Hill's collection shown free to the public at a purpose-built Chelsea space since 2019.",
+        "size": "A purpose-built ~7,700 sq ft space; a collection ranging from Baroque bronzes to emerging contemporary art"
+      },
+      "composition": {
+        "focus": "In-depth holdings across Renaissance and Baroque bronzes, Old Master paintings, postwar figurative modern masters, and emerging contemporary artists",
+        "movements": [
+          "Renaissance and Baroque",
+          "Postwar",
+          "Contemporary"
+        ],
+        "period": "Renaissance to present",
+        "media": [
+          "sculpture (bronzes)",
+          "painting",
+          "installation"
+        ],
+        "selectedArtists": [
+          "Robert Gober",
+          "Andy Warhol",
+          "Li Songsong",
+          "Lu Yang",
+          "N. Dash"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "J. Tomilson and Janine Hill build a collection ranging from Baroque bronzes to emerging contemporary art",
+            "year": "circa 1990s",
+            "familyId": "keep-family",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "33 Renaissance and Baroque bronzes from the Hill Collection are exhibited at The Frick Collection",
+            "year": 2014,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The Hill Art Foundation opens a purpose-built, free public exhibition and education space in Chelsea",
+            "year": 2019,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Over roughly three decades J. Tomilson and Janine Hill built a collection notable for its depth and its range, from Baroque bronzes to emerging contemporary artists. In 2019 they opened the Hill Art Foundation, a purpose-built Chelsea space that presents rotating exhibitions drawn largely from their collection alongside free arts education for New York students. It is a private collection turned into a free public exhibition and education institution.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "hillartfoundation.org",
+        "The Frick Collection"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "hillwood",
       "publicDepth": "expanded",
       "name": "Hillwood Estate, Museum & Gardens",
@@ -3539,6 +3607,75 @@
         "jgsfoundation.org",
         "The Art Newspaper",
         "ARTnews"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "judd-foundation",
+      "publicDepth": "record",
+      "name": "Judd Foundation",
+      "founder": "Donald Judd",
+      "location": "New York, NY (101 Spring Street) and Marfa, Texas",
+      "profile": {
+        "founded": 1996,
+        "collectingBegan": "1968 (acquired 101 Spring Street)",
+        "structure": "Artist-endowed nonprofit foundation, created by Donald Judd's will to preserve his permanently installed living and working spaces, libraries, and archives",
+        "publicAccess": "Open by timed, reservation-based guided visit at 101 Spring Street (New York) and in Marfa",
+        "currentState": "Preserves Donald Judd's New York and Marfa spaces; 101 Spring Street open to the public by reservation since 2013.",
+        "size": "Donald Judd's permanently installed works and spaces, including the five-story 1870 cast-iron building at 101 Spring Street and multiple Marfa properties"
+      },
+      "composition": {
+        "focus": "Minimalism; the permanently installed work and preserved living and working spaces of Donald Judd",
+        "movements": [
+          "Minimalism"
+        ],
+        "period": "1960s to 1994, preserved as installed",
+        "media": [
+          "sculpture",
+          "installation",
+          "furniture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Donald Judd"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Donald Judd buys 101 Spring Street in New York as his home and studio",
+            "year": 1968,
+            "familyId": "keep-family",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Judd founds the separate Chinati Foundation museum in Marfa",
+            "year": 1986,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Judd's will establishes the Judd Foundation to preserve his own spaces and archives",
+            "year": 1996,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "101 Spring Street opens to the public by reservation after restoration",
+            "year": 2013,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          }
+        ]
+      },
+      "origin": "Donald Judd used the 1870 cast-iron building at 101 Spring Street as his New York home and studio from 1968, treating the space around his work as integral to it. His 1996 will created the Judd Foundation to keep his New York and Marfa spaces, and the art installed in them, permanently intact; 101 Spring Street opened to the public by reservation in 2013. It is an artist-legacy foundation preserving the artist's own environment, distinct from the Chinati museum Judd founded in Marfa a decade earlier.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "juddfoundation.org",
+        "chinati.org",
+        "Artists' Homes"
       ],
       "lastReviewed": "2026-09"
     },
@@ -5743,6 +5880,78 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "soloviev-foundation",
+      "publicDepth": "record",
+      "name": "Soloviev Foundation Gallery",
+      "founder": "Sheldon Solow (collection); opened to the public by Stefan Soloviev",
+      "location": "New York, NY (9 West 57th Street)",
+      "profile": {
+        "collectingBegan": "mid-20th century (assembled over roughly 60 years)",
+        "structure": "Private tax-exempt foundation, formerly the Solow Art and Architecture Foundation; the Soloviev Foundation Gallery opened the collection to the public",
+        "publicAccess": "Free; weekly guided tours and Thursday viewing hours, plus visits by appointment",
+        "currentState": "A famously private collection kept off-limits for decades, opened to the public as the Soloviev Foundation Gallery in 2023 after Sheldon Solow's death.",
+        "size": "Assembled over roughly 60 years; the predecessor foundation reported holdings valued near $216M in 2017 filings; European modern masters, sculpture, and antiquities"
+      },
+      "composition": {
+        "focus": "European modern masters, postwar and contemporary art, sculpture, and antiquities",
+        "movements": [
+          "Impressionism and Post-Impressionism",
+          "Modernism",
+          "Postwar"
+        ],
+        "period": "antiquity through 20th-century modern",
+        "media": [
+          "painting",
+          "sculpture",
+          "antiquities"
+        ],
+        "selectedArtists": [
+          "Paul Cézanne",
+          "Henri Matisse",
+          "Joan Miró",
+          "Morris Louis",
+          "Henry Moore"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Sheldon Solow assembles a major private collection, including Botticelli's \"Portrait of a Young Man Holding a Roundel,\" held under the Solow Art and Architecture Foundation but kept closed to the public",
+            "year": "1980s",
+            "familyId": "keep-family",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Sheldon Solow dies in November; his son Stefan Soloviev and Solow's widow announce the collection will open to the public",
+            "year": 2020
+          },
+          {
+            "event": "The Botticelli is sold at Sotheby's",
+            "year": 2021,
+            "familyId": "disperse",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "The Soloviev Foundation Gallery opens the collection to the public at 9 West 57th Street",
+            "year": 2023,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Real-estate developer Sheldon Solow spent about six decades building one of New York's great private collections, from modern masters to antiquities, but kept it hidden inside his 9 West 57th Street tower and off-limits to the public. After his death in 2020, his son Stefan Soloviev and Solow's widow reorganized it as the Soloviev Foundation and, in 2023, opened the ground-floor gallery for free public tours. The Botticelli portrait that anchored the collection was sold at auction in 2021, before the gallery opened.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "solovievfoundation.org",
+        "The Art Newspaper",
+        "ARTnews",
+        "Business Wire"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "souls-grown-deep",
       "publicDepth": "expanded",
       "name": "Souls Grown Deep Foundation",
@@ -6366,6 +6575,81 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "brant-foundation",
+      "publicDepth": "record",
+      "name": "The Brant Foundation",
+      "founder": "Peter M. Brant",
+      "location": "Greenwich, Connecticut and New York, NY (East Village)",
+      "profile": {
+        "founded": 1996,
+        "collectingBegan": "1967",
+        "structure": "Private nonprofit art foundation (Art Study Center); the collection remains privately owned by Peter Brant and is shown for study and public exhibition",
+        "publicAccess": "Open to the public by advance reservation; recent exhibitions free by timed ticket",
+        "currentState": "Peter Brant's collection shown publicly at reservation-based, largely free exhibitions in Greenwich (since 2009) and the East Village (since 2019).",
+        "size": "Modern and contemporary art, reported in the hundreds of Warhols and thousands of works"
+      },
+      "composition": {
+        "focus": "Postwar and contemporary American art",
+        "movements": [
+          "Pop art",
+          "Neo-Expressionism",
+          "Contemporary"
+        ],
+        "period": "mid-20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Andy Warhol",
+          "Jean-Michel Basquiat",
+          "Jeff Koons",
+          "Urs Fischer",
+          "Josh Smith"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Peter Brant begins collecting, buying a Warhol soup-can drawing as a teenager",
+            "year": 1967,
+            "familyId": "keep-family",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The Brant Foundation is established",
+            "year": 1996,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The Greenwich Art Study Center opens to the public in a converted stone barn",
+            "year": 2009,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "A second space opens in a former Con Edison substation (once Walter De Maria's studio) in the East Village, with an inaugural Basquiat exhibition",
+            "year": 2019,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Peter Brant began collecting in the late 1960s and built one of the largest private holdings of postwar and contemporary American art. To share it, he established the Brant Foundation, opening a public Art Study Center in a converted Greenwich barn in 2009 and a second space in a repurposed East Village substation in 2019. The collection stays privately owned and is shown through reservation-based, largely free exhibitions.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "brantfoundation.org",
+        "ARTnews",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "broad",
       "publicDepth": "expanded",
       "name": "The Broad Art Foundation",
@@ -6772,6 +7056,67 @@
         "My Art Guides"
       ],
       "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "flag-art-foundation",
+      "publicDepth": "record",
+      "name": "The FLAG Art Foundation",
+      "founder": "Glenn Fuhrman and Amanda Fuhrman",
+      "location": "New York, NY (545 West 25th Street, Chelsea)",
+      "profile": {
+        "founded": 2008,
+        "structure": "Nonprofit, non-collecting public exhibition space founded by collector-philanthropists; works shown are drawn from the separate Fuhrman Family Foundation and from loans",
+        "publicAccess": "Free and open to the public; three to six exhibitions a year",
+        "currentState": "A free Chelsea contemporary-art space since 2008, the public exhibition arm of collectors Glenn and Amanda Fuhrman.",
+        "size": "Non-collecting; more than 100 exhibitions featuring nearly 1,000 artists since 2008"
+      },
+      "composition": {
+        "focus": "Contemporary art, curated exhibitions of emerging, mid-career, and established artists",
+        "movements": [
+          "Contemporary"
+        ],
+        "period": "Contemporary",
+        "media": [
+          "painting",
+          "sculpture",
+          "photography",
+          "video"
+        ],
+        "selectedArtists": [
+          "Nicolas Party",
+          "Jim Hodges",
+          "Awol Erizku",
+          "Genevieve Gaignard",
+          "Hilary Harkness (exhibited artists",
+          "FLAG holds no permanent collection of its own)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Glenn and Amanda Fuhrman open FLAG, a free contemporary-art exhibition space, with \"Attention to Detail\" curated by Chuck Close",
+            "year": 2008,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "FLAG presents \"Sable Elyse Smith: Clockwork\" (Sept 24, 2026 to Feb 13, 2027)",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "The FLAG Art Foundation is a free, non-collecting contemporary-art space founded in 2008 by collector-philanthropists Glenn and Amanda Fuhrman on the ninth floor of Chelsea's arts tower. Rather than displaying a fixed collection, it mounts several curated exhibitions a year, all open to the public at no charge, serving as the public exhibition arm connected to the family's private Fuhrman Family Foundation holdings.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "flagartfoundation.org",
+        "Ocula"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
     },
     {
       "slug": "feuerle-collection",
