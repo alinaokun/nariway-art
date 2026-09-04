@@ -58,8 +58,8 @@ Framed as how collection transitions behave, not as a charge that professionals 
 - **Recurs in:** collections that became institutions and survived tended to have an independent board and a locked succession; sole control meeting the founder's death without a structure is the recurring failure ("founder's disease"): Terra.
 - **Counterexamples / limit:** the Corcoran had independent governance and still dissolved on money, so governance appears necessary but not sufficient. Multi-member boards dominated by one family across generations (Ohara, Sadberk Hanim) also avoided the sole-control collapse, so "family involvement" is not itself the risk.
 - **Mechanism:** a structure that can make decisions after the founder is gone, versus a vacuum.
-- **Can say:** governance design predicts institutional survival better than endowment size, though funding still constrains.
-- **Cannot say:** that governance alone guarantees survival.
+- **Can say:** strong governance recurs in the institutions that lasted, and financial resources alone do not appear sufficient for continuity.
+- **Cannot say:** that governance predicts or guarantees survival (no rate; funding still constrains, as Corcoran shows).
 
 ### 6. Different heirs can turn one collection into several decisions
 - **Confidence:** Emerging (a pattern, deliberately stated without any rate).
@@ -92,10 +92,52 @@ The inverse, and probably the more valuable half. Read as the beginning of a met
 
 ---
 
-## Where this points
+## Part 3 — Does this resolve into a model?
 
-Two uses, in order. First, this is the raw material for **Nariway's intellectual point of view**, the one thing that should drive the report, LinkedIn, speaking, and referral conversations. The point of view is not "we have 141 cases." It is closer to: *the outcome for a significant collection is usually decided by whether anyone owns the decision early, and by whether wishes were turned into structures that can actually hold; sale is not chosen so much as defaulted to when neither is true.* That is a defensible, evidence-grounded position, and it is distinctly Nariway.
+Before turning any of this into content, the question is whether the fourteen findings resolve into a coherent higher-level structure, or stay a list. Two candidate organizing principles are worth testing (treated as hypotheses, not answers):
 
-Second, Part 2 is the seed of an eventual **engagement methodology**, drawn from what the good outcomes had in common, to be confirmed and reshaped by real matters rather than published as doctrine now.
+- **P1 — Someone takes responsibility for the decision early.**
+- **P2 — The owner's intentions get converted into structures that can actually work.**
 
-Open, and only answerable in the market: whether attorneys, fiduciaries, and families will pay an independent party to own this, and for what. The research is explicit that this cannot be settled at the desk.
+### Mapping the findings to the two principles
+- **Map cleanly to P1 (ownership):** C1 (no owner of the decision), C6 (fragmented ownership across heirs), C7 (drift), S1 (a clear owner early), S7 (someone coordinating the specialists). And S2 (alternatives weighed before a sale process) is really ownership acting.
+- **Map cleanly to P2 (workable structures):** C3 (wishes vs enforceable plan), C5 (governance over money), S4 (independent governance, locked succession), S5 (wishes into operating structures), S6 (constraints scoped to survive).
+- **Straddle both:** S3 (relationships built in advance) is partly ownership acting early and partly a precondition for a viable placement structure. C4 (institutional interest cannot be assumed) sits similarly.
+
+So most findings do resolve into the two principles, which is a genuinely clean frame. But the mapping also exposes what the two-principle model leaves out.
+
+### What the two-principle model does not capture
+1. **The market's execution asymmetry (C2, behind S2).** A sale has a standing offer and a pre-built path; every alternative has to be constructed. This is an *external* condition, not a property of the estate's own behavior, and it is precisely why ownership matters (someone has to build the non-default path) and precisely the gap Nariway proposes to fill. The two principles describe what the family does; this describes the shape of the market they act inside.
+2. **Option feasibility (C4, behind S3).** "You cannot assume a museum wants it." Matching intentions to what is actually achievable is a distinct competence that sits between having intentions and building structures, and it is its own failure mode.
+3. **The time and reversibility axis (C7).** Options are perishable; "early" is doing hidden work throughout. The two principles read as static; the findings have a clock.
+4. **A scale distinction.** The governance and succession findings (C5, S4) belong to the *collection-becomes-an-institution* sub-case, which is not the modal estate matter. "Workable structures" means something very different for a family dividing twenty-five paintings than for a founder building a museum. The model should not flatten those.
+
+### Three candidate structures for Nariway's point of view
+
+**A. The two-principle model** (ownership + convertible intentions).
+- *Helps understand:* the two conditions that recur in better outcomes; clean and memorable; maps most findings.
+- *Supported by:* C1, C3, C5, C6, C7 and S1, S4, S5, S6, S7.
+- *Oversimplifies:* the market asymmetry, feasibility, the time axis, and the estate-vs-institution scale; also risks sounding causal.
+- *Can responsibly claim:* these two conditions recur in the transitions that went well, and their absence recurs in the harder ones. (Pattern, not cause.)
+- *Consulting usefulness:* high as an operating checklist and as a description of Nariway's own role.
+
+**B. The three-force model** (ownership + convertible intentions + the market's default gravity). **Recommended as the thesis.**
+- *Helps understand:* not just the two conditions, but *why their absence leads where it does*. The default is not neutral; it is the one path already built, so it exerts a pull. This lets Nariway explain the "sale often prevails" observation without ever claiming a rate or proven causation.
+- *Supported by:* everything in A, plus C2 and S2, and it states the market pull honestly (path availability, not proven default).
+- *Oversimplifies:* still soft on feasibility (C4) and the scale distinction; three forces is slightly less tidy than two.
+- *Can responsibly claim:* when no one owns the decision and intentions are not made workable, the path with a standing offer tends to prevail, because it is the only one already built.
+- *Consulting usefulness:* highest for positioning, because it names both the problem (default gravity) and the reason an *independent* coordinator is needed (to build and hold the alternative). Strongest for referral conversations.
+
+**C. The transition-lifecycle model** (before / during / after).
+- *Before:* intentions, relationships, planning, decision ownership. *During:* alternatives, specialist coordination, heirs, timing. *After:* governance, enforceability, funding, execution.
+- *Helps understand:* *where in the timeline* each condition operates, and therefore when Nariway enters and what it does at each stage; captures the time axis A and B underweight.
+- *Supported by:* all fourteen findings map to a phase.
+- *Oversimplifies:* real matters overlap and loop rather than proceeding in clean phases; and it describes *sequence* more than it asserts a distinctive claim, so it is a scaffold more than a thesis.
+- *Can responsibly claim:* collection transitions move through recognizable stages, and specific conditions matter at each.
+- *Consulting usefulness:* highest as the eventual *engagement methodology*, weaker as the differentiating intellectual position.
+
+### Recommendation
+These are not competitors; they are different altitudes. **B is the intellectual point of view** (the thesis that goes into the report, the talk, and referral conversations), **C is the engagement-methodology scaffold** (how Nariway actually works a matter), and **A is the compressed everyday version of B** for when three forces is one too many. The differentiator underneath all of them is the fourth advantage layer: not just judgment, independence, and art knowledge, but **systematic precedent knowledge — the study of how significant collections behave under transition**, which is a territory none of the adjacent professions occupies.
+
+### Still open, and only answerable in the market
+Whether attorneys, fiduciaries, and families will pay an independent party to own this, and for what. The research is explicit that this cannot be settled at the desk.
