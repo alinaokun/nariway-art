@@ -7058,67 +7058,6 @@
       "lastReviewed": "2026-09"
     },
     {
-      "slug": "flag-art-foundation",
-      "publicDepth": "record",
-      "name": "The FLAG Art Foundation",
-      "founder": "Glenn Fuhrman and Amanda Fuhrman",
-      "location": "New York, NY (545 West 25th Street, Chelsea)",
-      "profile": {
-        "founded": 2008,
-        "structure": "Nonprofit, non-collecting public exhibition space founded by collector-philanthropists; works shown are drawn from the separate Fuhrman Family Foundation and from loans",
-        "publicAccess": "Free and open to the public; three to six exhibitions a year",
-        "currentState": "A free Chelsea contemporary-art space since 2008, the public exhibition arm of collectors Glenn and Amanda Fuhrman.",
-        "size": "Non-collecting; more than 100 exhibitions featuring nearly 1,000 artists since 2008"
-      },
-      "composition": {
-        "focus": "Contemporary art, curated exhibitions of emerging, mid-career, and established artists",
-        "movements": [
-          "Contemporary"
-        ],
-        "period": "Contemporary",
-        "media": [
-          "painting",
-          "sculpture",
-          "photography",
-          "video"
-        ],
-        "selectedArtists": [
-          "Nicolas Party",
-          "Jim Hodges",
-          "Awol Erizku",
-          "Genevieve Gaignard",
-          "Hilary Harkness (exhibited artists",
-          "FLAG holds no permanent collection of its own)"
-        ]
-      },
-      "classification": {
-        "pathwayTimeline": [
-          {
-            "event": "Glenn and Amanda Fuhrman open FLAG, a free contemporary-art exhibition space, with \"Attention to Detail\" curated by Chuck Close",
-            "year": 2008,
-            "familyId": "build-institution",
-            "codedPathway": "found-foundation"
-          },
-          {
-            "event": "FLAG presents \"Sable Elyse Smith: Clockwork\" (Sept 24, 2026 to Feb 13, 2027)",
-            "year": 2026,
-            "familyId": "build-institution",
-            "codedPathway": "found-foundation"
-          }
-        ]
-      },
-      "origin": "The FLAG Art Foundation is a free, non-collecting contemporary-art space founded in 2008 by collector-philanthropists Glenn and Amanda Fuhrman on the ninth floor of Chelsea's arts tower. Rather than displaying a fixed collection, it mounts several curated exhibitions a year, all open to the public at no charge, serving as the public exhibition arm connected to the family's private Fuhrman Family Foundation holdings.",
-      "image": {
-        "status": "no_usable_image"
-      },
-      "sources": [
-        "flagartfoundation.org",
-        "Ocula"
-      ],
-      "lastReviewed": "2026-09",
-      "livingCollector": true
-    },
-    {
       "slug": "feuerle-collection",
       "publicDepth": "expanded",
       "name": "The Feuerle Collection",
