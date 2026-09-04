@@ -35,6 +35,39 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-09-04 — Cloud run
+
+**Orientation:** heaviest today on a collector's private obsession about to become one of the largest new public museums in the country — George Lucas and Mellody Hobson's Narrative Art museum opening in Los Angeles, member previews starting tomorrow — bracketed by a national pavilion pulling out of a major biennial over who gets to name it and a fresh regional snapshot of who is actually funding American museums right now.
+
+**Lead**
+
+- **George Lucas and Mellody Hobson's Museum of Narrative Art opens to the public Sept 22 — member previews start tomorrow.** The 300,000-square-foot, Ma Yansong–designed building in LA's Exposition Park holds more than 40,000 objects (Artemisia Gentileschi to Frida Kahlo, Norman Rockwell to Robert Crumb) plus the complete Lucas Archives, assembled over decades by one couple and now handed to the public in stages: member previews Sept 5–11, a Neighborhood Preview Day for the surrounding 90037 zip code on Sept 13, and an Opening Night Sept 19 co-chaired by Spielberg, Cruise, Gerwig, del Toro, and Pharrell among others. It is the single largest instance this brief has tracked of the pattern it exists to study — a living private collection converting itself into permanent public infrastructure — playing out at a scale ($1.7B+ reported construction cost, decades of acquisition) most of Nariway's own clients will never approach, but the same underlying decisions (what to give away, to whom, on what terms, while you can still watch it happen) all the way down. → filed [[candidate-universe]]. [Lucas Museum](https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026) · [Forbes](https://www.forbes.com/sites/michaelgoldstein/2026/08/18/george-lucas-museum-of-narrative-art-gets-ready-for-launch/) · [CBS Los Angeles](https://www.cbsnews.com/losangeles/news/lucas-museum-of-narrative-art-grand-opening-exposition-park/)
+
+**What's happening**
+
+- **China pulled its entire pavilion from the Gwangju Biennale two days before opening, over what to call the Taiwan show next door.** Organizers restored the name "Taiwan Pavilion" on Aug 25 after protests from Taiwan's culture ministry and the pavilion's own participants, having first labeled it only after its sponsoring institution; China's curator called the restored name a violation of the "One China" principle and withdrew Chinese artists unanimously on Sept 3, with Gwangju's own city government having separately apologized to Beijing on Sept 1. A blunt, live instance of the same question this brief keeps finding at every scale, from the Kennedy Center's sculpture to the Parthenon Marbles: who actually controls what a public exhibition is allowed to show or call itself, once more than one government has an opinion. [Hyperallergic](https://hyperallergic.com/china-withdraws-from-gwangju-biennale-in-protest-of-taiwans-inclusion/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/09/01/gwangju-city-government-apologises-to-china-over-taiwan-pavilion-naming) · [ARTnews](https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234/)
+
+**Worth reading**
+
+- **Matthew Erskine, "Keeping Control Of Your Collection? Consider A Private Museum" (Forbes).** A working trusts-and-estates attorney's own field guide to when a private museum is the right vehicle versus a foundation, gift, or outright sale — control, liability, and tax tradeoffs laid out for exactly the client conversation Nariway exists to have, from a name Alina's own referral network would recognize. [Forbes](https://www.forbes.com/sites/matthewerskine/2026/08/04/keeping-control-of-your-collection-consider-a-private-museum/)
+- **Newcity's "Art 50 2026: Collectors and Philanthropists."** An annual, ground-level census of who is actually funding a major regional art scene right now — this year including a couple whose parents built a collection in Columbus, Ohio and eventually gave it whole to the Columbus Museum of Art, and a board chair of the Obama Foundation opening his art-filled home to celebrate the Obama Presidential Center. Useful as a reminder that the collector-legacy story this brief tracks at the mega-gift end is happening constantly, quietly, one regional board seat at a time. [Newcity Art](https://art.newcity.com/2026/09/02/art-50-2026-collectors-and-philanthropists/)
+
+**Law & estates**
+
+- **Grossman LLP won a contested ruling over inflated estimates on artwork pledged as loan collateral (Aug 2026).** A collector's court fight over what an art-secured lender is allowed to claim a pledged collection is worth — the exact liquidity mechanism [[claims-register]] C7 tracks growing into a $34–40B market — decided in the borrower's favor, a reminder of how much of that lending market's real risk sits in the appraisal gap rather than the loan terms themselves. [Grossman LLP](https://www.grossmanllp.com/grossman-defeats-motion-inflated-artwork-estimates)
+- **WealthManagement.com's Trusts & Estates published a working guide to federal estate and income tax on artwork held in the US at death (Aug 21).** Practitioner-facing, not theoretical — valuation method, situs, and the specific IRS scrutiny an estate with significant art actually draws, the kind of concrete reference Nariway's own referral attorneys use directly. [WealthManagement.com](https://www.wealthmanagement.com/estate-planning/federal-estate-and-income-tax-issues-affecting-artwork-located-in-the-united-states-at-death)
+
+**To see (escalating)**
+
+- **Christie's Alan Medaugh Hiroshige preview is now 7 days out — inside one week.** Public preview Sept 11–14, sale Sept 15, 20 Rockefeller Plaza; already on Alina's calendar for the Sept 12 preview. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+- **The Bartos Mondrian's Paris leg opens in 5 days; the free New York leg is now 13 days out.** Public-view legs: Paris Sept 9–12, New York Sept 17–20, Hong Kong Sept 25–29, London from Oct 8, sale Oct 14 (£20–30M / $27–41M estimate). [ARTnews](https://www.artnews.com/art-news/market/mondrian-painting-auction-christies-frieze-week-1234795778/)
+- **Sotheby's Open House (Sept 20–21, Sotheby's NYC HQ) is now 16 days out.** Its confirmed program includes a session on legal considerations across an art collection's lifecycle, staged by the house's own trusts-and-estates practice. [Sotheby's](https://www.sothebys.com/en/calendar)
+
+**Rooms to be in**
+
+- **Next up: EPC of Westchester County's Fall Networking Event, Sept 23, Freebird Kitchen & Bar, 5pm — 19 days out.** Non-members explicitly welcome (~$85), the lowest-pressure first visit to any of the four target councils, and the nearest bookable date on the calendar. [epcwc.org](https://epcwc.org/)
+- **Forward pipeline:** Oct 5, EPC of New York City's "Making Sense of AI" evening (confirm venue/fee) · Oct 21, EPC of Westchester's dinner meeting, White Plains · Nov 12, EPC of Bergen County breakfast, Wyckoff, NJ · Nov 17, EPC of NYC's "Art Financing as an Important Tool for Wealth & Estate Planning" — already registered, Alina's first confirmed room. [[events-radar]]
+
 ### 2026-09-03 — Cloud run
 
 **Orientation:** heaviest today on who gets to decide what stays on public view — the Kennedy Center dismantling a beloved outdoor sculpture without notice and handing it back to the artist's own foundation, a French court ordering a Gaza photograph reinstated after a town quietly pulled it, and the UK's own prime minister softening his call to send the Parthenon Marbles home — bracketed by a West Coast museum's financial collapse and one of the largest antiquities seizures in US history.
