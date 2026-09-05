@@ -5,9 +5,7 @@ The building phase is done. This file has one job: get Nariway known by the righ
 ## How this works
 - **One line every business day** answering: *what external movement did I create today?* Movement, not busyness (met / contacted / introduced / booked / learned / registered because there's a real reason).
 - **Every meaningful conversation ends with a next step** whenever there naturally is one (an intro, a coffee, "I'll send you that," "you should meet ___"). Follow-up is where a network compounds.
-- **Friday:** Claude rolls the week's lines into a short scorecard. You do nothing but keep logging.
-
-**Weekly scorecard (September):** meaningful conversations with relevant people (3+); personal follow-ups (momentum?); new introductions requested or received; next conversations booked; **real collection situations surfaced (the leading indicator)**; actual opportunities/engagements. Plus **one important thing learned from the market** that week.
+- **Friday:** Claude rolls the week's lines (plus the [[market-learning]] register) into the one-page **Weekly Operator Brief**. You do nothing but keep logging. The brief spec lives in [[market-learning]]; capture what the market teaches there.
 
 ---
 
