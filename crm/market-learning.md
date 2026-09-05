@@ -9,11 +9,20 @@ Its single job is to test the one hypothesis desk research cannot: **H7B (willin
 ---
 
 ## Part A — Market Evidence Register
-After every meaningful market conversation, add one entry. Capture only what helps learn; **Unknown is a fine value.** Two disciplines:
-- **Separate Observed from Inferred.** Observed = what they actually said/did. Inferred = your read. Never let a read harden into a fact.
-- **Do not infer warmth or intent.** A polite "interesting" is not a buying signal; being researched, connected, or invited is not a relationship (same standard as [[market-entry-sept-2026]]).
+**You never fill out fields.** After a conversation, give Claude informal notes — a few sentences is enough (*"Spoke with Jane Smith, estate attorney. Biggest issue she sees is families not knowing what they own. She brings in an appraiser first. Thought an independent coordinator could help on larger estates but wasn't sure who'd pay. Offered to introduce me to a fiduciary."*). Claude extracts the structured entry and flags anything uncertain. You have the conversation; Claude turns it into learning. **Unknown is a fine value.**
 
-**Entry template (copy per conversation):**
+Three disciplines Claude applies:
+- **Separate Observed from Inferred.** Observed = what they actually said/did. Inferred = the read. A read never hardens into a fact.
+- **Do not infer warmth or intent.** A polite "interesting" is not a buying signal; being researched, connected, or invited is not a relationship (same standard as [[market-entry-sept-2026]]).
+- **Grade the evidence level**, because these are very different signals and early founders wrongly bank the weak ones as validation:
+  1. "Interesting idea" (weakest — basically noise)
+  2. "I see this problem"
+  3. "I'd refer someone for this"
+  4. "I have a matter like this now"
+  5. "I'd pay for this"
+  6. "Here's what I'd pay for" (strongest — real H7B evidence)
+
+**Entry template (Claude fills this from your notes — for reference, not homework):**
 ```
 ### YYYY-MM-DD — [Name], [role] ([firm])
 - Where/how: (event, intro, call, DM)
@@ -37,7 +46,9 @@ After every meaningful market conversation, add one entry. Capture only what hel
 ---
 
 ## Part B — Weekly Operator Brief (Friday)
-Replaces the old standalone weekly scorecard. Every Friday, Claude reads the [[market-entry-sept-2026]] movement log + working list and this register, and produces a one-page brief. You keep logging; Claude assembles.
+Replaces the old standalone weekly scorecard. Each Friday, ask Claude to *"run the operator brief"* — **on-demand, not automated**, for the next four weeks (through early October 2026). Claude reads the [[market-entry-sept-2026]] movement log + working list and this register and produces the one page. You keep logging; Claude assembles.
+
+**Evaluate after four runs.** Keep/automate the brief only if it passes one test: *did it cause me to do something the next week I otherwise might not have done?* — surfaced a forgotten follow-up, told me which relationship is moving, caught a recurring market need, or stopped me wasting time. If it mostly restates what I already know, change it or drop it. Automation follows proven usefulness, never precedes it.
 
 **The one page:**
 1. **What moved outward** this week.
