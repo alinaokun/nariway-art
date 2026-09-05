@@ -1,14 +1,8 @@
-# Art That Stayed With Me — Alina's private art record
+# Art I Remember — Alina's private art record
 
-Works Alina has personally encountered and wanted to remember, and *why* each one stayed. **Rule: save only what you want to remember.** Not a blog, not an obligation. This file is the **private** source of record.
+Works Alina has personally encountered and wants to remember, and *why* each one stayed. **Rule: save only what you want to remember.** A personal memory aid, not a public page. This file is the **private** source of record; it feeds the private *Art I Remember* reference system being built in the alinaokun.com codebase (password-protected, kept out of public navigation, separate from the Nariway Collections database). Her own "why I saved it" notes are memory cues, kept verbatim, never polished into criticism.
 
-A **selective, visual public page** can be drawn from it later for alinaokun.com (working title *Art That Stayed With Me*): perhaps 30-40 works, organized around the *memory* of each piece, not by movement or date. Each entry shows just artist, work, where you saw it, and your short memory, no art-history essays. Four natural lenses for that page:
-- **Artists I return to** — the ones you seek out whenever you encounter them.
-- **Works I still remember** — a single piece that lodged in your head (where you stood, its scale, a surprise), whether or not the artist became a favorite.
-- **Art that became personal** — connected to family, home, travels, or what you own.
-- **Artists I discovered** — walked in not knowing them, walked out wanting more.
-
-The list is complete enough as is, no need to mine more photos. Imported from Alina's "Favorite Art" list, 2026-09-03; her own "why I saved it" notes are kept verbatim (a few artist-name spellings tidied for accuracy).
+Ways to retrieve (private tags, not public-facing categories): **artists I return to** · **works I still remember** · **art that became personal** · **artists I discovered** · plus motif tags (open windows, umbrellas, art within art, architectural interiors, strong color, unexpected scale, photography). Imported from Alina's "Favorite Art" list, 2026-09-03 (a few artist-name spellings tidied). The ~60 works here are enough for a first version, no need to mine more photos.
 
 ---
 
