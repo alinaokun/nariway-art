@@ -44,7 +44,7 @@ Built by the [[substack]] function. The Substack and adjacent writers relevant t
 
 **[Permanent Collections](https://permanentcollections.substack.com)** — Thomas Brown. Essays on individual museums' permanent collections, about monthly, directly on the museum-collection theme. Use this URL, not the profile handle (a different Thomas Brown writes a dating newsletter). *Engage or Follow.*
 
-**[On Collecting](https://oncollecting.substack.com)** — Grant Pierrus Art Advisory. Collecting art and design as practice, an adjacent audience. *Confirm on first visit.*
+**[On Collecting](https://oncollecting.substack.com)** — Grant Pierrus Art Advisory. Collecting art and design as practice, an adjacent audience. **Confirmed 2026-09-06** via ["Why I'm Getting Calls from Billionaires About Contemporary Craft"](https://oncollecting.substack.com/p/why-im-getting-calls-from-billionaires) (logged in [[nariway-signals]] 2026-09-06) — an advisor's-eye account of UHNW money moving into craft/design objects.
 
 ---
 
