@@ -1,73 +1,104 @@
-# QA Report — 2026-09-02
+# QA Report — 2026-09-06 (post commit 2d0c0a9, 49th research run)
 
-**Verdict:** Not clean. The same three CRITICAL items carry forward unresolved, and one of them — the em-dash defect in exported public copy — has gotten materially worse, tripling from 4 to 12 live instances and now present in 5 of the 6 cases coded since the last audit. The dataset itself keeps growing cleanly: 135 coded cases, up from 129, sourcing and hedging discipline on all six new cases is sound, and the primary-verification backlog is flat in proportion (77/135 ≈ 57%, versus 75/129 ≈ 58%).
+**Verdict:** Not clean. All 7 CRITICAL items from the 2026-09-05 audit (`be452f0`) remain open, unfixed in every case checked; two grew wider with content added since (a new em-dash instance in a freshly-coded case's public field, and two new colon-in-prose violations in the manuscript's newest paragraph). One prior SHOULD-FIX item (the duplicated backlog numbering) appears to have been resolved. One genuine new structural gap surfaced this run, present in most of today's new case files: `constraints_documented` values outside the field's own controlled vocabulary.
 
 ---
 
 ## CRITICAL
 
-### 1. CARRIED (4th audit) — Two documents still both claim to be Nariway's canonical positioning; still unresolved.
-`Nariway_Company_Positioning_and_Operating_Brief_Aug_30_2026.md` still opens "Status: Current source of truth," defines Nariway as a "founder-led art estate consulting practice," and gives Alina's title as "Alina Okun, CPA, Founder and Art Estate Consultant" (lines 15-16, 58, 193, 980). `company/positioning.md` — the vault's own canonical file by its own header and by [[quality-assurance]]'s rule — still states the opposite: strategic advisory, "not an art advisor/dealer," no CPA in the bio, attorneys/wealth managers explicitly "referral / relationship channels — NOT customers." `INDEX.md` line 3 still carries the migration banner naming the conflicting brief authoritative. No file in `company/decisions/` (still five files, all unrelated: email delivery, Opal summit, Sotheby's course, board membership, retiring the daily check-in) records this pivot as settled. `marketing/linkedin-posts.md:3` still cites the second brief as "the company positioning" instead of `[[positioning]]`. Every live public-facing copy source checked this run (`company/positioning.md`, `marketing/substack.md`, `marketing/linkedin.md`, `marketing/website.md`) remains internally consistent with the research/advisory positioning, not the estate-consulting brief — so the vault is still carrying two irreconcilable definitions of the company at its center, unresolved for a fourth consecutive audit.
-**Standard violated:** [[positioning]]'s single-source rule; QA remit (e) single source of truth; (c) claims/positioning consistency.
-**Fix:** unchanged — this is Alina's call, not a mechanical one. Whichever document governs, update `company/positioning.md` itself with the outcome, log it in `company/decisions/`, and repoint every file that still cites the second brief (including `marketing/linkedin-posts.md` and `INDEX.md`'s own banner) to `[[positioning]]`.
+### 1. CARRIED, now unresolved across at least five consecutive audits — the "professional-services pivot" contradicts the entire body of work this vault produces daily.
+`INDEX.md:3` and `archive/README.md:10-14` both still state Nariway pivoted away from the research/advisory/collector model to "a specialist professional-services firm for estate attorneys and fiduciaries," naming three archived documents as the current source of truth. Meanwhile every research run since, including today's (49th), continues to build exactly the model `archive/README.md` says was retired: `company/positioning.md`, `research/claims-register.md` (94 entries), `cases/report-dataset.md` (166 coded cases), and the manuscript. Unchanged since the last five audits.
+**Standard violated:** `[[positioning]]`'s single-source rule; QA remit (e) and (f).
+**Fix:** needs Alina's decision, not an editorial one — confirm whether the pivot stands or was abandoned, make `INDEX.md`/`archive/README.md` agree with the model actually being executed, and log the resolution in `company/decisions/`.
 
-### 2. CARRIED (11th audit) — `export/nariway-public.json:8040-8042` and `content/content.json:54` still misattribute the wealth-transfer figure to three non-comparable sources blended into one number, live on the public site.
-Unchanged verbatim across eleven audits: both files still read `"value": "~$31T+"`, `"source": "wealth-research (Cerulli / UBS / Knight Frank)"`. `claims-register.md` C36 exists specifically to bar this: Deloitte/ArtTactic's ~$31T (C1's input, decade, global) is not Cerulli's $124T (US-only, through 2048, C8) or UBS's ~$83T (global, 20-25 years); Knight Frank publishes no wealth-transfer total at all (only UHNWI population counts, C34). Blending three differently-scoped figures under one attribution is exactly the error C36 was written to stop.
-**Fix:** replace the tile with the already-drafted GWT figures in `marketing/gwt-content-draft.md`, or at minimum attribute `$31T` to Deloitte/ArtTactic alone.
+### 2. CARRIED — `export/nariway-public.json:8710` still blends three non-comparable wealth-transfer figures into one number.
+Still reads `"value": "~$31T+"`, `"source": "wealth-research (Cerulli / UBS / Knight Frank)"` — the exact mixing `claims-register.md` C36 exists to forbid (Deloitte/ArtTactic's ~$31T decade/global figure, Cerulli's $124T US-only/2048 figure, and Knight Frank, which publishes no transfer total at all, attributed as one source to one number).
+**Fix:** replace with the Deloitte/ArtTactic-only $31T figure (C1's input); drop Knight Frank from the source line regardless.
 
-### 3. CARRIED (3rd→4th audit) and worse — the em-dash fix called for twice now was never made, and the defect has spread to most of the newest batch of cases.
-Last audit flagged four live em dashes in exported `public_*` fields: `cases/lee-kun-hee-collection.md` `public_origin` (×2) and `public_pathway_timeline`, `cases/unicredit-art-collection.md` `public_location`, and `cases/hsbc-art-collection.md` `public_origin`. **None of the five was fixed** — all still carry the identical em dashes verbatim. Worse, five of the six cases coded across the two research runs since the last audit add **eight new instances**:
-- `cases/malba-costantini.md:20` `public_name` — "MALBA — Museo de Arte Latinoamericano de Buenos Aires"
-- `cases/monte-dei-paschi-collection.md:20` `public_name` — "Banca Monte dei Paschi di Siena — Historical Art Collection"
-- `cases/monte-dei-paschi-collection.md:32` `public_pathway_timeline` — "...taking a 68% stake — the art collection is not liquidated"
-- `cases/monte-dei-paschi-collection.md:33` `public_origin` — "...and the collection — still centered on the Sienese School — has remained..."
-- `cases/schnitzer-family-foundation.md:34` `public_origin` — "...as a circulating lending library — placing works with museums..."
-- `cases/standard-bank-art-collection.md:33` `public_pathway_timeline` — "...Robert Stewart — the collection's earliest recorded work"
-- `cases/yemisi-shyllon-museum-of-art.md:31` `public_origin` — "...to establish the Yemisi Shyllon Museum of Art — the first privately funded art museum..."
+### 3. CARRIED and WIDER — em dashes in live `public_*` export fields, now 14+ files, one new today.
+Unfixed, verbatim, in the same 13 files flagged in the prior two audits: `cases/art-car-museum.md`, `cases/fresno-metropolitan-museum.md`, `cases/hsbc-art-collection.md`, `cases/lee-kun-hee-collection.md`, `cases/malba-costantini.md`, `cases/monte-dei-paschi-collection.md`, `cases/mowaa.md`, `cases/sakip-sabanci-museum.md`, `cases/schnitzer-family-foundation.md`, `cases/standard-bank-art-collection.md`, `cases/unicredit-art-collection.md`, `cases/yemisi-shyllon-museum-of-art.md`. **New this run:** `cases/instituto-moreira-salles.md:29` — `public_focus: Brazilian cultural heritage — photography, literature, iconography, music, and contemporary art`. The five other new/backfilled cases this run (Gardner, Muzeum Susch, TD Bank, Brant, Hill, Judd, Soloviev) are clean on this specific check.
+**Standard violated:** `[[voice]]`/`[[ai-tells]]`, no em dashes, applied to public-facing copy per QA remit (d).
+**Fix:** fix all instances in one pass and regenerate the export. A pre-commit grep for em dashes in `public_*` lines would stop the recurring one-new-instance-per-run pattern — this is the third consecutive run to add one on top of an unfixed backlog.
 
-That is **12 live em dashes across 8 case files, exported to the public site**, up from 4 across 3 files last audit — the defect has more than tripled and is now the default, not the exception, in newly-coded `public_origin`/`public_pathway_timeline`/`public_name` text (only `barjeel-art-foundation.md`, the sixth new case, is clean). The research/coding process is generating this defect faster than the standing fix instruction is closing it.
-**Standard violated:** [[voice]] / [[ai-tells]], no em dashes in prose, applied to public-facing copy per QA remit (d) — these fields populate the live `nariway-public.json` export per `case-template.md`'s public-projection-layer contract.
-**Fix:** replace all 12 em dashes with commas or restructured sentences (title fields like `public_name` can drop the appositive or use a comma: "MALBA, Museo de Arte Latinoamericano de Buenos Aires"); regenerate the export; then add an em-dash check to the case-coding step itself, not just the audit, since a post-hoc catch has now failed twice in a row while the underlying process keeps producing more instances than it fixes.
+### 4. CARRIED — `cases/kenneth-c-griffin-collection.md` still states a chain of dollar figures as fact with zero sourcing.
+Still zero `[source:`/`confidence:` tags in the file (the "Confirmed holdings" list: de Kooning $300M, Pollock $200M, Johns $80M, Basquiat >$100M, Cézanne ~$60M, Richter $46M, the Constitution $43.2M, the Stegosaurus $44.6M), despite `verification: spot-verified`. This run gave the file its first numbered dataset row (`report-dataset.md` #162, backfilled as part of the integrity fix), which makes the unsourced figures more, not less, visible — they're now part of the counted, "coded" corpus.
+**Fix:** add `[source: URL; confidence: tier]` to each figure, or downgrade `verification` until it's done.
+
+### 5. CARRIED — "significant" as a prestige adjective for collections is still live in `company/positioning.md`, including its own approved example.
+Unchanged at lines 8, 13, 34, 112, and 138 (the codified ✅ example itself).
+**Standard violated:** `[[voice]]`'s explicit, non-negotiable craft standard; QA remit (d).
+**Fix:** replace with "private art collections" / "collectors" at the live-copy instances and the approved example, then propagate downstream.
+
+### 6. CARRIED and WIDER — the manuscript (`marketing/what-becomes-of-great-art-collections.md`) still carries the em-dash violation flagged in the last two audits, plus two new colon-in-prose violations in today's newest paragraph.
+Line 99's em dash (`— see this section's own closing paragraph...`) is unchanged from the last audit (only the case count inside the sentence changed, 155→166). **New this run**, in the Gardner-counter-case paragraph added today (line 127): *"The difference is not scope, this constraint is at least as broad as Barnes's, but enforceability: Gardner's clause names a real, motivated third-party beneficiary..."* — a colon used mid-sentence to introduce an elaborating clause, twice in the same paragraph (also *"...arguably as broad as Barnes's own: no future change to the collection's arrangement..."*). This is the first time an audit has flagged colon-in-prose specifically (the last two audits checked only em dashes here); a spot check of the surrounding sections found this construction recurring well beyond today's addition, suggesting it is a pre-existing, widespread pattern in the manuscript's findings paragraphs, not a one-off. Given the scale, this note is conservative: it names the standard and today's concrete new instances rather than claiming an exhaustive count.
+**Standard violated:** `[[voice]]` line 27 ("No colons in prose. Permitted only before dialogue") and `[[ai-tells]]`, both of which explicitly cover "the report."
+**Fix:** rewrite the flagged sentences with commas/restructuring; no content change needed. Separately, Toi should decide whether to schedule a dedicated colon-removal pass across the manuscript's existing findings paragraphs, since this run's spot check suggests the issue is larger than the two new instances.
+
+### 7. CARRIED — the LACMA construction-cost contradiction (C38 vs. an unregistered second figure) is still live and unreconciled.
+`research/claims-register.md` C38 (unchanged): David Geffen Galleries "opened April 2026," cost "~$724M total." `research/market-intelligence.md:233` (unchanged): "LACMA's ongoing building project has grown from an initial ~$600M estimate to over $750M... with 2026 completion still the target." One says the building already opened at a fixed cost; the other describes an ongoing project targeting 2026 completion. Not touched by this run's tax-and-legal-focused research pass.
+**Standard violated:** `claims-register.md`'s single-source/no-drift discipline; QA remit (c).
+**Fix:** determine whether this is the same Geffen Galleries project (drop the stale $600-750M framing) or a distinct project (give it its own claims-register entry, clearly distinguished from C38).
 
 ---
 
 ## SHOULD-FIX
 
-### 4. CARRIED (3rd audit) — The Fisher/SFMOMA LinkedIn post, still labeled "finalized" and "fact-checked," still collapses the 720+ vs ~1,100-works scope distinction.
-`marketing/linkedin-posts.md:44-58` is unchanged from the prior two audits: "By the end they had more than a thousand works..." (line 48) leads directly into "...in 2009, they made a deal with the San Francisco Museum of Modern Art. The museum would show the collection for 100 years" (line 52), so "the collection" reads back to the just-stated thousand-plus figure. `claims-register.md`'s Fisher/SFMOMA entry (C53) and `cases/fisher-sfmoma.md` are both explicit that only **720+ of the ~1,100 total works** are the SFMOMA-loaned subset, and the two scopes must stay labeled separately.
-**Fix:** before this post is scheduled, either state the loan figure as 720+ works or drop "more than a thousand" from the sentence that leads into the loan.
+### 8. NEW — `constraints_documented` values fall outside the field's own controlled vocabulary in 23 of 154 coded case files, including 3 of this run's own 6 new/backfilled cases.
+`case-template.md:23` defines exactly four permitted values: `yes` · `no` · `partial` · `open`. Across the corpus, 14 files use `n/a` and 9 use `unknown` instead — neither is on the list. This run's own new cases split the same way: `instituto-moreira-salles.md`, `kunsthalle-praha.md`, and `muzeum-susch.md` all code `unknown` (no founding instrument located, could still exist); `td-bank-art-collection.md` and `wesfarmers-art-collection.md` code `n/a` (no individual founder, so no personal constraint is possible). Both uses are internally consistent and semantically distinct from the four permitted values and from each other (a genuine "no constraining instrument exists to look for" is not the same claim as "an instrument may exist but wasn't found," which is not the same as `open`'s specific "living founder, undecided" meaning) — this reads as several independent contributors converging on the same missing values because the template's list is incomplete, not as carelessness.
+**Standard violated:** `case-template.md`'s closed-vocabulary rule ("a value outside a list is not permitted without amending this template").
+**Fix:** amend `case-template.md` to formally add `n/a` (no founder to impose a constraint) and `unknown` (instrument not located this run) to the `constraints_documented` vocabulary, or map existing `n/a`/`unknown` rows to one of the four existing values if a narrower reading is intended.
+
+### 9. CARRIED — the Fisher/SFMOMA LinkedIn post still collapses the 720+ vs. ~1,100-works distinction.
+`marketing/linkedin-posts.md:47-51` unchanged: "more than a thousand works" leads directly into the SFMOMA 100-year-loan sentence, reading as if the whole collection was loaned. `claims-register.md` C53 and `cases/fisher-sfmoma.md` both specify only 720+ of ~1,100 works are the SFMOMA-loaned subset.
+**Fix:** state the 720+ figure or drop "more than a thousand" from the lead-in before this post is scheduled.
+
+### 10. CARRIED — `marketing/website.md` still carries the same three undocumented divergences from `positioning.md`.
+Unchanged: the file's own "reconcile later" note is still unresolved with no owner or date; the live bio still differs in wording from the canonical Bio with neither marked authoritative; the alinaokun.com "Current" section phrasing still isn't reflected in or flagged against `positioning.md`.
+**Fix:** reconcile or explicitly mark each variant as deliberate, the way `linkedin.md`/`substack.md` already do.
+
+### 11. CARRIED — `cases/cultural-museum-of-african-art.md` still states an unsourced superlative as fact.
+`public_origin` still reads "one of the largest private African art collections in the US" with no source or attribution for the ranking claim.
+**Fix:** attribute it ("press coverage described it as...") or drop "one of the largest."
 
 ---
 
 ## MINOR
 
-### 5. CARRIED, worse — the `origin` frontmatter field now spans five values, still undocumented in `case-template.md`.
-Current usage: `private-individual` (29) · `corporate` (18) · `private` (14) · `individual` (5, up from 3 — `schnitzer-family-foundation.md` is a new instance of the same drift) · `artist` (4). No new case this run introduced a sixth value, but the pre-existing fragmentation was not consolidated either.
-**Fix:** pick one value for the private side, normalize across all five variants, and document all authorized values (including `artist`) in `case-template.md`.
+### 12. CARRIED, grown again — the `origin` frontmatter field now spans 7 raw values, still drifting.
+Current tally: `private-individual` (46, up from 42) · `corporate` (21, up from 19) · `private` (14) · `private individual` (6) · `individual` (5) · `artist` (5) · `institutional` (3).
+**Fix:** consolidate the private-side spelling variants; document `artist` and decide on `institutional` in `case-template.md`.
 
-### 6. CARRIED — corporate-continuity vocabulary still fragmented.
-`bank-of-america-collection.md`, `credit-suisse-ubs-collection.md`, `deutsche-bank-collection.md`, `jpmorgan-chase-collection.md`, and `ubs-art-collection.md` use `parent-entity-continuity`; `enron-art-collection.md` and `lehman-brothers-collection.md` use `parent-entity-survival` for the same underlying concept.
-**Fix:** adopt one term; add it as an authorized value in `case-template.md`.
+### 13. CARRIED — corporate-continuity vocabulary still fragmented.
+Five files use `parent-entity-continuity`; `enron-art-collection.md` and `lehman-brothers-collection.md` use `parent-entity-survival` for the same concept.
+**Fix:** adopt one term, add it to `case-template.md`.
 
-### 7. CARRIED — `primary_friction` schema gap keeps recurring, now flagged a third time by the research process itself.
-`cases/benini.md` (`unknown`, not an authorized value) and `cases/rauschenberg-foundation-hq.md` (`funding-optimization`, not an authorized value) are unchanged since the last audit. `cases/unicredit-art-collection.md` (coded 2026-08-31, before the last audit but not previously called out here) independently flags the identical gap — a "voluntary, non-distress reallocation" shape with no clean fit in the controlled list — for a third distinct case. This is now a self-identified, recurring template gap, not an isolated coding error.
-**Fix:** recode `benini.md` to `none-documented` if no friction is actually documented (the template has no `unknown` state for this field), or add `unknown` to the controlled list if the distinction from `none-documented` is intentional; add an authorized value (e.g. `voluntary-optimization` or similar) for the reallocation-from-strength shape `rauschenberg-foundation-hq.md` and `unicredit-art-collection.md` both independently hit, rather than leaving each case to flag it individually.
+### 14. CARRIED — `primary_friction` schema gap, still self-flagged in the same three files (`benini.md`, `rauschenberg-foundation-hq.md`, `unicredit-art-collection.md`) for the missing "voluntary reallocation/succession-driven reversal from a position of strength" value.
+**Fix:** add the missing authorized value to `case-template.md`.
+
+### 15. CARRIED — `company/decisions/2026-08-14-board-membership.md` is still marked open.
+Outcome line still reads `_open — shortlist being researched into [[board-opportunities]]._`
+**Fix:** move out of `decisions/` until resolved, or mark plainly as in-progress.
+
+### 16. CARRIED, wider — `research/estate-transition-synthesis.md` still cites a stale case count, now further off.
+Line 14 still states "141 significant collection transitions," now 25 cases stale against the current 166. Still explicitly internal/not-for-publication and not used for any rate calculation, so still not a standards violation, just a live inconsistency.
+**Fix:** update on next touch of the file; no urgency.
 
 ---
 
 ## Checked, no issue found
-- **New case sourcing** (`barjeel-art-foundation.md`, `standard-bank-art-collection.md`, `yemisi-shyllon-museum-of-art.md`, `monte-dei-paschi-collection.md`, `schnitzer-family-foundation.md`, `malba-costantini.md`): every quantitative and governance claim carries a source and confidence tag or an explicit `unknown`; no bare numbers presented as fact. `verification_status` tags (`Provisional`/`Spot-verified`) match their actual sourcing depth per the template's definitions.
-- **Primary-verification backlog**: 77 numbered items across 135 coded cases (≈57%), essentially flat against 75/129 (≈58%) last audit — growing in line with, not faster than, case-count growth.
-- **Over-claiming**: this run's new manuscript findings (the Monte dei Paschi/Lehman disconfirmation pairing, the Schnitzer/MALBA pathway additions, the Louvre/Lloyd's insurance-ceiling pairing) are all appropriately hedged ("a real, narrowing disconfirmation," "not yet resolvable," "two well-documented cases, not a rate"); no rate or percentage claim runs off the hand-selected case set as fact.
-- **Claims consistency**: the two new claims-register entries this window (C82 Louvre heist, C83 Willis/Circle Asia facility) match their citations in `marketing/what-becomes-of-great-art-collections.md` §4.4 exactly; no drift found.
-- **Single source of truth**: `marketing/substack.md` and `marketing/linkedin.md` continue to point to `[[positioning]]` rather than keeping their own copy.
-- **Decisions folder**: no settled decision found still marked open.
+- **This run's six new/backfilled cases**, aside from items 3, 4, and 8 above: every other quantitative and governance field carries a source and confidence tag or an explicit `unknown`; no field tagged `primary`/spot-verified beyond what its source supports (Gardner's `net_assets_latest` is correctly held `unknown` rather than upgraded from the low-confidence secondary snippet on file); `net_assets_to_opex_ratio` correctly left uncomputed where no dedicated 990 exists (Muzeum Susch, Kunsthalle Praha — Swiss/no US-990-equivalent regime, honestly named as structural, not a tooling gap).
+- **New claims-register entries C93 and C94** (LA wildfires stress test; EU Cultural Goods Import Regulation): both sourced with confidence tags, explicit "do NOT say" scope limits, and correctly distinguished from adjacent entries (C94 from C45/C65/C78's tax-settlement comparators; C93 explicitly declines to attribute the $20-30B all-property wildfire loss figure to art specifically).
+- **The manuscript's new findings paragraphs** (Gardner counter-case, Muzeum Susch, TD Bank, EU import regulation): correctly hedged, cite existing claims-register entries rather than restating numbers, and explicitly caveat what is not yet confirmed (e.g. the Gardner paragraph's own admission that this is one case, not a rate).
+- **`report-dataset.md`'s primary-verification backlog numbering**: re-checked in full — no duplicate item numbers found. **Appears resolved** since the last audit (see Resolved section below).
+- **Dataset-integrity backfill** (Brant, Hill, Judd, Griffin, Soloviev given numbered rows 159-163): transparently logged as a stale-header correction, not silently folded in; case count (166) matches the manuscript and the header's own recount math.
 
 ---
 
-## Resolved since the 2026-09-01 audit
-None. All three CRITICAL items and the one SHOULD-FIX item are still open; nothing on the carried list closed this run, and CRITICAL #3 regressed.
+## Resolved since the 2026-09-05 audit
+- **Prior SHOULD-FIX item 8** (`report-dataset.md`'s primary-verification backlog reusing item numbers 61-67 across two lists): a full recount of the numbered backlog list (currently 1-86) found no duplicates. Marking resolved; will re-check next run in case this was a transient state rather than a deliberate fix.
+
+All 7 prior CRITICAL items remain open (two wider). Three of four prior SHOULD-FIX items remain open unchanged.
 
 ---
 
-**Counts:** 3 critical (all carried, 1 worse) / 1 should-fix (carried) / 3 minor (carried) — 0 items resolved since the last audit.
+**Counts:** 7 critical (7 carried, 0 new) / 4 should-fix (3 carried, 1 new) / 5 minor (5 carried, 0 new).

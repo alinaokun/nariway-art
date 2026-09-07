@@ -79,6 +79,16 @@ All run model `claude-sonnet-5`, environment `env_01218VC3YNVJmMDtm4pvhGJk`, wit
 - **Retired because:** Artobiography is removed from Nariway operations. The property is preserved separately and carries no recurring Nariway resources.
 - **Replacement:** none
 
+### 5a. Nariway legal review (previously undocumented — added by the librarian sweep, 2026-09-07)
+- **ID:** `trig_019PtbouQNYWfKFrBCZ6CAmA`
+- **State:** ENABLED (confirmed live via the routine registry this run)
+- **Trigger / cadence:** cron `0 13 * * 1` — weekly, Mondays 13:00 UTC
+- **Purpose:** recurring legal-compliance reviewer for the separate `nariway-rebuild`/nariway.com site repo — inspects the site for anything that changes its data practices or legal exposure, checks current privacy-law requirements (GDPR/CCPA/state laws), and only if `src/app/privacy/page.tsx` or `src/app/terms/page.tsx` are out of date, opens a PR (never merges or deploys) for a qualified attorney to review.
+- **Reads / writes:** a different repo entirely (`nariway-rebuild`), not this vault — no vault reads/writes.
+- **Side effects:** on a substantive finding, creates a branch `legal-review-<date>`, pushes, and opens a PR against `nariway-rebuild`; otherwise reports "no changes needed" and does nothing.
+- **Business justification:** not recorded anywhere in this registry or the vault. Flagged in `hygiene-report.md` unresolved across several prior sweeps as "missing from the registry"; this run confirmed via the routine API that it is real, still enabled, and distinct from the retired runaway PR #1 loop below (#6) — it is not that loop's successor, it is a separate, still-live routine. **Someone with authority over the registry should confirm it's still wanted and record the justification**, or disable it if not.
+- **Replacement:** n/a (undecided)
+
 ### 6. PR #1 check-in (runaway)
 - **ID:** `trig_01TtUhD2Zm55UwjEz4ozWcy6` (plus ~20 hourly run-once siblings, already fired/disabled)
 - **State:** DISABLED 2026-08-27 (was enabled; was re-arming itself hourly)

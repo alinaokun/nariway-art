@@ -4,7 +4,7 @@ subject: De la Cruz Collection (Rosa and Carlos de la Cruz, Miami)
 status: reporting-prep
 purpose: editorial reporting dossier for an Artobiography feature — NOT an article
 governing_rule: "Do not try to prove the museum should have survived. Treat Carlos's decision to sell as a decision to UNDERSTAND, not a failure to explain. The plan may have been to let it end."
-related: "[[dossier]] · case: [[de-la-cruz-collection]] · [[editorial-direction]]"
+related: "[[editorial-direction]] · case: [[de-la-cruz-collection]] · sibling dossier: [[dossier-vogel]]"
 ---
 
 # Reporting Dossier — The De la Cruz Collection

@@ -27,9 +27,10 @@
 
 ## Research — is it true? — `research/`, `cases/`, `institution-building/`
 - [[field-definition]] — **the intellectual project** ("how can a private art collection have a larger life?"); the possible undefined field. · [[research-program]] — the charter and the hypotheses. · [[case-study-protocol]] · [[claims-register]] (every recurring number's one home) · [[what-we-now-believe]] (**the Evidence Base**, the hypothesis-keyed scoreboard every case and Conversation updates) · [[market-intelligence]] · [[transfer-scope-note]] · [[learnings-log]] (one new thing learned a day, featured in the check-in) · [[pathway-family-proposal-shared-campus]] (open proposal: a new pathway family for shared-campus/collective legacy, awaiting Alina's decision).
-- **The case library — `cases/`:** [[candidate-universe]] (the ~80-case pool) · [[report-dataset]] (the coded master) · [[case-template]] (the coding standard) · open `Cases.base` for the sortable pipeline. ~132 coded case notes live here.
+- **The case library — `cases/`:** [[candidate-universe]] (the ~80-case pool) · [[report-dataset]] (the coded master) · [[case-template]] (the coding standard) · open `Cases.base` for the sortable pipeline. ~168 coded case notes live here.
 - **[[what-becomes-of-great-art-collections|What Becomes of Great Art Collections]] — THE LIVING REPORT MANUSCRIPT** (the evolving content itself; open it to watch the report grow, changelog in the Production-notes section at the bottom). · [[flagship-report]] — the *plan and standards* behind it. · **[[collection-index-build-brief]] — THE PRODUCTION BRIEF** (the buildable spec the `nariway-rebuild` project builds from: five page types, final taxonomy, data model, standards, v1 scope) · **[[collection-index-architecture]]** (the data-model/IA package + the 73-case taxonomy audit) · **[[collection-index]]** (the concept/direction, access model, guardrails).
 - **Advisory knowledge — `institution-building/`:** [[institution-building]] (the charter) · [[decision-map]] (the pathways a collection can take) · [[knowledge-base]] · [[specialist-map]] and the `specialists/` notes (open `specialists.base`).
+- [[museum-harvest]] — the standing procedure for turning a museum visit into database signal (triage donors/collections into transitions vs. noise).
 
 ## CMO — will the right people find it? — `marketing/`, `artobiography/`
 - [[nariway-cmo]] — the charter (relevant reach, not maximum). · [[opportunity-radar]] — media/partnership openings. · [[cmo-brief]] — daily rolling partner read (cmo-steward agent).
@@ -38,14 +39,16 @@
 - **The publication:** [[substack]] (the plan) · [[substack-playbook]] (what proven practitioners recommend) · [[substack-notes-queue]] (drafted Notes) · [[substack-register]] (who to follow) · [[conversations-series]] (the written-interview series) · [[subscriptions]] (newsletters worth mining) · `artobiography/` ([[weekly-edition]] — the relaunch engine, curated from Signals, [[format-v0.1]], [[editorial-structure-study]], [[editorial-direction]] — the relaunch identity, [[editorial-candidate-packet]] — scored story candidates, [[dossier-de-la-cruz]] and [[dossier-vogel]] — reporting dossiers in prep, [[vogel-fifty-states-afterlife]] — the Vogel-gift afterlife sub-investigation).
 - **Showing up:** [[events-radar]] (which rooms, and why) + `marketing/events/` notes (open `events.base`) · [[courses-register]] · [[travel]] · [[to-see]] (time-limited exhibits + auction previews) · [[regional-visits]] · [[board-opportunities]] (researched nonprofit-board target list).
 - **Reach:** [[linkedin]] (profile, presence, the network radar) · [[linkedin-strategy-brief]] (the Aug 2026 content strategy) · [[linkedin-posts]] (drafted/fact-checked posts) · [[outreach]] · [[website]] · [[experiment-ledger]] · [[NARIWAY-WEBSITE-HANDOFF-2026-08|website handoff brief]] (dated snapshot for the separate website-design project).
+- [[art-i-have-seen|Art I Remember]] — Alina's private art memory record (not public; source for a future password-protected alinaokun.com reference).
 
 ## People — `crm/`
 - [[prospects]] (collectors — open `prospects.base`) · [[partners]] (channels: attorneys, family offices, insurers — open `partners.base`).
 - [[warm-network]] · [[network-research]] — mining Alina's own connections for the path.
+- [[market-entry-sept-2026]] — the outward operating file (daily movement log + the people to work this month) · [[market-learning]] — the companion market-evidence engine (testing H7B, willingness-to-pay, from real conversations).
 
 ## The library — `learning/`
 - [[learning]] — the reading that keeps Alina the authority. ~30 book/source notes; open `reading-list.base`.
-- **Trust & estate law curriculum — `learning/trust-and-estate/`:** [[curriculum]] (the sequenced self-study plan) · [[glossary]] · [[sources]] · [[_note-template]] · first sourced note: [[executor-authority-over-art]].
+- **Trust & estate law curriculum — `learning/trust-and-estate/`:** [[curriculum]] (the sequenced self-study plan) · [[glossary]] · [[sources]] · [[_note-template]] · sourced notes: [[executor-authority-over-art]] · [[donor-intent-and-cy-pres]].
 
 ## The record — `research/nariway-signals.md`, `archive/`
 - [[nariway-signals]] — the daily digest log. · `archive/` — retired material kept for reference.
