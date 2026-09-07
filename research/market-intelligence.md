@@ -566,7 +566,7 @@ These are not competing claims about the same number; they are different numbers
 - **Dorsey & Whitney; Best & Flanagan** (both Minneapolis; Best & Flanagan focused on Midwestern artists) — active firm collections. **Watch**, no transition.
 - **Microsoft; United Nations HQ collection** — active corporate / institutional, outside the private-transition scope. **Skip** for the corpus.
 
-**Discipline note.** One secondary survey essay; the "law firms collect" claim rests partly on a 1995 NYT article. This is a targeting insight, not a claims-register number, and no candidate-universe rows were added — none of the named firm collections has a documented transition. The value is the **demographic + channel**, logged for the outward work.
+**Discipline note.** One secondary survey essay (by **Ian Silverstein**, Center for Art Law legal intern; see [[Ian Silverstein]]); the "law firms collect" claim rests partly on a 1995 NYT article. This is a targeting insight, not a claims-register number, and no candidate-universe rows were added — none of the named firm collections has a documented transition. The value is the **demographic + channel**, logged for the outward work. It also seeded hypothesis **H9** (collection transitions are not limited to estates) in [[research-program]] — an *intellectual*-scope note, explicitly not a repositioning.
 
 ## How this log grows
 Research and Signals add significant macro and market-economics sources here, each with a short synthesis and the same routing discipline (numbers to the claims register, no restatement, corroboration not proof). Candidates: new Deloitte and Art Basel/UBS reports, TEFAF, major analyst pieces, and the READ tier of [[substack-register]].

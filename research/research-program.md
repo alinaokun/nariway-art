@@ -64,6 +64,8 @@ Kept as questions. Each earns "standing, automated" status only when real work s
 
 - **H8** *(legacy vs. control — untested)* — Permanence often requires surrender. The collections that survive their founders may be those whose founders imposed *fewer* binding constraints (on display, sale, lending, governance, location), leaving future stewards room to adapt — so founder-constraint design may prove as predictive as endowment size. *(Barnes = the cautionary extreme of binding control; Neue Galerie→Met = a founder choosing continuity over independence.)*
 
+- **H9** *(scope — the field may be larger than estates; untested, and NOT a reason to reposition)* — Collection-transition problems are not unique to estates. The same structural problem — *a collection built for reasons that no longer hold, now needing someone to decide what it is, who is responsible for it, and what happens next* — recurs whenever the original collector, leadership, ownership structure, or institutional purpose changes: a corporate merger, a founder stepping away, a **law-firm partner retiring**, a foundation losing its purpose, a company deciding a 40-year collection no longer belongs on its balance sheet. Death is one version of a larger class: *what happens to significant collections when the circumstances under which they were built no longer exist.* If it holds, it enlarges Nariway's **intellectual** territory (collection transition and stewardship), not its commercial entry point, which stays private-collection-into-estate. Prompted by Ian Silverstein's Center for Art Law essay on corporate/law-firm collecting (logged in [[market-intelligence]], 2026-09-07).
+
 *(The protocol's institutional-durability questions — endowment ratios, governance succession — are the later-funnel refinement of H3/H6 and are tested case by case.)*
 
 ### Evidence status — landscape sprint (2026-08)
@@ -78,6 +80,8 @@ Kept as questions. Each earns "standing, automated" status only when real work s
 - **H1 (collections disperse without planning) — Initial evidence against / restate.** Retention is the norm (72% keep; ~90% of Gen Z heirs kept; 80% plan to pass to family). Restated: *the transition is typically **unmanaged**, not that collections **disperse**.*
 
 **Positioning note (deliberately NOT a decision):** the evidence downgrades "addressable market = museum-builders," but **rarity ≠ bad niche** — ~50 serious public-access projects/year in the US would be ample for a solo practice needing three (cf. M&A). So general succession-consulting is a **candidate wedge requiring validation (H7B)**, not a new positioning. **Do not reposition yet.**
+
+**Field-scope note (2026-09-07, internal — NOT a website change).** Per **H9**, corporate, law-firm, university, nonprofit and foundation collections face a structurally similar transition problem. Group them as a standing research category — **Institutional (non-family) Collection Transitions** — a place for such cases to sit; nothing needs to be done with it yet, and none enters the [[candidate-universe|Collections corpus]] without a documented transition (the same gate as everything else). The **commercial pitch stays estate-first**: *"what happens to significant private collections when they become part of an estate"* is far easier to grasp than the larger field. Internally, note only that Nariway may eventually sit within **collection transition and stewardship** — a bigger territory than estate settlement, and worth watching as the case base grows.
 
 ---
 
