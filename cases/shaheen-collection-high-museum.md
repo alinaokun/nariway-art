@@ -47,6 +47,8 @@ One-line: Longtime Atlanta collectors gave 24 Impressionist and modern European 
 
 *(Public projection fields are in the frontmatter above, per [[case-template]]. Added 2026-09-07 from the High Museum harvest, see [[museum-harvest]]. Doris Shaheen died in 2020; Shouky Shaheen's current status is unconfirmed.)*
 
+**Coded header (added to close 2026-09-07 QA item 8 — this row previously carried none of case-template.md's controlled-vocabulary fields):** `survived_founder`: **yes** (the gift and named gallery remain in place at the museum) · `founder_still_living_now`: deceased (Doris; Shouky unconfirmed) · `outcome_category`: **thriving** · `durability_signal`: **strong** · `governance_control_at_founding`: **parent-institution** · `building_type`: **existing-institution** · `collection_coherence`: **tight-single-thesis** (Impressionist/Post-Impressionist/early-modern painting) · `primary_friction`: **none-documented** · `constraints_documented`: **n/a** (outright gift, no located founder instrument).
+
 Doris and Shouky Shaheen, Atlanta residents since the mid-1960s, built a collection of Impressionist, Post-Impressionist, and early modern paintings beginning in the early 1970s. The gift of 24 paintings, announced in August 2019, was described by the High as among the most significant European gifts in its history and is displayed in the Doris and Shouky Shaheen Gallery in the museum's Stent Family Wing.
 
 *Sources: High Museum of Art press release; Artnet News; Atlanta Magazine.*

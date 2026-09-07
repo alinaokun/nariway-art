@@ -47,6 +47,8 @@ One-line: A Georgia business and university leader built a leading collection of
 
 *(Public projection fields are in the frontmatter above, per [[case-template]]. Added 2026-09-07 from the High Museum harvest, see [[museum-harvest]].)*
 
+**Coded header (added to close 2026-09-07 QA item 8 — this row previously carried none of case-template.md's controlled-vocabulary fields):** `survived_founder`: **yes** (the gift anchors a still-active department, 30 years on) · `founder_still_living_now`: deceased · `outcome_category`: **thriving** · `durability_signal`: **strong** · `governance_control_at_founding`: **parent-institution** · `building_type`: **existing-institution** · `collection_coherence`: **tight-single-thesis** (Southern self-taught/folk art) · `primary_friction`: **none-documented** · `constraints_documented`: **n/a** (outright gift, no located founder instrument).
+
 T. Marshall Hahn Jr. (former Georgia Tech president and Georgia-Pacific chairman) assembled a collection of Southern self-taught art that the High Museum received as a gift in 1996-97, a body of more than 140 works by over 30 artists that anchored the museum's dedicated folk and self-taught art department and was drawn on for the 2001 exhibition and catalog *Let It Shine*.
 
 *Sources: High Museum of Art (folk and self-taught art collection area; museum history); "Let It Shine" exhibition catalog.*

@@ -44,6 +44,8 @@ One-line: A 1971 gift of 248 objects of sub-Saharan African art gave the High Mu
 
 *(Public projection fields are in the frontmatter above, per [[case-template]]. Added 2026-09-07 from the High Museum harvest, see [[museum-harvest]].)*
 
+**Coded header (added to close 2026-09-07 QA item 8 — this row previously carried none of case-template.md's controlled-vocabulary fields):** `survived_founder`: **yes** (the gift has anchored the museum's African art holding for over 50 years) · `founder_still_living_now`: deceased · `outcome_category`: **thriving** · `durability_signal`: **strong** · `governance_control_at_founding`: **parent-institution** · `building_type`: **existing-institution** · `collection_coherence`: **tight-single-thesis** (sub-Saharan African art) · `primary_friction`: **none-documented** · `constraints_documented`: **n/a** (outright gift, no located founder instrument).
+
 Fred and Rita Richman, New York natives based in Atlanta, gave 248 objects of sub-Saharan African art to the High Museum of Art in 1971, under director Gudmund Vigtel; the collection debuted publicly in 1973 with the catalog *African Tribal Art*. It transformed the museum's African holdings from essentially a single object into a significant collection, part of the cultural rebuilding that followed the 1962 Orly air crash.
 
 *Sources: High Museum of Art (collection history; "Building the Collection" feature).*

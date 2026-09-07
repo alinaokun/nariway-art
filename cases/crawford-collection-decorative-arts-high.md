@@ -46,6 +46,8 @@ One-line: An Atlanta collector assembled what the High Museum calls the most com
 
 *(Public projection fields are in the frontmatter above, per [[case-template]]. Added 2026-09-07 from the High Museum harvest, see [[museum-harvest]]. Assembled through Crawford's personal patronage from 1979 (not a single gift or bequest); first shown 1983; continuing until her death in 1999.)*
 
+**Coded header (added to close 2026-09-07 QA item 8 — this row previously carried none of case-template.md's controlled-vocabulary fields):** `survived_founder`: **yes** (the named collection has outlived Crawford, who died 1999, by decades) · `founder_still_living_now`: deceased · `outcome_category`: **thriving** · `durability_signal`: **strong** · `governance_control_at_founding`: **parent-institution** · `building_type`: **existing-institution** · `collection_coherence`: **tight-single-thesis** (American decorative arts, circa 1810-1917) · `primary_friction`: **none-documented** · `constraints_documented`: **n/a** (patronage built through gifts over two decades, no located founder instrument).
+
 Virginia Carroll Crawford (1926-1999), of the Atlanta family behind Crawford & Company, assembled a collection of American furniture, silver, ceramics, and glass (Tiffany, Herter Brothers, Stickley/Craftsman, Rookwood, Gorham) through her personal patronage of the High Museum from 1979, first shown in 1983. The High holds it as a named collection and the core of its American decorative-arts department.
 
 *Sources: High Museum of Art (decorative arts and design collection area; "Building the Collection" feature).*

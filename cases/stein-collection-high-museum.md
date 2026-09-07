@@ -47,6 +47,8 @@ One-line: Atlanta collectors built one of the finest private holdings of Toulous
 
 *(Public projection fields are in the frontmatter above, per [[case-template]]. Added 2026-09-07 from the High Museum harvest, see [[museum-harvest]].)*
 
+**Coded header (added to close 2026-09-07 QA item 8 — this row previously carried none of case-template.md's controlled-vocabulary fields):** `survived_founder`: **yes** (the promise held from 2010 through the 2020 bequest and remains at the museum) · `founder_still_living_now`: deceased · `outcome_category`: **thriving** · `durability_signal`: **strong** · `governance_control_at_founding`: **parent-institution** · `building_type`: **existing-institution** · `collection_coherence`: **tight-single-thesis** (late-19th-century French prints/posters and sculpture) · `primary_friction`: **none-documented** · `constraints_documented`: **n/a** (outright bequest, no located founder instrument).
+
 Irene and Howard Stein assembled a collection centered on late-19th-century French prints and posters, notably one of the strongest private groups of Henri de Toulouse-Lautrec, together with 19th-century sculpture. Promised to the High Museum of Art in 2010, the 53-work collection (41 prints and posters including 31 Toulouse-Lautrec, 10 sculptures, a drawing, and a painting) entered by bequest in 2020.
 
 *Sources: High Museum of Art press release and European art collection area.*

@@ -47,6 +47,8 @@ One-line: An Atlanta photographer-collector's 1981 gift formed the core of the H
 
 *(Public projection fields are in the frontmatter above, per [[case-template]]. Added 2026-09-07 from the High Museum harvest, see [[museum-harvest]].)*
 
+**Coded header (added to close 2026-09-07 QA item 8 — this row previously carried none of case-template.md's controlled-vocabulary fields):** `survived_founder`: **yes** (the gift and its named department have outlived the collector, who died 2022, by the template's ~5-year test) · `founder_still_living_now`: deceased · `outcome_category`: **thriving** · `durability_signal`: **strong** · `governance_control_at_founding`: **parent-institution** (an existing museum's own board received and absorbed the gift; no separate vehicle) · `building_type`: **existing-institution** · `collection_coherence`: **tight-single-thesis** (photography) · `primary_friction`: **none-documented** · `constraints_documented`: **n/a** (no individual founder-imposed instrument located; an outright gift to an existing museum).
+
 Lucinda W. Bunnen (1930-2022) collected photography when it was still a young museum field. The High had begun collecting photography in 1973, and her 1981 gift formed the core of its holdings; her continued acquisition support over the following decades built a collection of more than 650 works, in a department whose galleries carry her name.
 
 *Sources: High Museum of Art (Bunnen Collection exhibition; museum history); ArtsATL obituary and profile.*
