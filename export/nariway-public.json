@@ -7836,6 +7836,57 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "tanoto-art-foundation",
+      "publicDepth": "record",
+      "name": "Tanoto Art Foundation",
+      "founder": "Belinda Tanoto (Tanoto family)",
+      "location": "Singapore (Orchard Road)",
+      "profile": {
+        "structure": "A private art foundation building a purpose-built public museum as one component of the Kengo Kuma-designed redevelopment of the Tanglin Shopping Centre, backed by the Tanoto family's developer, Pacific Eagle Real Estate",
+        "publicAccess": "The foundation runs public exhibitions and programs; a roughly 2,800-square-metre public museum is due to open by 2030",
+        "currentState": "A living collector's foundation is building a roughly 2,800-square-metre public contemporary-art museum inside a Kengo Kuma-designed Orchard Road tower, due by 2030.",
+        "size": "A roughly 2,800-square-metre museum within the redevelopment; collection size not yet reported"
+      },
+      "composition": {
+        "focus": "Contemporary art",
+        "movements": [
+          "Contemporary art"
+        ],
+        "period": "Contemporary (21st century)"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The Tanoto Art Foundation launches in Singapore with an inaugural symposium during Singapore Art Week",
+            "year": 2025
+          },
+          {
+            "event": "Singapore's culture minister announces the Tanoto Art Foundation museum at the 2026 Patron of the Arts Awards",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The roughly 2,800-square-metre museum is due to open inside the redeveloped Tanglin Shopping Centre tower on Orchard Road",
+            "year": 2030,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Belinda Tanoto, of the Indonesian, Singapore-based Tanoto family, is building a public contemporary-art museum through the Tanoto Art Foundation as one component of the Kengo Kuma-designed redevelopment of the Tanglin Shopping Centre on Orchard Road. Announced by Singapore's culture minister at the 2026 Patron of the Arts Awards, the roughly 2,800-square-metre museum, backed by the family's developer Pacific Eagle Real Estate, is due by 2030 - a private collection converting into a purpose-built public space embedded inside a much larger commercial development rather than a standalone campus.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "MCCY (Patron of the Arts Awards 2026)",
+        "ArtAsiaPacific",
+        "Tanoto Art Foundation"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "terra",
       "publicDepth": "expanded",
       "name": "Terra Museum of American Art",
