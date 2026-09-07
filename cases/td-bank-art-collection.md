@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H4, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Active corporate collection since 1963; on public display in the TD Gallery of Indigenous Art (Toronto) and at TD locations across Canada and the US."
 public_name: TD Art Collection

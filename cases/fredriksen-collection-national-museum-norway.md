@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H2, H7A]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "A 10-year loan and research partnership with Norway's National Museum, announced 2019, drew sustained criticism from the Norwegian art world over private influence and, later, the family's Russia ties."
 public_name: Fredriksen Family Art Company Ltd collection, on loan to the National Museum of Norway (Nasjonalmuseet)
@@ -26,7 +27,7 @@ public_founded: 2019
 public_structure: Privately owned collection (Fredriksen Family Art Company Ltd) under a 10-year loan-and-research agreement with a state museum
 public_access: Selected works on public view at the National Museum of Norway via exhibitions since 2019, under the loan agreement
 public_focus: International modern and contemporary art, including artists such as Agnes Martin and Georgia O'Keeffe
-public_pathway_timeline: 2019|donate|long-term-loan|The National Museum of Norway announces a 10-year loan-and-research collaboration with Fredriksen Family Art Company Ltd, drawing immediate criticism from Norwegian artists and museum professionals ;; 2021|donate|long-term-loan|The National Museum opens in its new Oslo building, continuing to show Fredriksen loans amid ongoing debate over the agreement's terms and transparency
+public_pathway_timeline: 2019|donate|long-term-loan|The National Museum of Norway announces a 10-year loan-and-research collaboration with Fredriksen Family Art Company Ltd, drawing immediate criticism from Norwegian artists and museum professionals ;; 2022|donate|long-term-loan|The National Museum opens in its new Oslo building, continuing to show Fredriksen loans amid ongoing debate over the agreement's terms and transparency
 public_origin: A Norwegian-British shipping family's privately held art collection entered a 10-year loan and research-funding partnership with Norway's National Museum in 2019, becoming one of the most publicly contested private-public art collaborations in the dataset over concerns about donor influence, transparency, and the family's wider business ties.
 public_sources: Kunstkritikk; Museum Management and Curatorship (Velthuis & Gera-adjacent scholarship, distinct authors); The Art Newspaper (Norway coverage)
 hero_image_status: no_usable_image

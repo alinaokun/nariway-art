@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H4, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Open in Paris since October 2014."
 public_name: Fondation Louis Vuitton

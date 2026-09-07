@@ -15,6 +15,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Open to the public continuously since 1903; still governed under Isabella Stewart Gardner's original 1924 will, with the founding-era installation substantially unchanged in the historic palace's galleries."
 public_name: Isabella Stewart Gardner Museum
@@ -30,7 +31,7 @@ public_movements: Italian Renaissance; Dutch Golden Age; American Gilded Age por
 public_period: Antiquity to early 20th century (collection); installation frozen as of 1924
 public_media: painting; sculpture; tapestry and textiles; decorative arts; rare books and manuscripts; architectural fragments
 public_selected_artists: Titian; Rembrandt; Sandro Botticelli; John Singer Sargent; Raphael; Vermeer (stolen 1990, not recovered)
-public_pathway_timeline: 1903|build-institution|found-house-museum|Isabella Stewart Gardner opens Fenway Court, a purpose-built Venetian-style palace, to the public with her personally arranged collection ;; 1924|build-institution|found-house-museum|Gardner dies; her will places the museum and a $3.6 million endowment in trust, with instructions that the installation never be materially changed ;; 1990|build-institution|found-house-museum|Thirteen works are stolen in an unsolved heist, the largest art theft in U.S. history; empty frames remain on display per the will's arrangement clause ;; 2012|build-institution|found-house-museum|A new Renzo Piano-designed wing opens behind the historic palace, adding public and conservation space without altering the original galleries the will covers
+public_pathway_timeline: 1903|build-institution|found-house-museum|Isabella Stewart Gardner opens Fenway Court, a purpose-built Venetian-style palace, to the public with her personally arranged collection ;; 1924|build-institution|found-house-museum|Gardner dies; her will places the museum and its endowment in trust, with instructions that the installation never be materially changed ;; 1990|build-institution|found-house-museum|Thirteen works are stolen in an unsolved heist, the largest art theft in U.S. history; empty frames remain on display per the will's arrangement clause ;; 2012|build-institution|found-house-museum|A new Renzo Piano-designed wing opens behind the historic palace, adding public and conservation space without altering the original galleries the will covers
 public_origin: "Isabella Stewart Gardner spent decades assembling a personal collection of European and American art, then built Fenway Court, a Venetian-style palace in Boston, specifically to house it and opened it to the public in 1903. Her 1924 will placed the museum in trust with an unusually strict condition: if the trustees ever changed the arrangement of the collection as she left it, the entire museum and endowment would pass to Harvard University to be sold. More than a century later, the founding installation remains substantially intact, including the empty frames left after a 1990 theft, while a 2012 addition added public space without touching the original galleries."
 public_sources: gardnermuseum.org; Wikipedia; Boston Magazine
 hero_image_status: no_usable_image

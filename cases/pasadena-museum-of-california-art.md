@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H3, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Closed permanently in 2018, 16 years after opening; the building was sold and the institution dissolved."
 public_name: Pasadena Museum of California Art (PMCA)

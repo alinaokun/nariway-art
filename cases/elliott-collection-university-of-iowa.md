@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H2, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "The Elliott gift remains a cornerstone of the University of Iowa Stanley Museum of Art's collection, which reopened in a new building in 2022 after a 2008 flood forced a 14-year displacement."
 public_name: University of Iowa Stanley Museum of Art (Elliott Collection)

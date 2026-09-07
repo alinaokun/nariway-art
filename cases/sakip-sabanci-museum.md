@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H1, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Open to the public in Istanbul since 2002; expanded 2005."
 public_name: Sakıp Sabancı Museum
@@ -31,7 +32,7 @@ public_movements: Ottoman calligraphy; Turkish painting
 public_period: Ottoman era through 20th century
 public_media: calligraphy; painting; decorative arts
 public_pathway_timeline: 1998|partner-institution|university-partnership|Sakıp Sabancı bequeaths his family's Bosphorus mansion (Atlı Köşk), its collection, and its grounds to the newly-forming Sabancı University ;; 1999|partner-institution|university-partnership|Sabancı University is founded ;; 2002|build-institution|found-standalone-museum|The Sakıp Sabancı Museum opens to the public in the converted mansion ;; 2005|build-institution|found-standalone-museum|A modern exhibition-gallery annex expands the museum's capacity
-public_origin: Industrialist and collector Sakıp Sabancı gave his own Bosphorus family mansion, along with his lifetime collection of Ottoman calligraphy and Turkish painting, to the university he was founding — turning a private home into one of Istanbul's leading museums four years before his death.
+public_origin: Industrialist and collector Sakıp Sabancı gave his own Bosphorus family mansion, along with his lifetime collection of Ottoman calligraphy and Turkish painting, to the university he was founding — turning a private home into one of Istanbul's leading museums two years before his death.
 public_sources: Sabancı University; Sakıp Sabancı Museum (SSM); Sotheby's museum profile; Wikipedia
 hero_image_status: no_usable_image
 living_collector: false

@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Open continuously since 1981 in Santiago's colonial Royal Customs House, marking toward its 50th anniversary."
 public_name: Museo Chileno de Arte Precolombino

@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H3, H4, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Operating three cultural centers in Brazil, expanded steadily since 1992."
 public_name: Instituto Moreira Salles (IMS)
@@ -25,7 +26,7 @@ public_location: Poços de Caldas (MG), São Paulo, and Rio de Janeiro, Brazil
 public_founded: 1992
 public_structure: Independent nonprofit institute, family-led board, endowed by the Moreira Salles family's Unibanco banking fortune
 public_access: Open to the public at all three cultural centers; free or low-cost admission
-public_size: ~550,000 photographs; ~100,000 musical works; a library of ~400,000 items; an art gallery of 3,000+ works
+public_size: ~2,000,000 photographic images; a music archive of ~21,000 phonograms; plus library and art-gallery holdings
 public_focus: Brazilian cultural heritage — photography, literature, iconography, music, and contemporary art
 public_movements: Brazilian photography; Brazilian modernism; contemporary Brazilian art
 public_period: 19th century to present

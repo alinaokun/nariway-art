@@ -17,21 +17,22 @@ interview_status: not-contacted
 hypotheses: [H4, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
-public_status_text: "Open and free to the public year-round in Mexico City; two buildings, Plaza Loreto (1994) and the landmark Plaza Carso tower (2011)."
+public_status_text: "Open and free to the public year-round in Mexico City; three venues, Plaza Loreto (1994), the landmark Plaza Carso tower (2011), and Casa Guillermo Tovar de Teresa (2019)."
 public_name: Museo Soumaya
 public_founder: Carlos Slim
 public_location: Mexico City, Mexico
 public_founded: 1994
 public_structure: Owned and fully funded by Fundación Carlos Slim, a private philanthropic foundation
 public_access: Free admission, open 365 days a year
-public_size: Two buildings (Plaza Loreto, 1994; Plaza Carso, 2011, ~17,000 sq m); collection reportedly 66,000+ pieces, not independently verified
+public_size: Three venues (Plaza Loreto, 1994; Plaza Carso, 2011, ~17,000 sq m; Casa Guillermo Tovar de Teresa, 2019); collection reportedly 66,000+ pieces, not independently verified
 public_focus: A broad-survey encyclopedic collection spanning over 30 centuries
 public_movements: European Old Masters; Mexican modern and colonial art; Mesoamerican art; Impressionism; Rodin sculpture
 public_period: Antiquity to the 20th century
 public_media: painting; sculpture; decorative arts; coins and documents
-public_pathway_timeline: 1994|build-institution|found-standalone-museum|Carlos Slim opens the first Museo Soumaya building at Plaza Loreto, named for his late wife Soumaya Domit ;; 2011|build-institution|found-standalone-museum|The landmark Fernando Romero-designed Plaza Carso tower opens as the museum's flagship building
-public_origin: "Mexican businessman Carlos Slim named the museum for his late wife, Soumaya Domit, opening a first building in 1994 and a landmark tower in 2011. It has grown into one of Latin America's largest private museums, offering free admission to a broad-survey collection funded entirely by his own foundation."
+public_pathway_timeline: 1994|build-institution|found-standalone-museum|Carlos Slim opens the first Museo Soumaya building at Plaza Loreto, named for his late wife Soumaya Domit ;; 2011|build-institution|found-standalone-museum|The landmark Fernando Romero-designed Plaza Carso tower opens as the museum's flagship building ;; 2019|build-institution|found-standalone-museum|Casa Guillermo Tovar de Teresa opens as the museum's third venue
+public_origin: "Mexican businessman Carlos Slim named the museum for his late wife, Soumaya Domit, opening a first building in 1994, a landmark tower in 2011, and a third venue in 2019. It has grown into one of Latin America's largest private museums, offering free admission to a broad-survey collection funded entirely by his own foundation."
 public_sources: Wikipedia; Fundación Carlos Slim; Mexico News Daily
 hero_image_status: no_usable_image
 living_collector: true

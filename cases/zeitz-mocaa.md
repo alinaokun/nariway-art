@@ -17,8 +17,9 @@ interview_status: not-contacted
 hypotheses: [H4, H5, H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
-public_status_text: "Open in Cape Town since 2017; new artistic director took up the role October 2026."
+public_status_text: "Open in Cape Town since 2017; new artistic director takes up the role in October 2026."
 public_name: Zeitz Museum of Contemporary Art Africa (Zeitz MOCAA)
 public_founder: Jochen Zeitz (with curator Mark Coetzee)
 public_location: Cape Town, South Africa

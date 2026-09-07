@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H3, H5, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Operating at two Delhi-NCR sites since 2010; a major new David Adjaye-designed building near Delhi's international airport is under construction, expected to open in 2026."
 public_name: Kiran Nadar Museum of Art (KNMA)
@@ -25,14 +26,14 @@ public_location: New Delhi and Noida, India (new flagship building near Indira G
 public_founded: 2010
 public_structure: A private philanthropic museum backed by the Shiv Nadar Foundation; Kiran Nadar serves as Chairperson
 public_access: Open to the public; free or low-cost admission at existing sites
-public_size: 7,000+ works across two current sites (~50,000 sq ft combined); a 100,000 sq metre new campus under construction
+public_size: 10,000+ works across two current sites; a 100,000 sq metre new campus under construction
 public_focus: 20th-century and contemporary Indian modern art, alongside international contemporary practice
 public_movements: Indian modernism; Progressive Artists' Group-adjacent painting; contemporary Indian and international art
 public_period: Early 20th century to present
 public_media: painting; sculpture; installation; works on paper
 public_selected_artists: Indian modern and contemporary artists (full list not yet compiled from public sourcing)
 public_pathway_timeline: 2010|collector-opens|found-standalone-museum|Kiran Nadar Museum of Art opens as India's first private museum of modern/contemporary art ;; 2023|architect-named|found-standalone-museum|David Adjaye unveils design for a new 100,000 sqm flagship near Delhi's airport ;; 2026|new-building-opens|found-standalone-museum|New flagship campus expected to open, combining visual art with music, dance, and theatre
-public_origin: "Kiran Nadar, wife of HCL Technologies founder Shiv Nadar, opened India's first private museum of modern and contemporary art in 2010, built from her own 7,000-plus-work collection. A vastly larger flagship building, designed by David Adjaye and backed by the Shiv Nadar Foundation, is under construction near Delhi's international airport and is expected to open in 2026."
+public_origin: "Kiran Nadar, wife of HCL Technologies founder Shiv Nadar, opened India's first private museum of modern and contemporary art in 2010, built from her own 10,000-plus-work collection. A vastly larger flagship building, designed by David Adjaye and backed by the Shiv Nadar Foundation, is under construction near Delhi's international airport and is expected to open in 2026."
 public_sources: KNMA (knma.org); The Art Newspaper; Dezeen; Wikipedia
 hero_image_status: no_usable_image
 living_collector: true

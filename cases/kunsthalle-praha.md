@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H4, H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Open in Prague since February 2022."
 public_name: Kunsthalle Praha
@@ -26,13 +27,13 @@ public_founded: 2022
 public_collecting_began: 2002
 public_structure: Non-governmental, nonprofit platform founded and funded by the Pudil Family Foundation; independent of state financing
 public_access: Open to the public; paid admission
-public_size: A converted 1930s electrical substation building; founding collection of 3,000+ works held by the Pudil Family Foundation on permanent loan to the museum
+public_size: A converted 1930s electrical substation building; founding collection of 2,000+ works held by the Pudil Family Foundation on long-term loan to the museum
 public_focus: Modern and contemporary art from the Czech Republic and Central/Eastern Europe, alongside international contemporary art
 public_movements: Czech and Central European modernism; international contemporary art
 public_period: Early 20th century to present
 public_media: painting; sculpture; installation; works on paper
-public_pathway_timeline: 2002|found-standalone-museum|found-standalone-museum|Petr and Pavlína Pudil begin collecting art ;; 2014|found-standalone-museum|found-standalone-museum|The Pudils establish the Pudil Family Foundation ;; 2018|found-standalone-museum|found-standalone-museum|Foundation purchases a disused 1930s electrical substation in Prague for conversion ;; 2022|found-standalone-museum|found-standalone-museum|Kunsthalle Praha opens as the city's first fully privately funded museum, with the Pudils' collection on permanent loan
-public_origin: Czech entrepreneurs Petr and Pavlína Pudil began collecting art in the early 2000s and established the Pudil Family Foundation in 2014. In 2022 the foundation opened Kunsthalle Praha, Prague's first fully privately funded museum, in a converted 1930s substation, with the Pudils' 3,000-work collection placed on permanent loan to the institution rather than given outright.
+public_pathway_timeline: 2002|found-standalone-museum|found-standalone-museum|Petr and Pavlína Pudil begin collecting art ;; 2014|found-standalone-museum|found-standalone-museum|The Pudils establish the Pudil Family Foundation ;; 2018|found-standalone-museum|found-standalone-museum|Foundation purchases a disused 1930s electrical substation in Prague for conversion ;; 2022|found-standalone-museum|found-standalone-museum|Kunsthalle Praha opens as the city's first fully privately funded museum, with the Pudils' collection on long-term loan
+public_origin: Czech entrepreneurs Petr and Pavlína Pudil began collecting art in the early 2000s and established the Pudil Family Foundation in 2014. In 2022 the foundation opened Kunsthalle Praha, Prague's first fully privately funded museum, in a converted 1930s substation, with the Pudils' 2,000-work collection placed on long-term loan to the institution rather than given outright.
 public_sources: The Art Newspaper; Artnet News; Hyperallergic; Kunsthalle Praha; Pudil Family Foundation
 hero_image_status: no_usable_image
 living_collector: true

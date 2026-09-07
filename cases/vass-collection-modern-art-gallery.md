@@ -17,22 +17,23 @@ interview_status: not-contacted
 hypotheses: [H3, H5, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
-public_status_text: "Open to the public in Veszprém since 2003, housed in a municipally-owned building alongside three other private collections under one cultural umbrella."
+public_status_text: "Open to the public in Veszprém since 2003, housed in the municipally-owned House of Arts Veszprém alongside its other galleries."
 public_name: Modern Art Gallery — László Vass Collection
 public_founder: László Vass
 public_location: Veszprém, Hungary
 public_founded: 2003
-public_structure: A private collection displayed in a local-government-owned building (House of Arts / Művészetek Háza Veszprém), alongside three other collectors' holdings
+public_structure: A private collection displayed in a local-government-owned building (House of Arts / Művészetek Háza Veszprém), alongside the venue's other galleries
 public_access: Open to the public, standard museum admission
 public_size: Approx. 150+ works on permanent display, part of a larger ongoing collection
 public_focus: Hungarian and international Constructivist, Minimalist, Concrete, and Conceptual art
 public_movements: Constructivism; Concrete art; Minimalism; Conceptual art
 public_period: Mid-20th century to contemporary
 public_media: painting; sculpture; works on paper
-public_selected_artists: Jenő Barcsay; Menyhért Tóth; Tihamér Gyarmati; Dezső Korniss
+public_selected_artists: Jenő Barcsay
 public_pathway_timeline: 1970s|collector-builds|found-standalone-museum|László Vass begins collecting, starting with Jenő Barcsay ;; 2003|opens-to-public|found-standalone-museum|Modern Art Gallery opens in Veszprém's municipally-owned House of Arts
-public_origin: "Master shoemaker László Vass began collecting Hungarian Constructivist art in the 1970s, guided by a personal friendship with painter Jenő Barcsay. His holding, now the country's leading collection of Constructivist-tendency art, opened to the public in 2003 inside a Veszprém municipal arts building he shares with three other private collectors."
+public_origin: "Master shoemaker László Vass began collecting Hungarian Constructivist art in the 1970s, guided by a personal friendship with painter Jenő Barcsay. His holding, now the country's leading collection of Constructivist-tendency art, opened to the public in 2003 inside a Veszprém municipal arts building (the House of Arts)."
 public_sources: muzej.hu; muveszetekhaza.hu; Independent Collectors
 hero_image_status: no_usable_image
 living_collector: true

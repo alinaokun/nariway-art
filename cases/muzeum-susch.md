@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H3, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Open since January 2019 in Susch, Switzerland, after the founder's original Polish institution closed its exhibition program in 2016."
 public_name: Muzeum Susch

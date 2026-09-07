@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H4, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "The founding classical-antiquities collection was sold at auction in 2023-2024; the same building reopened in 2024 as a museum of women artists."
 public_name: Mougins Museum of Classical Art (MACAM) → Female Artists of Mougins Museum (FAMM)
@@ -27,8 +28,8 @@ public_structure: Privately funded museum, single-founder controlled
 public_access: Open to the public 2011-2023 as MACAM; reopened 2024 as FAMM in the same building
 public_size: ~1,000 classical antiquities/arms-and-armour pieces at MACAM's peak; sold via Christie's 2023-2024
 public_focus: Classical antiquities and arms/armour (2011-2023, as MACAM); works by women artists (2024-, as FAMM)
-public_period: Antiquity through the contemporary period (MACAM); a new, separately-assembled collection of women artists (FAMM)
-public_pathway_timeline: 2011|build-institution|found-standalone-museum|Christian Levett opens the Mougins Museum of Classical Art in a converted village building ;; 2023|sell|sell-auction|MACAM closes as a classical-art museum; its antiquities and arms/armour collection consigned to Christie's across six sales in New York, London, and online ;; 2024|build-institution|pivoted|The same building reopens as the Female Artists of Mougins Museum (FAMM), built around a newly assembled collection of work by women artists
+public_period: Antiquity through the contemporary period (MACAM); a collection of works by women artists drawn from the founder's wider holdings (FAMM)
+public_pathway_timeline: 2011|build-institution|found-standalone-museum|Christian Levett opens the Mougins Museum of Classical Art in a converted village building ;; 2023|sell|sell-auction|MACAM closes as a classical-art museum; its antiquities and arms/armour collection consigned to Christie's across six sales in New York, London, and online ;; 2024|build-institution|pivoted|The same building reopens as the Female Artists of Mougins Museum (FAMM), built around a collection of works by women artists drawn from Levett's wider holdings
 public_origin: A British collector built a private museum around his 1,000-piece classical antiquities and arms-and-armour collection, then, after 12 years and roughly 250,000 visitors, sold the collection at auction and reopened the same building under a new mission dedicated to women artists.
 public_sources: The Art Newspaper; Artnet News; Wikipedia; Monaco Life
 hero_image_status: no_usable_image

@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Dissolved 2010; the building and collection no longer operate as a museum."
 public_name: Fresno Metropolitan Museum of Art and Science

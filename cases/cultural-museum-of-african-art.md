@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H5, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Opened November 2023 in Bedford-Stuyvesant, Brooklyn; still ramping up as a public institution."
 public_name: Cultural Museum of African Art (The Eric Edwards Collection)

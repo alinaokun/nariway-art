@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Public opening postponed indefinitely since November 2025 amid a land-title and political dispute; a pre-opening creative campus has operated since late 2024."
 public_name: Museum of West African Art (MOWAA)
@@ -28,7 +29,7 @@ public_access: Pre-opening "creative campus" open since late 2024; full public m
 public_size: N/A — a new-build institution intended to house repatriated Benin Bronzes and contemporary West African art, not a single collector's holding
 public_focus: West African art and cultural heritage, including repatriated Benin Bronzes
 public_period: Historical (Benin Kingdom antiquities) and contemporary
-public_pathway_timeline: 2020|build-institution|found-standalone-museum|Legacy Restoration Trust launches the MOWAA project in Benin City, with architect Sir David Adjaye and international institutional backing ;; 2024|build-institution|found-standalone-museum|A pre-opening "creative campus" (research, conservation, and event space) opens to visitors ;; 2025|build-institution|abandoned-plan|A November 2025 public preview is disrupted by protesters asserting the Oba of Benin's traditional authority over the Benin Bronzes; the full public opening is postponed indefinitely and Edo State revokes the project's Right of Occupancy over its land
+public_pathway_timeline: 2020|build-institution|found-standalone-museum|Legacy Restoration Trust launches the MOWAA project in Benin City, with architect Sir David Adjaye and international institutional backing ;; 2024|build-institution|found-standalone-museum|A pre-opening "creative campus" (research, conservation, and event space) opens to visitors ;; 2025|build-institution|abandoned-plan|A November 2025 public preview is disrupted by protesters asserting the Oba of Benin's traditional authority over the Benin Bronzes; the full public opening is postponed indefinitely and Edo State revokes the project's Certificate of Occupancy over its land
 public_origin: A UK-registered charity, backed by the British Museum, the German government, and the Mellon Foundation among others, set out to build a major new museum in Benin City to help house Benin Bronzes returned to Nigeria — but a dispute over who holds authority over that heritage has stalled its public opening.
 public_sources: Hyperallergic; Artforum; ARTnews; Museums Association; allAfrica; African Business
 hero_image_status: no_usable_image

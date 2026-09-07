@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H3, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Day-to-day museum operations ceased June 2026; the 4,000-object collection remains on DePaul's Lincoln Park campus, viewable by appointment for academic and research use."
 public_name: DePaul Art Museum

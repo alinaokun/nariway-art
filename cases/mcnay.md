@@ -15,6 +15,7 @@ hypotheses: [H3, H7A, H8]
 packet: "[[mcnay-packet]]"
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Open in San Antonio since 1954."
 public_name: McNay Art Museum

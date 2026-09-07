@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H4, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Active corporate collection since 1977; on permanent public display at Perth Concert Hall and touring nationally."
 public_name: Wesfarmers Collection of Australian Art
@@ -25,13 +26,13 @@ public_location: Perth, Western Australia, Australia (touring nationally and int
 public_founded: 1977
 public_structure: Corporate collection owned by Wesfarmers Limited, an ASX-listed conglomerate; managed by a dedicated curator
 public_access: A selection on permanent public display at Perth Concert Hall; the collection also tours to Australian and international galleries and is viewable via a dedicated online catalogue and app
-public_size: 1,000+ works by 300+ artists
-public_focus: Australian art exclusively, from early European settlement to the present, including a First Peoples/Indigenous art focus
+public_size: 800 works by 300 artists
+public_focus: Primarily Australian art (and, more recently, New Zealand art), from early European settlement to the present, including a First Peoples/Indigenous art focus
 public_movements: Australian impressionism; Indigenous Australian art; Australian modernism and contemporary art
 public_period: Early 19th century to present
 public_media: painting; photography; sculpture; digital media
-public_pathway_timeline: 1977|retain-family|retain-family|Wesfarmers purchases its first artwork, an Elioth Gruner pastoral scene, after a general manager convinces the board of the investment and cultural case for a corporate collection ;; 1977-present|retain-family|traveling-program|Collection grows to 1,000+ works, with an active loan and touring program to Australian and international institutions
-public_origin: Wesfarmers, an Australian conglomerate founded in 1914 as a farmers' cooperative, began collecting Australian art in 1977 on a board-approved case built by a company general manager. Now more than 1,000 works by 300-plus artists, the collection is exhibited on permanent public display at Perth Concert Hall and lent regularly to galleries across Australia and abroad.
+public_pathway_timeline: 1977|retain-family|retain-family|Wesfarmers purchases its first artwork, an Elioth Gruner pastoral scene, after a general manager convinces the board of the investment and cultural case for a corporate collection ;; 1977-present|retain-family|traveling-program|Collection grows to around 800 works, with an active loan and touring program to Australian and international institutions
+public_origin: Wesfarmers, an Australian conglomerate founded in 1914 as a farmers' cooperative, began collecting Australian art in 1977 on a board-approved case built by a company general manager. Now around 800 works by 300-plus artists, the collection is exhibited on permanent public display at Perth Concert Hall and lent regularly to galleries across Australia and abroad.
 public_sources: Wesfarmers; Wesfarmers Collection of Australian Art
 hero_image_status: no_usable_image
 living_collector: false

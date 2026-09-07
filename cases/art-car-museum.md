@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H6, H8]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Closed permanently April 2024 after both founders' deaths; the collection is moving to a new dedicated space at the Orange Show Center for Visionary Art, funded by a $1.25M family gift."
 public_name: Art Car Museum (Harithas Collection)

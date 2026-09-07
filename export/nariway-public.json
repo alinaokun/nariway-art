@@ -435,6 +435,76 @@
       "livingCollector": true
     },
     {
+      "slug": "art-car-museum",
+      "publicDepth": "record",
+      "name": "Art Car Museum (Harithas Collection)",
+      "founder": "Ann O'Connor Williams Harithas & James Harithas",
+      "location": "Houston, TX, USA (originally Houston Heights; collection relocating to the Orange Show Center for Visionary Art campus)",
+      "profile": {
+        "founded": 1998,
+        "structure": "Nonprofit arts organization; collection now transferring into an existing nonprofit host (Orange Show Center for Visionary Art)",
+        "publicAccess": "Free public museum, 1998-2024; a new ~5,000 sq ft dedicated space at Orange Show Center is planned as part of that institution's expansion",
+        "currentState": "Closed permanently April 2024 after both founders' deaths; the collection is moving to a new dedicated space at the Orange Show Center for Visionary Art, funded by a $1.25M family gift.",
+        "size": "Not publicly itemized in sources located this run"
+      },
+      "composition": {
+        "focus": "Art cars\" — vehicles transformed into artworks — and the broader Houston Art Car movement Ann Harithas helped found",
+        "period": "Contemporary (1980s onward)"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Ann Harithas curates \"Collision\" at the Lawndale Art Center, launching Houston's Art Car Parade and movement",
+            "year": 1984,
+            "familyId": "keep-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Ann and James Harithas open the Art Car Museum in Houston Heights",
+            "year": 1998,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Co-founder Ann Harithas dies; a small family trust funds two more years of planned programs",
+            "year": 2021,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Co-founder James Harithas dies; no foundation or succession instrument exists for the museum itself",
+            "year": 2023,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The museum closes permanently in April, after nearly 26 years",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "closed-dispersed"
+          },
+          {
+            "event": "The Harithas family gives $1.25M through the South Texas Charitable Foundation to the Orange Show Center for Visionary Art to build a new home for the art car collection",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "merger-into-institution"
+          }
+        ]
+      },
+      "origin": "A Houston collector couple built a free museum around the city's own homegrown \"art car\" movement; when both founders died within two years of each other with no succession plan in place, the museum closed, and their family then funded a new permanent home for the collection at a related nonprofit.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Houston Chronicle",
+        "Glasstire",
+        "CultureMap Houston",
+        "ABC13 Houston",
+        "Axios Houston"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "audain",
       "publicDepth": "expanded",
       "name": "Audain Art Museum",
@@ -1645,6 +1715,73 @@
       "livingCollector": true
     },
     {
+      "slug": "cultural-museum-of-african-art",
+      "publicDepth": "record",
+      "name": "Cultural Museum of African Art (The Eric Edwards Collection)",
+      "founder": "Eric Edwards",
+      "location": "Brooklyn, NY, USA (1360 Fulton Street, Restoration Plaza, Bedford-Stuyvesant)",
+      "profile": {
+        "founded": 2023,
+        "collectingBegan": "1970s",
+        "structure": "501(c)(3) nonprofit (incorporated 2014, IRS recognition 2015)",
+        "publicAccess": "Public museum, ~7,000 sq ft leased gallery space",
+        "currentState": "Opened November 2023 in Bedford-Stuyvesant, Brooklyn; still ramping up as a public institution.",
+        "size": "~3,000 objects"
+      },
+      "composition": {
+        "focus": "African art and material culture spanning all 54 African countries",
+        "period": "Historical and traditional African art and artifacts, spanning roughly 4,000 years"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Eric Edwards, a Brooklyn native and AT&T executive, begins collecting African art during personal and professional travel",
+            "year": "1970s",
+            "familyId": "keep-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "The Cultural Museum of African Art is incorporated as a nonprofit",
+            "year": 2014,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The organization receives IRS 501(c)(3) recognition",
+            "year": 2015,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "A groundbreaking ceremony is held at Restoration Plaza, Bedford-Stuyvesant",
+            "year": 2022,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The museum opens to the public, November 18",
+            "year": 2023,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "A retired AT&T executive spent nearly 50 years assembling one of the largest private African art collections in the US, then opened it as a public museum in his native Brooklyn neighborhood.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wikipedia",
+        "Artnet News",
+        "Gothamist",
+        "OkayAfrica",
+        "Our Time Press",
+        "GuideStar"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "de-la-cruz-collection",
       "publicDepth": "expanded",
       "name": "De la Cruz Collection",
@@ -1698,6 +1835,77 @@
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
+    },
+    {
+      "slug": "depaul-art-museum",
+      "publicDepth": "record",
+      "name": "DePaul Art Museum",
+      "founder": "DePaul University (no individual founder; seeded by the university's Women's Board)",
+      "location": "Chicago, IL, USA",
+      "profile": {
+        "founded": 1985,
+        "collectingBegan": "1972",
+        "structure": "University-owned museum (DePaul University); public-facing operations wound down 2026, collection retained under university stewardship",
+        "publicAccess": "Public exhibitions and free public admission ended June 2026; collection now accessible by appointment for research and coursework only",
+        "currentState": "Day-to-day museum operations ceased June 2026; the 4,000-object collection remains on DePaul's Lincoln Park campus, viewable by appointment for academic and research use.",
+        "size": "~4,000 objects"
+      },
+      "composition": {
+        "focus": "Modern and contemporary art, with an emphasis on Chicago-area artists and academic/teaching use",
+        "movements": [
+          "Chicago Imagism",
+          "postwar American",
+          "contemporary"
+        ],
+        "period": "1972 onward (collecting); 20th-21st century (holdings)",
+        "media": [
+          "painting",
+          "print",
+          "photography",
+          "drawing",
+          "sculpture"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "DePaul's Women's Board launches an \"Art for DePaul\" gift drive; ~67 works begin the collection",
+            "year": 1972,
+            "familyId": "university-partnership",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "DePaul Art Museum formally established",
+            "year": 1985,
+            "familyId": "university-partnership",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "DePaul announces the museum will close amid a university-wide budget crisis",
+            "year": "2026-02",
+            "familyId": "university-partnership",
+            "codedPathway": "merger-into-institution"
+          },
+          {
+            "event": "Public museum operations cease; the collection remains on campus under university stewardship, accessible by appointment",
+            "year": "2026-06",
+            "familyId": "university-partnership",
+            "codedPathway": "merger-into-institution"
+          }
+        ]
+      },
+      "origin": "DePaul University's Women's Board began building a teaching art collection in 1972; it grew into a dedicated public museum in 1985. In 2026, facing a university-wide budget shortfall, DePaul closed the museum's public operations while keeping the collection on campus for academic and research use.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "WBEZ Chicago",
+        "Axios Chicago",
+        "Chicago Sun-Times",
+        "Artforum"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "deutsche-bank-collection",
@@ -2240,6 +2448,62 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "fondation-louis-vuitton",
+      "publicDepth": "expanded",
+      "name": "Fondation Louis Vuitton",
+      "founder": "Bernard Arnault (LVMH)",
+      "location": "Paris, France",
+      "profile": {
+        "founded": 2014,
+        "structure": "Corporate foundation (fondation d'entreprise), sponsored by LVMH; Frank Gehry-designed building owned by the Foundation on land leased from the City of Paris",
+        "publicAccess": "Open to the public year-round; paid admission",
+        "currentState": "Open in Paris since October 2014.",
+        "size": "11 galleries across four levels; a rotating permanent collection plus major temporary exhibitions"
+      },
+      "composition": {
+        "focus": "Modern and contemporary art",
+        "movements": [
+          "postwar and contemporary art",
+          "modern masters via major loan exhibitions"
+        ],
+        "period": "20th-21st century",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation",
+          "video"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Bernard Arnault announces plans for a Paris contemporary-art foundation",
+            "year": 2006,
+            "familyId": "found-foundation",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Fondation Louis Vuitton opens to the public, designed by Frank Gehry",
+            "year": 2014,
+            "familyId": "found-foundation",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "LVMH chairman Bernard Arnault commissioned Frank Gehry to design a dedicated contemporary-art building in Paris's Bois de Boulogne, opened in 2014 as a corporate foundation to promote contemporary art and house a growing permanent collection alongside major loan exhibitions.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Fondation Louis Vuitton",
+        "Wikipedia",
+        "Gagosian Quarterly",
+        "ArchDaily"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "fondation-pierre-berge-yves-saint-laurent",
       "publicDepth": "expanded",
       "name": "Fondation Pierre Bergé – Yves Saint Laurent",
@@ -2435,6 +2699,106 @@
         "weismanfoundation.org",
         "Wikipedia",
         "Coagula"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "fredriksen-collection-national-museum-norway",
+      "publicDepth": "expanded",
+      "name": "Fredriksen Family Art Company Ltd collection, on loan to the National Museum of Norway (Nasjonalmuseet)",
+      "founder": "Cecilie Fredriksen and Kathrine Fredriksen (daughters of shipping magnate John Fredriksen)",
+      "location": "Oslo, Norway (loaned to the National Museum); collection legally held via a Cyprus-registered company",
+      "profile": {
+        "founded": 2019,
+        "structure": "Privately owned collection (Fredriksen Family Art Company Ltd) under a 10-year loan-and-research agreement with a state museum",
+        "publicAccess": "Selected works on public view at the National Museum of Norway via exhibitions since 2019, under the loan agreement",
+        "currentState": "A 10-year loan and research partnership with Norway's National Museum, announced 2019, drew sustained criticism from the Norwegian art world over private influence and, later, the family's Russia ties."
+      },
+      "composition": {
+        "focus": "International modern and contemporary art, including artists such as Agnes Martin and Georgia O'Keeffe"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "The National Museum of Norway announces a 10-year loan-and-research collaboration with Fredriksen Family Art Company Ltd, drawing immediate criticism from Norwegian artists and museum professionals",
+            "year": 2019,
+            "familyId": "donate",
+            "codedPathway": "long-term-loan"
+          },
+          {
+            "event": "The National Museum opens in its new Oslo building, continuing to show Fredriksen loans amid ongoing debate over the agreement's terms and transparency",
+            "year": 2022,
+            "familyId": "donate",
+            "codedPathway": "long-term-loan"
+          }
+        ]
+      },
+      "origin": "A Norwegian-British shipping family's privately held art collection entered a 10-year loan and research-funding partnership with Norway's National Museum in 2019, becoming one of the most publicly contested private-public art collaborations in the dataset over concerns about donor influence, transparency, and the family's wider business ties.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Kunstkritikk",
+        "Museum Management and Curatorship (Velthuis & Gera-adjacent scholarship, distinct authors)",
+        "The Art Newspaper (Norway coverage)"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "fresno-metropolitan-museum",
+      "publicDepth": "record",
+      "name": "Fresno Metropolitan Museum of Art and Science",
+      "founder": "A coalition of Fresno civic leaders (no individual founder)",
+      "location": "Fresno, CA, USA",
+      "profile": {
+        "founded": 1984,
+        "structure": "Independent nonprofit (dissolved 2010)",
+        "publicAccess": "Closed permanently",
+        "currentState": "Dissolved 2010; the building and collection no longer operate as a museum.",
+        "size": "3,218 objects at closure"
+      },
+      "composition": {
+        "focus": "General art and science museum, community-built",
+        "period": "N/A — a general survey collection, not a single collecting era"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Fresno civic leaders begin planning a regional museum",
+            "year": 1978,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The museum opens in the historic Fresno Bee Building, funded by $5.5M raised from the community",
+            "year": 1984,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Reopens after a major renovation, financed by loans",
+            "year": 2008,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Defaults on its renovation loans and closes; its 3,218-object collection is auctioned via Sotheby's and Bonhams to pay creditors",
+            "year": 2010,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "sell-auction"
+          }
+        ]
+      },
+      "origin": "A coalition of Fresno civic leaders raised over $5.5 million between 1981 and 1985 to open a regional art-and-science museum in the city's historic Bee Building. After a costly 2005-2008 renovation financed by loans, the museum defaulted during the 2008-2009 financial crisis and closed permanently in January 2010, with its collection auctioned to pay creditors.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wikipedia",
+        "Artforum",
+        "ABC30 Fresno",
+        "Artsy"
       ],
       "lastReviewed": "2026-09"
     },
@@ -3154,6 +3518,153 @@
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
+    },
+    {
+      "slug": "instituto-moreira-salles",
+      "publicDepth": "expanded",
+      "name": "Instituto Moreira Salles (IMS)",
+      "founder": "Walter Moreira Salles",
+      "location": "Poços de Caldas (MG), São Paulo, and Rio de Janeiro, Brazil",
+      "profile": {
+        "founded": 1992,
+        "structure": "Independent nonprofit institute, family-led board, endowed by the Moreira Salles family's Unibanco banking fortune",
+        "publicAccess": "Open to the public at all three cultural centers; free or low-cost admission",
+        "currentState": "Operating three cultural centers in Brazil, expanded steadily since 1992.",
+        "size": "~2,000,000 photographic images; a music archive of ~21,000 phonograms; plus library and art-gallery holdings"
+      },
+      "composition": {
+        "focus": "Brazilian cultural heritage — photography, literature, iconography, music, and contemporary art",
+        "movements": [
+          "Brazilian photography",
+          "Brazilian modernism",
+          "contemporary Brazilian art"
+        ],
+        "period": "19th century to present",
+        "media": [
+          "photography",
+          "works on paper",
+          "painting",
+          "sculpture",
+          "archival/documentary material"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Walter Moreira Salles founds the Institute's first cultural center in Poços de Caldas, Minas Gerais",
+            "year": 1992,
+            "familyId": "found-foundation",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Family expands the collection across photography, music, literature, and iconography, funded by an endowment from Unibanco (the family's bank)",
+            "year": "1990s-2000s",
+            "familyId": "found-foundation",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Unibanco merges into Itaú Unibanco; IMS continues as an independently endowed family institute, not a corporate foundation of the merged bank",
+            "year": 2008,
+            "familyId": "found-foundation",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Institute expands to three cultural centers, with touring exhibitions beyond them",
+            "year": "São Paulo and Rio de Janeiro centers open",
+            "familyId": "found-foundation",
+            "codedPathway": "traveling-program"
+          }
+        ]
+      },
+      "origin": "Brazilian diplomat and banker Walter Moreira Salles founded the Instituto Moreira Salles in 1992 to preserve Brazilian cultural heritage, endowing it from his family's Unibanco banking fortune. It has grown into one of Brazil's largest private cultural institutions, running three public cultural centers and one of the country's foremost photography collections.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Instituto Moreira Salles",
+        "Wikipedia",
+        "Itaú Unibanco (Wikipedia)"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "isabella-stewart-gardner-museum",
+      "publicDepth": "expanded",
+      "name": "Isabella Stewart Gardner Museum",
+      "founder": "Isabella Stewart Gardner",
+      "location": "Boston, MA (the Fenway)",
+      "profile": {
+        "founded": 1903,
+        "collectingBegan": "1860s-1870s",
+        "structure": "Independent nonprofit museum, self-governed by a board of trustees under a testamentary trust created by Gardner's 1924 will",
+        "publicAccess": "Open to the public year-round, ticketed",
+        "currentState": "Open to the public continuously since 1903; still governed under Isabella Stewart Gardner's original 1924 will, with the founding-era installation substantially unchanged in the historic palace's galleries.",
+        "size": "~7,500 works across painting, sculpture, decorative arts, textiles, rare books, and manuscripts"
+      },
+      "composition": {
+        "focus": "A single, personally curated installation spanning European, American, and Asian art from antiquity through the early 20th century, arranged by the founder herself rather than by school or chronology",
+        "movements": [
+          "Italian Renaissance",
+          "Dutch Golden Age",
+          "American Gilded Age portraiture",
+          "Impressionism"
+        ],
+        "period": "Antiquity to early 20th century (collection); installation frozen as of 1924",
+        "media": [
+          "painting",
+          "sculpture",
+          "tapestry and textiles",
+          "decorative arts",
+          "rare books and manuscripts",
+          "architectural fragments"
+        ],
+        "selectedArtists": [
+          "Titian",
+          "Rembrandt",
+          "Sandro Botticelli",
+          "John Singer Sargent",
+          "Raphael",
+          "Vermeer (stolen 1990, not recovered)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Isabella Stewart Gardner opens Fenway Court, a purpose-built Venetian-style palace, to the public with her personally arranged collection",
+            "year": 1903,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Gardner dies; her will places the museum and its endowment in trust, with instructions that the installation never be materially changed",
+            "year": 1924,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Thirteen works are stolen in an unsolved heist, the largest art theft in U.S. history; empty frames remain on display per the will's arrangement clause",
+            "year": 1990,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "A new Renzo Piano-designed wing opens behind the historic palace, adding public and conservation space without altering the original galleries the will covers",
+            "year": 2012,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          }
+        ]
+      },
+      "origin": "Isabella Stewart Gardner spent decades assembling a personal collection of European and American art, then built Fenway Court, a Venetian-style palace in Boston, specifically to house it and opened it to the public in 1903. Her 1924 will placed the museum in trust with an unusually strict condition: if the trustees ever changed the arrangement of the collection as she left it, the entire museum and endowment would pass to Harvard University to be sold. More than a century later, the founding installation remains substantially intact, including the empty frames left after a 1990 theft, while a 2012 addition added public space without touching the original galleries.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "gardnermuseum.org",
+        "Wikipedia",
+        "Boston Magazine"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "jpmorgan-chase-collection",
@@ -3885,6 +4396,72 @@
       "livingCollector": true
     },
     {
+      "slug": "kiran-nadar-museum-of-art",
+      "publicDepth": "expanded",
+      "name": "Kiran Nadar Museum of Art (KNMA)",
+      "founder": "Kiran Nadar",
+      "location": "New Delhi and Noida, India (new flagship building near Indira Gandhi International Airport)",
+      "profile": {
+        "founded": 2010,
+        "structure": "A private philanthropic museum backed by the Shiv Nadar Foundation; Kiran Nadar serves as Chairperson",
+        "publicAccess": "Open to the public; free or low-cost admission at existing sites",
+        "currentState": "Operating at two Delhi-NCR sites since 2010; a major new David Adjaye-designed building near Delhi's international airport is under construction, expected to open in 2026.",
+        "size": "10,000+ works across two current sites; a 100,000 sq metre new campus under construction"
+      },
+      "composition": {
+        "focus": "20th-century and contemporary Indian modern art, alongside international contemporary practice",
+        "movements": [
+          "Indian modernism",
+          "Progressive Artists' Group-adjacent painting",
+          "contemporary Indian and international art"
+        ],
+        "period": "Early 20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Indian modern and contemporary artists (full list not yet compiled from public sourcing)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Kiran Nadar Museum of Art opens as India's first private museum of modern/contemporary art",
+            "year": 2010,
+            "familyId": "collector-opens",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "David Adjaye unveils design for a new 100,000 sqm flagship near Delhi's airport",
+            "year": 2023,
+            "familyId": "architect-named",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "New flagship campus expected to open, combining visual art with music, dance, and theatre",
+            "year": 2026,
+            "familyId": "new-building-opens",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Kiran Nadar, wife of HCL Technologies founder Shiv Nadar, opened India's first private museum of modern and contemporary art in 2010, built from her own 10,000-plus-work collection. A vastly larger flagship building, designed by David Adjaye and backed by the Shiv Nadar Foundation, is under construction near Delhi's international airport and is expected to open in 2026.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "KNMA (knma.org)",
+        "The Art Newspaper",
+        "Dezeen",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "kirk-edward-long-famsf",
       "publicDepth": "expanded",
       "name": "Kirk Edward Long Collection",
@@ -3951,6 +4528,76 @@
         "SFAAAT",
         "Cantor Arts Center",
         "Association of Print Scholars"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "kunsthalle-praha",
+      "publicDepth": "expanded",
+      "name": "Kunsthalle Praha",
+      "founder": "Petr and Pavlína Pudil (the Pudil Family Foundation)",
+      "location": "Prague, Czech Republic",
+      "profile": {
+        "founded": 2022,
+        "collectingBegan": "2002",
+        "structure": "Non-governmental, nonprofit platform founded and funded by the Pudil Family Foundation; independent of state financing",
+        "publicAccess": "Open to the public; paid admission",
+        "currentState": "Open in Prague since February 2022.",
+        "size": "A converted 1930s electrical substation building; founding collection of 2,000+ works held by the Pudil Family Foundation on long-term loan to the museum"
+      },
+      "composition": {
+        "focus": "Modern and contemporary art from the Czech Republic and Central/Eastern Europe, alongside international contemporary art",
+        "movements": [
+          "Czech and Central European modernism",
+          "international contemporary art"
+        ],
+        "period": "Early 20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation",
+          "works on paper"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Petr and Pavlína Pudil begin collecting art",
+            "year": 2002,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The Pudils establish the Pudil Family Foundation",
+            "year": 2014,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Foundation purchases a disused 1930s electrical substation in Prague for conversion",
+            "year": 2018,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Kunsthalle Praha opens as the city's first fully privately funded museum, with the Pudils' collection on long-term loan",
+            "year": 2022,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Czech entrepreneurs Petr and Pavlína Pudil began collecting art in the early 2000s and established the Pudil Family Foundation in 2014. In 2022 the foundation opened Kunsthalle Praha, Prague's first fully privately funded museum, in a converted 1930s substation, with the Pudils' 2,000-work collection placed on long-term loan to the institution rather than given outright.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Artnet News",
+        "Hyperallergic",
+        "Kunsthalle Praha",
+        "Pudil Family Foundation"
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
@@ -4487,6 +5134,75 @@
       "livingCollector": true
     },
     {
+      "slug": "mcnay",
+      "publicDepth": "expanded",
+      "name": "McNay Art Museum",
+      "founder": "Marion Koogler McNay",
+      "location": "San Antonio, TX, USA",
+      "profile": {
+        "founded": 1954,
+        "collectingBegan": "1926",
+        "structure": "Independent nonprofit museum, self-perpetuating board",
+        "publicAccess": "Open to the public year-round; paid admission",
+        "currentState": "Open in San Antonio since 1954.",
+        "size": "~25-acre campus (Spanish Colonial Revival home plus later wings); 20,000+ objects"
+      },
+      "composition": {
+        "focus": "Modern European and American art, with strengths in French Impressionism/Post-Impressionism/Expressionism and a print collection",
+        "movements": [
+          "Impressionism",
+          "Post-Impressionism",
+          "Expressionism",
+          "modern and contemporary American art"
+        ],
+        "period": "19th century to present",
+        "media": [
+          "painting",
+          "print",
+          "sculpture",
+          "theater arts"
+        ],
+        "selectedArtists": [
+          "Paul Gauguin",
+          "Vincent van Gogh",
+          "Chaim Soutine",
+          "Georges Rouault"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Marion Koogler McNay moves to San Antonio and builds her Spanish Colonial Revival home, then begins collecting art",
+            "year": 1926,
+            "familyId": "found-house-museum",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "McNay dies, leaving her home, ~23 acres, ~700 works, and two-thirds of her fortune to found a museum of modern art",
+            "year": 1950,
+            "familyId": "found-house-museum",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "The museum opens to the public",
+            "year": 1954,
+            "familyId": "found-house-museum",
+            "codedPathway": "found-house-museum"
+          }
+        ]
+      },
+      "origin": "Marion Koogler McNay built a Spanish Colonial Revival home in San Antonio in 1927 and spent two decades assembling a modern-art collection there. On her 1950 death she left the house, its grounds, her collection, and two-thirds of her oil fortune to found what became Texas's first museum of modern art, opened in 1954.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "mcnayart.org",
+        "Texas State Historical Association",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "mennello-museum",
       "publicDepth": "expanded",
       "name": "Mennello Museum of American Art",
@@ -4594,6 +5310,117 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "vass-collection-modern-art-gallery",
+      "publicDepth": "record",
+      "name": "Modern Art Gallery — László Vass Collection",
+      "founder": "László Vass",
+      "location": "Veszprém, Hungary",
+      "profile": {
+        "founded": 2003,
+        "structure": "A private collection displayed in a local-government-owned building (House of Arts / Művészetek Háza Veszprém), alongside the venue's other galleries",
+        "publicAccess": "Open to the public, standard museum admission",
+        "currentState": "Open to the public in Veszprém since 2003, housed in the municipally-owned House of Arts Veszprém alongside its other galleries.",
+        "size": "Approx. 150+ works on permanent display, part of a larger ongoing collection"
+      },
+      "composition": {
+        "focus": "Hungarian and international Constructivist, Minimalist, Concrete, and Conceptual art",
+        "movements": [
+          "Constructivism",
+          "Concrete art",
+          "Minimalism",
+          "Conceptual art"
+        ],
+        "period": "Mid-20th century to contemporary",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Jenő Barcsay"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "László Vass begins collecting, starting with Jenő Barcsay",
+            "year": "1970s",
+            "familyId": "collector-builds",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Modern Art Gallery opens in Veszprém's municipally-owned House of Arts",
+            "year": 2003,
+            "familyId": "opens-to-public",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Master shoemaker László Vass began collecting Hungarian Constructivist art in the 1970s, guided by a personal friendship with painter Jenő Barcsay. His holding, now the country's leading collection of Constructivist-tendency art, opened to the public in 2003 inside a Veszprém municipal arts building (the House of Arts).",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "muzej.hu",
+        "muveszetekhaza.hu",
+        "Independent Collectors"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "mougins-museum-classical-art",
+      "publicDepth": "expanded",
+      "name": "Mougins Museum of Classical Art (MACAM) → Female Artists of Mougins Museum (FAMM)",
+      "founder": "Christian Levett",
+      "location": "Mougins, France",
+      "profile": {
+        "founded": 2011,
+        "structure": "Privately funded museum, single-founder controlled",
+        "publicAccess": "Open to the public 2011-2023 as MACAM; reopened 2024 as FAMM in the same building",
+        "currentState": "The founding classical-antiquities collection was sold at auction in 2023-2024; the same building reopened in 2024 as a museum of women artists.",
+        "size": "~1,000 classical antiquities/arms-and-armour pieces at MACAM's peak; sold via Christie's 2023-2024"
+      },
+      "composition": {
+        "focus": "Classical antiquities and arms/armour (2011-2023, as MACAM); works by women artists (2024-, as FAMM)",
+        "period": "Antiquity through the contemporary period (MACAM); a collection of works by women artists drawn from the founder's wider holdings (FAMM)"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Christian Levett opens the Mougins Museum of Classical Art in a converted village building",
+            "year": 2011,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "MACAM closes as a classical-art museum; its antiquities and arms/armour collection consigned to Christie's across six sales in New York, London, and online",
+            "year": 2023,
+            "familyId": "sell",
+            "codedPathway": "sell-auction"
+          },
+          {
+            "event": "The same building reopens as the Female Artists of Mougins Museum (FAMM), built around a collection of works by women artists drawn from Levett's wider holdings",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "pivoted"
+          }
+        ]
+      },
+      "origin": "A British collector built a private museum around his 1,000-piece classical antiquities and arms-and-armour collection, then, after 12 years and roughly 250,000 visitors, sold the collection at auction and reopened the same building under a new mission dedicated to women artists.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "Artnet News",
+        "Wikipedia",
+        "Monaco Life"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "benini",
       "publicDepth": "expanded",
       "name": "Museo Benini (formerly Benini Sculpture Ranch)",
@@ -4654,6 +5481,126 @@
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
+    },
+    {
+      "slug": "botero-donation-banco-de-la-republica",
+      "publicDepth": "expanded",
+      "name": "Museo Botero",
+      "founder": "Fernando Botero",
+      "location": "Bogotá, Colombia",
+      "profile": {
+        "founded": 2000,
+        "structure": "Owned and operated by Banco de la República, Colombia's central bank, as part of its constitutionally authorized cultural network",
+        "publicAccess": "Free admission",
+        "currentState": "Open and free to the public in Bogotá since November 2000, part of the Banco de la República's Red Cultural network of museums.",
+        "size": "208 works (123 by Botero, 85 by other artists) in a colonial-era house in La Candelaria"
+      },
+      "composition": {
+        "focus": "Botero's own paintings and sculpture, plus his personal collection of international modern masters",
+        "movements": [
+          "Figurative/volumetric painting (Botero)",
+          "Impressionism",
+          "Post-Impressionism",
+          "20th-century European modernism"
+        ],
+        "period": "19th century (Corot) to late 20th century (1998)",
+        "media": [
+          "painting",
+          "sculpture",
+          "drawing"
+        ],
+        "selectedArtists": [
+          "Fernando Botero",
+          "Pablo Picasso",
+          "Claude Monet",
+          "Pierre-Auguste Renoir",
+          "Salvador Dalí",
+          "Alberto Giacometti",
+          "Max Beckmann",
+          "Lucian Freud",
+          "Alexander Calder",
+          "Francis Bacon"
+        ],
+        "recipients": [
+          "Banco de la República (Museo Botero, Bogotá)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Fernando Botero donates 208 works (123 of his own, 85 from his personal collection of international artists) to Banco de la República, Colombia's central bank",
+            "year": 2000,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Colombian artist Fernando Botero donated 208 works to the country's central bank in 2000 — 123 of his own paintings and sculptures plus 85 works from his personal collection of international modern masters. The bank, which already ran a national cultural network, opened the Museo Botero in a colonial house in Bogotá the same year, with free admission ever since.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Banco de la República (Red Cultural)",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "museo-chileno-de-arte-precolombino",
+      "publicDepth": "expanded",
+      "name": "Museo Chileno de Arte Precolombino",
+      "founder": "Sergio Larraín García-Moreno",
+      "location": "Santiago, Chile",
+      "profile": {
+        "founded": 1981,
+        "collectingBegan": "1930s",
+        "structure": "Collection owned by the Larraín Echeñique Family Foundation; museum operated under an agreement with the City of Santiago (Ilustre Municipalidad de Santiago), which provides the building and general administration",
+        "publicAccess": "Open to the public, ticketed",
+        "currentState": "Open continuously since 1981 in Santiago's colonial Royal Customs House, marking toward its 50th anniversary.",
+        "size": "Housed in the Palacio de la Real Aduana (Royal Customs House, built 1805-1807); collection of pre-Columbian archaeological objects"
+      },
+      "composition": {
+        "focus": "Pre-Columbian archaeological art of the Americas",
+        "period": "Pre-Columbian antiquity",
+        "media": [
+          "ceramics",
+          "textiles",
+          "metalwork",
+          "stone and wood carving"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Sergio Larraín García-Moreno begins collecting pre-Columbian objects over five decades",
+            "year": "1930s",
+            "familyId": "keep-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Larraín and the City of Santiago's mayor agree to house the collection permanently in the Royal Customs House",
+            "year": "1970s",
+            "familyId": "give-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Museo Chileno de Arte Precolombino opens to the public, one of Latin America's first dedicated pre-Columbian museums",
+            "year": 1981,
+            "familyId": "give-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Chilean architect Sergio Larraín García-Moreno spent fifty years assembling a pre-Columbian archaeological collection. In the 1970s he arranged for it to remain permanently intact and public, placing it under a family foundation and partnering with the City of Santiago, which provided the historic Royal Customs House as its home. The museum opened in 1981 and has operated continuously since.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Museo Chileno de Arte Precolombino (official site)",
+        "Santiago Turismo",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "museo-jumex",
@@ -4755,6 +5702,70 @@
         "Wikipedia"
       ],
       "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "museo-soumaya",
+      "publicDepth": "expanded",
+      "name": "Museo Soumaya",
+      "founder": "Carlos Slim",
+      "location": "Mexico City, Mexico",
+      "profile": {
+        "founded": 1994,
+        "structure": "Owned and fully funded by Fundación Carlos Slim, a private philanthropic foundation",
+        "publicAccess": "Free admission, open 365 days a year",
+        "currentState": "Open and free to the public year-round in Mexico City; three venues, Plaza Loreto (1994), the landmark Plaza Carso tower (2011), and Casa Guillermo Tovar de Teresa (2019).",
+        "size": "Three venues (Plaza Loreto, 1994; Plaza Carso, 2011, ~17,000 sq m; Casa Guillermo Tovar de Teresa, 2019); collection reportedly 66,000+ pieces, not independently verified"
+      },
+      "composition": {
+        "focus": "A broad-survey encyclopedic collection spanning over 30 centuries",
+        "movements": [
+          "European Old Masters",
+          "Mexican modern and colonial art",
+          "Mesoamerican art",
+          "Impressionism",
+          "Rodin sculpture"
+        ],
+        "period": "Antiquity to the 20th century",
+        "media": [
+          "painting",
+          "sculpture",
+          "decorative arts",
+          "coins and documents"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Carlos Slim opens the first Museo Soumaya building at Plaza Loreto, named for his late wife Soumaya Domit",
+            "year": 1994,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The landmark Fernando Romero-designed Plaza Carso tower opens as the museum's flagship building",
+            "year": 2011,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Casa Guillermo Tovar de Teresa opens as the museum's third venue",
+            "year": 2019,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Mexican businessman Carlos Slim named the museum for his late wife, Soumaya Domit, opening a first building in 1994, a landmark tower in 2011, and a third venue in 2019. It has grown into one of Latin America's largest private museums, offering free admission to a broad-survey collection funded entirely by his own foundation.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wikipedia",
+        "Fundación Carlos Slim",
+        "Mexico News Daily"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
     },
     {
       "slug": "paz-museum-brumadinho",
@@ -4982,6 +5993,59 @@
       "livingCollector": true
     },
     {
+      "slug": "mowaa",
+      "publicDepth": "record",
+      "name": "Museum of West African Art (MOWAA)",
+      "founder": "Legacy Restoration Trust (conceived by Phillip Ihenacho); architect Sir David Adjaye",
+      "location": "Benin City, Edo State, Nigeria",
+      "profile": {
+        "founded": 2020,
+        "structure": "Independent charity (Legacy Restoration Trust, UK-registered) with international institutional donors",
+        "publicAccess": "Pre-opening \"creative campus\" open since late 2024; full public museum opening postponed indefinitely since November 2025",
+        "currentState": "Public opening postponed indefinitely since November 2025 amid a land-title and political dispute; a pre-opening creative campus has operated since late 2024.",
+        "size": "N/A — a new-build institution intended to house repatriated Benin Bronzes and contemporary West African art, not a single collector's holding"
+      },
+      "composition": {
+        "focus": "West African art and cultural heritage, including repatriated Benin Bronzes",
+        "period": "Historical (Benin Kingdom antiquities) and contemporary"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Legacy Restoration Trust launches the MOWAA project in Benin City, with architect Sir David Adjaye and international institutional backing",
+            "year": 2020,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "A pre-opening \"creative campus\" (research, conservation, and event space) opens to visitors",
+            "year": 2024,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "A November 2025 public preview is disrupted by protesters asserting the Oba of Benin's traditional authority over the Benin Bronzes; the full public opening is postponed indefinitely and Edo State revokes the project's Certificate of Occupancy over its land",
+            "year": 2025,
+            "familyId": "build-institution",
+            "codedPathway": "abandoned-plan"
+          }
+        ]
+      },
+      "origin": "A UK-registered charity, backed by the British Museum, the German government, and the Mellon Foundation among others, set out to build a major new museum in Benin City to help house Benin Bronzes returned to Nigeria — but a dispute over who holds authority over that heritage has stalled its public opening.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Hyperallergic",
+        "Artforum",
+        "ARTnews",
+        "Museums Association",
+        "allAfrica",
+        "African Business"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "muzej-lah",
       "publicDepth": "expanded",
       "name": "Muzej Lah",
@@ -5032,6 +6096,76 @@
         "fundacijalah.com",
         "Domus",
         "David Chipperfield Architects"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "muzeum-susch",
+      "publicDepth": "expanded",
+      "name": "Muzeum Susch",
+      "founder": "Grażyna Kulczyk",
+      "location": "Susch, Graubünden, Switzerland (formerly Poznań, Poland, 2004-2016)",
+      "profile": {
+        "founded": 2019,
+        "collectingBegan": "1990s",
+        "structure": "Operated by Art Stations Foundation CH, a Swiss foundation (\"Stiftung\") registered in Baar/St. Moritz, chaired by the founder with family board members",
+        "publicAccess": "Open to the public, ticketed, seasonal opening schedule",
+        "currentState": "Open since January 2019 in Susch, Switzerland, after the founder's original Polish institution closed its exhibition program in 2016.",
+        "size": "A 16,000 sq ft museum built into a former 12th-century monastery and 19th-century brewery; collection size not fully disclosed"
+      },
+      "composition": {
+        "focus": "Conceptual and post-war art with a stated emphasis on overlooked and women artists",
+        "movements": [
+          "Conceptual art",
+          "feminist and gender-focused contemporary practice",
+          "Central European postwar art"
+        ],
+        "period": "Mid-20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation",
+          "performance documentation"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Kulczyk converts a former Poznań brewery into the Art Stations exhibition complex",
+            "year": 2004,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The Poznań exhibition program concludes after plans to relocate within Poland (Warsaw) fall through",
+            "year": 2016,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Construction begins on a new site in Susch, Switzerland, folding the collection and foundation into a new Swiss entity",
+            "year": 2016,
+            "familyId": "build-institution",
+            "codedPathway": "merger-into-institution"
+          },
+          {
+            "event": "Muzeum Susch opens to the public in the Swiss Alps",
+            "year": 2019,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Polish collector and entrepreneur Grażyna Kulczyk opened the Art Stations Foundation in a converted Poznań brewery in 2004, running a public exhibition program there for twelve years. When a planned relocation within Poland did not materialize, she closed the Polish program in 2016 and, rather than dispersing the collection, moved the entire institution abroad, building a new museum into a former monastery in the Swiss Alpine village of Susch. Muzeum Susch opened in January 2019 under a newly formed Swiss foundation, continuing the same collecting focus on conceptual and overlooked, largely women, artists.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artforum",
+        "Artsy",
+        "Sotheby's",
+        "Muzeum Susch (Wikipedia)"
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
@@ -5269,6 +6403,56 @@
       "livingCollector": true
     },
     {
+      "slug": "pasadena-museum-of-california-art",
+      "publicDepth": "record",
+      "name": "Pasadena Museum of California Art (PMCA)",
+      "founder": "Robert (Bob) and Arlene Oltman",
+      "location": "Pasadena, California",
+      "profile": {
+        "founded": 2002,
+        "structure": "Independent nonprofit museum (dissolved 2018)",
+        "publicAccess": "Open to the public 2002-2018; closed permanently",
+        "currentState": "Closed permanently in 2018, 16 years after opening; the building was sold and the institution dissolved."
+      },
+      "composition": {
+        "focus": "California art and design, kunsthalle model with rotating exhibitions rather than a permanent collection"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Ground broken for a purpose-built museum in downtown Pasadena",
+            "year": 2000,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "PMCA opens, with the Oltmans living in a residence above the museum",
+            "year": 2002,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "The board votes to close permanently after a Judy Chicago exhibition, citing funding and revenue constraints",
+            "year": 2018,
+            "familyId": "close",
+            "codedPathway": "dissolved"
+          }
+        ]
+      },
+      "origin": "A Pasadena couple built and funded a purpose-built museum devoted to California art and design above their own residence, running it for 16 years as a rotating-exhibition venue before closing it for financial reasons in 2018.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "The Art Newspaper",
+        "LAmag",
+        "Pasadena Now",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "petrucci-family-foundation",
       "publicDepth": "expanded",
       "name": "Petrucci Family Foundation Collection of African American Art",
@@ -5373,6 +6557,63 @@
         "San Francisco Chronicle",
         "SF Standard",
         "Wikipedia"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "pinto-art-museum",
+      "publicDepth": "expanded",
+      "name": "Pintô Art Museum",
+      "founder": "Dr. Joven Cuanang",
+      "location": "Antipolo, Rizal, Philippines",
+      "profile": {
+        "founded": 2010,
+        "collectingBegan": "1988",
+        "structure": "Standalone private museum on founder-owned land",
+        "publicAccess": "Open to the public since 2010",
+        "currentState": "Open to the public near Manila since 2010.",
+        "size": "Six buildings across ~12,000 sq m (~130,000 sq ft)"
+      },
+      "composition": {
+        "focus": "Contemporary Filipino art, especially artists the founder personally patronized from the 1980s onward",
+        "movements": [
+          "Philippine contemporary art"
+        ],
+        "period": "Late 1980s to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "mixed media"
+        ],
+        "selectedArtists": [
+          "Salingpusa collective artists"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Neurologist Dr. Joven Cuanang begins patronizing and collecting work by the Salingpusa artist collective in Antipolo",
+            "year": 1988,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Cuanang opens his collection to the public as the Pintô Art Museum",
+            "year": 2010,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "A Filipino neurologist, Dr. Joven Cuanang, spent over two decades patronizing a community of young contemporary artists near Manila before opening his own collection to the public in 2010 as a museum and garden on his own land in Antipolo.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wikipedia",
+        "Pintô Art Museum (pintoart.org)",
+        "Wonderful Museums"
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
@@ -5765,6 +7006,72 @@
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
+    },
+    {
+      "slug": "sakip-sabanci-museum",
+      "publicDepth": "expanded",
+      "name": "Sakıp Sabancı Museum",
+      "founder": "Sakıp Sabancı",
+      "location": "Istanbul, Turkey",
+      "profile": {
+        "founded": 2002,
+        "structure": "Operated by Sabancı University, on a bequeathed family estate",
+        "publicAccess": "Open to the public since June 2002",
+        "currentState": "Open to the public in Istanbul since 2002; expanded 2005.",
+        "size": "Calligraphy, painting, and decorative-arts collection, plus a modern/contemporary gallery annex"
+      },
+      "composition": {
+        "focus": "Ottoman calligraphy and state documents, and 19th-20th century Turkish painting",
+        "movements": [
+          "Ottoman calligraphy",
+          "Turkish painting"
+        ],
+        "period": "Ottoman era through 20th century",
+        "media": [
+          "calligraphy",
+          "painting",
+          "decorative arts"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Sakıp Sabancı bequeaths his family's Bosphorus mansion (Atlı Köşk), its collection, and its grounds to the newly-forming Sabancı University",
+            "year": 1998,
+            "familyId": "partner-institution",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "Sabancı University is founded",
+            "year": 1999,
+            "familyId": "partner-institution",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "The Sakıp Sabancı Museum opens to the public in the converted mansion",
+            "year": 2002,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "A modern exhibition-gallery annex expands the museum's capacity",
+            "year": 2005,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Industrialist and collector Sakıp Sabancı gave his own Bosphorus family mansion, along with his lifetime collection of Ottoman calligraphy and Turkish painting, to the university he was founding — turning a private home into one of Istanbul's leading museums two years before his death.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Sabancı University",
+        "Sakıp Sabancı Museum (SSM)",
+        "Sotheby's museum profile",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "shelburne-museum",
@@ -6210,6 +7517,81 @@
         "stormking.org",
         "ARTnews",
         "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "td-bank-art-collection",
+      "publicDepth": "expanded",
+      "name": "TD Art Collection",
+      "founder": "TD Bank Group (corporate decision; no individual founder)",
+      "location": "Toronto, Ontario, Canada (works displayed at 1,000+ TD locations in Canada and the US)",
+      "profile": {
+        "founded": 1963,
+        "collectingBegan": "1965 (Indigenous/Inuit art specifically)",
+        "structure": "Corporate collection owned directly by TD Bank Group; managed by an in-house art team",
+        "publicAccess": "A dedicated public gallery (TD Gallery of Indigenous Art, Toronto, free); the wider collection is otherwise displayed non-publicly across TD branches, offices, and conference facilities",
+        "currentState": "Active corporate collection since 1963; on public display in the TD Gallery of Indigenous Art (Toronto) and at TD locations across Canada and the US.",
+        "size": "6,000+ works across painting, sculpture, drawing, photography, and prints"
+      },
+      "composition": {
+        "focus": "Contemporary Canadian art with a stated mandate to foreground work by women, Black, Indigenous, Pan-Asian, Latinx, LGBTQ2+, senior, and disabled artists; a distinct historic core of Inuit art from the Canadian Arctic",
+        "movements": [
+          "Contemporary Canadian art",
+          "Inuit and Indigenous Canadian art",
+          "Group of Seven-adjacent early Canadian modernism"
+        ],
+        "period": "Early 20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "drawing",
+          "photography",
+          "prints"
+        ],
+        "selectedArtists": [
+          "Kenojuak Ashevak",
+          "Lawren Harris",
+          "Meryl McMaster",
+          "Jin-me Yoon"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Toronto-Dominion Bank begins a corporate art collection",
+            "year": 1963,
+            "familyId": "retain-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "The bank begins collecting Inuit art from the Canadian Arctic, assembled to mark Canada's 1967 centennial",
+            "year": 1965,
+            "familyId": "retain-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "The TD Gallery of Inuit Art opens to the public in Toronto",
+            "year": 1986,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Collection mandate shifts to actively \"amplify diverse voices,\" expanding acquisitions of contemporary work by historically underrepresented Canadian artists",
+            "year": "2020s",
+            "familyId": "retain-family",
+            "codedPathway": "traveling-program"
+          }
+        ]
+      },
+      "origin": "The Toronto-Dominion Bank (now TD Bank Group) began a corporate art collection in 1963 and, in 1965, started collecting Inuit art from the Canadian Arctic, opening the free public TD Gallery of Inuit Art (now the TD Gallery of Indigenous Art) in Toronto in 1986. The collection has grown to more than 6,000 works, displayed mostly across TD's own branches and offices in Canada and the US, with a current mandate to prioritize acquisitions by Canadian artists from historically underrepresented communities.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "TD Stories",
+        "ARTnews",
+        "td.com"
       ],
       "lastReviewed": "2026-09"
     },
@@ -8364,6 +9746,131 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "elliott-collection-university-of-iowa",
+      "publicDepth": "expanded",
+      "name": "University of Iowa Stanley Museum of Art (Elliott Collection)",
+      "founder": "Owen and Leone Elliott",
+      "location": "Iowa City, IA, USA",
+      "profile": {
+        "founded": 1969,
+        "structure": "A university art museum within the University of Iowa; the Elliott gift was the founding catalyst",
+        "publicAccess": "Open to the public, free admission",
+        "currentState": "The Elliott gift remains a cornerstone of the University of Iowa Stanley Museum of Art's collection, which reopened in a new building in 2022 after a 2008 flood forced a 14-year displacement.",
+        "size": "1,200+ objects in the original Elliott gift (paintings, works on paper, silver, jade); part of a much larger university museum collection today"
+      },
+      "composition": {
+        "focus": "European and American modernism (the Elliott gift); the university museum's broader collection spans global art history",
+        "movements": [
+          "European and American modernism",
+          "also African art and postwar American painting elsewhere in the museum's holdings"
+        ],
+        "period": "Early-to-mid 20th century (Elliott gift)",
+        "media": [
+          "painting",
+          "works on paper",
+          "silver",
+          "jade"
+        ],
+        "selectedArtists": [
+          "Pablo Picasso",
+          "Gabriele Münter",
+          "Honoré Daumier"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Owen and Leone Elliott offer their collection to the University of Iowa, conditioned on a museum being built to house it",
+            "year": 1962,
+            "familyId": "collector-offers",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "University of Iowa Museum of Art opens, funded by contributions from 2,000+ individuals and businesses",
+            "year": 1969,
+            "familyId": "museum-opens",
+            "codedPathway": "university-partnership"
+          },
+          {
+            "event": "A historic Iowa River flood forces evacuation of the collection; it is relocated for 14 years, including a world tour for the collection's Jackson Pollock \"Mural\"",
+            "year": 2008,
+            "familyId": "flood-displacement",
+            "codedPathway": "hybrid"
+          },
+          {
+            "event": "UI Stanley Museum of Art reopens in a new building",
+            "year": 2022,
+            "familyId": "museum-reopens",
+            "codedPathway": "university-partnership"
+          }
+        ]
+      },
+      "origin": "Cedar Rapids collectors Owen and Leone Elliott offered their collection of Picasso, Münter, Daumier, and other modernist works to the University of Iowa in 1962, on the condition that the university build a dedicated museum to house it. More than 2,000 donors funded the building, which opened in 1969. A catastrophic 2008 flood forced the collection out for 14 years before the museum reopened in a new building in 2022.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Stanley Museum of Art (stanleymuseum.uiowa.edu)",
+        "University of Iowa Libraries",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "wesfarmers-art-collection",
+      "publicDepth": "expanded",
+      "name": "Wesfarmers Collection of Australian Art",
+      "founder": "Wesfarmers Limited (corporate board decision; no individual founder)",
+      "location": "Perth, Western Australia, Australia (touring nationally and internationally)",
+      "profile": {
+        "founded": 1977,
+        "structure": "Corporate collection owned by Wesfarmers Limited, an ASX-listed conglomerate; managed by a dedicated curator",
+        "publicAccess": "A selection on permanent public display at Perth Concert Hall; the collection also tours to Australian and international galleries and is viewable via a dedicated online catalogue and app",
+        "currentState": "Active corporate collection since 1977; on permanent public display at Perth Concert Hall and touring nationally.",
+        "size": "800 works by 300 artists"
+      },
+      "composition": {
+        "focus": "Primarily Australian art (and, more recently, New Zealand art), from early European settlement to the present, including a First Peoples/Indigenous art focus",
+        "movements": [
+          "Australian impressionism",
+          "Indigenous Australian art",
+          "Australian modernism and contemporary art"
+        ],
+        "period": "Early 19th century to present",
+        "media": [
+          "painting",
+          "photography",
+          "sculpture",
+          "digital media"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Wesfarmers purchases its first artwork, an Elioth Gruner pastoral scene, after a general manager convinces the board of the investment and cultural case for a corporate collection",
+            "year": 1977,
+            "familyId": "retain-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Collection grows to around 800 works, with an active loan and touring program to Australian and international institutions",
+            "year": "1977-present",
+            "familyId": "retain-family",
+            "codedPathway": "traveling-program"
+          }
+        ]
+      },
+      "origin": "Wesfarmers, an Australian conglomerate founded in 1914 as a farmers' cooperative, began collecting Australian art in 1977 on a board-approved case built by a company general manager. Now around 800 works by 300-plus artists, the collection is exhibited on permanent public display at Perth Concert Hall and lent regularly to galleries across Australia and abroad.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Wesfarmers",
+        "Wesfarmers Collection of Australian Art"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "westlb-portigon-collection",
       "publicDepth": "record",
       "name": "WestLB / Portigon Art Collection",
@@ -8640,6 +10147,134 @@
         "Wikipedia"
       ],
       "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "zabludowicz-collection",
+      "publicDepth": "record",
+      "name": "Zabludowicz Collection",
+      "founder": "Anita & Poju Zabludowicz",
+      "location": "London, UK (founded in a converted Methodist chapel, Chalk Farm)",
+      "profile": {
+        "founded": 2007,
+        "structure": "Registered UK charity (Zabludowicz Art Projects, charity no. 1120067)",
+        "publicAccess": "Free public exhibitions at its London space 2007-2023; now access via loans to partner institutions and digital programs, no dedicated public building",
+        "currentState": "Closed its London exhibition space in December 2023 after 16 years; the foundation continues, expanding free loans to institutions worldwide.",
+        "size": "8,000+ works"
+      },
+      "composition": {
+        "focus": "Contemporary art, with an emphasis on emerging and mid-career artists and large-scale installation/video work",
+        "period": "Contemporary (collecting begun 1994)"
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Anita and Poju Zabludowicz begin collecting contemporary art",
+            "year": 1994,
+            "familyId": "keep-family",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Zabludowicz Art Projects opens a free public exhibition space in a converted 1870s Methodist chapel in Chalk Farm, London",
+            "year": 2007,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "The London space closes permanently after 16 years; the foundation states it will expand free loans to institutions and its digital programs instead",
+            "year": 2023,
+            "familyId": "build-institution",
+            "codedPathway": "pivoted"
+          }
+        ]
+      },
+      "origin": "A collector couple built a 16-year public exhibition space inside a converted London chapel, then chose to close it while the foundation was still financially healthy, redirecting toward lending works to other institutions instead of maintaining a building of their own.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Artnet News",
+        "ARTnews",
+        "The Art Newspaper",
+        "Artforum",
+        "UK Charity Commission"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "zeitz-mocaa",
+      "publicDepth": "expanded",
+      "name": "Zeitz Museum of Contemporary Art Africa (Zeitz MOCAA)",
+      "founder": "Jochen Zeitz (with curator Mark Coetzee)",
+      "location": "Cape Town, South Africa",
+      "profile": {
+        "founded": 2017,
+        "collectingBegan": "2002",
+        "structure": "Independent nonprofit trust; building owned by the V&A Waterfront property company on a 99-year lease",
+        "publicAccess": "Open to the public year-round; paid admission",
+        "currentState": "Open in Cape Town since 2017; new artistic director takes up the role in October 2026.",
+        "size": "~100 galleries across nine floors of a converted grain silo; founding collection built from Jochen Zeitz's personal holdings, given on long-term loan"
+      },
+      "composition": {
+        "focus": "Contemporary art from Africa and its diaspora",
+        "movements": [
+          "contemporary African and diaspora art"
+        ],
+        "period": "Late 20th century to present",
+        "media": [
+          "painting",
+          "sculpture",
+          "photography",
+          "installation",
+          "moving image"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Jochen Zeitz begins collecting contemporary African and diaspora art",
+            "year": 2002,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "V&A Waterfront and Zeitz agree to convert a historic grain silo into a museum, with Zeitz's collection given on long-term loan",
+            "year": 2013,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Zeitz MOCAA opens as the largest museum dedicated to contemporary African art",
+            "year": 2017,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Founding executive director and chief curator Mark Coetzee resigns amid misconduct allegations",
+            "year": 2018,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Executive director Koyo Kouoh dies; Elvira Dyangani Ose named her successor, taking up the role October 2026",
+            "year": 2025,
+            "familyId": "found-standalone-museum",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "German entrepreneur and former Puma CEO Jochen Zeitz built a personal collection of contemporary African and diaspora art from 2002 onward. In 2013 he partnered with Cape Town's V&A Waterfront property company to convert a disused 1921 grain silo into a museum, giving his collection on long-term loan as its founding core; it opened in 2017 as the world's largest museum dedicated to contemporary African art.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Zeitz MOCAA",
+        "Wikipedia",
+        "The Art Newspaper",
+        "Larry's List"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
     },
     {
       "slug": "di-rosa",

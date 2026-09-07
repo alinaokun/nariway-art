@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H2, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: expanded
 public_status_text: "Open and free to the public in Bogotá since November 2000, part of the Banco de la República's Red Cultural network of museums."
 public_name: Museo Botero
