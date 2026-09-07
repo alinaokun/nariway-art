@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H2, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "The foundation distributed more than 1,000 of Mark Rothko's works to museums worldwide and concluded in the late 1980s; his archive went to the National Gallery of Art."
 public_name: The Mark Rothko Foundation
@@ -32,7 +33,7 @@ public_period: 20th century
 public_media: painting; works on paper
 public_selected_artists: Mark Rothko
 public_recipients: National Gallery of Art; High Museum of Art; and museums worldwide
-public_pathway_timeline: 1970|||Mark Rothko dies in New York ;; 1976|||The reconstituted Mark Rothko Foundation assumes responsibility for the estate after the landmark estate litigation ;; 1984|disperse|intentional-dispersal|The foundation begins distributing more than 1,000 works to museums worldwide ;; 1986|disperse|intentional-dispersal|Distribution is completed and the foundation concludes; the National Gallery of Art receives 296 paintings and about 600 works on paper, plus the foundation's archive
+public_pathway_timeline: 1970|||Mark Rothko dies in New York ;; 1976|||The reconstituted Mark Rothko Foundation assumes responsibility for the estate after the landmark estate litigation ;; 1984|disperse|intentional-dispersal|The foundation begins distributing more than 1,000 works to museums worldwide ;; 1986|disperse|intentional-dispersal|Distribution is completed; the National Gallery of Art receives 296 paintings and about 600 works on paper, plus the foundation's archive ;; 1988|||The foundation winds down and concludes
 public_origin: "After Mark Rothko's death in 1970 and the landmark litigation over his estate, the Mark Rothko Foundation distributed more than 1,000 of his works to museums worldwide rather than to a single home. The National Gallery of Art received the largest share and the artist's archive; other institutions, including the High Museum of Art, received works before the foundation concluded in the late 1980s."
 public_sources: National Gallery of Art; The Mark Rothko Foundation
 hero_image_status: no_usable_image

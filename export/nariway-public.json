@@ -2056,6 +2056,67 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "shaheen-collection-high-museum",
+      "publicDepth": "record",
+      "name": "Doris and Shouky Shaheen Collection",
+      "founder": "Doris and Shouky Shaheen",
+      "location": "Atlanta, Georgia, USA",
+      "profile": {
+        "collectingBegan": "early 1970s",
+        "structure": "Private collection of Impressionist and modern paintings gifted to the High Museum of Art, with a named gallery",
+        "publicAccess": "Held by the High Museum of Art, Atlanta; shown in the Doris and Shouky Shaheen Gallery, Stent Family Wing",
+        "currentState": "Donated to the High Museum of Art, Atlanta, in 2019 and shown in a gallery bearing the collectors' names.",
+        "size": "24 paintings"
+      },
+      "composition": {
+        "focus": "Impressionist, Post-Impressionist, and early modern European painting",
+        "movements": [
+          "Impressionism",
+          "Post-Impressionism",
+          "early modernism"
+        ],
+        "period": "19th-20th century",
+        "media": [
+          "painting"
+        ],
+        "selectedArtists": [
+          "Claude Monet",
+          "Pierre-Auguste Renoir",
+          "Camille Pissarro",
+          "Alfred Sisley",
+          "Henri Matisse",
+          "Amedeo Modigliani"
+        ],
+        "recipients": [
+          "High Museum of Art, Atlanta"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Doris and Shouky Shaheen begin collecting, starting with a Vlaminck",
+            "year": "1970s"
+          },
+          {
+            "event": "The Shaheens donate 24 Impressionist and modern paintings to the High Museum of Art, installed in a gallery bearing their names",
+            "year": 2019,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Longtime Atlanta residents Doris and Shouky Shaheen built a collection of Impressionist and modern European paintings from the early 1970s. In 2019 they gave 24 of them to the High Museum of Art, one of the most significant European gifts in the museum's history, shown in a gallery bearing their names.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "High Museum of Art",
+        "Artnet News",
+        "Atlanta Magazine"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "vogel-collection",
       "publicDepth": "expanded",
       "name": "Dorothy and Herbert Vogel Collection",
@@ -2647,6 +2708,56 @@
       "sources": [
         "fondazioneprada.org",
         "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "richman-collection-african-art-high",
+      "publicDepth": "record",
+      "name": "Fred and Rita Richman Collection of African Art",
+      "founder": "Fred and Rita Richman",
+      "location": "Atlanta, Georgia, USA",
+      "profile": {
+        "structure": "Private collection of sub-Saharan African art gifted to the High Museum of Art in 1971",
+        "publicAccess": "Held by the High Museum of Art, Atlanta",
+        "currentState": "Given to the High Museum of Art in 1971; the museum's first major African art holding.",
+        "size": "248 objects"
+      },
+      "composition": {
+        "focus": "Sub-Saharan African art",
+        "movements": [
+          "Historic and traditional African art"
+        ],
+        "media": [
+          "sculpture",
+          "wood carving",
+          "masks",
+          "decorative arts"
+        ],
+        "recipients": [
+          "High Museum of Art, Atlanta"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Fred and Rita Richman give 248 objects of sub-Saharan African art to the High Museum of Art, its first major African art holding",
+            "year": 1971,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The collection debuts publicly in the exhibition \"A Treasure for Atlanta,\" with the catalog \"African Tribal Art",
+            "year": 1973
+          }
+        ]
+      },
+      "origin": "Fred and Rita Richman gave 248 objects of sub-Saharan African art to the High Museum of Art in 1971 - a gift, made in the aftermath of the 1962 Orly air crash that devastated Atlanta's arts community, that gave the museum its first major African art holding.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "High Museum of Art"
       ],
       "lastReviewed": "2026-09"
     },
@@ -3584,6 +3695,67 @@
         "Instituto Moreira Salles",
         "Wikipedia",
         "Itaú Unibanco (Wikipedia)"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "stein-collection-high-museum",
+      "publicDepth": "record",
+      "name": "Irene and Howard Stein Collection",
+      "founder": "Irene and Howard Stein",
+      "location": "Atlanta, Georgia, USA",
+      "profile": {
+        "collectingBegan": "circa 1970s",
+        "structure": "Private collection of late-19th-century European prints, posters, and sculpture; promised in 2010 and received by bequest in 2020 by the High Museum of Art",
+        "publicAccess": "Held by the High Museum of Art, Atlanta",
+        "currentState": "Promised to the High Museum of Art, Atlanta, in 2010 and received by bequest in 2020.",
+        "size": "53 works (41 prints and posters, including 31 by Toulouse-Lautrec; 10 sculptures; 1 drawing; 1 painting)"
+      },
+      "composition": {
+        "focus": "Late-19th-century French prints and posters, especially Henri de Toulouse-Lautrec, plus 19th-century sculpture",
+        "movements": [
+          "Post-Impressionism",
+          "Belle Epoque printmaking"
+        ],
+        "period": "late 19th century",
+        "media": [
+          "prints",
+          "posters",
+          "sculpture",
+          "drawing",
+          "painting"
+        ],
+        "selectedArtists": [
+          "Henri de Toulouse-Lautrec",
+          "Edgar Degas",
+          "Paul Gauguin"
+        ],
+        "recipients": [
+          "High Museum of Art, Atlanta"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Irene and Howard Stein promise their European collection to the High Museum of Art",
+            "year": 2010,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The 53-work collection enters the museum by bequest",
+            "year": 2020,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Atlanta collectors Irene and Howard Stein assembled one of the finest private holdings of Henri de Toulouse-Lautrec prints and posters, alongside 19th-century French sculpture and works by Degas and Gauguin. Promised to the High Museum of Art in 2010, the 53-work collection entered the museum by bequest in 2020.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "High Museum of Art"
       ],
       "lastReviewed": "2026-09"
     },
@@ -7521,6 +7693,74 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "t-marshall-hahn-collection",
+      "publicDepth": "record",
+      "name": "T. Marshall Hahn Collection",
+      "founder": "T. Marshall Hahn Jr.",
+      "location": "Atlanta, Georgia, USA",
+      "profile": {
+        "collectingBegan": "circa 1980s",
+        "structure": "Private collection of Southern self-taught art gifted to the High Museum of Art",
+        "publicAccess": "Held by the High Museum of Art, Atlanta (free-to-enter galleries; the museum charges general admission)",
+        "currentState": "Given to the High Museum of Art, Atlanta, in 1996-97; anchors the museum's folk and self-taught art department.",
+        "size": "More than 140 works by over 30 artists"
+      },
+      "composition": {
+        "focus": "Southern self-taught and folk art, especially by African American artists",
+        "movements": [
+          "Self-taught / folk art",
+          "Southern vernacular art"
+        ],
+        "period": "20th century",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper",
+          "mixed media"
+        ],
+        "selectedArtists": [
+          "Thornton Dial",
+          "Howard Finster",
+          "Bill Traylor",
+          "Nellie Mae Rowe",
+          "Mattie Lou O'Kelley",
+          "Elijah Pierce"
+        ],
+        "recipients": [
+          "High Museum of Art, Atlanta"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "T. Marshall Hahn Jr. gives the first tranche of his Southern self-taught art collection to the High Museum of Art",
+            "year": 1996,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The gift is completed, at more than 140 works",
+            "year": 1997,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The High presents \"Let It Shine,\" an exhibition and catalog drawn from the collection",
+            "year": 2001
+          }
+        ]
+      },
+      "origin": "Georgia business and university leader T. Marshall Hahn Jr. assembled a leading collection of Southern self-taught art, especially by African American artists. His 1996-97 gift of more than 140 works to the High Museum of Art was among the first major collections of its kind to enter a general-interest US museum, anchoring the High's folk and self-taught art department.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "High Museum of Art",
+        "\"Let It Shine\" (High Museum of Art catalog)"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "td-bank-art-collection",
       "publicDepth": "expanded",
       "name": "TD Art Collection",
@@ -8125,6 +8365,66 @@
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
+    },
+    {
+      "slug": "bunnen-collection-high-museum",
+      "publicDepth": "record",
+      "name": "The Bunnen Collection of Photography",
+      "founder": "Lucinda W. Bunnen",
+      "location": "Atlanta, Georgia, USA",
+      "profile": {
+        "collectingBegan": "1970s",
+        "structure": "Private photography collection whose 1981 gift formed the core of the High Museum of Art's photography holdings; galleries named for the collector",
+        "publicAccess": "Held by the High Museum of Art, Atlanta",
+        "currentState": "1981 gift formed the core of the High Museum of Art's photography holdings; galleries are named for the collector.",
+        "size": "More than 650 photographs"
+      },
+      "composition": {
+        "focus": "20th-century and contemporary photography",
+        "movements": [
+          "20th-century and contemporary photography"
+        ],
+        "period": "20th century",
+        "media": [
+          "photography"
+        ],
+        "selectedArtists": [
+          "Nan Goldin",
+          "Chuck Close",
+          "William Eggleston",
+          "Edward Weston"
+        ],
+        "recipients": [
+          "High Museum of Art, Atlanta"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Lucinda Bunnen collects photography, then a young field for museums",
+            "year": "1970s"
+          },
+          {
+            "event": "Her 1981 gift forms the core of the High Museum of Art's photography holdings",
+            "year": 1981,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Decades of continued acquisition and support build the department, with galleries named for her",
+            "year": "1981-present"
+          }
+        ]
+      },
+      "origin": "Atlanta photographer, collector, and philanthropist Lucinda W. Bunnen built a photography collection whose 1981 gift formed the core of the High Museum of Art's photography holdings (the museum had begun collecting photography in 1973). Her continued support over decades helped build a department now named in her honor.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "High Museum of Art",
+        "ArtsATL"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "chinati",
@@ -8954,6 +9254,77 @@
       "sources": [
         "kreegermuseum.org",
         "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "mark-rothko-foundation",
+      "publicDepth": "record",
+      "name": "The Mark Rothko Foundation",
+      "founder": "Estate of Mark Rothko",
+      "location": "New York, NY, USA",
+      "profile": {
+        "founded": 1976,
+        "structure": "Artist's foundation established to hold and distribute the estate of Mark Rothko, dissolved after completing the distribution",
+        "publicAccess": "Works distributed to museums worldwide; no single public home",
+        "currentState": "The foundation distributed more than 1,000 of Mark Rothko's works to museums worldwide and concluded in the late 1980s; his archive went to the National Gallery of Art.",
+        "size": "More than 1,000 works distributed; the National Gallery of Art received 296 paintings and about 600 works on paper"
+      },
+      "composition": {
+        "focus": "The estate and works of Mark Rothko",
+        "movements": [
+          "Abstract Expressionism",
+          "Color Field painting"
+        ],
+        "period": "20th century",
+        "media": [
+          "painting",
+          "works on paper"
+        ],
+        "selectedArtists": [
+          "Mark Rothko"
+        ],
+        "recipients": [
+          "National Gallery of Art",
+          "High Museum of Art",
+          "and museums worldwide"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Mark Rothko dies in New York",
+            "year": 1970
+          },
+          {
+            "event": "The reconstituted Mark Rothko Foundation assumes responsibility for the estate after the landmark estate litigation",
+            "year": 1976
+          },
+          {
+            "event": "The foundation begins distributing more than 1,000 works to museums worldwide",
+            "year": 1984,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          },
+          {
+            "event": "Distribution is completed; the National Gallery of Art receives 296 paintings and about 600 works on paper, plus the foundation's archive",
+            "year": 1986,
+            "familyId": "disperse",
+            "codedPathway": "intentional-dispersal"
+          },
+          {
+            "event": "The foundation winds down and concludes",
+            "year": 1988
+          }
+        ]
+      },
+      "origin": "After Mark Rothko's death in 1970 and the landmark litigation over his estate, the Mark Rothko Foundation distributed more than 1,000 of his works to museums worldwide rather than to a single home. The National Gallery of Art received the largest share and the artist's archive; other institutions, including the High Museum of Art, received works before the foundation concluded in the late 1980s.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "National Gallery of Art",
+        "The Mark Rothko Foundation"
       ],
       "lastReviewed": "2026-09"
     },
@@ -9813,6 +10184,72 @@
         "Stanley Museum of Art (stanleymuseum.uiowa.edu)",
         "University of Iowa Libraries",
         "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "crawford-collection-decorative-arts-high",
+      "publicDepth": "record",
+      "name": "Virginia Carroll Crawford Collection of American Decorative Arts",
+      "founder": "Virginia Carroll Crawford",
+      "location": "Atlanta, Georgia, USA",
+      "profile": {
+        "structure": "American decorative-arts collection assembled through Virginia Carroll Crawford's personal patronage of the High Museum of Art, not a single gift or bequest",
+        "publicAccess": "Held by the High Museum of Art, Atlanta",
+        "currentState": "Assembled through Virginia Carroll Crawford's patronage of the High Museum of Art from 1979 until her death in 1999; a leading American decorative-arts collection.",
+        "size": "The most comprehensive survey of 19th- to early-20th-century American decorative arts in the Southeast"
+      },
+      "composition": {
+        "focus": "American furniture, silver, ceramics, and glass, circa 1810-1917",
+        "movements": [
+          "American Aesthetic Movement",
+          "Arts and Crafts",
+          "Art Nouveau"
+        ],
+        "period": "circa 1810-1917",
+        "media": [
+          "furniture",
+          "silver",
+          "ceramics",
+          "glass"
+        ],
+        "selectedArtists": [
+          "Tiffany & Co.",
+          "Herter Brothers",
+          "Gustav Stickley",
+          "Rookwood Pottery",
+          "Gorham"
+        ],
+        "recipients": [
+          "High Museum of Art, Atlanta"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Virginia Carroll Crawford begins assembling the collection through her patronage of the High Museum, starting with a Thomas Godey cabinet",
+            "year": 1979,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "The collection is first shown in the High's new Richard Meier building, with a catalogue",
+            "year": 1983
+          },
+          {
+            "event": "Crawford's benefaction continues until her death, after more than two decades",
+            "year": 1999,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Atlanta collector Virginia Carroll Crawford (1926-1999) assembled what the High Museum of Art describes as the most comprehensive survey of 19th- to early-20th-century American decorative arts in the Southeast - furniture, silver, ceramics, and glass. Built through her personal patronage from 1979 and first shown in 1983, it forms the core of the museum's American decorative-arts holdings.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "High Museum of Art"
       ],
       "lastReviewed": "2026-09"
     },

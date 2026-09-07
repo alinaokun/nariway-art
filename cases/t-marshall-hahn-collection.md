@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H2, H4]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Given to the High Museum of Art, Atlanta, in 1996-97; anchors the museum's folk and self-taught art department."
 public_name: T. Marshall Hahn Collection

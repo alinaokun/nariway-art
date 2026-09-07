@@ -8,7 +8,7 @@ secondary_pathways: []
 pathway_is_branched: false
 status: coded
 priority: medium
-founder_status: living
+founder_status: deceased
 geography: Atlanta, Georgia, USA
 outcome: thriving
 verification: spot-verified
@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H2, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Donated to the High Museum of Art, Atlanta, in 2019 and shown in a gallery bearing the collectors' names."
 public_name: Doris and Shouky Shaheen Collection
@@ -36,7 +37,7 @@ public_pathway_timeline: 1970s|||Doris and Shouky Shaheen begin collecting, star
 public_origin: "Longtime Atlanta residents Doris and Shouky Shaheen built a collection of Impressionist and modern European paintings from the early 1970s. In 2019 they gave 24 of them to the High Museum of Art, one of the most significant European gifts in the museum's history, shown in a gallery bearing their names."
 public_sources: High Museum of Art; Artnet News; Atlanta Magazine
 hero_image_status: no_usable_image
-living_collector: true
+living_collector: false
 last_reviewed: 2026-09
 ---
 
@@ -44,7 +45,7 @@ last_reviewed: 2026-09
 
 One-line: Longtime Atlanta collectors gave 24 Impressionist and modern European paintings to the High Museum of Art in 2019, one of the most significant European gifts in the museum's history, shown in a gallery bearing their names.
 
-*(Public projection fields are in the frontmatter above, per [[case-template]]. Added 2026-09-07 from the High Museum harvest, see [[museum-harvest]]. Whether both collectors are living was not confirmed this run; handled as living pending verification.)*
+*(Public projection fields are in the frontmatter above, per [[case-template]]. Added 2026-09-07 from the High Museum harvest, see [[museum-harvest]]. Doris Shaheen died in 2020; Shouky Shaheen's current status is unconfirmed.)*
 
 Doris and Shouky Shaheen, Atlanta residents since the mid-1960s, built a collection of Impressionist, Post-Impressionist, and early modern paintings beginning in the early 1970s. The gift of 24 paintings, announced in August 2019, was described by the High as among the most significant European gifts in its history and is displayed in the Doris and Shouky Shaheen Gallery in the museum's Stent Family Wing.
 

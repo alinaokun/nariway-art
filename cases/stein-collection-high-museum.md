@@ -17,6 +17,7 @@ interview_status: not-contacted
 hypotheses: [H2, H6]
 public_page_eligible: true
 public_verified: true
+public_qa_verified: 2026-09-07
 public_depth: record
 public_status_text: "Promised to the High Museum of Art, Atlanta, in 2010 and received by bequest in 2020."
 public_name: Irene and Howard Stein Collection
