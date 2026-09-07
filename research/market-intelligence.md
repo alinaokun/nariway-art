@@ -551,5 +551,22 @@ These are not competing claims about the same number; they are different numbers
 
 **Why this matters beyond fixing a citation.** The corrected picture is more interesting, not less, than the stale one: a decade of remarkable 60-65% stability (2012-2018) followed by a real, double-digit drop in the one full year reported since (FY2023) is a genuine trend worth flagging for the report's next Panel-data update, not a number to quietly correct and move past. It is also a discipline reminder for this research engine specifically: a correction logged once in the claims register (the single source of truth, per its own stated convention) does not automatically reach every file that cited the old number before the correction — this run is the first time anyone checked whether it had.
 
+## Law firms (and corporations) as a collector demographic — added 2026-09-07
+*Source: "Art as an Office Asset: Motivations and Collection Practices in Corporate Settings," Center for Art Law (itsartlaw.org), read 2026-09-07 from Alina's saved capture. A survey essay, not data — treat as a targeting/segment prompt, not proof. Flagged by Alina, who had not thought of law firms as a distinct collector demographic.*
+
+**The observation.** Law firms are a distinct art-collector demographic, not just a subset of "corporate collections." The essay's key distinction: unlike a facilities-or-marketing corporate program, in law firms "ownership, taste, and decision-making are often more personal" — partners hold genuine ownership stakes and treat the collection "as an extension of professional judgment." A 1995 NYT piece it cites found dozens of US firms collecting (some 1,000+ works), motivated by personal passion, regional loyalty, and client relations — with attorneys explicitly disavowing financial motive even while owning Warhol, Hockney, Lichtenstein.
+
+**Why it matters to Nariway (two distinct implications).**
+1. **A warm channel to the exact buyer.** Nariway's target buyers are T&E / estate attorneys. A law firm's *own* collection is a natural, non-salesy way into that conversation — "how does your firm think about its collection, and about the day the collecting partner retires?" — reaching the right people through their own interest rather than a pitch. Route to the outward work ([[market-entry-sept-2026]], [[warm-network]]); if it comes up in a real conversation it is [[market-learning]] evidence.
+2. **A future source of transition cases.** The "more personal" ownership is exactly what creates a decision-owner problem later: when the collecting partner dies or retires, or the firm merges or dissolves, a passion-built collection becomes an orphaned institutional asset with no clear owner of the decision — Nariway's shape (**H7A**). Firm dissolutions and mergers are the trigger events to watch.
+
+**Radar triage of the named collections** (discipline, per [[candidate-universe]]: no transition story = no corpus row yet).
+- **Deutsche Bank Collection** — already coded, [[deutsche-bank-collection]]. Active, tens of thousands of works; not a transition.
+- **Maslon LLP** (Minneapolis) — began as Sam & Luella Maslon's personal 1930s collection, now a firm asset; the clearest personal→institutional shape. **Watch** (is a documented transition or succession plan public?); do not add without one.
+- **Dorsey & Whitney; Best & Flanagan** (both Minneapolis; Best & Flanagan focused on Midwestern artists) — active firm collections. **Watch**, no transition.
+- **Microsoft; United Nations HQ collection** — active corporate / institutional, outside the private-transition scope. **Skip** for the corpus.
+
+**Discipline note.** One secondary survey essay; the "law firms collect" claim rests partly on a 1995 NYT article. This is a targeting insight, not a claims-register number, and no candidate-universe rows were added — none of the named firm collections has a documented transition. The value is the **demographic + channel**, logged for the outward work.
+
 ## How this log grows
 Research and Signals add significant macro and market-economics sources here, each with a short synthesis and the same routing discipline (numbers to the claims register, no restatement, corroboration not proof). Candidates: new Deloitte and Art Basel/UBS reports, TEFAF, major analyst pieces, and the READ tier of [[substack-register]].
