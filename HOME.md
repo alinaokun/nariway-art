@@ -2,7 +2,7 @@
 
 The always-current cockpit. Each morning a small routine refreshes the date and the two Upcoming lists below; the rest is yours to set.
 
-7 September 2026
+8 September 2026
 
 Nariway is a specialist service used by estate attorneys and fiduciaries to control and document the resolution of significant art collections.
 
