@@ -4705,6 +4705,74 @@
       "livingCollector": true
     },
     {
+      "slug": "kirkland-museum-denver",
+      "publicDepth": "expanded",
+      "name": "Kirkland Institute of Fine & Decorative Art at the Denver Art Museum",
+      "founder": "Hugh A. Grant",
+      "location": "Denver, Colorado",
+      "profile": {
+        "founded": 2003,
+        "structure": "Merged into the Denver Art Museum (October 2024)",
+        "publicAccess": "Open to the public; single ticket/membership covers both institutions since October 2024",
+        "currentState": "Merged into the Denver Art Museum, October 2024, as the Kirkland Institute of Fine & Decorative Art.",
+        "size": "30,000+ decorative-art objects plus the Vance Kirkland painting archive, added to the Denver Art Museum's own ~70,000-object collection"
+      },
+      "composition": {
+        "focus": "Colorado art and international decorative arts, 19th century to present",
+        "period": "mid-19th century to present",
+        "media": [
+          "painting",
+          "decorative arts",
+          "design"
+        ],
+        "selectedArtists": [
+          "Vance Kirkland"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Artist Vance Kirkland dies, naming Hugh A. Grant executor of his estate and studio",
+            "year": 1981
+          },
+          {
+            "event": "Grant establishes the Kirkland Foundation to collect and preserve Colorado art",
+            "year": 1996
+          },
+          {
+            "event": "Kirkland Museum of Fine & Decorative Art opens to the public, Grant founding director",
+            "year": 2003,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Merger with the Denver Art Museum announced",
+            "year": "2024-05",
+            "familyId": "give-institution",
+            "codedPathway": "merger-into-institution"
+          },
+          {
+            "event": "Merger takes effect; single ticketing begins",
+            "year": "2024-10",
+            "familyId": "give-institution",
+            "codedPathway": "merger-into-institution"
+          }
+        ]
+      },
+      "origin": "Artist Vance Kirkland named his former student and friend Hugh A. Grant executor of his estate in 1981. Grant built a foundation and, in 2003, a museum around Kirkland's work and a broader Colorado and international decorative-arts collection. In 2024, after a pandemic closure and flood damage strained the smaller museum, Grant merged it into the Denver Art Museum as the Kirkland Institute.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "denverartmuseum.org",
+        "The Art Newspaper",
+        "Denverite",
+        "CBS Colorado"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "kunsthalle-praha",
       "publicDepth": "expanded",
       "name": "Kunsthalle Praha",
@@ -6165,6 +6233,57 @@
       "livingCollector": true
     },
     {
+      "slug": "museum-of-photographic-arts-sdma",
+      "publicDepth": "expanded",
+      "name": "Museum of Photographic Arts (MOPA@SDMA)",
+      "founder": "Arthur Ollman (founding director)",
+      "location": "San Diego, California",
+      "profile": {
+        "founded": 1983,
+        "structure": "Merged into The San Diego Museum of Art (2023); now an in-house photography department",
+        "publicAccess": "Open to the public within the San Diego Museum of Art, Balboa Park",
+        "currentState": "Operating as a department of the San Diego Museum of Art since 2023.",
+        "size": "9,000+ photographs by 850+ artists; 22,000+ books and related materials"
+      },
+      "composition": {
+        "focus": "Photography and photographic history",
+        "period": "19th century to present",
+        "media": [
+          "photography"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "A San Diego photography collecting and exhibition effort begins",
+            "year": 1974
+          },
+          {
+            "event": "Opens as the Museum of Photographic Arts in Balboa Park, Arthur Ollman founding director",
+            "year": 1983,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Merges into The San Diego Museum of Art as MOPA@SDMA",
+            "year": "2023-07-01",
+            "familyId": "give-institution",
+            "codedPathway": "merger-into-institution"
+          }
+        ]
+      },
+      "origin": "The Museum of Photographic Arts opened in Balboa Park in 1983, one of few U.S. museums then dedicated solely to photography, and built a collection spanning nineteenth-century processes to contemporary work. In 2023 it merged into its Balboa Park neighbor, The San Diego Museum of Art, continuing as a named in-house photography department rather than an independent institution.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "sdmart.org",
+        "KPBS",
+        "The Art Newspaper"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "mowaa",
       "publicDepth": "record",
       "name": "Museum of West African Art (MOWAA)",
@@ -7355,6 +7474,77 @@
         "sidrichardsonmuseum.org",
         "Texas State Historical Association",
         "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "soane-museum",
+      "publicDepth": "expanded",
+      "name": "Sir John Soane's Museum",
+      "founder": "Sir John Soane",
+      "location": "London, United Kingdom",
+      "profile": {
+        "founded": 1837,
+        "structure": "Independent charity (Registered Charity No. 313609), governed by trustees under a private Act of Parliament, since 1969 a Charities Order; receives an annual UK government Grant-in-Aid via DCMS",
+        "publicAccess": "Free, open to the public without pre-booking",
+        "currentState": "Open, free, in London since 1837 — preserved substantially as Soane left it.",
+        "size": "~45,000 objects, including ~30,000 architectural drawings"
+      },
+      "composition": {
+        "focus": "Architecture, antiquities, paintings, and decorative arts assembled by the architect Sir John Soane",
+        "movements": [
+          "Neoclassicism",
+          "Grand Tour antiquarianism"
+        ],
+        "period": "late 18th century to 1837",
+        "media": [
+          "architecture",
+          "architectural drawings",
+          "paintings",
+          "sculpture",
+          "antiquities",
+          "decorative arts"
+        ],
+        "selectedArtists": [
+          "William Hogarth",
+          "J.M.W. Turner",
+          "Canaletto",
+          "Robert Adam",
+          "James Adam"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Soane builds and continually rebuilds 12–14 Lincoln's Inn Fields as his home, office, and collection",
+            "year": "1792–1824"
+          },
+          {
+            "event": "Soane secures a private Act of Parliament requiring the house and collection be preserved unchanged in perpetuity and kept free and open",
+            "year": 1833,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "Soane dies; a board of trustees takes over, opening the museum to the public",
+            "year": 1837,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "The 1833 Act is superseded by The Charities (Sir John Soane's Museum) Order, continuing the same preservation mandate under charity law",
+            "year": 1969
+          }
+        ]
+      },
+      "origin": "The architect Sir John Soane spent decades building and rebuilding his London townhouse into a home, office, and personal museum of architecture, antiquities, and art. In 1833 he secured a private Act of Parliament requiring the house be preserved exactly as he left it and kept free and open to the public in perpetuity — a condition that has held for nearly 190 years.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "soane.org",
+        "UK Parliament Hansard",
+        "GOV.UK"
       ],
       "lastReviewed": "2026-09"
     },
