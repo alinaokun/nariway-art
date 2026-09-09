@@ -2,7 +2,7 @@
 
 The always-current cockpit. Each morning a small routine refreshes the date and the two Upcoming lists below; the rest is yours to set.
 
-8 September 2026
+9 September 2026
 
 Nariway is a specialist service used by estate attorneys and fiduciaries to control and document the resolution of significant art collections.
 
@@ -25,6 +25,7 @@ Nariway is a specialist service used by estate attorneys and fiduciaries to cont
 - Oct 6 - Estate Planning Council of the Palm Beaches, Speaker Breakfast, "Unique Assets in Trusts and Estates" (marketing/events/events-radar.md)
 - Sept 11-14 - Christie's Alan Medaugh Hiroshige collection preview, sale Sept 15 (marketing/to-see.md)
 - Sept 17-20 - Bartos Mondrian public view, New York leg, ahead of Oct 14 London sale (marketing/to-see.md)
+- Sept 17-22 - Artcurial's Rothschild family collection preview, Paris, sale Sept 22 (marketing/to-see.md)
 - Oct 4 - Betye Saar's Black Dolls closes at New York Historical (marketing/to-see.md)
 - Sept 20-21 - Sotheby's Open House, NYC, includes a legal-succession session (marketing/events/events-radar.md)
 
