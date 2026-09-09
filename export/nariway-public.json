@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08",
+  "generated": "2026-09-09",
   "taxonomy": {
     "pathwayFamilies": [
       {
@@ -174,6 +174,51 @@
         "Time Out",
         "Welsh Centre for International Affairs",
         "UK Charity Commission register"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "agadir-museum-of-art",
+      "publicDepth": "record",
+      "name": "Agadir Museum of Art",
+      "founder": "El Khalil Belguench (donor)",
+      "location": "Agadir, Morocco",
+      "profile": {
+        "founded": 2023,
+        "structure": "Municipally-owned building operated by Morocco's National Foundation of Museums (FNM), in partnership with Agadir City Council and the Souss-Massa Region",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Agadir since April 2023, part of Morocco's National Foundation of Museums network.",
+        "size": "150 donated artworks, plus existing ethnographic decorative-arts holdings (jewelry, carpets, pottery, ceramics)"
+      },
+      "composition": {
+        "focus": "Moroccan and foreign modern art, alongside regional ethnographic decorative arts",
+        "media": [
+          "painting",
+          "jewelry",
+          "carpets",
+          "pottery",
+          "ceramics"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Patron El Khalil Belguench's 150-work donation opens as the Agadir Museum of Art, inaugurated in a renovated former municipal heritage-museum building under Morocco's National Foundation of Museums",
+            "year": "2023-04-27",
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Moroccan philanthropist El Khalil Belguench donated 150 works by Moroccan and foreign artists to Morocco's National Foundation of Museums, which opened them to the public in April 2023 as the Agadir Museum of Art — a renovated former municipal heritage museum, run within the Foundation's national network alongside the collector's earlier 2020 gift to Tangier's Villa Harris.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "National Foundation of Museums (Morocco)",
+        "Morocco World News",
+        "Wikipedia"
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
@@ -5081,6 +5126,68 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "rosenwald-collection-nga-loc",
+      "publicDepth": "expanded",
+      "name": "Lessing J. Rosenwald Collection",
+      "founder": "Lessing J. Rosenwald",
+      "location": "Washington, D.C., USA (assembled at Alverthorpe Gallery, Jenkintown, Pennsylvania)",
+      "profile": {
+        "structure": "Split gift to two U.S. federal institutions — prints and drawings to the National Gallery of Art, rare books to the Library of Congress",
+        "publicAccess": "Free and open to the public within the National Gallery of Art and the Library of Congress",
+        "currentState": "Held today by the National Gallery of Art and the Library of Congress, Washington, D.C.",
+        "size": "22,000+ prints and drawings (NGA) plus 2,600 rare books and a 5,000-volume reference library (Library of Congress) — more than 28,000 items in total"
+      },
+      "composition": {
+        "focus": "Old master and modern prints, illustrated books, and rare books",
+        "period": "11th century to mid-20th century",
+        "media": [
+          "prints",
+          "drawings",
+          "rare books",
+          "illustrated books",
+          "woodcuts"
+        ],
+        "selectedArtists": [
+          "Albrecht Dürer",
+          "Rembrandt van Rijn",
+          "William Blake",
+          "James Whistler"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Rosenwald begins collecting prints, drawings, and rare books, later housing them at his own Alverthorpe Gallery in Jenkintown, PA",
+            "year": 1926,
+            "familyId": "retain",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Pledges the entire collection to the National Gallery of Art (prints/drawings) and the Library of Congress (rare books), while retaining physical custody and continuing to add to it during his lifetime",
+            "year": "1943-03-17",
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "Rosenwald dies; the remaining collection is physically transferred to Washington, completing the 1943 pledge",
+            "year": 1979,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          }
+        ]
+      },
+      "origin": "Sears, Roebuck chairman Lessing Rosenwald retired at 49 to devote himself to collecting rare books and prints, assembling one of the finest such collections built by one American at his private Alverthorpe Gallery. In 1943 he pledged the entire collection to the nation, split between the National Gallery of Art and the Library of Congress by medium, while keeping it at his own home and continuing to expand it until his death in 1979.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "nga.gov",
+        "loc.gov",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
       "slug": "longleaf",
       "publicDepth": "expanded",
       "name": "Longleaf Art Park",
@@ -5374,6 +5481,58 @@
       "livingCollector": true
     },
     {
+      "slug": "mathaf-arab-museum-modern-art",
+      "publicDepth": "expanded",
+      "name": "Mathaf — Arab Museum of Modern Art",
+      "founder": "Sheikh Hassan bin Mohammed bin Ali Al Thani",
+      "location": "Doha, Qatar (Qatar Foundation's Education City)",
+      "profile": {
+        "founded": 2010,
+        "collectingBegan": "1990s",
+        "structure": "Collection co-owned by Qatar Museums and Qatar Foundation; founder Sheikh Hassan bin Mohammed Al Thani serves as Vice Chairperson of Qatar Museums",
+        "publicAccess": "Open to the public",
+        "currentState": "Open in Doha since 2010, co-owned by Qatar Museums and Qatar Foundation.",
+        "size": "9,000+ artworks — the world's largest specialized collection of Arab modern art"
+      },
+      "composition": {
+        "focus": "Modern and contemporary art from the Arab world, Iran, Turkey, and South Asia, plus antiquities that influenced Arab modernists",
+        "period": "pre-Islamic antiquity through the present, with a core focus on 20th-century Arab modernism",
+        "media": [
+          "painting",
+          "sculpture",
+          "works on paper",
+          "antiquities"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Sheikh Hassan Al Thani begins collecting Arab modern art, housing it in two private villas in Doha",
+            "year": "1990s",
+            "familyId": "retain",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Opens as Mathaf in a converted former school building in Qatar Foundation's Education City, collection co-owned by Qatar Museums and Qatar Foundation",
+            "year": 2010,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "In the early 1990s, Qatari collector, artist, and educator Sheikh Hassan bin Mohammed Al Thani began assembling a collection focused on modern and contemporary art from the Arab world, first housing it in two private villas. In 2010 the collection opened to the public as Mathaf, co-owned by Qatar Museums and Qatar Foundation, becoming the region's first dedicated museum of Arab modern art.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "mathaf.org.qa",
+        "Qatar Museums",
+        "Wikipedia"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "mcnay",
       "publicDepth": "expanded",
       "name": "McNay Art Museum",
@@ -5604,6 +5763,61 @@
         "muzej.hu",
         "muveszetekhaza.hu",
         "Independent Collectors"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
+      "slug": "afkhami-foundation-iii-museum",
+      "publicDepth": "expanded",
+      "name": "Mohammed Afkhami Foundation — the iii Museum",
+      "founder": "Mohammed Afkhami",
+      "location": "Dubai, UAE",
+      "profile": {
+        "collectingBegan": "2004",
+        "structure": "Private foundation (Mohammed Afkhami Foundation); public access via a dedicated virtual/digital museum rather than a physical building",
+        "publicAccess": "Free, online, worldwide (iii.art); the physical collection itself is not publicly accessible",
+        "currentState": "Physical collection remains private; a growing selection is on free public view in a purpose-built virtual museum since 2023.",
+        "size": "approximately 600-700 works (sources vary; roughly two-thirds by Iranian artists)"
+      },
+      "composition": {
+        "focus": "Modern and contemporary Iranian art, including diaspora artists",
+        "period": "late 1950s to present",
+        "selectedArtists": [
+          "Sirak Melkonian",
+          "Masoud Arabshahi"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Mohammed Afkhami begins collecting Iranian modern and contemporary art",
+            "year": 2004,
+            "familyId": "retain",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Launches the Mohammed Afkhami Foundation to support scholarship, publications, and exhibitions related to the collection",
+            "year": "~2014",
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          },
+          {
+            "event": "Launches the iii Museum, a free virtual museum presenting a growing selection of the collection online, with no physical building",
+            "year": 2023,
+            "familyId": "build-institution",
+            "codedPathway": "found-foundation"
+          }
+        ]
+      },
+      "origin": "Dubai-based collector Mohammed Afkhami began acquiring Iranian modern and contemporary art in 2004 and later founded a private foundation to support related scholarship and exhibitions. In 2023 the foundation launched the iii Museum, a free, purpose-built virtual museum presenting a growing portion of the collection online — public access without a physical building.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "iii.art",
+        "Artsy",
+        "Cultured Magazine"
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
