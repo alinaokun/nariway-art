@@ -2101,6 +2101,72 @@
       "lastReviewed": "2026-09"
     },
     {
+      "slug": "dib-bangkok",
+      "publicDepth": "expanded",
+      "name": "Dib Bangkok (Dib International Contemporary Art Museum)",
+      "founder": "Purat \"Chang\" Osathanugrah, continuing the collection of his late father Petch Osathanugrah",
+      "location": "Bangkok, Thailand",
+      "profile": {
+        "founded": 2025,
+        "structure": "Private museum in a converted 1980s warehouse",
+        "publicAccess": "Ticketed; 550 THB (Thai citizens), 700 THB (foreign visitors), reduced rates for students; outdoor sculpture zone free",
+        "currentState": "Open in Bangkok since December 2025.",
+        "size": "~7,000 sq m (11 gallery halls) plus a 1,400 sq m courtyard and sculpture garden; collection of 1,000+ works by 200+ artists"
+      },
+      "composition": {
+        "focus": "International and Thai contemporary art",
+        "period": "Contemporary (living and recent artists)",
+        "media": [
+          "painting",
+          "sculpture",
+          "installation"
+        ],
+        "recipients": [
+          "Dib Bangkok (museum founded to continue the collection)"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Petch Osathanugrah, a Thai industrialist and musician, assembles a 1,000+-work contemporary art collection and begins planning a private museum",
+            "year": "pre-2023",
+            "familyId": "retain",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Petch Osathanugrah dies of a heart attack before the museum opens; his son Purat takes up the project",
+            "year": 2023,
+            "familyId": "retain",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Dib Bangkok opens to the public in a converted warehouse, Thailand's first international contemporary art museum",
+            "year": "2025-12-21",
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          },
+          {
+            "event": "Chanel Culture Fund names Dib Bangkok its first Southeast Asian art partner",
+            "year": 2026,
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "Thai industrialist, musician, and energy-drink heir Petch Osathanugrah spent decades assembling a major contemporary art collection and was in the early stages of building a private museum for it when he died suddenly in 2023. His son, collector Purat \"Chang\" Osathanugrah, completed the project in his father's honor, opening Dib Bangkok in a converted 1980s warehouse in December 2025.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "Bangkok Post",
+        "South China Morning Post",
+        "ARTnews",
+        "dibbangkok.org"
+      ],
+      "lastReviewed": "2026-09",
+      "livingCollector": true
+    },
+    {
       "slug": "shaheen-collection-high-museum",
       "publicDepth": "record",
       "name": "Doris and Shouky Shaheen Collection",
@@ -2282,6 +2348,75 @@
         "UPI",
         "AccountingWEB",
         "Washington Post"
+      ],
+      "lastReviewed": "2026-09"
+    },
+    {
+      "slug": "faro-santander",
+      "publicDepth": "expanded",
+      "name": "Faro Santander",
+      "founder": "Fundación Banco Santander (Banco Santander Collection)",
+      "location": "Santander, Cantabria, Spain",
+      "profile": {
+        "founded": 2026,
+        "structure": "Corporate foundation museum, operated by Fundación Banco Santander inside a converted former bank headquarters",
+        "publicAccess": "Ticketed; standard admission €14, reduced €7; free for under-18s, bank staff, and on select days",
+        "currentState": "Opened September 8, 2026, in the bank's former headquarters in Santander, Spain.",
+        "size": "10,000 sq m of converted office space across a 10-storey building; galleries occupy five floors; collection of 1,000+ works"
+      },
+      "composition": {
+        "focus": "A single corporate collection spanning five centuries of Spanish and European art, plus contemporary and technology-driven installations",
+        "period": "2nd century BCE (numismatics) to today",
+        "media": [
+          "painting",
+          "sculpture",
+          "tapestry",
+          "decorative arts",
+          "coins and notes",
+          "audio-visual installation"
+        ],
+        "selectedArtists": [
+          "El Greco",
+          "Francisco de Zurbarán",
+          "Anthony van Dyck",
+          "Joaquín Sorolla",
+          "Joan Miró",
+          "Eduardo Chillida",
+          "Antoni Tàpies",
+          "Richard Serra"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Banco Santander founded in Santander, beginning a collecting history later folded into the bank's art holdings",
+            "year": 1857,
+            "familyId": "retain",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Fundación Banco Santander consolidates and stewards the bank's accumulated art collection",
+            "year": "1990s",
+            "familyId": "retain",
+            "codedPathway": "retain-family"
+          },
+          {
+            "event": "Faro Santander opens in the bank's former Pereda Building headquarters, designed by David Chipperfield Architects",
+            "year": "2026-09-08",
+            "familyId": "build-institution",
+            "codedPathway": "found-standalone-museum"
+          }
+        ]
+      },
+      "origin": "The Banco Santander Collection was assembled over more than 160 years by the banks that merged into today's Banco Santander, and stewarded since the 1990s by the bank's own foundation. In September 2026 the foundation converted the bank's former 10-storey headquarters on Santander's waterfront into Faro Santander, a public museum for the collection, designed by David Chipperfield Architects.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "santander.com",
+        "fundacionbancosantander.com",
+        "The Art Newspaper",
+        "Dezeen"
       ],
       "lastReviewed": "2026-09"
     },
@@ -10229,6 +10364,88 @@
       ],
       "lastReviewed": "2026-09",
       "livingCollector": true
+    },
+    {
+      "slug": "wallace-collection-london",
+      "publicDepth": "expanded",
+      "name": "The Wallace Collection",
+      "founder": "Sir Richard Wallace; bequeathed to the nation by his widow, Lady Julie-Amélie Wallace",
+      "location": "London, UK (Hertford House, Manchester Square)",
+      "profile": {
+        "founded": 1900,
+        "structure": "Executive non-departmental public body, sponsored by the UK government (DCMS), governed by a statute-appointed Board of Trustees",
+        "publicAccess": "Free and open to the public",
+        "currentState": "Open at Hertford House, London, since 1900.",
+        "size": "~5,500 objects across 25 galleries"
+      },
+      "composition": {
+        "focus": "French 18th-century decorative arts and paintings, Old Master paintings, arms and armour, porcelain",
+        "movements": [
+          "Rococo",
+          "Old Master painting"
+        ],
+        "period": "Medieval to 19th century",
+        "media": [
+          "painting",
+          "sculpture",
+          "furniture",
+          "porcelain",
+          "arms and armour"
+        ],
+        "selectedArtists": [
+          "Frans Hals",
+          "Jean-Honoré Fragonard",
+          "Diego Velázquez",
+          "Peter Paul Rubens",
+          "Anthony van Dyck",
+          "Thomas Gainsborough"
+        ]
+      },
+      "classification": {
+        "pathwayTimeline": [
+          {
+            "event": "Lady Wallace bequeaths the collection to the British nation, on condition it be \"kept together\" and never mixed with other objects",
+            "year": 1897,
+            "familyId": "give-institution",
+            "codedPathway": "donate-existing-museum-intact"
+          },
+          {
+            "event": "A Treasury Minute appoints the first Board of Trustees",
+            "year": "1897-07-28",
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "The Wallace Collection opens to the public at Hertford House",
+            "year": 1900,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "The Museums and Galleries Act 1992 places the no-acquisitions restriction on statutory footing",
+            "year": 1992,
+            "familyId": "build-institution",
+            "codedPathway": "found-house-museum"
+          },
+          {
+            "event": "A Charities Act Section 105 order reinterprets the bequest to permit lending, ending 122 years of no-loans practice; the no-acquisitions restriction remains in force",
+            "year": 2019,
+            "familyId": "hybrid",
+            "codedPathway": "found-house-museum"
+          }
+        ]
+      },
+      "origin": "Sir Richard Wallace inherited and expanded one of the great 19th-century collections of French decorative arts, paintings, and armour. On his widow Lady Wallace's death in 1897, she bequeathed the entire collection to the British nation on the strict condition it be kept together, unmixed with other works, and never expanded — a condition given statutory force by the Museums and Galleries Act 1992 and still binding on acquisitions today, more than a century later.",
+      "image": {
+        "status": "no_usable_image"
+      },
+      "sources": [
+        "wallacecollection.org",
+        "UK Parliament Hansard",
+        "The Art Newspaper",
+        "Museums and Galleries Act 1992"
+      ],
+      "lastReviewed": "2026-09"
     },
     {
       "slug": "warehouse-wieland",
