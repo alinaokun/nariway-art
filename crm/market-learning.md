@@ -11,6 +11,17 @@ Its single job is to test the one hypothesis desk research cannot: **H7B (willin
 ## Part A — Market Evidence Register
 **You never fill out fields.** After a conversation, give Claude informal notes — a few sentences is enough (*"Spoke with Jane Smith, estate attorney. Biggest issue she sees is families not knowing what they own. She brings in an appraiser first. Thought an independent coordinator could help on larger estates but wasn't sure who'd pay. Offered to introduce me to a fiduciary."*). Claude extracts the structured entry and flags anything uncertain. You have the conversation; Claude turns it into learning. **Unknown is a fine value.**
 
+**Discovery questions to ask in the room** (the clean set, folded in 2026-09-10 from Boardy's assessment — these draw out exactly the register fields below):
+1. Tell me about the last collection transition you saw.
+2. Where did the process slow down?
+3. Which decisions were hardest for the family?
+4. What did your client ask you that you couldn't answer?
+5. Who coordinated the specialists?
+6. What would a useful outside partner have done six months earlier?
+7. Who would approve and pay for that help? *(the H7B question — ask it plainly)*
+
+Not a script to run down; openers that let the person tell you where the pain and the money actually are. Afterward, hand Claude the informal notes.
+
 Three disciplines Claude applies:
 - **Separate Observed from Inferred.** Observed = what they actually said/did. Inferred = the read. A read never hardens into a fact.
 - **Do not infer warmth or intent.** A polite "interesting" is not a buying signal; being researched, connected, or invited is not a relationship (same standard as [[market-entry-sept-2026]]).
