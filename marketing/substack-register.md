@@ -46,6 +46,8 @@ Built by the [[substack]] function. The Substack and adjacent writers relevant t
 
 **[On Collecting](https://oncollecting.substack.com)** — Grant Pierrus Art Advisory. Collecting art and design as practice, an adjacent audience. **Confirmed 2026-09-06** via ["Why I'm Getting Calls from Billionaires About Contemporary Craft"](https://oncollecting.substack.com/p/why-im-getting-calls-from-billionaires) (logged in [[nariway-signals]] 2026-09-06) — an advisor's-eye account of UHNW money moving into craft/design objects.
 
+**[Blackbird Rook](https://blackbirdrook.substack.com)** — Greg Rook, an independent gallerist and art advisor; subtitled "the diary of an art advisor," roughly weekly. A collector-facing advisor peer close in register to Anne Parke and JAD Art Advisory above, but with a distinctive recurring thread directly on Nariway's legacy theme from the artist-estate side: "Your Last Work Is Your Estate" and its follow-up "After the Last Work" argue an artist's true final work is the set of decisions left behind (a will, a catalogue, a chosen executor, what counts as finished) rather than any single piece — the studio-side mirror of the collector-succession question Nariway works from the collection side. New find, 2026-09-10, network-research scan. *Confirm cadence and authorship on first visit.*
+
 ---
 
 ## Follow — lighter touch, useful signal
