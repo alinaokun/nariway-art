@@ -34,6 +34,13 @@ A fixed fee, scoped to the collection's size and complexity, currently starting 
 ## Why it is worth it
 The value is reduced confusion, fewer expensive mistakes, faster decisions, and better stewardship of assets that can be impossible to replace, at exactly the moment when money, identity, and family relationships are most entangled.
 
+## The full ladder (pricing hypotheses to test in conversations)
+The Assessment is the entry rung; the others are what a matter can grow into. **All prices are hypotheses to test with real buyers, not fixed rates.** In discovery, ask: which of these would you recommend to a client, what would you expect included, who pays, and what would make the fee feel justified?
+1. **Collection Transition Assessment** — fixed fee, ~$5,000 (scoped to size and complexity). The contained first purchase.
+2. **Estate Collection Coordination** — a defined project (~$15,000–25,000+) or a monthly retainer, coordinating the art-related work across the family, attorney, fiduciary, appraiser, auction house, museum, conservator, insurer, shipper, and storage.
+3. **Pre-event Stewardship & Succession Planning** — a monthly retainer (~$2,000–5,000/mo) for living collectors and families deciding before a death, divorce, move, or liquidity event. Higher-trust, less crisis-driven, the path to recurring relationships.
+4. **Professional Partner Desk** — a law-firm / fiduciary partner package (annual advisory or matter-based fee), where Nariway is the art-estate capability a firm brings in without hiring internally. Earn it through individual matters first.
+
 ---
 
 ## How to use this
