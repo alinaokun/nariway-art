@@ -12,6 +12,7 @@ The building phase is done. This file has one job: get Nariway known by the righ
 ## Movement log (newest first)
 *One line per business day. What moved outward?*
 
+- **2026-09-10** — Registered for the Center for Art Law "Artist Corporations" panel (Oct 1, ArentFox Schiff, NYC; hybrid; networking reception). Surfaced by Alina, not the radar — the second on-thesis NYC art-law event this week to arrive via a contact, so CAL/CPAL/AAA/EPC event calendars are now standing Signals sources and the Rooms-to-be-in pipeline widened to ~10 weeks.
 - **2026-09-09** — Registered for **AAA Art Law Day** (Nov 4, Cardozo School of Law, NYC), a 250+ room of estate/art attorneys, appraisers, and insurers — the most on-thesis of the November stretch. Also registered CPAL "Estate & Legacy Planning 101" (Nov 9–11, 50 West St), a 3-day artist-estate-planning intensive (Day 3 = estate law, appraisals & succession). Both surfaced via Ian Silverstein, who on 2026-09-08 accepted the LinkedIn invite and opened a warm exchange. Reviewed and skipped the off-thesis NAEPC Oct 21 virtual forum. New artist-legacy rooms added to [[events-radar]].
 - **2026-09-03** — Registered for EPCNYC "Art Financing... for Wealth & Estate Planning" (Nov 17); registered Hall Rockefeller's Matrons Mixer (Sep 17); registered two Sep 23 webinars (trust CLE + P&C insurance). Barry Finkelstein outreach in progress this week.
 - **2026-09-02** — Joined Women of Culture; registered for the members-only Armory Show private tour + rooftop brunch.
