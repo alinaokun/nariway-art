@@ -35,6 +35,46 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-09-10 — Cloud run
+
+**Orientation:** a quieter news day, heaviest on museum leadership and donor-intent bequest law — Kathleen Jameson taking the Speed Art Museum's helm into its centennial year, a Dutch court and an American museum landing on opposite sides of a bequest fight — bracketed by Beyoncé's quiet, no-founder's-instinct gift to the Studio Museum in Harlem and this week's escalating auction-preview calendar, with the Hiroshige preview now opening tomorrow.
+
+**Lead**
+
+- **Beyoncé gave the Studio Museum in Harlem $2M on her own birthday, one year into its new $300M home.** The gift landed Sept 4 (her 45th), with a statement crediting the museum's exhibitions for introducing her to "several of my favorite young and upcoming Black artists" — a major living patron putting real money behind an institution she didn't have to build herself. It's a useful counterweight to the founder-museum pattern this brief tracks constantly (Lucas, Faro Santander, Dib Bangkok): a collector-patron choosing to reinforce an existing, already-public institution rather than start a new one, arriving just under a year after the Studio Museum's own from-scratch rebuild opened. [ARTnews](https://www.artnews.com/art-news/news/beyonce-gives-studio-museum-harlem-gift-her-own-birthday-1234797300/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/09/07/a-big-bday-gift-beyonce-gives-2m-to-the-studio-museum-in-harlem) · [Artnet](https://news.artnet.com/artnet-bulletin/beyonce-studio-museum-sept-7-2807291)
+
+**What's happening**
+
+- **The Speed Art Museum has named Kathleen V. Jameson its next director, a year ahead of the museum's 2027 centennial.** Jameson — a scholar of late-19th/early-20th-century American photography and works on paper, most recently director of Pennsylvania's Michener Art Museum, and once the Speed's own directorial intern in 1995 — started Sept 8. Another entry in the museum-leadership churn this brief has tracked for weeks, this one landing with an unusually concrete stake: whoever runs the Speed now sets its acquisition and donor strategy for the centennial year immediately ahead. [ARTnews](https://www.artnews.com/art-news/news/speed-art-museum-louisville-next-director-kathleen-v-jameson-1234797709/) · [Louisville Public Media](https://www.lpm.org/news/2026-09-09/speed-art-museum-names-kathleen-jameson-new-director)
+
+**Law & estates**
+
+- **Two donor-intent bequest fights, landing on opposite sides of the same question.** A Dutch court ruled in June that the Mauritshuis does not have to return a 25-painting bequest — including works attributed to Rembrandt and Jan Steen — to the heirs of former director Abraham Bredius, finding the museum had properly honored the bequest's own conditions. Orlando Museum of Art is now the fresh instance running the other way: per WealthManagement.com's Trusts & Estates desk, the museum is challenging the intended purpose of one of its own donor's bequests (full terms not yet surfaced). Together they're the two live shapes a bequest dispute takes — a museum defending its reading of donor intent, and a museum contesting it — exactly the fact pattern an estate attorney structuring a gift-with-conditions needs both sides of. [The Art Newspaper](https://www.theartnewspaper.com/2026/06/16/mauritshuis-able-to-keep-its-rembrandts-following-legal-dispute) · [WealthManagement.com](https://www.wealthmanagement.com/estate-planning/orlando-museum-of-art-challenges-intended-purpose-of-donor-s-bequest)
+
+**For the record**
+
+- **The Artists' Legacy Foundation named Mildred Howard its 2026 Artist Award winner.** The award, anonymously nominated and juried, has distributed $450,000-plus to painters and sculptors since 2007 — a modest but genuinely working example of the artist-endowed legacy vehicle this brief otherwise tracks mostly at the collector-museum end. [Artists' Legacy Foundation](https://artistslegacyfoundation.org/)
+
+**To see (escalating)**
+
+- **Christie's Alan Medaugh Hiroshige preview opens tomorrow — 1 day out, inside one week.** Public preview Sept 11–14, sale Sept 15, 20 Rockefeller Plaza; already on Alina's calendar for the Sept 12 preview. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+- **The Bartos Mondrian's Paris leg closes in 2 days; the free New York leg is now 7 days out.** Public-view legs: Paris Sept 9–12, New York Sept 17–20, Hong Kong Sept 25–29, London from Oct 8, sale Oct 14 (£20–30M / $27–41M estimate). [ARTnews](https://www.artnews.com/art-news/market/mondrian-painting-auction-christies-frieze-week-1234795778/)
+- **The Rothschild collection preview at Artcurial (Le goût Rothschild en héritage) is now 7 days out.** Public preview Sept 17–22, sale Sept 22, Paris. [Artcurial](https://www.artcurial.com/articles/le-gout-rothschild-en-heritage)
+- **Sotheby's Open House (Sept 20–21, Sotheby's NYC HQ) is now 10 days out.** Its confirmed program includes a session on legal considerations across an art collection's lifecycle, staged by the house's own trusts-and-estates practice. [Sotheby's](https://www.sothebys.com/en/calendar)
+
+**Rooms to be in**
+
+- **Next up: EPC of Westchester County's Fall Networking Event, Sept 23, Freebird Kitchen & Bar, 5pm — 13 days out.** Non-members explicitly welcome (~$85), the lowest-pressure first visit to any of the four target councils.
+- **Forward pipeline:**
+  - Sept 17 — Matrons Mixer (Hall Rockefeller/Less Than Half), New York — registered, now 7 days out
+  - Sept 17–22 — Rothschild preview at Artcurial, Paris (see To see, fly-and-stay)
+  - Sept 20–21 — Sotheby's Open House, NYC (see To see)
+  - Sept 23 — two CE webinars registered, plus the Westchester event above the same evening — worth stacking
+  - Oct 5 — EPC of New York City's "Making Sense of AI" evening (confirm venue/fee)
+  - Oct 21 — EPC of Westchester's dinner meeting, White Plains
+  - Nov 12 — EPC of Bergen County breakfast, Wyckoff, NJ
+  - Nov 17 — EPC of NYC's "Art Financing as an Important Tool for Wealth & Estate Planning" — already registered, Alina's first confirmed room
+
 ### 2026-09-09 — Cloud run
 
 **Orientation:** heaviest today on collections and institutions settling unfinished business — a private philanthropist redeeming a government-orphaned sculpture for the National Gallery of Art, a 230-year-old bank building reborn as a museum for a corporate collection five centuries deep, and Hungary formally burying a decade-stalled national gallery — bracketed by a Bangkok museum built to honor a collector's late father landing its first luxury-brand partnership, and a quiet reminder of how much risk sits around a collection in transit: an estate sale, a French museum heist, and a lender fight over pledged art.
