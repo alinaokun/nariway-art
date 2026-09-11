@@ -63,6 +63,9 @@ Dimitris Daskalopoulos, the Greek industrialist and collector, began building th
 ## Primary sources to obtain
 The individual gift/co-ownership agreements (especially the Guggenheim–MCA Chicago joint-title deed: how title, insurance, display rotation, and eventual deaccession are governed between two owners); EMST and Tate accession records confirming the 140 and 110 counts; documentation of the curatorial posts (funding source and tenure); the collection's residual size after the gift; any endowment or care-funding accompanying the works; confirmation of Daskalopoulos's status and any successor governance.
 
+## Update 2026-09-11 (Nariway Signals)
+A second wave of giving, separate from the 2022 gift coded above: Daskalopoulos donated a further **51 works** to **four different museums** — the National Gallery of Greece (29 works, the majority), MOMus (Museum of Contemporary Art of Thessaloniki), the Museum of Contemporary Art of Crete, and National Galleries of Scotland (3 works, including pieces by Mike Kelley and Bruce Nauman). His representatives stated he will not seek any tax benefit in any jurisdiction for the gift — an explicit, on-the-record disavowal of the tax motive this brief otherwise tracks constantly around large art gifts. [source: https://www.theartnewspaper.com/2026/09/07/collector-dimitris-daskalopoulos-donates-51-artworks-to-four-museums-in-greece-and-scotland; confidence: secondary] [source: https://www.tate.org.uk/press/press-releases/major-body-of-contemporary-artworks-donated-from-the-ddaskalopoulos-collection; confidence: primary, re-confirms the collector's stated philosophy]
+
 ## Gaps / contradictions
 - "Over 350" and "around 100" are approximate; the artist count (142) and the EMST (140) and Tate (110) figures are firmer.
 - The **co-ownership legal mechanics** (how two museums jointly hold and rotate ~100 works) are described in principle but the deed is not public — the single most report-relevant unknown.

@@ -89,7 +89,7 @@ For each: the next meeting date and topic, whether non-members may attend as a g
 - **Oct 2 — AAA special event at the Barnes Foundation**, Philadelphia (drivable ~2 hrs) — networking with the appraiser community at a premier collection. (One source says Oct 5 — confirm the date on the AAA event page.)
 - **Oct 9 — AAA "Damage Control: Adjusting Claims and the Value of Art After Loss"** (virtual) — valuation-after-loss; appraiser/fiduciary-relevant.
 - **Nov 3 — EPC of NYC evening: "Insights on Dispute Resolution — Navigating Trust & Estate Conflicts"** — the most on-thesis of the NYC EPC set; drivable; the night before Art Law Day.
-- Lower-priority networking (drivable EPC): NYC Sept 28 pied-à-terre-tax lunch, Oct 15 Women's cocktail, Oct 20 round table; Westchester Nov 5 NextGen mixer. Costs/guest policies sit behind login on most EPC/AAA pages — confirm at registration.
+- Lower-priority networking (drivable EPC): NYC Sept 28 pied-à-terre-tax Lunch & Learn ([confirmed link, 2026-09-11](https://www.epcnyc.com/events/EventDetails.aspx?id=2044409)), Oct 15 Women's cocktail, Oct 20 round table; Westchester Nov 5 NextGen mixer. Costs/guest policies sit behind login on most EPC/AAA pages — confirm at registration.
 - CPAL: nothing new beyond the tracked Nov 9–11. No CAL November event is listed yet (their calendar currently runs to Oct 1).
 
 ## Courses and programs (a tracked category, `category: course`)
