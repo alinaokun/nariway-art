@@ -35,6 +35,58 @@ Signals is a **daily morning READ**, not a narrow new-cases radar. Target **8 to
 ## Digest log
 *(Newest first. Each entry: date · top items · where filed.)*
 
+### 2026-09-12 — Cloud run
+
+**Orientation:** heaviest today on artists and estates asserting control over how their own legacy gets told — Gerhard Richter building himself a permanent architectural home inside Qatar's national museum grounds while very much alive, against a spurned artist's estate blocking an already-completed London sale of her own paintings — bracketed by a third single-owner sale closing out this week's Asia Week run and a Center for Art Law fiduciary-duty workshop now six days out.
+
+**Lead**
+
+- **Gerhard Richter is building himself a permanent pavilion inside Qatar's national museum park — the artist doing, while alive, what usually takes a foundation and a fight after death.** Qatar Museums announced Sept 11 that a hexagonal, Selldorf Architects-designed pavilion will open Nov 20 in MIA Park, the waterfront green space around I.M. Pei's Museum of Islamic Art, permanently housing Richter's Strip paintings, Mirrors, and a central Strip Tower, plus an outdoor stone sculpture, Brunnen (Well). Unlike the collector-founder and artist-endowed-foundation cases this brief tracks constantly — where someone else decides how an artist's or collector's legacy gets built after the fact — this is the artist himself, at 94, negotiating directly with a state museum to build the room his own work will live in forever. → filed [[candidate-universe]] (case, artist-directed legacy). [The Art Newspaper](https://www.theartnewspaper.com/2026/09/11/gerhard-richters-mosaic-like-doha-pavilion-will-open-in-november) · [Artforum](https://www.artforum.com/news/pavilion-celebrating-gerhard-richter-to-rise-in-doha-1234759069/) · [FAD Magazine](https://fadmagazine.com/2026/09/10/gerhard-richter-doha-pavilion-strip-paintings/)
+
+**What's happening**
+
+- **A third single-owner Asia Week sale goes under the hammer today, alongside the two previews already on Alina's calendar.** Sotheby's "Junkunc: Chinese Buddhist Sculpture" — nearly a thousand years of stone, lacquer and gilt-bronze Buddhist sculpture assembled by the late Chicago collector Stephen Junkunc III — sells today, the same week as the Hiroshige and "Ritual, Cosmos, and Imperial Splendor" previews already underway two doors down in Midtown. Three distinct single-owner sales converging on one New York week is itself a data point for the estate-liquidation wave [[claims-register]] C1 tracks and the 32% single-owner share this brief logged Sept 11. [Sotheby's](https://www.sothebys.com/en/digital-catalogues/junkunc-chinese-art) · [THE VALUE](https://en.thevalue.com/articles/sothebys-junkunc-art-ancient-china)
+
+**Law & estates**
+
+- **A spurned artist's estate blocked an already-completed sale — and the buyers are now suing the gallery, not the estate.** Yoed and Natasha Anise paid Alison Jacques gallery £264,000 for three Monica Sjöö paintings in October 2023; weeks later, after Sjöö's estate objected to comments Natasha Anise made at a museum dinner, the gallery unwound the sale rather than cross the estate. The case (trial set for March 2027) is a clean instance of exactly the fiduciary-duty question Center for Art Law's Sept 18 workshop (see Rooms to be in) is built around: who actually controls an artist's legacy once a sale is done, the collector who paid or the estate that can still say no. [The Art Newspaper](https://www.theartnewspaper.com/2026/08/14/buyers-sue-alison-jacques-gallery-sale-sjoo-paintings) · [ARTnews](https://www.artnews.com/art-news/news/collectors-sue-alison-jacques-monica-sjoo-cancels-sale-1234795087/)
+
+**Worth reading**
+
+- **Grant Pierrus, "The Decisions That Become a Style" (On Collecting).** Uses Schiaparelli's 90-year-old advice — via the V&A's current retrospective — to argue personal style, and by extension a collection's, is really a record of judgment calls a collector was willing to stand by. A useful frame for the taste-versus-inheritance question sitting under every succession case this brief tracks. [On Collecting](https://oncollecting.substack.com/p/the-decisions-that-become-a-style)
+- **Grossman LLP, "Grossman LLP Defeats Lender's Effort To Dismiss Lawsuit Over Christopher Wool Artwork."** Another entry in the same firm's running file of lender-side art litigation this brief already tracks via [[claims-register]] C22 — a concrete, named instance of what happens when a pledged artwork's ownership gets contested mid-loan. [Grossman LLP](https://www.grossmanllp.com/strongGrossman-LLPnbspDefeats-Lenderrsquos-Effort)
+- **Anne Parke, "Art for What's in Other Advisors' Inboxes" (Anne Parke Art Advisory).** A rare look inside the actual recommendation traffic between advisors — thirteen artists surfaced across four advisories in three countries — the ground-level mechanics of how taste actually spreads among the people who build the collections this brief tracks at the institution-building end. [Anne Parke Art Advisory](https://www.anneparke.com/p/art-for-whats-in-other-advisors-inboxes)
+
+**For the record**
+
+- **Brussels' Kanal-Centre Pompidou finally opens Nov 28, after a decade of delay and more than €250M spent, entirely public-funded.** A stalled Citroën-garage conversion that survived a fire, a budget crisis, and 614 days without a regional government — the public-sector mirror of the museum-funding erosion this brief otherwise tracks mostly through AAM's own snapshot data ([[claims-register]] C19, C39): even when the money is entirely public rather than donor-dependent, a major museum can still take a decade and a near-death experience to open. [Artforum](https://www.artforum.com/news/kanal-centre-pompidou-in-brussels-will-open-in-november-1234759103/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/01/29/inside-brusselss-230m-kanal-centre-pompidou-museumopening-in-november)
+
+**To see (escalating)**
+
+- **The Bartos Mondrian's Paris leg closes today; the free New York leg is now 5 days out.** Public-view legs: Paris Sept 9–12, New York Sept 17–20, Hong Kong Sept 25–29, London from Oct 8, sale Oct 14 (£20–30M / $27–41M estimate). [ARTnews](https://www.artnews.com/art-news/market/mondrian-painting-auction-christies-frieze-week-1234795778/)
+- **Christie's Alan Medaugh Hiroshige preview is on day 2 of 4 — sale in 3 days.** Public preview Sept 11–14, sale Sept 15, 20 Rockefeller Plaza; today is Alina's calendared preview visit. [ARTnews](https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665/)
+- **Sotheby's single-owner Chinese-art preview is also mid-run — sale in 5 days.** "Ritual, Cosmos, and Imperial Splendor: Important Chinese Art from a Private North American Collection," 65 works, previews through Sept 16, sale Sept 17, Sotheby's New York. [Asia Week NY](https://asiaweekny.com/awny-autumn-2026-auction-highlights/)
+- **The Rothschild collection preview at Artcurial (Le goût Rothschild en héritage) is now 5 days out.** Public preview Sept 17–22, sale Sept 22, Paris. [Artcurial](https://www.artcurial.com/articles/le-gout-rothschild-en-heritage)
+- **Sotheby's Open House (Sept 20–21, Sotheby's NYC HQ) is now 8 days out.** Its confirmed program includes a session on legal considerations across an art collection's lifecycle, staged by the house's own trusts-and-estates practice. [Sotheby's](https://www.sothebys.com/en/calendar)
+- **Sotheby's selling exhibition from the Estate of John Chamberlain ("The Energy of Form") opens in 6 days.** 19 works from the sculptor's own personal collection, Sotheby's NY Lobby Gallery, Sept 18–27. [Sotheby's](https://www.sothebys.com/en/digital-catalogues/the-energy-of-form-works-from-the-estate-of-john-chamberlain)
+
+**Rooms to be in**
+
+- **Next up: Center for Art Law, "Art & Law Workshop: Fiduciary Duties | Artist-Dealer Relationships," Sept 18 (likely virtual) — 6 days out.** Pulled forward from the radar: fiduciary duty over art is squarely the pivot thesis, and it lands the same week as today's Alison Jacques/Sjöö lawsuit above — about as direct a real-world hook as this beat gets. [Eventbrite](https://www.eventbrite.com/e/art-and-law-workshop-fiduciary-duties-artist-dealer-relationships-tickets-1993875132194)
+- **Forward pipeline:**
+  - Sept 17 — Matrons Mixer (Hall Rockefeller/Less Than Half), New York — registered, now 5 days out
+  - Sept 17–22 — Rothschild preview at Artcurial, Paris (see To see, fly-and-stay)
+  - Sept 20–21 — Sotheby's Open House, NYC (see To see)
+  - Sept 23 — EPC of Westchester County's Fall Networking Event, Freebird Kitchen & Bar, 5pm, plus two CE webinars registered the same day — worth stacking
+  - Sept 28 — EPC of NYC Lunch & Learn, "Navigating the Proposed NYC Pied-à-Terre Tax"
+  - Oct 1 — Center for Art Law, "Artist Corporations: A New Legal Framework for Creative Practice," ArentFox Schiff LLP, NYC (hybrid) — registered
+  - Oct 5 — EPC of New York City's "Making Sense of AI" evening (confirm venue/fee)
+  - Oct 21 — EPC of Westchester's dinner meeting, White Plains
+  - Nov 4 — AAA Art Law Day, Cardozo School of Law, NYC — registered, a 250+-attendee art-law room
+  - Nov 9–11 — CPAL "Estate & Legacy Planning 101," NYC — registered
+  - Nov 12 — EPC of Bergen County breakfast, Wyckoff, NJ
+  - Nov 17 — EPC of NYC's "Art Financing as an Important Tool for Wealth & Estate Planning" — already registered, Alina's first confirmed room
+
 ### 2026-09-11 — Cloud run
 
 **Orientation:** heaviest today on collectors deciding exactly how, and on what terms, to give a collection away — a second wave of Dimitris Daskalopoulos's museum dispersal, this one with him explicitly declining any tax benefit, next to a $17M Wildenstein-estate settlement over where art is legally "situated" at death — bracketed by a UK jewellery heir decentralizing collector philanthropy to a small Orkney museum and two single-owner Sotheby's previews opening the same morning this brief goes out.
